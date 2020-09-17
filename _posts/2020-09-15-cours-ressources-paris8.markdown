@@ -242,7 +242,7 @@ autres:
 # 2) musique
 https://beepbox.co/
 musescore lilypond
-LMMS, ZynAddSubFX
+LMMS, Yoshimi
 en L2S4: cours de synthèse d'images, animation et sons
 en L3S6: cours de droit, éthique, informatique
 en L1S2: cours de Outils informatiques collaboratifs (git)
@@ -264,13 +264,19 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
 /!\ Toujours vérifier la licence des assets qu'on utilise, et la respecter.
 - licences (CC-0, CC-BY, CC-BY-SA-NC)
 - graphique
-    - 
+    - https://opengameart.org/ (assets graphiques et sonores CC)
+    - https://www.dafont.com (polices de caractères avec filtre par licence)
+    - https://itch.io/game-assets/assets-cc0/tag-pixel-art : assets de pixel art CC0
 - audio
     - sons
+        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (pas par son))
+        - https://freesound.org/ : un site de sons CC (licences différentes par son)
+        - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
     - musique
-        - https://audionautix.com/
-        - https://freemusicarchive.org/
-        - https://filmmusic.io/search
-        - liens: https://incompetech.com/music/royalty-free/faq.html
+        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste)
+        - https://audionautix.com/ (site de musiques CC-BY)
+        - https://freemusicarchive.org/ (site de musiques CC)
+        - https://filmmusic.io/search (site de musiques principalement CC BY)
+        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques CC-BY-ish)
 
 {% endcomment %}
