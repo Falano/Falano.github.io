@@ -220,6 +220,8 @@ autres:
 - outils forme
 - gomme lasso
 
+{% comment %}
+
 # IV. Son
 ## 1) intro
 - de l'importance du son
@@ -249,7 +251,6 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
 # V. Animation
 à venir
 
-
 ## X. Annexes
 
 ## 1) notions de game design:  
@@ -271,3 +272,5 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
         - https://freemusicarchive.org/
         - https://filmmusic.io/search
         - liens: https://incompetech.com/music/royalty-free/faq.html
+
+{% endcomment %}
