@@ -166,7 +166,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 
 --  
 **EXERCICE 4**  
-faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les exporter en taille *3
+faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les exporter en taille *3  
 --  
 
 ## 5) gestion ressources
@@ -178,9 +178,9 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - plusieurs supports de sauvegarde des fichiers importants
 
 ## 6) les formats graphiques
-Ici, j'appelle "fichier de travail" un fichier contenant toutes les informations utilisées pour l'édition d'un fichier, et "export" un fichier utilisé uniquement pour le visionnage du fichier (plus largement lisible et plus léger).
-Un fichier de travail est généralement lisible uniquement par le logiciel qui l'a produit, alors que la plupart des fichiers d'export dont je parle ici sont lisibles sur les lecteurs de fichier par défaut et sur les pages web.
-Même une fois le travail fini, il est mieux de toujours conserver un fichier de travail de ce qu'on a fait.
+Ici, j'appelle "fichier de travail" un fichier contenant toutes les informations utilisées pour l'édition d'un fichier, et "export" un fichier utilisé uniquement pour le visionnage du fichier (plus largement lisible et plus léger).  
+Un fichier de travail est généralement lisible uniquement par le logiciel qui l'a produit, alors que la plupart des fichiers d'export dont je parle ici sont lisibles sur les lecteurs de fichier par défaut et sur les pages web.  
+Même une fois le travail fini, il est mieux de toujours conserver un fichier de travail de ce qu'on a fait.  
 
 Formats 2D principaux pour ce cours-ci:
 - .jpg: très léger, forte compression (pas très bonne qualité), ne l'utiliser que comme fichier d'export final, et jamais pour le pixel art (la compression abîme l'image), lisible partout, ne contient jamais de transparence ni de calques
