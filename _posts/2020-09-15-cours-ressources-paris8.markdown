@@ -13,8 +13,6 @@ Programmes utilisés pendant le cours:
 Krita: https://krita.org/fr/telechargement/krita-desktop/  
 Audacity: https://www.audacityteam.org/download/  
 
-
-
 # I. Introduction
 ## 1) présentation du cours
 
@@ -46,7 +44,7 @@ présentation et historique du pixel art:
     - utilisation mixte avec des technologies récentes ([fez](/assets/110_fez.png), [dead cells](/assets/111_Dead-Cells.jpg), [the last night](/assets/112_TheLastNight.jpg))
 - utilisation hors jeux (illustration ([exemple 1](/assets/114_jindrich-stejskal.gif), [exemple 2](/assets/115_jubilee.png)))
 
-### *références*
+**références**  
 Pokemon Version Rouge Feu, par Nintendo  
 Super Mario Bros, par Nintendo  
 Final Fantasy 6, par Square Enix  
@@ -67,7 +65,7 @@ Summer's Passing, par Jubilee Payne: https://www.artstation.com/artwork/w8eebY
 - penser à utiliser des références pour dessiner (cf [dessin médiéval d'éléphant](/assets/200_elephant.jpg))
 - l'anglais c'est pratique
 
-### *références*
+**références**  
 un manuscrit du 13ème siècle: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_12_f_xiii page f.11v
 
 # II. krita
@@ -84,7 +82,7 @@ un manuscrit du 13ème siècle: https://www.bl.uk/manuscripts/FullDisplay.aspx?r
 - taille de la brosse (shift clic: changer la tailler de la brosse)
 
 --  
-### EXERCICE 1
+**EXERCICE 1**  
 faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
 --  
 
@@ -97,12 +95,12 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 - personnages/ennemis
 - fond/fond (premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur/en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe)
 
-### *références*
+**références**  
 Horizon Zero Dawn, par Guerilla Games: https://www.guerrilla-games.com/play/horizon  
 Fantasia, par Infogrames: https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)
 
 --  
-### EXERCICE 2
+**EXERCICE 2**  
 faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année, soit un autre personnage, soit un fanart, etc.)  
 --  
 
@@ -149,7 +147,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - ctrl A tout sélectionner
 
 --  
-### EXERCICE 3
+**EXERCICE 3**  
 faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêtements ou objets additionnels ou attaques feu/eau ou etc.)  
 --  
 
@@ -167,7 +165,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
 
 --  
-### EXERCICE 4
+**EXERCICE 4**  
 faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les exporter en taille *3
 --  
 
