@@ -5,7 +5,9 @@ date:   2020-09-15 19:05:09 +0200
 categories: classes, krita, 2D, fr
 permalink: /cours/creation_gestion_ressources.html
 ---
-  
+
+L'adresse de ce cours: https://falano.github.io/cours/creation_gestion_ressources.html
+
 Mon email: noemie. scherer @ gmail. com  
 N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
 
