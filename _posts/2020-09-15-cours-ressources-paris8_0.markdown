@@ -3,24 +3,17 @@ layout: default
 title:  "Cours Paris 8: Création et Gestion de ressources"
 date:   2020-09-15 19:05:09 +0200
 categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources.html
+permalink: /cours/creation_gestion_ressources_0.html
 ---
 
-L'adresse de ce cours: https://falano.github.io/cours/creation_gestion_ressources.html
-
-Mon email: noemie. scherer @ gmail. com  
-N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
-
-Programmes utilisés pendant le cours:  
-Krita: https://krita.org/fr/telechargement/krita-desktop/  
-Audacity: https://www.audacityteam.org/download/  
-
+# O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)
+# X. Annexes
+à venir
 
 {% comment %}
 
