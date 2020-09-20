@@ -154,6 +154,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - ctrl S sauvegarder, ctrl shift S sauvegarder sous
     - ctrl W fermer la fenêtre, ctrl Q quitter
     - ctrl A tout sélectionner
+    - shift: ajouter à la sélection
 
 --  
 **EXERCICE 3**  
@@ -183,7 +184,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
 - essayer de se créer des ressources réutilisables (tilemaps, icones)
-- git lfs
+- git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
 - plusieurs supports de sauvegarde des fichiers importants
 
 ## 6) les formats graphiques
@@ -220,14 +221,26 @@ autres:
     - grilles isométriques
 - wrap around mode
 - mirror tools
+- TODO: check how to tiledraw in krita
+
+--
+**EXERCICE 5**
+faire une tilemap, et la monter soit sur krita soit sur godot
+--
 
 ## 3) Décor plein
-- perspective: couleurs
-- parallaxe
+- rappel: lisibilité
+- perspective: couleurs (TODO: illo)
+- parallaxe (TODO: illo vid?)
+- lumière
+- règle des tiers?
 
 ## 4) Krita: 5
 - outils perspective
-- outils forme
+    - règle parallèle / parallel ruler
+    - concentric ellipse
+    - vanishing point? pers?
+- outils forme (*shift* pour conserver la proportion 1/1)
 - gomme lasso
 
 # IV. Son
