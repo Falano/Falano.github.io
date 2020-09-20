@@ -267,28 +267,89 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
 à venir
 
 # X. Annexes
+## 1) schéma de l'interface de Krita
+[Image](/assets/999_interfaceKrita.png) (à ouvrir dans une nouvelle fenêtre pour la voir à côté de la légende ci-dessous)
+- **0**:
+    - nouveau document,
+    - ouvrir un document,
+    - sauvegarder (*ctrl S*),
+    - annuler (*ctrl Z*),
+    - refaire (*ctrl shift Z*)
+- **1**:
+    - brosse, pinceau (*B*). Pour dessiner (déposer de la couleur sur le canevas).
+- **2**: couleurs:
+    - couleur principale (haut gauche) et couleur secondaire (bas droite).
+    - cliquer sur les carrés de couleur pour la changer,
+    - cliquer sur les carrés noir et blanc en bas à gauche pour retourner aux valeurs par défaut.
+    - *X* pour intervertir couleur principale et secondaire.
+    - *Ctrl clic* pour définir comme couleur principale une couleur présente dans l'image
+- **3**:
+    - opacité
+    - taille du pinceau (*shift clic*)
+- **4**:
+    - Eraser / gomme (*E*): effacer (remplacer des pixels de couleur par des pixels transparents); attention: la gomme est un mode du pinceau et non un outil à part.
+    - *Suppr*: effacer tout le calque actif (ou la sélection).
+- **5**:
+    - Brush Presets / liste des brosses,
+    - barre de recherche en bas,
+    - liste des catégories en haut
+- **6**: Layers/ Calques:
+    - nouveau calque,
+    - dupliquer calque,
+    - déplacer le calque dans la pile vers le bas,
+    - déplacer le calque dans la pile vers le haut;
+    - tout à droite, supprimer le calque
+    - !!!!!!! more layers stuff!!!!!!!!!!!!
+- **7**:
+    - Advanced Color Selector / sélecteur de couleurs: change la couleur de premier plan;
+    - a un historique de couleurs sur la droite (cliquer sur une des couleurs pour la rendre couleur de premier plan)
+- **8**:
+    - Tool Options / Options des Outils: toujours vérifier s'il ne contient pas une option qui fait exactement ce dont on a besoin avec l'outil actuel.
+- **9**: Overview:
+    - permet de zoomer et se déplacer dans l'image sans utiliser les raccourcis claviers; qui sont:
+    - *molette* ou *ctrl clic molette*: zoom;
+    - *espace clic* ou *clic molette*: se déplacer;
+    - *shift clic molette* ou *shift espace clic*: rotation;
+    - *pav num 5*: remettre la rotation à 0° (droite);
+    - *pav num 1*: échelle 100%;
+    - *pav num 2*: adapter à la hauteur,
+    - *pav num 3*: adapter à la largeur;
+    - *Tab*: full paint mode
+    - il y a aussi un outil zoom et un outil déplacement dans la sous-fenêtre des outils (ce sont les deux derniers de la liste)
+- **10**: options d'animation:
+    - Onion Skins / peau d'oignon: permet de voir en transparence les images précédentes et suivantes de l'animation (activable/désactivable par calque dans la timeline, ou pour tous les calques en cliquant sur le 0 dans le docker Peau d'Oignon);
+    - Animation:
+        - Lancer/Pauser l'animation,
+        - Images de début et de fin (Start et End),
+        - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
+        - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 1) notions de game design:  
-- si jeu de plateforme/énigmes: introduire une seule mécanique de jeu à la fois (bg)  
-- lisibilité (perso)  
-- vitesse de réaction du jeu: éviter les animations longues en début d'action (anim)  
-- de l'importance du son (son)  
-- de l'importance des retours visuels (feedback) (anim)  
+## 2) notions de game design:
+- si jeu de plateforme/énigmes: introduire une seule mécanique de jeu à la fois (bg)
+- lisibilité (perso) (cf II.2)
+- vitesse de réaction du jeu: éviter les animations longues en début d'action (anim)
+- de l'importance du son (son)
+- de l'importance des retours visuels (feedback) (anim)
 
-## 2) Ressources externes
-/!\ Toujours vérifier la licence des assets qu'on utilise, et la respecter.
-- licences (CC-0, CC-BY, CC-BY-SA-NC)
+## 3) Ressources externes
+/!\ Toujours vérifier la licence des assets qu'on utilise.
+- [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
+    - CC-0: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française, et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
+    - CC-BY: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
+    - CC-BY-SA-NC: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
+    - CC-BY-ND: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
+    - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
 - graphique
     - https://opengameart.org/ (assets graphiques et sonores CC)
     - https://www.dafont.com (polices de caractères avec filtre par licence)
     - https://itch.io/game-assets/assets-cc0/tag-pixel-art : assets de pixel art CC0
 - audio
     - sons
-        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (pas par son))
+        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
         - https://freesound.org/ : un site de sons CC (licences différentes par son)
         - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
     - musique
-        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste)
+        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste de sites de musique libre)
         - https://audionautix.com/ (site de musiques CC-BY)
         - https://freemusicarchive.org/ (site de musiques CC)
         - https://filmmusic.io/search (site de musiques principalement CC BY)
