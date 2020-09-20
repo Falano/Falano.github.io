@@ -22,7 +22,7 @@ Audacity: https://www.audacityteam.org/download/
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
 
-{% comment %}
+TODO: check all translations of tool names!
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 ## 1) présentation du cours
@@ -209,13 +209,14 @@ autres:
 - doivent s'emboîter sans que ça se voie
 - pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs)
-    - vu de côté (platformers) (TODO: SuperMeatBoy!!)
-    - vue isométrique (stratégie)  (quels angles en general?)
+    - vu de haut (jrpgs) TODO: illo
+    - vu de côté (platformers) (TODO: illo: SuperMeatBoy!!)
+    - vue isométrique (stratégie); supporté par Godot  (TODO: quels angles en general?) TODO: illo
+    - vue de haut non-carrée (type jeu de plateau) (TODO: illo wesnoth)
 
 ## 2) Krita: 4
 - grilles
-    - magnétisme
+    - magnétisme (TODO: check if works for last ver)
     - grilles isométriques
 - wrap around mode
 - mirror tools
@@ -285,5 +286,3 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
         - https://freemusicarchive.org/ (site de musiques CC)
         - https://filmmusic.io/search (site de musiques principalement CC BY)
         - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques CC-BY-ish)
-
-{% endcomment %}
