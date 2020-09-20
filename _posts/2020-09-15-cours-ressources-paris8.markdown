@@ -235,6 +235,7 @@ autres:
 - de l'importance du son
 - effets sonores / musique
 - (enregistrer / télécharger)->(modifier) / produire numériquement
+    - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 
 ## 2) Audacity
 - audacity
@@ -248,11 +249,17 @@ autres:
 
 
 # 2) musique
-https://beepbox.co/
-musescore lilypond
-LMMS, Yoshimi
-en L2S4: cours de synthèse d'images, animation et sons
-en L3S6: cours de droit, éthique, informatique
+- enregistrer sa musique: -> enregistreur + audacity
+- générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
+    - avec un logiciel d'écritures de partitions qui exporte en MIDI (TODO: y a pas une étape supplémentaire pour mettre du beau son sur le midi?)
+        - musescore
+        - lilypond
+    - avec un logiciel de création de musique
+        - https://beepbox.co/ (musique bitbox, simple d'utilisation)
+        - LMMS? (TODO: )
+        - Yoshimi? (TODO: )
+
+
 en L1S2: cours de Outils informatiques collaboratifs (git)
 à venir
 
