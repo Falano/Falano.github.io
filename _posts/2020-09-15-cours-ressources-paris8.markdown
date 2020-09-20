@@ -126,12 +126,10 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques
-    - modes de calques
-        - overlay ou multiply pour les ombres
-        - soft light ou normal à faible opacité pour la lumière
+    - [modes de calques](/assets/400_modesCalques.png)
+        - overlay et/ou multiply pour les ombres
+        - overlay et/ou normal à faible opacité pour la lumière
         - erase
-        - saturation
-        - burn
         - tester les autres pour voir ce qu'ils font
     - groupes de calques
     - verrouiller un calque / lock layer
