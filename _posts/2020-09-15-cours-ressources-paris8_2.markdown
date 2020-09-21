@@ -55,12 +55,10 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques
-    - modes de calques
-        - overlay ou multiply pour les ombres
-        - soft light ou normal à faible opacité pour la lumière
+    - [modes de calques](/assets/400_modesCalques.png)
+        - overlay et/ou multiply pour les ombres
+        - overlay et/ou normal à faible opacité pour la lumière
         - erase
-        - saturation
-        - burn
         - tester les autres pour voir ce qu'ils font
     - groupes de calques
     - verrouiller un calque / lock layer
@@ -85,6 +83,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - ctrl S sauvegarder, ctrl shift S sauvegarder sous
     - ctrl W fermer la fenêtre, ctrl Q quitter
     - ctrl A tout sélectionner
+    - shift: ajouter à la sélection
 
 --  
 **EXERCICE 3**  
@@ -114,7 +113,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
 - essayer de se créer des ressources réutilisables (tilemaps, icones)
-- git lfs
+- git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
 - plusieurs supports de sauvegarde des fichiers importants
 
 ## 6) les formats graphiques

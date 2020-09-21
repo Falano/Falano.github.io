@@ -11,29 +11,7 @@ permalink: /cours/creation_gestion_ressources_3.html
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
 
 # III. Décors
-## 1) Tiles
-- doivent s'emboîter sans que ça se voie
-- pour les décors naturels: avoir plusieurs variantes excentrées
-- perspective au choix
-    - vu de haut (jrpgs)
-    - vu de côté (platformers) (TODO: SuperMeatBoy!!)
-    - vue isométrique (stratégie)  (quels angles en general?)
-
-## 2) Krita: 4
-- grilles
-    - magnétisme
-    - grilles isométriques
-- wrap around mode
-- mirror tools
-
-## 3) Décor plein
-- perspective: couleurs
-- parallaxe
-
-## 4) Krita: 5
-- outils perspective
-- outils forme
-- gomme lasso
+à venir
 
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)

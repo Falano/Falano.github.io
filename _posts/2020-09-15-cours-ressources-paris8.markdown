@@ -21,7 +21,7 @@ Audacity: https://www.audacityteam.org/download/
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
-
+{% comment %}
 TODO: check all translations of tool names!
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
@@ -367,3 +367,5 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
         - https://freemusicarchive.org/ (site de musiques CC)
         - https://filmmusic.io/search (site de musiques principalement CC BY)
         - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques CC-BY-ish)
+
+{% endcomment %}
