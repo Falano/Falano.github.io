@@ -190,6 +190,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 --  
 **EXERCICE 4**  
 faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les exporter en taille *3  
+--> pour utiliser les outils de sélection, de couleur, de redimensionnement
 --  
 
 ## 5) gestion ressources
