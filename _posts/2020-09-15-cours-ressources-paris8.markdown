@@ -40,7 +40,7 @@ TODO: check all translations of tool names!
 
 ## 2) présentation du pixel art
 pourquoi krita: autres logiciels (gimp, etc.)  
-pourquoi le pixel art: relativement simple, assez répandu, ne nécessite pas de tablette graphique  
+pourquoi le pixel art: relativement simple (cf [Selfless Heroes](/assets/003_selflessHeroes.png), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner  
 présentation et historique du pixel art:  
 - absence d'[antialiasing/anticrénelage](/assets/000_anti-aliasing.png) (-> options des outils)
 - racines du pixel art dans des contraintes techniques (cf [pokemon red](/assets/100_pokemon.jpg), [mario](/assets/101_mario.jpg), la [palette de couleurs](/assets/102_nes_palette.jpg) de la console nes, [final fantasy 6](/assets/103_ff6.jpg))
@@ -56,6 +56,7 @@ présentation et historique du pixel art:
 - utilisation hors jeux (illustration ([exemple 1](/assets/114_jindrich-stejskal.gif), [exemple 2](/assets/115_jubilee.png)))
 
 **références**  
+Selfless Heroes, par Félicien Brochu: [https://selflessheroes.fr/](https://selflessheroes.fr/)  
 Pokemon Version Rouge Feu, par Nintendo  
 Super Mario Bros, par Nintendo  
 Final Fantasy 6, par Square Enix  
@@ -78,6 +79,12 @@ Summer's Passing, par Jubilee Payne: https://www.artstation.com/artwork/w8eebY
 
 **références**  
 un manuscrit du 13ème siècle: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_12_f_xiii page f.11v
+
+## 4) jeux cools sans savoir dessiner
+cf [Annexes X.5](/cours/creation_gestion_ressources_0.html)
+- video de gameplay (et, avant la minute donnée dans le lien, timelapse de dessin des assets) de gophers: [https://youtu.be/0jPLMCfSE0w?t=348](https://youtu.be/0jPLMCfSE0w?t=348)
+- 
+TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.
 
 # II. krita
 ## 1) introduction à krita: 1
@@ -366,6 +373,44 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
         - https://audionautix.com/ (site de musiques CC-BY)
         - https://freemusicarchive.org/ (site de musiques CC)
         - https://filmmusic.io/search (site de musiques principalement CC BY)
-        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques CC-BY-ish)
+        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques gratuites avec attribution)
+
+## 4) game jams
+- une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
+    - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: ldjam.com
+    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: ggj.com
+	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: https://itch.io/jams
+
+## 5) jeux cool
+J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
+Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à la fois.  
+- en pixel art
+	- fez (puzzle)
+	- [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai) (un jeu de création de bonsais)
+- style graphique simple mais qui marche
+	- thomas was alone (platformer)
+		- graphisme simple mais:
+		- textures et lumières
+		- voix des personnages
+	- [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth) (puzzle)
+		- très stylisé
+		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay)
+	- selfless heroes
+		- très stylisé
+		- mais les informations importantes sont facilement lisibles
+			- les persos sont des chevaliers
+			- chacun est un personnage différent
+			- la différence entre chaque type de tile est claire
+		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile
+	- le jeu du métro
+	- *gophers*
+		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
+		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay)
+	- night wood thingie (test graphic style though)
+- mécanique de jeu inhabituelle
+	- pikuniku?
+	- rangement d'inventaire
+
+check: brandon james greer
 
 {% endcomment %}
