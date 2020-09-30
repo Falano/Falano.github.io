@@ -10,30 +10,32 @@ permalink: /cours/creation_gestion_ressources_2.html
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. krita
 ## 1) introduction à krita: 1
-- changer le nombre d'annulations possibles (Settings > Configure Krita > General > Miscellaneous > Undo Stack Size)
+- cf [Annexes X.1](/cours/creation_gestion_ressources_0.html)
+- changer le nombre d'annulations possibles (Settings > Configure Krita > General > Miscellaneous > Undo Stack Size; 60 c'est bien, tester jusqu'à trouver la valeur qui nous convient)
 - sauvegarder (ctrl S)
 - pinceau / brush (B)
 - gomme / eraser (E)
 - annuler (Ctrl Z; désannuler: Shift Ctrl Z)
 - couleurs (Advanced Color Selector)
 - calques / layers (superficiellement)
-- brosse de pixel art (superficiellement)
+- brosse de pixel art (taper "pixel" dans la barre de recherche des brosses, et choisir la brosse "u)\_Pixel\_Art")
 - déplacement dans l'image (molette ou ctrl clic molette: zoom; espace clic ou clic molette: se déplacer)
 - taille de la brosse (shift clic: changer la tailler de la brosse)
 
 --  
 **EXERCICE 1**  
 faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
+--> pour se familiariser avec l'interface de krita  
 --  
 
 ## 2) lisibilité
-- personnage/fond
-- plateformes et éléments interactifs
+- personnage/fond: que le perso se détache sur le fond
+- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
     - supertux plateformes invisibles
     - dead cells design clair
-- personnages entre eux
-- personnages/ennemis
-- fond/fond (premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur/en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe)
+- personnages entre eux: qu'ils soient facilement différenciables
+- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
+- fond/fond: premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur; en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe qui peut cacher des éléments importants au gameplay)
 
 **références**  
 Horizon Zero Dawn, par Guerilla Games: https://www.guerrilla-games.com/play/horizon  
@@ -42,6 +44,7 @@ Fantasia, par Infogrames: https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o
 --  
 **EXERCICE 2**  
 faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année, soit un autre personnage, soit un fanart, etc.)  
+--> pour se familiariser avec krita et pour s'entraîner à synthétiser des formes pour le pixel art  
 --  
 
 ## 3) introduction à krita: 2
@@ -70,7 +73,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
         - pour des éléments superposés séparés (pour la p1eau d'oignon)
         - pour des éléments secondaires (fumée de cigarette, queue de cheval, cape)
         - pour des éléments non-permanents (pour avoir plusieurs versions du même personnage, avec ou sans chapeau par exemple, ou avec ou sans tatouages)
-        - pour des tests
+        - pour des tests dont on pourrait décider, une fois finis, que finalement ils ne nous plaisent pas
     - transparence
 - Options des Outils / Tool Options
 - Aperçu / Overview
@@ -88,29 +91,32 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 --  
 **EXERCICE 3**  
 faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêtements ou objets additionnels ou attaques feu/eau ou etc.)  
+--> pour se familiariser avec les calques  
 --  
 
 ## 4) introduction à krita: 3
 - outils de sélection
-- outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options
+- outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
 - Fill tool (le seau) (F)
-- outils de déplacement/déformation (ctrl T)
+- outils de déplacement (T) et déformation (ctrl T)
 - redimensionnement
-    - redimensionement de l'image
-    - redimensinnement du canevas
+    - redimensionnement de l'image (Image > Scale Image to New Size, Filtre: nearest neighbout, utiliser un multiple entier de la taille actuelle)
+    - redimensionnement du canevas (Image > Resize Canvas)
     - mode de redimensionnement: plus proche voisin / nearest neighbour
-    - crop tool
+    - crop tool (C)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
 
 --  
 **EXERCICE 4**  
 faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les exporter en taille *3  
+--> pour utiliser les outils de sélection, de couleur, de redimensionnement
 --  
 
 ## 5) gestion ressources
+- noms de fichiers: a-z, A-Z, 0-9, -, _ sont sûrs, éviter ponctuation, /, \, accents et symboles (cf [une source au pif](https://support.promax.com/knowledge/special-characters))
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
-- exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement)
+- exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.kra, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File>Export" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.kra, MonPersonnage-02-couleur.kra, etc.)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
 - essayer de se créer des ressources réutilisables (tilemaps, icones)
 - git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
