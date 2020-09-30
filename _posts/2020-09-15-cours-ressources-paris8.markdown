@@ -24,6 +24,7 @@ Audacity: https://www.audacityteam.org/download/
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
 {% comment %}
 TODO: check all translations of tool names!
+!! ne pas oublier de faire un récap en début de cours
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 ## 1) présentation du cours
@@ -108,6 +109,8 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 --> pour se familiariser avec l'interface de krita  
 --  
 
+-- fin lundi matin 1 (plus un peu de krita2) --
+
 ## 2) lisibilité
 - personnage/fond: que le perso se détache sur le fond
 - plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
@@ -168,11 +171,16 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - ctrl A tout sélectionner
     - shift: ajouter à la sélection
 
+-- fin lundi aprèm 1 moins lisibilité plus formats--
+-- fin mercredi aprèm 1 + gestion ressources + formats - lisibilité --
+
 --  
 **EXERCICE 3**  
 faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêtements ou objets additionnels ou attaques feu/eau ou etc.)  
 --> pour se familiariser avec les calques  
 --  
+
+-- fin lundi matin 2 moins lisi fond/fond, plus formats --
 
 ## 4) introduction à krita: 3
 - outils de sélection
