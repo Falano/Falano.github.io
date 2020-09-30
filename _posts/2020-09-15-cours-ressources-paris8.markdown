@@ -237,7 +237,7 @@ autres:
 - doivent s'emboîter sans que ça se voie
 	- pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs) (cf: chrono trigger)
+    - vu de haut (jrpgs) (cf: [chrono trigger](/assets/501_chronoTrigger.png))
     - vu de côté (platformers) (TODO: illo: SuperMeatBoy!!)
     - vue isométrique (stratégie); supporté par Godot  (TODO: quels angles en general?) TODO: illo
     - vue de haut non-carrée (type jeu de plateau) (TODO: illo wesnoth)
@@ -435,13 +435,13 @@ J'ai noté en italique les jeux de jam, donc faits dans un temps très limité e
 Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à la fois.  
 - en pixel art
 	- fez (puzzle)
-	- [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai) (un jeu de création de bonsais)
+	- *bonsai* (un jeu de création de bonsais) : [https://ldjam.com/events/ludum-dare/46/bonsai](https://ldjam.com/events/ludum-dare/46/bonsai)
 - style graphique simple mais qui marche
 	- thomas was alone (platformer)
 		- graphisme simple mais:
 		- textures et lumières
 		- voix des personnages
-	- [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth) (puzzle)
+	- [*you must gather your party before venturing forth*](/assets/998_ymgypbvf.png)  (puzzle) : [https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth)
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay)
 	- selfless heroes
