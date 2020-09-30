@@ -33,16 +33,16 @@ TODO: check all translations of tool names!
     - décors
         - peints
         - assemblés avec une tilemap [(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
-- son avec audacity (écouteurs?)
+- son avec audacity (qui a des écouteurs?)
     - logiciel d'écriture musicale?
 - gestion de ressources
-- projet final (platformer? jeu narratif? énigmes? puzzle? stratégie? contemplatif? etc.)
+- projet final (platformer? jeu narratif? énigmes? puzzle? stratégie? contemplatif? tower defense? etc.)
 
 ## 2) présentation du pixel art
 pourquoi krita: autres logiciels (gimp, etc.)  
 pourquoi le pixel art: relativement simple (cf [Selfless Heroes](/assets/003_selflessHeroes.png), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner  
 présentation et historique du pixel art:  
-- absence d'[antialiasing/anticrénelage](/assets/000_anti-aliasing.png) (-> options des outils)
+- absence d'[antialiasing/anticrénelage](/assets/000_anti-aliasing.png) automatique (-> options des outils)
 - racines du pixel art dans des contraintes techniques (cf [pokemon red](/assets/100_pokemon.jpg), [mario](/assets/101_mario.jpg), la [palette de couleurs](/assets/102_nes_palette.jpg) de la console nes, [final fantasy 6](/assets/103_ff6.jpg))
     - nombre de pixels limité
     - nombre de couleurs limité (cf [dithering](/assets/001_dithering.png))
@@ -50,7 +50,7 @@ présentation et historique du pixel art:
 - pixel art actuel
     - nostalgie et aspect rétro ou préférence graphique (cf [A short Hike](/assets/113_aShortHike.png), [owlboy](/assets/107_owlboy_gd.png), [celeste](/assets/109_celeste.png))
     - utilisation pour la vitesse/facilité d'exécution
-        - jeux de game jam ([gophers](/assets/105_gophers.png), [roguelight](/assets/106_roguelight.png))
+        - jeux de game jam ([gophers](/assets/105_gophers.png), [roguelight](/assets/106_roguelight.png); cf [Annexes X.4](/cours/creation_gestion_ressources_0.html))
         - jeux indé ([hyperlight drifter](/assets/108_hyperLightDrifter.png))
     - utilisation mixte avec des technologies récentes ([fez](/assets/110_fez.png), [dead cells](/assets/111_Dead-Cells.jpg), [the last night](/assets/112_TheLastNight.jpg))
 - utilisation hors jeux (illustration ([exemple 1](/assets/114_jindrich-stejskal.gif), [exemple 2](/assets/115_jubilee.png)))
@@ -75,7 +75,7 @@ Summer's Passing, par Jubilee Payne: https://www.artstation.com/artwork/w8eebY
 ## 3) considérations générales
 - de l'importance de savoir chercher sur internet
 - penser à utiliser des références pour dessiner (cf [dessin médiéval d'éléphant](/assets/200_elephant.jpg))
-- l'anglais c'est pratique
+- l'anglais c'est pratique, la majorité de la doc est en anglais
 
 **références**  
 un manuscrit du 13ème siècle: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_12_f_xiii page f.11v
@@ -88,14 +88,15 @@ TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples e
 
 # II. krita
 ## 1) introduction à krita: 1
-- changer le nombre d'annulations possibles (Settings > Configure Krita > General > Miscellaneous > Undo Stack Size)
+- cf [Annexes X.1](/cours/creation_gestion_ressources_0.html)
+- changer le nombre d'annulations possibles (Settings > Configure Krita > General > Miscellaneous > Undo Stack Size; 60 c'est bien, tester jusqu'à trouver la valeur qui nous convient)
 - sauvegarder (ctrl S)
 - pinceau / brush (B)
 - gomme / eraser (E)
 - annuler (Ctrl Z; désannuler: Shift Ctrl Z)
 - couleurs (Advanced Color Selector)
 - calques / layers (superficiellement)
-- brosse de pixel art (superficiellement)
+- brosse de pixel art (taper "pixel" dans la barre de recherche des brosses, et choisir la brosse "u)\_Pixel\_Art")
 - déplacement dans l'image (molette ou ctrl clic molette: zoom; espace clic ou clic molette: se déplacer)
 - taille de la brosse (shift clic: changer la tailler de la brosse)
 
@@ -105,13 +106,13 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 --  
 
 ## 2) lisibilité
-- personnage/fond
-- plateformes et éléments interactifs
+- personnage/fond: que le perso se détache sur le fond
+- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
     - supertux plateformes invisibles
     - dead cells design clair
-- personnages entre eux
-- personnages/ennemis
-- fond/fond (premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur/en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe)
+- personnages entre eux: qu'ils soient facilement différenciables
+- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
+- fond/fond: premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur; en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe qui peut cacher des éléments importants au gameplay)
 
 **références**  
 Horizon Zero Dawn, par Guerilla Games: https://www.guerrilla-games.com/play/horizon  
@@ -148,7 +149,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
         - pour des éléments superposés séparés (pour la p1eau d'oignon)
         - pour des éléments secondaires (fumée de cigarette, queue de cheval, cape)
         - pour des éléments non-permanents (pour avoir plusieurs versions du même personnage, avec ou sans chapeau par exemple, ou avec ou sans tatouages)
-        - pour des tests
+        - pour des tests dont on pourrait décider, une fois finis, que finalement ils ne nous plaisent pas
     - transparence
 - Options des Outils / Tool Options
 - Aperçu / Overview
@@ -170,14 +171,14 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 
 ## 4) introduction à krita: 3
 - outils de sélection
-- outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options
+- outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
 - Fill tool (le seau) (F)
-- outils de déplacement/déformation (ctrl T)
+- outils de déplacement (T) et déformation (ctrl T)
 - redimensionnement
-    - redimensionement de l'image
-    - redimensinnement du canevas
+    - redimensionnement de l'image (Image > Scale Image to New Size, Filtre: nearest neighbout, utiliser un multiple entier de la taille actuelle)
+    - redimensionnement du canevas (Image > Resize Canvas)
     - mode de redimensionnement: plus proche voisin / nearest neighbour
-    - crop tool
+    - crop tool (C)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
 
@@ -188,7 +189,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 
 ## 5) gestion ressources
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
-- exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement)
+- exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.kra, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File>Export" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.kra, MonPersonnage-02-couleur.kra, etc.)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
 - essayer de se créer des ressources réutilisables (tilemaps, icones)
 - git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
@@ -228,7 +229,7 @@ autres:
     - grilles isométriques
 - wrap around mode
 - mirror tools
-- TODO: check how to tiledraw in krita
+- remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
 --
 **EXERCICE 5**
@@ -236,10 +237,12 @@ faire une tilemap, et la monter soit sur krita soit sur godot
 --
 
 ## 3) Décor plein
-- rappel: lisibilité
-- perspective: couleurs (TODO: illo)
+- rappel: lisibilité (perso/fond, plateformes, fond/fond)
+- perspective atmosphérique (TODO: illo)
 - parallaxe (TODO: illo vid?)
 - lumière
+	- comme unificateur (une seule source de lumière)
+	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
 - règle des tiers?
 
 ## 4) Krita: 5
@@ -345,11 +348,11 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
 ## 2) notions de game design:
-- si jeu de plateforme/énigmes: introduire une seule mécanique de jeu à la fois (bg)
-- lisibilité (perso) (cf II.2)
-- vitesse de réaction du jeu: éviter les animations longues en début d'action (anim)
-- de l'importance du son (son)
-- de l'importance des retours visuels (feedback) (anim)
+- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
+- lisibilité (cf II.2)
+- vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
+- de l'importance du son (cf IV.1)
+- de l'importance des retours visuels (feedback) (cf V.1)
 
 ## 3) Ressources externes
 /!\ Toujours vérifier la licence des assets qu'on utilise.
@@ -363,7 +366,7 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
     - https://opengameart.org/ (assets graphiques et sonores CC)
     - https://www.dafont.com (polices de caractères avec filtre par licence)
     - https://itch.io/game-assets/assets-cc0/tag-pixel-art : assets de pixel art CC0
-- audio
+- ressources audio
     - sons
         - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
         - https://freesound.org/ : un site de sons CC (licences différentes par son)
