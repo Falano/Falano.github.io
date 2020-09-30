@@ -279,7 +279,11 @@ faire une tilemap, et la monter soit sur krita soit sur godot
 - (enregistrer / télécharger)->(modifier) / produire numériquement
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 
-## 2) Audacity
+## 2) licences
+/!\ Toujours vérifier la licence des assets qu'on utilise.
+cf [Annexes X.2](/cours/creation_gestion_ressources_0.html)
+
+## 3) Audacity
 - audacity
     - pour enregistrer
     - pour modifier/monter
@@ -287,10 +291,7 @@ faire une tilemap, et la monter soit sur krita soit sur godot
         - enlever les bruits de fond parasites
         - sélectionner une partie spécifique du clip audio
 
-## 3) 
-
-
-# 2) musique
+## 4) musique
 - enregistrer sa musique: -> enregistreur + audacity
 - générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
     - avec un logiciel d'écritures de partitions qui exporte en MIDI (TODO: y a pas une étape supplémentaire pour mettre du beau son sur le midi?)
