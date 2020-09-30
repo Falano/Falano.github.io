@@ -393,7 +393,7 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
         - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 2) notions de game design:
+## 2) notions de game design
 - si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
 - lisibilité (cf II.2)
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
@@ -434,7 +434,7 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
 Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à la fois.  
 - en pixel art
-	- fez (puzzle)
+	- [fez](/assets/110_fez.png) (puzzle)
 	- *bonsai* (un jeu de création de bonsais) : [https://ldjam.com/events/ludum-dare/46/bonsai](https://ldjam.com/events/ludum-dare/46/bonsai)
 - style graphique simple mais qui marche
 	- thomas was alone (platformer)
@@ -444,15 +444,15 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 	- [*you must gather your party before venturing forth*](/assets/998_ymgypbvf.png)  (puzzle) : [https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth)
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay)
-	- selfless heroes
+	- [selfless heroes](/assets/003_selflessHeroes.png)
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles
 			- les persos sont des chevaliers
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile
-	- le jeu du métro
-	- *gophers*
+	- mini-metro
+	- [*gophers*](/assets/105_gophers.png)
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay)
 	- night wood thingie (test graphic style though)
