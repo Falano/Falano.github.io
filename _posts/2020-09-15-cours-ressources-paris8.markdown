@@ -301,6 +301,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html)
         - https://beepbox.co/ (musique bitbox, simple d'utilisation)
         - LMMS? (TODO: )
         - Yoshimi? (TODO: )
+- télécharger une musique sous licence libre
 
 
 en L1S2: cours de Outils informatiques collaboratifs (git)
