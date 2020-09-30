@@ -303,11 +303,36 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html)
         - Yoshimi? (TODO: )
 - télécharger une musique sous licence libre
 
+# V. Animation
+## 1) principes d'animation
+- savoir d'où tu viens où tu vas
+- anticipation - action - réaction: diminuer l'anticipation pour augmenter la réactivité (cf __lien joueur du grenier__)
+- de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
+- anim vague/fumée/vent/queue
+- squash and stretch, déformations (__lien ou images/vid de bugsBunny__)
+- anim de marche
 
-en L1S2: cours de Outils informatiques collaboratifs (git)
+**références**
+anim bugsBunny
+quelques principes généraux d'animation: https://www.youtube.com/watch?v=uDqjIdI4bF4
+
+## 2) outils d'animation
+- docker Timeline
+	- ajouter / supprimer une frame
+	- déplacer / copier des frames
+	- utiliser les calques pour ajouter / enlever un élément sur plusieurs frames d'un coup
+- docker Animation
+	- nombre d'images par seconde (24 pour le cinéma en europe; 12 c'est bien; 6 c'est possible mais un peu limite)
+- docker Onion Skin
+	- cliquer sur les numéros en haut pour l'activer/désactiver pour cette frame
+	- cliquer sur le 0 pour le désactiver complètement
+	- il faut l'activer pour chaque calque
+
 à venir
 
-# V. Animation
+# VI. UI
+https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
+
 à venir
 
 # X. Annexes
