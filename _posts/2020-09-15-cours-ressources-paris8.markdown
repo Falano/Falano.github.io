@@ -6,7 +6,8 @@ categories: classes, krita, 2D, fr
 permalink: /cours/creation_gestion_ressources.html
 ---
 
-L'adresse de ce cours: https://falano.github.io/cours/creation_gestion_ressources.html
+L'adresse de ce cours: 
+https://falano.github.io/cours/creation_gestion_ressources.html
 
 Mon email: noemie. scherer @ gmail. com  
 N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
@@ -60,17 +61,18 @@ Selfless Heroes, par Félicien Brochu: [https://selflessheroes.fr/](https://self
 Pokemon Version Rouge Feu, par Nintendo  
 Super Mario Bros, par Nintendo  
 Final Fantasy 6, par Square Enix  
-A Short Hike, par Adam Robinson-Yu: http://ashorthike.com/  
-Owlboy, par D-Pad Studio: http://www.owlboygame.com/  
-Celeste, par Matt Makes Games: http://www.celestegame.com/  
-Gophers, par Hyperlink Your Heart: https://hyperlinkyourheart.itch.io/gophers  
-Roguelight, par Daniel Linssen: https://managore.itch.io/roguelight  
-Hyperlight Drifter, par Heart Machine: https://heartmachine.com/hyper-light  
-Fez, par Polytron: http://fezgame.com/
-Dead Cells, par Motion Twin: https://dead-cells.com/  
-The Last Night, par Odd Tales: http://oddtales.net/
-The World is Leaking, par Jindrich Stejskal: https://www.artstation.com/artwork/QzA3D4  
-Summer's Passing, par Jubilee Payne: https://www.artstation.com/artwork/w8eebY
+A Short Hike, par Adam Robinson-Yu: [http://ashorthike.com/](http://ashorthike.com/)  
+Owlboy, par D-Pad Studio: [http://www.owlboygame.com/](http://www.owlboygame.com/)  
+Celeste, par Matt Makes Games: [http://www.celestegame.com/](http://www.celestegame.com/)  
+Gophers, par Hyperlink Your Heart: [https://hyperlinkyourheart.itch.io/gophers](https://hyperlinkyourheart.itch.io/gophers)  
+Roguelight, par Daniel Linssen: [https://managore.itch.io/roguelight](https://managore.itch.io/roguelight)  
+Hyperlight Drifter, par Heart Machine: [https://heartmachine.com/hyper-light](https://heartmachine.com/hyper-light)  
+Fez, par Polytron: [http://fezgame.com/](http://fezgame.com/)  
+Dead Cells, par Motion Twin: [https://dead-cells.com/](https://dead-cells.com/)  
+The Last Night, par Odd Tales: [http://oddtales.net/](http://oddtales.net/)  
+The World is Leaking, par Jindrich Stejskal: [https://www.artstation.com/artwork/QzA3D4](https://www.artstation.com/artwork/QzA3D4)  
+Summer's Passing, par Jubilee Payne: [https://www.artstation.com/artwork/w8eebY](https://www.artstation.com/artwork/w8eebY)  
+game jams: cf [Annexes X.4](/cours/creation_gestion_ressources_0.html)
 
 ## 3) considérations générales
 - de l'importance de savoir chercher sur internet
@@ -213,19 +215,20 @@ autres:
 - .psd: fichier de travail de photoshop
 - .pdf: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
 
+-- fin mercr aprèm 2 moins lisi fond --
+
 # III. Décors
 ## 1) Tiles
 - doivent s'emboîter sans que ça se voie
-- pour les décors naturels: avoir plusieurs variantes excentrées
+	- pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs) TODO: illo
+    - vu de haut (jrpgs) (cf: chrono trigger)
     - vu de côté (platformers) (TODO: illo: SuperMeatBoy!!)
     - vue isométrique (stratégie); supporté par Godot  (TODO: quels angles en general?) TODO: illo
     - vue de haut non-carrée (type jeu de plateau) (TODO: illo wesnoth)
 
 ## 2) Krita: 4
 - grilles
-    - magnétisme (TODO: check if works for last ver)
     - grilles isométriques
 - wrap around mode
 - mirror tools
@@ -355,14 +358,14 @@ en L1S2: cours de Outils informatiques collaboratifs (git)
 - de l'importance des retours visuels (feedback) (cf V.1)
 
 ## 3) Ressources externes
-/!\ Toujours vérifier la licence des assets qu'on utilise.
-- [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
-    - CC-0: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française, et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
-    - CC-BY: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
-    - CC-BY-SA-NC: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
-    - CC-BY-ND: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
-    - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
-- graphique
+-/!\ Toujours vérifier la licence des assets qu'on utilise.
+    - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
+        - CC-0: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
+        - CC-BY: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
+        - CC-BY-SA-NC: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
+        - CC-BY-ND: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
+        - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
+- ressources graphiques
     - https://opengameart.org/ (assets graphiques et sonores CC)
     - https://www.dafont.com (polices de caractères avec filtre par licence)
     - https://itch.io/game-assets/assets-cc0/tag-pixel-art : assets de pixel art CC0
