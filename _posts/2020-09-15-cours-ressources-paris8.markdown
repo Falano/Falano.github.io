@@ -105,6 +105,7 @@ TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples e
 --  
 **EXERCICE 1**  
 faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
+--> pour se familiariser avec l'interface de krita  
 --  
 
 ## 2) lisibilité
@@ -123,6 +124,7 @@ Fantasia, par Infogrames: https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o
 --  
 **EXERCICE 2**  
 faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année, soit un autre personnage, soit un fanart, etc.)  
+--> pour se familiariser avec krita et pour s'entraîner à synthétiser des formes pour le pixel art  
 --  
 
 ## 3) introduction à krita: 2
@@ -169,6 +171,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 --  
 **EXERCICE 3**  
 faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêtements ou objets additionnels ou attaques feu/eau ou etc.)  
+--> pour se familiariser avec les calques  
 --  
 
 ## 4) introduction à krita: 3
@@ -237,6 +240,7 @@ autres:
 --
 **EXERCICE 5**
 faire une tilemap, et la monter soit sur krita soit sur godot
+-> pour apprendre à faire des tilemaps
 --
 
 ## 3) Décor plein
