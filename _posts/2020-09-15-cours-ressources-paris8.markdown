@@ -253,17 +253,65 @@ autres:
 
 -- 2. fin lundi matin 1 moins lisi, moins formats --
 
--- fin mercr aprèm 2 moins lisi fond --
+## 99) plus de ressources (principalement en anglais)
+- le [canal youtube de Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
+    - notamment:
+    - [lignes et courbes](https://www.youtube.com/watch?v=ye21r27kN9I&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=3)
+    - [une analyse des graphismes de pokemon](https://www.youtube.com/watch?v=gwF0L55kIgg)
+        - dont [un mini-tuto sur des objets en perspective vu du haut](https://www.youtube.com/watch?v=gwF0L55kIgg&feature=youtu.be&t=179)
+    - une [nouvelle version (commentée) de son premier personnage en pixel art](https://www.youtube.com/watch?v=kOotrzumpco&list=PLxfQIomHccxtHHzSNfHrymaDq8CRGwTre&index=6)
+    - [hue shifting](https://www.youtube.com/watch?v=PNtMAxYaGyg&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=5)
+    - [comment réduire la taille d'un objet](https://www.youtube.com/watch?v=PtYoLFKkgoQ&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=4)
+    - [finitions](https://www.youtube.com/watch?v=lHGDz_sz-gk&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=8)
+- un [tutoriel général qui contient des trucs intéressants](http://pixeljoint.com/forum/forum_posts.asp?TID=11299), notamment IV., parties Banding, Pillow-shading, Noise, et V. Color ramps et Hue Shifting
+- un [autre tutoriel général avec des concepts intéressants](http://androidarts.com/pixtut/pixelart.htm), notamment de bonnes explications sur les choix de couleurs et les contours 
+- plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
+    - [principes généraux de pixel art](https://www.patreon.com/posts/pixel-art-1-6971422)
+    - [contours](https://www.patreon.com/posts/outlines-14106192)
+    - [character design](https://www.patreon.com/posts/character-design-7530899)
+
+## 100) quelques ressources en français
+- une traduction d'extraits du tuto de Arne ([http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)):
+    - Palettes:
+![Palettes](/assets/arnesTuto/01_Skintone.gif)  
+Sauf à travailler avec de très petites palettes (de 3 couleurs par exemple), on aura probablement besoin de mettre en place des rampes de couleurs (dégradés) à un moment. Quand on crée sa rampe je déconseille de mélanger du noir et du blanc à la couleur de base pour créer les deux bouts de la rampe. Dans la nature, la teinte d'une couleur change souvent avec la lumière, donc une rampe noir-rose-blanc peut sembler terne et artificielle. En plus, un objet, comme un visage par exemple, a souvent des teintes différentes selon les endroits. Pour de la peau, j'aime faire l'ombre un violet sombre un peu gris, garder le ton moyen orange, et la lumière presque jaune. Dans les scènes d'extérieur je mélange aussi des tons gris plus froids pour l'ombre (à cause de la lumière du ciel) et du jaune dans les couleurs claires (à cause de la lumière chaude du soleil)
+    - Fluo:
+![Fluo](/assets/arnesTuto/02_Supergreen.gif)  
+Il existe de nombreuses couleurs, mais certaines sont plus facilement utilisables que d'autres, particulièrement quand on fait des trucs réalistes. J'éviterais de construire des ramples entières à partir de couleurs très saturées, sauf si on fait un travail sur le fluo ou expérimental. Ça ne veut pas dire que toutes les couleurs devraient être grises ou pastel; les couleurs très saturées peuvent être très efficaces pour ajouter une dimension supplémentaire à certains points, mais je pense que leur fréquence dans la palette devrait être proportionnelle à leur utilisation. Ici j'ai dessiné une petite créature fluo étrange parce que ça correspond à la palette. Pour des visages ou de la nature je devrais avoir une approche plus artistique.
+    - Contours:
+![Contours](/assets/arnesTuto/03_Blacklining.gif)  
+Un excès de contours noirs peut naître d'une sorte de compulsion à marquer et séparer chaque détail. Quand les couleurs sont entourées de noir elles ont l'air plus sombres et ternes. On perd aussi de l'espace et tout le personnage est aplati parce que les lignes poussent tous les détails au même plan (surtout si les rampes de couleur utilisées sont peu contrastées). Une autre manière de séparer les détails est d'utiliser le contraste et des lignes additives plus claires (les lignes noires sont soustractives). Le style que j'utilise a l'avantage d'un mélange de lignes soustractives, de lignes perdues (suggérées mais pas explicitement dessinées) et de lignes additives.
+    - Contours au sol:
+![Contours au sol](/assets/arnesTuto/04_Bottomlines.gif)  
+Une autre considération quand on travaille avec des contours noirs est que les lignes à la base de la forme ressemblent un peu à une ombre et peuvent donner l'impression que la figure entière flotte. Si on enlève les contours au contact avec le sol, la forme semble solidement posée.  
+Si on enlève tout le contour on gagne plus de place pour les détails internes, mais après il faut se reposer sur le contraste avec le fond pour la lisibilité de la silhouette.
+    - Lignes:
+![Lignes](/assets/arnesTuto/05_Cleanlines.gif)  
+Des lignes de pixels posées rapidement semblent irrégulières et désordonnées, un peu comme un croquis au crayon d'un débutant qui repasse plusieurs fois sur les lignes (lignes barbelées). Certains détails utilisent des lignes irrégulières, mais en général on voudra utiliser des courbes de type 1, 1, 2, 3, ou 2, 1, 2, ou quelque chose du genre. Dans l'ombre des objets je remplis parfois les diagonales, mais parfois ça peut ne pas sembler très propre.
+    - Bruit:
+![Bruit](/assets/arnesTuto/06_Noise.gif)  
+Du bruit et des pixels inutilement orphelins (non reliés à d'autres pixels de la même couleur), c'est ce qu'on obtient quand on essaie d'incorporer trop de détails. Il est tentant d'en inclure autant que possible, mais il faut considérer l'échelle du pixel art et comment être clair, et aussi la facilité d'animation (des détails lisibles sur une image pourraient être difficiles à dupliquer sur l'image suivante, légèrement tournée). L'artiste connaît peut-être l'intention derrière chaque pixel, mais le joueur généralement pas, et les verra donc probablement comme du bruit (et l'artiste aussi en y retournant plus tard).  
+Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit pour ajouter des variations dans la texture.
+
 
 # III. Décors
 ## 1) Tiles
 - doivent s'emboîter sans que ça se voie
 	- pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs) (cf: [chrono trigger](/assets/501_chronoTrigger.png))
-    - vu de côté (platformers) (TODO: illo: SuperMeatBoy!!)
-    - vue isométrique (stratégie); supporté par Godot  (TODO: quels angles en general?) TODO: illo
-    - vue de haut non-carrée (type jeu de plateau) (TODO: illo wesnoth)
+    - vu de haut (jrpgs) (cf: [chrono trigger](/assets/501_chronoTrigger.png), stardew valley)
+    - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid)
+    - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor)
+    - vue de haut non-carrée (type jeu de plateau) (cf [Battle for Wesnoth](/assets/504_wesnoth.png))
+
+**références**  
+Chrono Trigger, par Square
+Stardew Valley, par Concerned Ape: https://www.stardewvalley.net/
+Super Meat Boy, par Team Meat: http://www.supermeatboy.com/
+Braid, par Jonathan Blow: https://www.gog.com/game/braid
+Super Metroid, par Nintendo
+Transistor, par Supergiant Games: https://www.supergiantgames.com/games/transistor/
+Battle for Wesnoth, par Tout Un Tas De Gens C'est Open Source: https://www.wesnoth.org/
 
 ## 2) Krita: 4
 - grilles
@@ -295,10 +343,18 @@ faire une tilemap, et la monter soit sur krita soit sur godot
 - outils forme (*shift* pour conserver la proportion 1/1)
 - gomme lasso (utiliser l'outil "t)_Shapes_Fill" en mode "erase" est pratique pour effacer de grandes zones irrégulières peu précises)
 
---
-**EXERCICE 6**
-importer sa tilemap de Tiled à Godot
---
+--  
+**EXERCICE 6**  
+importer sa tilemap de Tiled à Godot  
+--  
+
+## 99) plus de ressources (principalement en anglais)
+- plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
+    - [arbres](https://www.patreon.com/posts/vegetation-part-7416630)
+    - [variations de tiles](https://www.patreon.com/posts/making-tiles-12881715)
+    - [perspective](https://www.patreon.com/posts/parallax-and-7863658)
+- un [tutoriel vidéo sur le système de tiles de godot](https://www.youtube.com/watch?v=F6VerW98gEc)
+- un [tutoriel écrit sur les tiles dans godot](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/)
 
 
 # IV. Son
@@ -388,9 +444,9 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - squash and stretch, déformations (__lien ou images/vid de bugsBunny__)
 - anim de marche
 
-**références**
-anim bugsBunny
-quelques principes généraux d'animation: https://www.youtube.com/watch?v=uDqjIdI4bF4
+**références**  
+anim bugsBunny  
+quelques principes généraux d'animation: [https://www.youtube.com/watch?v=uDqjIdI4bF4](https://www.youtube.com/watch?v=uDqjIdI4bF4)  
 
 ## 2) outils d'animation
 - docker Timeline
@@ -404,10 +460,25 @@ quelques principes généraux d'animation: https://www.youtube.com/watch?v=uDqjI
 	- cliquer sur le 0 pour le désactiver complètement
 	- il faut l'activer pour chaque calque
 
-à venir
+## 99) Plus de références (principalement en anglais)
+- plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
+    - notamment:
+    - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
+    - [motion blur](https://www.patreon.com/posts/motion-blur-11596285)
+    - décomposition d'une [animation d'attaque à l'épée](https://www.patreon.com/posts/attack-animation-7820106)
+        - mais qui donne des principes utiles pour n'importe quelle animation
+    - [très petits mouvements](https://www.patreon.com/posts/1-pixel-movement-7652033)
+    - [fumée/explosion](https://www.patreon.com/posts/smoke-animation-6851636)
+    - [explosions](https://www.patreon.com/posts/explosions-part-7719254)
+    - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
+- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
+
 
 # VI. UI
 https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
+
+## 99) plus de ressources (principalement en anglais)
+- un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)
 
 à venir
 
@@ -532,15 +603,29 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile
-	- mini-metro
+	- [mini-metro](/assets/997_minimetro.jpg), par Dino Polo Club: [https://dinopoloclub.com/games/mini-metro/](https://dinopoloclub.com/games/mini-metro/)
+	    - utilise des symboles plutôt que des illustrations
 	- [*gophers*](/assets/105_gophers.png)
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay)
-	- night wood thingie (test graphic style though)
+	- [night in the woods](/assets/996_nightInTheWoods.png) par Infinite Fall: [http://www.nightinthewoods.com/](http://www.nightinthewoods.com/)
+	    - très chouette style graphique
+	        - soutenu/contrasté par la musique et l'histoire
+	    - mais composé quasi exclusivement de formes simples
+	    - simplification et stylisation des textures
 - mécanique de jeu inhabituelle
 	- pikuniku?
-	- rangement d'inventaire
+	- *rangement d'inventaire*
+	- world of goo?
 
-check: brandon james greer
-
-{% endcomment %}
+## 6) Vocabulaire
+- **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
+    - un ensemble de tiles est un **tileset**
+    - un niveau composé de tiles est une **tilemap**; on utilise parfois "tilemap" pour dire "ensemble de tiles"
+- **asset**: un élément composant le jeu. Dans sa définition la plus étroite, se réfère uniquement aux assets graphiques (les tiles, les personnages, etc.), mais souvent aussi aux assets sonores, et parfois inclue des scripts.
+- **palette**: un ensemble de couleurs qu'on utilise dans l'image (et on n'en utilise aucune autre). Les palettes de pixel art sont souvent assez réduites.
+- **prop**: littéralement, "accessoire"; un objet composant de décor, souvent avec lequel le personnage peut interagir
+- termes spécifiques au pixel art, en anglais:
+    - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
+    - **hue shifting**: le fait de changer la teinte d'une couleur en fonction de sa clarté au lieu de la rendre uniquement plus claire ou plus sombre
+    - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
