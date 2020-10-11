@@ -451,11 +451,18 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 # V. Animation
 ## 1) principes d'animation
 - savoir d'où tu viens où tu vas
-- anticipation - action - réaction: diminuer l'anticipation pour augmenter la réactivité (cf __lien joueur du grenier__)
+- anticipation - action - réaction
+    - pour la défense/esquive du joueur, diminuer l'anticipation pour augmenter la réactivité (cf __lien joueur du grenier__)
+    - pour l'attaque des ennemis, augmenter l'anticipation pour donner au joueur le temps de réagir
+- strong key poses
 - de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
 - anim vague/fumée/vent/queue
 - squash and stretch, déformations (__lien ou images/vid de bugsBunny__)
 - anim de marche
+    - head bob
+    - jambe/bras opposés
+    - torse inclinaison
+- saut en jeu
 
 **références**  
 anim bugsBunny  
