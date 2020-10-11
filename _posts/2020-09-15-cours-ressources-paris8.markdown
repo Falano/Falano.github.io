@@ -34,7 +34,7 @@ TODO: check all translations of tool names!
     - animation
     - décors
         - peints
-        - assemblés avec une tilemap [(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
+        - assemblés avec une tilemap ![(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
 - son avec audacity (qui a des écouteurs?)
     - logiciel d'écriture musicale?
 - gestion de ressources
@@ -170,6 +170,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - ctrl W fermer la fenêtre, ctrl Q quitter
     - ctrl A tout sélectionner
     - shift: ajouter à la sélection
+- transparence!
 
 -- fin lundi aprèm 1 moins lisibilité plus formats--
 -- fin mercredi aprèm 1 + gestion ressources + formats - lisibilité --
@@ -194,6 +195,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
     - crop tool (C)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
+- courbes! (cf image lien)
 
 --  
 **EXERCICE 4**  
@@ -317,14 +319,21 @@ Battle for Wesnoth, par Tout Un Tas De Gens C'est Open Source: https://www.wesno
 - grilles
     - grilles isométriques
 - wrap around mode
-- mirror tools
 - remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
---
-**EXERCICE 5**
-faire une tilemap, et la monter soit sur krita soit sur godot
--> pour apprendre à faire des tilemaps
---
+-- 2. fin lundi aprèm 1?
+-- 2. fin merc 1?
+
+## 3) Tiled
+godot-tiled: 
+importer: https://github.com/vnen/godot-tiled-importer -> buggy?
+exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?
+
+--  
+**EXERCICE 5**  
+faire une tilemap, et la monter sur Tiled  
+-> pour apprendre à faire des tilemaps  
+--  
 
 ## 3) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
@@ -367,7 +376,7 @@ importer sa tilemap de Tiled à Godot
 - couper un son au plus près, sans plage de silence au début (surtout pour effets sonores d'action)
 
 ## 2) licences
-/!\ Toujours vérifier la licence des assets qu'on utilise.
+/!\ Toujours vérifier la licence des assets qu'on utilise.  
 cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
 
 ## 3) Audacity
@@ -482,9 +491,10 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
 à venir
 
+
 # X. Annexes
 ## 1) schéma de l'interface de Krita
-[Image](/assets/999_interfaceKrita.png) (à ouvrir dans une nouvelle fenêtre pour la voir à côté de la légende ci-dessous)
+![Interface Krita](/assets/999_interfaceKrita.png)
 - **0**:
     - nouveau document,
     - ouvrir un document,
