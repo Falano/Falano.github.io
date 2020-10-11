@@ -337,8 +337,12 @@ faire une tilemap, et la monter sur Tiled
 
 ## 3) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
-- perspective atmosphérique (TODO: illo)
-- parallaxe (TODO: illo vid?)
+- perspective atmosphérique (cf Maxim Massalitin https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg)
+    - tout prend la teinte de l'air (en général: bleuté)
+    - moins de contrastes
+        - noirs moins noirs
+        - couleurs moins saturées
+- parallaxe (cf https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif TODO: find a better one)
 - lumière
 	- comme unificateur (une seule source de lumière)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
