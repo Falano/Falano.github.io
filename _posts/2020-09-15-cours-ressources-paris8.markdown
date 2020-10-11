@@ -186,7 +186,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 - outils de sélection
 - outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
 - Fill tool (le seau) (F)
-- outils de déplacement (T) et déformation (ctrl T)
+- outils de déplacement (T) et déformation (ctrl T) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
 - redimensionnement
     - redimensionnement de l'image (Image > Scale Image to New Size, Filtre: nearest neighbout, utiliser un multiple entier de la taille actuelle)
     - redimensionnement du canevas (Image > Resize Canvas)
@@ -201,8 +201,6 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 --> pour utiliser les outils de sélection, de couleur, de redimensionnement
 --  
 
-
-
 ## 5) gestion ressources
 - noms de fichiers: a-z, A-Z, 0-9, -, _ sont sûrs, éviter ponctuation, /, \, accents et symboles (cf [une source au pif](https://support.promax.com/knowledge/special-characters))
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
@@ -213,14 +211,14 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - plusieurs supports de sauvegarde des fichiers importants
 
 ## 6) les formats graphiques
-Ici, j'appelle "fichier de travail" un fichier contenant toutes les informations utilisées pour l'édition d'un fichier, et "export" un fichier utilisé uniquement pour le visionnage du fichier (plus largement lisible et plus léger).  
-Un fichier de travail est généralement lisible uniquement par le logiciel qui l'a produit, alors que la plupart des fichiers d'export dont je parle ici sont lisibles sur les lecteurs de fichier par défaut et sur les pages web.  
+Ici, j'appelle "fichier de travail" un fichier contenant toutes les informations utilisées pour l'édition d'un fichier, et "fichier de lecture" un fichier utilisé uniquement pour le visionnage du fichier (plus largement lisible et plus léger).  
+Un fichier de travail est généralement lisible uniquement par le logiciel qui l'a produit, alors que la plupart des fichiers de lecture dont je parle ici sont lisibles sur les lecteurs de fichier par défaut et sur les pages web.  
 Même une fois le travail fini, il est mieux de toujours conserver un fichier de travail de ce qu'on a fait.  
 
 Formats 2D principaux pour ce cours-ci:
-- .jpg: très léger, forte compression (pas très bonne qualité), ne l'utiliser que comme fichier d'export final, et jamais pour le pixel art (la compression abîme l'image), lisible partout, ne contient jamais de transparence ni de calques
-- .png: assez léger, lisible partout, **très bon format pour l'export final de pixel art**, très léger s'il y a peu de couleurs ou de grandes plages de la même couleur (typiquement: le pixel art), peut contenir de la transparence mais pas de calques
-- .kra: fichier de travail de krita, lisible uniquement par les ordinateurs ayant krita installé, pas de compression (très bonne qualité), lourd, peut contenir de la transparence, des calques, des animations, etc.
+- **.jpg**: très léger, forte compression (pas très bonne qualité), ne l'utiliser que comme fichier d'export final, et jamais pour le pixel art (la compression abîme l'image), lisible partout, ne contient jamais de transparence ni de calques
+- **.png**: assez léger, lisible partout, **très bon format pour l'export final de pixel art**, très léger s'il y a peu de couleurs ou de grandes plages de la même couleur (typiquement: le pixel art), peut contenir de la transparence mais pas de calques
+- **.kra**: fichier de travail de krita, lisible uniquement par les ordinateurs ayant krita installé, pas de compression (très bonne qualité), lourd, peut contenir de la transparence, des calques, des animations, etc.
 
 autres:
 - .gif: utilisé pour des animations de petite taille (l'animation se lance automatiquement dans la plupart des lecteurs et des pages web), peut contenir de la transparence. À qualité visuelle équivalente, souvent plus lourd qu'un autre format vidéo bien compressé, mais est traité comme une image, donc ne nécessite pas de lecteur vidéo pour être lu, ce qui est parfois pratique. Pas de son.
@@ -262,15 +260,21 @@ faire une tilemap, et la monter soit sur krita soit sur godot
 - lumière
 	- comme unificateur (une seule source de lumière)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
-- règle des tiers?
+- règle des tiers (ne pas mettre de truc important tout contre le bord; il risque de ne pas être visible ou remarquable)
 
 ## 4) Krita: 5
 - outils perspective
     - règle parallèle / parallel ruler
     - concentric ellipse
-    - vanishing point? pers?
+    - vanishing point et perspective (pas utile pour des tilemaps)
 - outils forme (*shift* pour conserver la proportion 1/1)
-- gomme lasso
+- gomme lasso (utiliser l'outil "t)_Shapes_Fill" en mode "erase" est pratique pour effacer de grandes zones irrégulières peu précises)
+
+--
+**EXERCICE 6**
+importer sa tilemap de Tiled à Godot
+--
+
 
 # IV. Son
 ## 1) intro
@@ -281,7 +285,7 @@ faire une tilemap, et la monter soit sur krita soit sur godot
 
 ## 2) licences
 /!\ Toujours vérifier la licence des assets qu'on utilise.
-cf [Annexes X.2](/cours/creation_gestion_ressources_0.html)
+cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
 
 ## 3) Audacity
 - audacity
@@ -400,14 +404,17 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 - de l'importance du son (cf IV.1)
 - de l'importance des retours visuels (feedback) (cf V.1)
 
-## 3) Ressources externes
--/!\ Toujours vérifier la licence des assets qu'on utilise.
+## 3a) Licences
+- /!\ Toujours vérifier la licence des assets qu'on utilise.
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
-        - CC-0: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
-        - CC-BY: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
-        - CC-BY-SA-NC: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
-        - CC-BY-ND: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
+        - **CC-0**: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
+        - **CC-BY**: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
+        - **CC-BY-SA-NC**: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
+        - **CC-BY-ND**: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
         - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
+
+## 3b) Ressources externes
+-/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
     - https://opengameart.org/ (assets graphiques et sonores CC)
     - https://www.dafont.com (polices de caractères avec filtre par licence)
