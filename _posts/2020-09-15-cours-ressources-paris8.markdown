@@ -221,12 +221,37 @@ Formats 2D principaux pour ce cours-ci:
 - **.kra**: fichier de travail de krita, lisible uniquement par les ordinateurs ayant krita installé, pas de compression (très bonne qualité), lourd, peut contenir de la transparence, des calques, des animations, etc.
 
 autres:
-- .gif: utilisé pour des animations de petite taille (l'animation se lance automatiquement dans la plupart des lecteurs et des pages web), peut contenir de la transparence. À qualité visuelle équivalente, souvent plus lourd qu'un autre format vidéo bien compressé, mais est traité comme une image, donc ne nécessite pas de lecteur vidéo pour être lu, ce qui est parfois pratique. Pas de son.
-- .avi, .mov: fichier vidéo, souvent compressé
-- .mkv: fichier vidéo open source, souvent compressé, pouvant contenir plusieurs pistes audio et de sous-titres différentes
-- .xcf: fichier de travail de gimp
-- .psd: fichier de travail de photoshop
-- .pdf: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
+- **.gif**: utilisé pour des animations de petite taille (l'animation se lance automatiquement dans la plupart des lecteurs et des pages web), peut contenir de la transparence. À qualité visuelle équivalente, souvent plus lourd qu'un autre format vidéo bien compressé, mais est traité comme une image, donc ne nécessite pas de lecteur vidéo pour être lu, ce qui est parfois pratique. Pas de son.
+- **.avi**, **.mov**: fichier vidéo, souvent compressé
+- **.mkv**: fichier vidéo open source, souvent compressé, pouvant contenir plusieurs pistes audio et de sous-titres différentes
+- **.xcf**: fichier de travail de gimp
+- **.psd**: fichier de travail de photoshop
+- **.pdf**: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
+
+-- fin lun aprèm 2 moins lisi fond --
+-- fin mercr aprèm 2 moins lisi --
+
+## 7) un chouilla de théorie des couleurs
+- éviter a priori les couleurs trop saturées
+    - éviter encore plus deux complémentaires très saturées côte-à-côte; ça brûle les yeux
+        -  les couleurs complémentaires sont celles qui sont opposées sur le cercle des teintes: rouge et vert, violet et jaune, bleu et orange
+    - mais pour faire ressortir un détail (de petite taille) et attirer l'attention, on peut saturer davantage ses couleurs (sur un _petit_ espace)
+        - ou utiliser une couleur complémentaire à celles généralement utilisées dans le niveau
+- pour info: un gris entouré de rouge sembrera rougeâtre (ça marche pour tous les couples de complémentaires)
+
+## 8) Recap général
+- ombres et lumières de teintes différentes (typiquement un vert clair sera plus jaune, un bleu clair plus cyan, et un rouge clair ou un jaune foncé plus orange)
+    - choisir la complémentaire de la couleur de base pour les ombres (des ombres marron foncé pour un personnage bleu ou vert, violettes pour un personnage jaune, etc.) les fait ressortir davantage
+    - mais il ne faut pas non plus que les couleurs des ombres changent à chaque objet
+- styliser et simplifier
+    - choisir consciemment ce qu'on représente
+    - il n'est pas toujours nécessaire, par exemple, que les personnages aient une bouche
+- partir d'une forme simple (carré, rond, triangle) et sculpter avec le pinceau et la gomme pour les détails
+    - commencer avec une silhouette monochrome pour être sûr qu'elle soit bien lisible
+- PENSER À DÉZOOMER RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
+    - mettre une deuxième fenêtre de krita dézoomée si besoin
+
+-- 2. fin lundi matin 1 moins lisi, moins formats --
 
 -- fin mercr aprèm 2 moins lisi fond --
 
