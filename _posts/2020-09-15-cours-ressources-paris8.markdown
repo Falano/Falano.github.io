@@ -578,6 +578,10 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
 - de l'importance du son (cf IV.1)
 - de l'importance des retours visuels (feedback) (cf V.1)
+- essayer d'avoir une unité graphique
+    - et une unité entre le graphique, l'audio, l'histoire et le gameplay
+    - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
+        - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
 
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
