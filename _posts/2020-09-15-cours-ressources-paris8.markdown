@@ -331,7 +331,7 @@ exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?
 
 --  
 **EXERCICE 5**  
-faire une tilemap, et la monter sur Tiled  
+faire une tilemap, et la monter sur Krita ou Godot  
 -> pour apprendre à faire des tilemaps  
 --  
 

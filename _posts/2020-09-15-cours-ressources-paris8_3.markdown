@@ -36,17 +36,9 @@ Battle for Wesnoth, par Tout Un Tas De Gens C'est Open Source: https://www.wesno
 - wrap around mode
 - remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
--- 2. fin lundi aprèm 1?
--- 2. fin merc 1?
-
-## 3) Tiled
-godot-tiled: 
-importer: https://github.com/vnen/godot-tiled-importer -> buggy?
-exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?
-
 --  
 **EXERCICE 5**  
-faire une tilemap, et la monter sur Tiled  
+faire une tilemap, et la monter sur Krita ou Godot  
 -> pour apprendre à faire des tilemaps  
 --  
 
