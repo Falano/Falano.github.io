@@ -14,7 +14,7 @@ permalink: /cours/creation_gestion_ressources_0.html
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # X. Annexes
 ## 1) schéma de l'interface de Krita
-[Image](/assets/999_interfaceKrita.png) (à ouvrir dans une nouvelle fenêtre pour la voir à côté de la légende ci-dessous)
+![Interface Krita](/assets/999_interfaceKrita.png)
 - **0**:
     - nouveau document,
     - ouvrir un document,
@@ -45,7 +45,18 @@ permalink: /cours/creation_gestion_ressources_0.html
     - déplacer le calque dans la pile vers le bas,
     - déplacer le calque dans la pile vers le haut;
     - tout à droite, supprimer le calque
-    - !!!!!!! more layers stuff!!!!!!!!!!!!
+    - *double clic* ou *F2* sur le nom du calque pour le renommer
+        - bien nommer ses calques!
+    - icone "oeil" à gauche de chaque calque: visibilité du calque
+    - à droite de chaque calque:
+        - icone "ampoule": dés/activer l'ionion skin (aussi appelé "table lumineuse")
+        - icone "verrou": rendre le calque non sélectionnable et non modifiable (temporairement)
+        - icone "alpha": option "inherit alpha"; ne seront visibles que les pixels à l'emplacement desquels il y a un pixel opaque sur un calque plus bas (en tenant compte des groupes de calques)
+        - icone "quadrillage/transparence": option "lock alpha": quand on dessine sur ce calque, on ne change que la couleur des pixels, ils gardent leur transparence (du coup sur un pixel transparent on ne voit pas de changement)
+    - *ctrl G*: faire un groupe de calques avec tous les calques sélectionnés
+        - pratique pour l'organisation
+    - tout en haut (là où il y a écrit "Normal" sur le screenshot), changer le mode du calque actif
+    - juste en dessous, changer l'opacité du calque
 - **7**:
     - Advanced Color Selector / sélecteur de couleurs: change la couleur de premier plan;
     - a un historique de couleurs sur la droite (cliquer sur une des couleurs pour la rendre couleur de premier plan)
@@ -71,10 +82,24 @@ permalink: /cours/creation_gestion_ressources_0.html
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
 ## 2) notions de game design
-à venir
+- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
+- lisibilité (cf II.2)
+- vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
+- de l'importance du son (cf IV.1)
+- de l'importance des retours visuels (feedback) (cf V.1)
+- essayer d'avoir une unité graphique
+    - et une unité entre le graphique, l'audio, l'histoire et le gameplay
+    - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
+        - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
 
-## 3) Ressources externes
-à venir
+## 3a) Licences
+- /!\ Toujours vérifier la licence des assets qu'on utilise.
+    - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
+        - **CC-0**: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
+        - **CC-BY**: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
+        - **CC-BY-SA-NC**: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
+        - **CC-BY-ND**: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
+        - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
@@ -103,7 +128,25 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile
-	- mini-metro
+	- [mini-metro](/assets/997_minimetro.jpg), par Dino Polo Club: [https://dinopoloclub.com/games/mini-metro/](https://dinopoloclub.com/games/mini-metro/)
+	    - utilise des symboles plutôt que des illustrations
 	- [*gophers*](/assets/105_gophers.png)
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay)
+	- [night in the woods](/assets/996_nightInTheWoods.png) par Infinite Fall: [http://www.nightinthewoods.com/](http://www.nightinthewoods.com/)
+	    - très chouette style graphique
+	        - soutenu/contrasté par la musique et l'histoire
+	    - mais composé quasi exclusivement de formes simples
+	    - simplification et stylisation des textures
+
+## 6) Vocabulaire
+- **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
+    - un ensemble de tiles est un **tileset**
+    - un niveau composé de tiles est une **tilemap**; on utilise parfois "tilemap" pour dire "ensemble de tiles"
+- **asset**: un élément composant le jeu. Dans sa définition la plus étroite, se réfère uniquement aux assets graphiques (les tiles, les personnages, etc.), mais souvent aussi aux assets sonores, et parfois inclue des scripts.
+- **palette**: un ensemble de couleurs qu'on utilise dans l'image (et on n'en utilise aucune autre). Les palettes de pixel art sont souvent assez réduites.
+- **prop**: littéralement, "accessoire"; un objet composant de décor, souvent avec lequel le personnage peut interagir
+- termes spécifiques au pixel art, en anglais:
+    - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
+    - **hue shifting**: le fait de changer la teinte d'une couleur en fonction de sa clarté au lieu de la rendre uniquement plus claire ou plus sombre
+    - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
