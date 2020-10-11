@@ -665,3 +665,5 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
     - **hue shifting**: le fait de changer la teinte d'une couleur en fonction de sa clarté au lieu de la rendre uniquement plus claire ou plus sombre
     - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
+
+{% endcomment %}
