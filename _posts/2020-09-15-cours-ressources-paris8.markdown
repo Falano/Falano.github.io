@@ -536,7 +536,18 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
     - déplacer le calque dans la pile vers le bas,
     - déplacer le calque dans la pile vers le haut;
     - tout à droite, supprimer le calque
-    - !!!!!!! more layers stuff!!!!!!!!!!!!
+    - *double clic* ou *F2* sur le nom du calque pour le renommer
+        - bien nommer ses calques!
+    - icone "oeil" à gauche de chaque calque: visibilité du calque
+    - à droite de chaque calque:
+        - icone "ampoule": dés/activer l'ionion skin (aussi appelé "table lumineuse")
+        - icone "verrou": rendre le calque non sélectionnable et non modifiable (temporairement)
+        - icone "alpha": option "inherit alpha"; ne seront visibles que les pixels à l'emplacement desquels il y a un pixel opaque sur un calque plus bas (en tenant compte des groupes de calques)
+        - icone "quadrillage/transparence": option "lock alpha": quand on dessine sur ce calque, on ne change que la couleur des pixels, ils gardent leur transparence (du coup sur un pixel transparent on ne voit pas de changement)
+    - *ctrl G*: faire un groupe de calques avec tous les calques sélectionnés
+        - pratique pour l'organisation
+    - tout en haut (là où il y a écrit "Normal" sur le screenshot), changer le mode du calque actif
+    - juste en dessous, changer l'opacité du calque
 - **7**:
     - Advanced Color Selector / sélecteur de couleurs: change la couleur de premier plan;
     - a un historique de couleurs sur la droite (cliquer sur une des couleurs pour la rendre couleur de premier plan)
