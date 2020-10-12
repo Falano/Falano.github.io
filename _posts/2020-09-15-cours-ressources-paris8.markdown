@@ -195,7 +195,8 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
     - crop tool (C)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
-- courbes! (cf image lien)
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3
+    ![courbes](/assets/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
@@ -305,6 +306,12 @@ Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit 
     - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid)
     - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor)
     - vue de haut non-carrée (type jeu de plateau) (cf [Battle for Wesnoth](/assets/504_wesnoth.png))
+- exemple de tileset vu du haut  
+    - tileset minimal; en bas le tilest en haut un exemple d'utilisation ![topdown tileset minimal](/assets/mine/tiles-example-02_minimal_blank_4px.png)
+    - tileset minimal - avec légende ![topdown tile minimal legend](/assets/mine/tiles-example-02_minimal_legende_4px.png)
+    - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales ![topdown tileset medium basis](/assets/mine/tiles-example-02_median_A_basis_4px.png) 
+    - tileset médian - détails ![topdown tileset medium details](/assets/mine/tiles-example-02_median_B_details_4px.png)
+    - tileset médian - légende ![topdown tileset medium legend](/assets/mine/tiles-example-02_median_C_legend_4px.png)
 
 **références**  
 Chrono Trigger, par Square
