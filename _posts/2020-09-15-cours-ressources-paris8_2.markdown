@@ -107,7 +107,8 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
     - crop tool (C)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
 - fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
-- courbes! (cf image lien)
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3
+    ![courbes](/assets/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
