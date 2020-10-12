@@ -19,6 +19,12 @@ permalink: /cours/creation_gestion_ressources_3.html
     - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid)
     - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor)
     - vue de haut non-carrée (type jeu de plateau) (cf [Battle for Wesnoth](/assets/504_wesnoth.png))
+- exemple de tileset vu du haut  
+    - tileset minimal; en bas le tilest en haut un exemple d'utilisation ![topdown tileset minimal](/assets/mine/tiles-example-02_minimal_blank_4px.png)
+    - tileset minimal - avec légende ![topdown tile minimal legend](/assets/mine/tiles-example-02_minimal_legende_4px.png)
+    - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales ![topdown tileset medium basis](/assets/mine/tiles-example-02_median_A_basis_4px.png) 
+    - tileset médian - détails ![topdown tileset medium details](/assets/mine/tiles-example-02_median_B_details_4px.png)
+    - tileset médian - légende ![topdown tileset medium legend](/assets/mine/tiles-example-02_median_C_legend_4px.png)
 
 **références**  
 Chrono Trigger, par Square
