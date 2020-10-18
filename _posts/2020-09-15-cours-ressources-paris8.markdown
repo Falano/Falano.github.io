@@ -253,6 +253,7 @@ autres:
     - commencer avec une silhouette monochrome pour être sûr qu'elle soit bien lisible
 - PENSER À DÉZOOMER RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
     - mettre une deuxième fenêtre de krita dézoomée si besoin
+- ORGANISATION DU PROJET (couper en petits bouts finis) (cf [Annexes X.2b](/cours/creation_gestion_ressources_0.html))
 
 [ ](2. fin lundi matin 1 moins lisi, moins formats)
 
@@ -581,7 +582,7 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
         - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 2) notions de game design
+## 2a) notions de game design
 - si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
 - lisibilité (cf II.2)
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
@@ -591,6 +592,27 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
         - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
+
+## 2b) notions de fabrication de jeu
+(ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
+- vous serez en retard sur le planning
+    - prévoyez un temps conséquent pour résoudre les bugs.
+        - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
+            - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
+    - faites un jeu modulaire
+        - globalement identifiez ce qui est essentiel et commencez par là, et faites le cool mais optionel en dernier.
+            - beaucoup plus de choses sont optionnelles qu'on ne croit.
+        - pour les jeux où les mécaniques de jeu sont importantes: isolez le centre, la partie la plus importante du jeu, et commencez par là. Une fois que ça marche bien, vous pouvez en ajouter une autre. Une fois qu'elle marche bien et se mèle bien à l'autre, ajoutez-en une troisième.
+        - pour les jeux où il y a de la narration: faites le début. Faites la fin. Puis faites le milieu. Comme ça si vous n'avez pas eu le temps de faire le milieu on ne s'en rendra pas compte.
+        - pour les jeux où les graphismes sont importants: faites des placeholders qui vous satisfont mais ne sont pas parfaits, et sachez que vous pourrez les retravailler après.
+    - d'expérience: si vous vous dites: après le rendu je finirai / polirai / ajouterai ce truc cool, il y a 96,8% de chances que vous ne le fassiez pas.
+- FAITES TESTER VOTRE JEU
+    - c'est important
+- la présence de son a une importance disproportionnée: si vous passez une heure à faire un son basique, ça aura à peu près autant d'impact que si vous passiez vingt heures à fignoler les assets graphiques.
+- éventuellement: faites un niveau de test, juste pour vous, avec les différentes parties du jeu toutes ensembles, histoire si vous devez tester un boss de ne pas avoir à rejouer tout le jeu.
+    - alternativement ou en plus: des cheat keys.
+        - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
+        - ou des raccourcis vers de niveaux.
 
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
