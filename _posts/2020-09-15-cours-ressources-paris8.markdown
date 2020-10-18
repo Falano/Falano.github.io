@@ -740,5 +740,12 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
     - **hue shifting**: le fait de changer la teinte d'une couleur en fonction de sa clarté au lieu de la rendre uniquement plus claire ou plus sombre
     - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
+- **frame**:
+    - soit une image d'une animation, en tant que plus petit élément de temps disponible
+    - soit une image de l'animation dessinée par un être humain.
+        - cf la différence entre le "frame rate" (plus petit élément de temps) et "new frame" (image dessinée)
+    - **keyframe**: image clé; peut signifier
+        - soit une image d'une animation sur laquelle on a effectué des changements (ce qui correspond à la deuxième définition de "frame")
+        - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire directement entre deux images clés.
 
 {% endcomment %}
