@@ -16,6 +16,7 @@ permalink: /cours/creation_gestion_ressources_4.html
 - effets sonores / musique
 - (enregistrer / télécharger)->(modifier) / produire numériquement
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
+- à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
 - couper un son au plus près, sans plage de silence au début (surtout pour les effets sonores d'action, dont il ne faut pas qu'ils soient en retard)
 - éviter les différences de niveau trop importantes
@@ -72,13 +73,12 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 ## 4) musique
 - enregistrer sa musique: -> enregistreur + audacity
 - générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
-    - avec un logiciel d'écritures de partitions qui exporte en MIDI [](TODO: y a pas une étape supplémentaire pour mettre du beau son sur le midi?)
+    - avec un logiciel d'écritures de partitions qui exporte en MIDI
         - musescore
-        - lilypond
+            - plein de soundfonts incluses de base
     - avec un logiciel de création de musique
         - https://beepbox.co/ (musique bitbox, simple d'utilisation)
         - LMMS? [](TODO: )
-        - Yoshimi? [](TODO: )
 - télécharger une musique sous licence libre
 
 ## 5) les formats audio
