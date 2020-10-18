@@ -81,7 +81,7 @@ permalink: /cours/creation_gestion_ressources_0.html
         - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 2) notions de game design
+## 2a) notions de game design
 - si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
 - lisibilité (cf II.2)
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
@@ -92,6 +92,27 @@ permalink: /cours/creation_gestion_ressources_0.html
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
         - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
 
+## 2b) notions de fabrication de jeu
+(ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
+- vous serez en retard sur le planning
+    - prévoyez un temps conséquent pour résoudre les bugs.
+        - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
+            - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
+    - faites un jeu modulaire
+        - globalement identifiez ce qui est essentiel et commencez par là, et faites le cool mais optionel en dernier.
+            - beaucoup plus de choses sont optionnelles qu'on ne croit.
+        - pour les jeux où les mécaniques de jeu sont importantes: isolez le centre, la partie la plus importante du jeu, et commencez par là. Une fois que ça marche bien, vous pouvez en ajouter une autre. Une fois qu'elle marche bien et se mèle bien à l'autre, ajoutez-en une troisième.
+        - pour les jeux où il y a de la narration: faites le début. Faites la fin. Puis faites le milieu. Comme ça si vous n'avez pas eu le temps de faire le milieu on ne s'en rendra pas compte.
+        - pour les jeux où les graphismes sont importants: faites des placeholders qui vous satisfont mais ne sont pas parfaits, et sachez que vous pourrez les retravailler après.
+    - d'expérience: si vous vous dites: après le rendu je finirai / polirai / ajouterai ce truc cool, il y a 96,8% de chances que vous ne le fassiez pas.
+- FAITES TESTER VOTRE JEU
+    - c'est important
+- la présence de son a une importance disproportionnée: si vous passez une heure à faire un son basique, ça aura à peu près autant d'impact que si vous passiez vingt heures à fignoler les assets graphiques.
+- éventuellement: faites un niveau de test, juste pour vous, avec les différentes parties du jeu toutes ensembles, histoire si vous devez tester un boss de ne pas avoir à rejouer tout le jeu.
+    - alternativement ou en plus: des cheat keys.
+        - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
+        - ou des raccourcis vers de niveaux.
+
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
@@ -100,6 +121,21 @@ permalink: /cours/creation_gestion_ressources_0.html
         - **CC-BY-SA-NC**: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
         - **CC-BY-ND**: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
         - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
+
+## 3b) Ressources externes
+-/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
+- ressources audio
+    - sons
+        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
+        - https://freesound.org/ : un site de sons CC (licences différentes par son)
+        - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
+        - https://kenney.nl/assets?q=audio (assets graphiques et audio CC-0)
+    - musique
+        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste de sites de musique libre)
+        - https://audionautix.com/ (site de musiques CC-BY)
+        - https://freemusicarchive.org/ (site de musiques CC)
+        - https://filmmusic.io/search (site de musiques principalement CC BY)
+        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques gratuites avec attribution)
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
@@ -150,3 +186,10 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
     - **hue shifting**: le fait de changer la teinte d'une couleur en fonction de sa clarté au lieu de la rendre uniquement plus claire ou plus sombre
     - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
+- **frame**:
+    - soit une image d'une animation, en tant que plus petit élément de temps disponible
+    - soit une image de l'animation dessinée par un être humain.
+        - cf la différence entre le "frame rate" (plus petit élément de temps) et "new frame" (image dessinée)
+    - **keyframe**: image clé; peut signifier
+        - soit une image d'une animation sur laquelle on a effectué des changements (ce qui correspond à la deuxième définition de "frame")
+        - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire directement entre deux images clés.
