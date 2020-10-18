@@ -470,13 +470,13 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 ## 4) musique
 - enregistrer sa musique: -> enregistreur + audacity
 - générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
-    - avec un logiciel d'écritures de partitions qui exporte en MIDI (TODO: y a pas une étape supplémentaire pour mettre du beau son sur le midi?)
+    - avec un logiciel d'écritures de partitions qui exporte en MIDI [](TODO: y a pas une étape supplémentaire pour mettre du beau son sur le midi?)
         - musescore
         - lilypond
     - avec un logiciel de création de musique
         - https://beepbox.co/ (musique bitbox, simple d'utilisation)
-        - LMMS? (TODO: )
-        - Yoshimi? (TODO: )
+        - LMMS? [](TODO: )
+        - Yoshimi? [](TODO: )
 - télécharger une musique sous licence libre
 
 ## 5) les formats audio
