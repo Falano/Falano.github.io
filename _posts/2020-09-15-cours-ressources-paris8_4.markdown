@@ -82,12 +82,12 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - télécharger une musique sous licence libre
 
 ## 5) les formats audio
-- .aup: format de travail de audacity
-- .flac: très bonne qualité (lossless), comparativement relativement léger, open source
-- .mp3: pas très bonne qualité (compressé), très léger, lisible presque partout (le jpg du son)
-- .aiff: historiquement le format bonne qualité de mac (sans compression); assez lourd
-- .wav: historiquement le format bonne qualité de windows (sans compression); assez lourd mais rapide à lire pour godot; **lisible par godot**, conseillé pour les bruitages
-- .ogg: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
+- **.aup**: format de travail de audacity
+- **.flac**: très bonne qualité (lossless), comparativement relativement léger, open source
+- **.mp3**: pas très bonne qualité (compressé), très léger, lisible presque partout (le jpg du son)
+- **.aiff**: historiquement le format bonne qualité de mac (sans compression); assez lourd
+- **.wav**: historiquement le format bonne qualité de windows (sans compression); assez lourd mais rapide à lire pour godot; **lisible par godot**, conseillé pour les bruitages
+- **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
 
 
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
