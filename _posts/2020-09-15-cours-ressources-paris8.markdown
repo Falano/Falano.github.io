@@ -209,7 +209,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
 - exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.kra, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File>Export" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.kra, MonPersonnage-02-couleur.kra, etc.)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
-- essayer de se créer des ressources réutilisables (tilemaps, icones)
+- essayer de se créer des ressources réutilisables (tilemaps, icones, UI)
 - git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
 - plusieurs supports de sauvegarde des fichiers importants
 
