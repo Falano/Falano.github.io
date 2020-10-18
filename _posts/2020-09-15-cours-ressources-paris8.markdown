@@ -322,9 +322,9 @@ Freecol, par Tout Un Tas De Gens C'est Open Source: <http://www.freecol.org>
 Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://www.wesnoth.org/>
 
 ## 2) Krita: 4
-- grilles
-    - grilles isométriques
-- wrap around mode
+- grilles (Dockers > Grid and Guides)
+    - grilles isométriques (dans le docker Grid and Guides > Type: Isometric; Left angle: 28°; Right angle: 27°) (cf [un fichier .kra avec une grille isométrique](/assets/mine/isoGrid.kra)) <details>- grille isométrique ![grille isometrique](/assets/mine/isoGrid.png)
+- wrap around mode (View > Wrap Around Mode, ou: Affichage > Mode Enveloppant)
 - remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
 {% comment %}
@@ -359,8 +359,9 @@ Maxim Massalitin, [Désert des Agriates](https://commons.wikimedia.org/wiki/File
 NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif) sur wikimedia commons  
 
 ## 4) Krita: 5
-- outils perspective
-    - règle parallèle / parallel ruler
+- outils perspective (Assistant Tool (icône en équerre))
+    - /!\ ne pas oublier de cocher "snap to assistant" sur la brosse une fois les assistants mis en place
+    - règle parallèle / parallel ruler (dans les Tool Options de l'outil Assistant)
     - concentric ellipse
     - vanishing point et perspective (pas utile pour des tilemaps)
 - outils forme (*shift* pour conserver la proportion 1/1)
