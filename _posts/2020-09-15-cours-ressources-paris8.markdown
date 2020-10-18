@@ -519,7 +519,17 @@ quelques principes généraux d'animation: [https://www.youtube.com/watch?v=uDqj
 	- cliquer sur le 0 pour le désactiver complètement
 	- il faut l'activer pour chaque calque
 
-## 99) Plus de références (principalement en anglais)
+## 3) export
+- suite d'images
+    - __TODO__
+- spritesheet
+    - krita
+        - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
+    - gimp
+        - __TODO__
+
+
+## 99) Plus de ressources (principalement en anglais)
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
@@ -543,6 +553,9 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
 à venir
 
+
+# VII. Utilisation de ressources graphiques externes
+1) importer une spritesheet dans krita
 
 # X. Annexes
 ## 1) schéma de l'interface de Krita
