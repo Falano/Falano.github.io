@@ -28,6 +28,8 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 --> pour se familiariser avec l'interface de krita  
 --  
 
+[](fin lundi matin 1 (plus un peu de krita2) --)
+
 ## 2) lisibilité
 - personnage/fond: que le perso se détache sur le fond
 - plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
@@ -35,11 +37,11 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
     - dead cells design clair
 - personnages entre eux: qu'ils soient facilement différenciables
 - personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
-- fond/fond: premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur; en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe qui peut cacher des éléments importants au gameplay)
+- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
 
 **références**  
-Horizon Zero Dawn, par Guerilla Games: https://www.guerrilla-games.com/play/horizon  
-Fantasia, par Infogrames: https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)
+Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
+Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>
 
 --  
 **EXERCICE 2**  
@@ -48,9 +50,9 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 --  
 
 ## 3) introduction à krita: 2
-- les sous-fenêtres additionnelles sont à Settings > Dockers > ?
+- les sous-fenêtres additionnelles sont à *Settings > Dockers > ?*
 - si on laisse la fenêtre sur une option son nom apparaît
-- cacher les menus: Tab
+- cacher les menus: *Tab*
 - nouveau document, ouvrir un document, etc.
 - couleurs (principale et secondaire, historique des couleurs)
 - Opacité / taille
@@ -58,11 +60,11 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques
-    - [modes de calques](/assets/400_modesCalques.png)
+    - modes de calques
         - overlay et/ou multiply pour les ombres
         - overlay et/ou normal à faible opacité pour la lumière
         - erase
-        - tester les autres pour voir ce qu'ils font
+        - tester les autres pour voir ce qu'ils font<details>![modes de calques](/assets/400_modesCalques.png)
     - groupes de calques
     - verrouiller un calque / lock layer
     - verrouiller la transparence / lock alpha
@@ -78,16 +80,19 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Options des Outils / Tool Options
 - Aperçu / Overview
 - Suppr: tout effacer
-- V cliquer-glisser: ligne droite (+ shift: 0°, 15°, 30°, 45°, etc.) (ou outil ligne / line tool)
+- *V cliquer-glisser*: ligne droite (+ *shift*: 0°, 15°, 30°, 45°, etc.) (ou outil ligne / line tool)
 - globalement, dans beaucoup de programmes graphiques:
-    - utiliser la souris et ctrl/alt/shift pour se déplacer,
-    - shift pour maintenir les proportions (par exemple quand on redimensionne)
-    - ctrl C copier, ctrl V coller, ctrl X couper, ctrl Z annuler
-    - ctrl S sauvegarder, ctrl shift S sauvegarder sous
-    - ctrl W fermer la fenêtre, ctrl Q quitter
-    - ctrl A tout sélectionner
-    - shift: ajouter à la sélection
+    - utiliser la souris et *ctrl/alt/shift* pour se déplacer,
+    - *shift* pour maintenir les proportions (par exemple quand on redimensionne)
+    - *ctrl C* copier, *ctrl V* coller, *ctrl X* couper, *ctrl Z* annuler
+    - *ctrl S* sauvegarder, *ctrl shift S* sauvegarder sous
+    - *ctrl W* fermer la fenêtre, *ctrl Q* quitter
+    - *ctrl A* tout sélectionner
+    - *shift*: ajouter à la sélection
 - transparence!
+
+[](fin lundi aprèm 1 moins lisibilité plus formats)
+[](fin mercredi aprèm 1 + gestion ressources + formats - lisibilité)
 
 --  
 **EXERCICE 3**  
@@ -95,20 +100,21 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 --> pour se familiariser avec les calques  
 --  
 
+[](fin lundi matin 2 moins lisi fond/fond, plus formats)
+
 ## 4) introduction à krita: 3
 - outils de sélection
 - outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
-- Fill tool (le seau) (F)
-- outils de déplacement (T) et déformation (ctrl T) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
+- Fill tool (le seau) (*F*)
+- outils de déplacement (*T*) et déformation (*ctrl T*) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
 - redimensionnement
-    - redimensionnement de l'image (Image > Scale Image to New Size, Filtre: nearest neighbout, utiliser un multiple entier de la taille actuelle)
-    - redimensionnement du canevas (Image > Resize Canvas)
+    - redimensionnement de l'image (*Image > Scale Image to New Size*, *Filtre: nearest neighbour*, utiliser un multiple entier de la taille actuelle)
+    - redimensionnement du canevas (*Image > Resize Canvas*)
     - mode de redimensionnement: plus proche voisin / nearest neighbour
-    - crop tool (C)
+    - crop tool (*C*)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
-- fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
-- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3
-    ![courbes](/assets/mine/courbes.png)
+- fenêtre secondaire de prévisualisation: *Window > New Window; Window > New View; Tab; 1; mettre au premier plan*
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3 <details>![courbes](/assets/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
@@ -121,7 +127,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
 - exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.kra, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File>Export" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.kra, MonPersonnage-02-couleur.kra, etc.)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
-- essayer de se créer des ressources réutilisables (tilemaps, icones)
+- essayer de se créer des ressources réutilisables (tilemaps, icones, UI)
 - git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
 - plusieurs supports de sauvegarde des fichiers importants
 
@@ -143,6 +149,9 @@ autres:
 - **.psd**: fichier de travail de photoshop
 - **.pdf**: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
 
+[](fin lun aprèm 2 moins lisi fond)
+[](fin mercr aprèm 2 moins lisi)
+
 ## 7) un chouilla de théorie des couleurs
 - éviter a priori les couleurs trop saturées
     - éviter encore plus deux complémentaires très saturées côte-à-côte; ça brûle les yeux
@@ -162,6 +171,9 @@ autres:
     - commencer avec une silhouette monochrome pour être sûr qu'elle soit bien lisible
 - PENSER À DÉZOOMER RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
     - mettre une deuxième fenêtre de krita dézoomée si besoin
+- ORGANISATION DU PROJET (couper en petits bouts finis) (cf [Annexes X.2b](/cours/creation_gestion_ressources_0.html))
+
+[ ](2. fin lundi matin 1 moins lisi, moins formats)
 
 ## 99) plus de ressources (principalement en anglais)
 - le [canal youtube de Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
@@ -202,6 +214,7 @@ Des lignes de pixels posées rapidement semblent irrégulières et désordonnée
 ![Bruit](/assets/arnesTuto/06_Noise.gif)  
 Du bruit et des pixels inutilement orphelins (non reliés à d'autres pixels de la même couleur), c'est ce qu'on obtient quand on essaie d'incorporer trop de détails. Il est tentant d'en inclure autant que possible, mais il faut considérer l'échelle du pixel art et comment être clair, et aussi la facilité d'animation (des détails lisibles sur une image pourraient être difficiles à dupliquer sur l'image suivante, légèrement tournée). L'artiste connaît peut-être l'intention derrière chaque pixel, mais le joueur généralement pas, et les verra donc probablement comme du bruit (et l'artiste aussi en y retournant plus tard).  
 Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit pour ajouter des variations dans la texture.
+
 
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
