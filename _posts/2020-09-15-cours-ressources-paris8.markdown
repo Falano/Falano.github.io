@@ -679,7 +679,7 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
         - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
         - https://freesound.org/ : un site de sons CC (licences différentes par son)
         - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
-        - https://kenney.nl/assets (assets graphiques et audio CC-0)
+        - https://kenney.nl/assets?q=audio (assets graphiques et audio CC-0)
     - musique
         - https://www.hongkiat.com/blog/creative-common-music-download/ (liste de sites de musique libre)
         - https://audionautix.com/ (site de musiques CC-BY)
