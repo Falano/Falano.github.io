@@ -385,6 +385,28 @@ importer sa tilemap de Tiled à Godot
 - un [tutoriel vidéo sur le système de tiles de godot](https://www.youtube.com/watch?v=F6VerW98gEc)
 - un [tutoriel écrit sur les tiles dans godot](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/)
 
+## 100) ressources en français
+- un [enregistrement du cours sur les tiles](https://youtu.be/RQ73GgjVDRU), incluant:
+    - 00:00 récapitulatif des outils de krita
+    - 07:13: mise à jour du site
+    - 07:50: courbes
+    - 08:45: fenêtre secondaire de visualisation
+    - 09:55: couleurs
+    - 13:34: hue shifting
+    - 17:39: personnage
+    - 18:14: organisation projet
+    - 19:40: tiles
+- un [mini-tuto pour tester ses tiles rapidement sur krita](https://youtu.be/fe0xhI8vmAQ)
+    - en gros:
+    - *ctrl R* sélectionner,
+    - *ctrl C* copier,
+    - *ctrl V* coller sur un autre calque,
+    - *T* déplacer,
+    - *ctrl E* fusionner le calque actif avec celui du dessous
+    - répéter
+
+[](2. fin L1C12)
+
 
 # IV. Son
 ## 1) intro
@@ -510,6 +532,8 @@ quelques principes généraux d'animation: [https://www.youtube.com/watch?v=uDqj
     - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
 
+## 100) Ressources en français
+- un [rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 
 # VI. UI
 https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
