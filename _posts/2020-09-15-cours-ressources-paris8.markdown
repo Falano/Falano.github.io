@@ -327,6 +327,11 @@ Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://ww
 - wrap around mode (View > Wrap Around Mode, ou: Affichage > Mode Enveloppant)
 - remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
+[](2. fin lundi aprèm 1?)
+[](2. fin merc 1?)
+[](2-3. fin lundi matin 12)
+[](2-3. fin lundi aprèm 12)
+
 {% comment %}
 ## 3) Tiled
 godot-tiled:  
