@@ -551,11 +551,15 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 ## 99) plus de ressources (principalement en anglais)
 - un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)
 
-à venir
 
-
-# VII. Utilisation de ressources graphiques externes
+# VII. Imports et exports divers
 1) importer une spritesheet dans krita
+
+2) exporter du pixel art pour des réseaux sociaux
+
+3) exporter son jeu
+- itch.io
+
 
 # X. Annexes
 ## 1) schéma de l'interface de Krita
