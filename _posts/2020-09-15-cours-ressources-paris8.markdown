@@ -7,14 +7,14 @@ permalink: /cours/creation_gestion_ressources.html
 ---
 
 L'adresse de ce cours: 
-https://falano.github.io/cours/creation_gestion_ressources.html
+<https://falano.github.io/cours/creation_gestion_ressources.html>
 
 Mon email: noemie. scherer @ gmail. com  
 N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
 
 Programmes utilisés pendant le cours:  
-Krita: https://krita.org/fr/telechargement/krita-desktop/  
-Audacity: https://www.audacityteam.org/download/  
+Krita: <https://krita.org/fr/telechargement/krita-desktop/>  
+Audacity: <https://www.audacityteam.org/download/>  
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
@@ -22,9 +22,9 @@ Audacity: https://www.audacityteam.org/download/
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
+
 {% comment %}
-TODO: check all translations of tool names!
-!! ne pas oublier de faire un récap en début de cours
+[](!! ne pas oublier de faire un récap en début de cours)
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 ## 1) présentation du cours
@@ -34,7 +34,7 @@ TODO: check all translations of tool names!
     - animation
     - décors
         - peints
-        - assemblés avec une tilemap ![(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
+        - assemblés avec une tilemap <details>![(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
 - son avec audacity (qui a des écouteurs?)
     - logiciel d'écriture musicale?
 - gestion de ressources
@@ -42,52 +42,53 @@ TODO: check all translations of tool names!
 
 ## 2) présentation du pixel art
 pourquoi krita: autres logiciels (gimp, etc.)  
-pourquoi le pixel art: relativement simple (cf [Selfless Heroes](/assets/003_selflessHeroes.png), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner  
+pourquoi le pixel art: relativement simple (cf Selfless Heroes), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes ![Selfless Heroes](/assets/003_selflessHeroes.png)
+
 présentation et historique du pixel art:  
-- absence d'[antialiasing/anticrénelage](/assets/000_anti-aliasing.png) automatique (-> options des outils)
-- racines du pixel art dans des contraintes techniques (cf [pokemon red](/assets/100_pokemon.jpg), [mario](/assets/101_mario.jpg), la [palette de couleurs](/assets/102_nes_palette.jpg) de la console nes, [final fantasy 6](/assets/103_ff6.jpg))
+- absence d'antialiasing/anticrénelage automatique (-> options des outils)<details>![antialiasing/anticrénelage](/assets/000_anti-aliasing.png)
+- racines du pixel art dans des contraintes techniques (cf pokemon red, mario, la palette de couleurs de la console nes, final fantasy 6)
     - nombre de pixels limité
-    - nombre de couleurs limité (cf [dithering](/assets/001_dithering.png))
-    - utilisation de tilemaps
+    - nombre de couleurs limité (cf dithering)
+    - utilisation de tilemaps <details> - pokemon red ![pokemon red](/assets/100_pokemon.jpg) <br> - mario ![mario](/assets/101_mario.jpg) <br> - la palette de couleurs de la console nes ![palette nes](/assets/102_nes_palette.jpg) <br> - final fantasy 6 ![final fantasy 6](/assets/103_ff6.jpg) <br> - dithering ![dithering](/assets/001_dithering.png)
 - pixel art actuel
-    - nostalgie et aspect rétro ou préférence graphique (cf [A short Hike](/assets/113_aShortHike.png), [owlboy](/assets/107_owlboy_gd.png), [celeste](/assets/109_celeste.png))
+    - nostalgie et aspect rétro ou préférence graphique (cf A short Hike, Owlboy, Celeste) <details> - A short Hike ![A short Hike](/assets/113_aShortHike.png) <br> - Owlboy ![owlboy](/assets/107_owlboy_gd.png) <br> - Celeste ![celeste](/assets/109_celeste.png)
     - utilisation pour la vitesse/facilité d'exécution
-        - jeux de game jam ([gophers](/assets/105_gophers.png), [roguelight](/assets/106_roguelight.png); cf [Annexes X.4](/cours/creation_gestion_ressources_0.html)), une explication et une liste de game jams
-        - jeux indé ([hyperlight drifter](/assets/108_hyperLightDrifter.png))
-    - utilisation mixte avec des technologies récentes ([fez](/assets/110_fez.png), [dead cells](/assets/111_Dead-Cells.jpg), [the last night](/assets/112_TheLastNight.jpg))
-- utilisation hors jeux (illustration ([exemple 1](/assets/114_jindrich-stejskal.gif), [exemple 2](/assets/115_jubilee.png)))
+        - jeux de game jam (Gophers, Roguelight; cf [Annexes X.4](/cours/creation_gestion_ressources_0.html)), une explication et une liste de game jams
+        - jeux indé (Hyperlight Drifter) <details> - Gophers ![gophers](/assets/105_gophers.png) <br> - Roguelight ![roguelight](/assets/106_roguelight.png) <br> - Hyperlight Drifter ![hyperlight drifter](/assets/108_hyperLightDrifter.png)
+    - utilisation mixte avec des technologies récentes (Fez, Dead Cells, The last Night) <details> - Fez ![fez](/assets/110_fez.png) <br> - Dead Cells ![dead cells](/assets/111_Dead-Cells.jpg) <br> - The last Night ![the last night](/assets/112_TheLastNight.jpg)
+- utilisation hors jeux (illustration) <details> - Jindrich Stejskal ![exemple 1](/assets/114_jindrich-stejskal.gif) <br> - Jubilee ![exemple 2](/assets/115_jubilee.png)
 
 **références**  
-Selfless Heroes, par Félicien Brochu: [https://selflessheroes.fr/](https://selflessheroes.fr/)  
+Selfless Heroes, par Félicien Brochu: <https://selflessheroes.fr/>  
 Pokemon Version Rouge Feu, par Nintendo  
 Super Mario Bros, par Nintendo  
 Final Fantasy 6, par Square Enix  
-A Short Hike, par Adam Robinson-Yu: [http://ashorthike.com/](http://ashorthike.com/)  
-Owlboy, par D-Pad Studio: [http://www.owlboygame.com/](http://www.owlboygame.com/)  
-Celeste, par Matt Makes Games: [http://www.celestegame.com/](http://www.celestegame.com/)  
-Gophers, par Hyperlink Your Heart: [https://hyperlinkyourheart.itch.io/gophers](https://hyperlinkyourheart.itch.io/gophers)  
-Roguelight, par Daniel Linssen: [https://managore.itch.io/roguelight](https://managore.itch.io/roguelight)  
-Hyperlight Drifter, par Heart Machine: [https://heartmachine.com/hyper-light](https://heartmachine.com/hyper-light)  
-Fez, par Polytron: [http://fezgame.com/](http://fezgame.com/)  
-Dead Cells, par Motion Twin: [https://dead-cells.com/](https://dead-cells.com/)  
-The Last Night, par Odd Tales: [http://oddtales.net/](http://oddtales.net/)  
-The World is Leaking, par Jindrich Stejskal: [https://www.artstation.com/artwork/QzA3D4](https://www.artstation.com/artwork/QzA3D4)  
-Summer's Passing, par Jubilee Payne: [https://www.artstation.com/artwork/w8eebY](https://www.artstation.com/artwork/w8eebY)  
+A Short Hike, par Adam Robinson-Yu: <http://ashorthike.com/>  
+Owlboy, par D-Pad Studio: <http://www.owlboygame.com/>  
+Celeste, par Matt Makes Games: <http://www.celestegame.com/>  
+Gophers, par Hyperlink Your Heart: <https://hyperlinkyourheart.itch.io/gophers>  
+Roguelight, par Daniel Linssen: <https://managore.itch.io/roguelight>  
+Hyperlight Drifter, par Heart Machine: <https://heartmachine.com/hyper-light>  
+Fez, par Polytron: <http://fezgame.com/>  
+Dead Cells, par Motion Twin: <https://dead-cells.com/>  
+The Last Night, par Odd Tales: <http://oddtales.net/>  
+The World is Leaking, par Jindrich Stejskal: <https://www.artstation.com/artwork/QzA3D4>  
+Summer's Passing, par Jubilee Payne: <https://www.artstation.com/artwork/w8eebY>  
 game jams: cf [Annexes X.4](/cours/creation_gestion_ressources_0.html), une explication et une liste de game jams
 
 ## 3) considérations générales
 - de l'importance de savoir chercher sur internet
-- penser à utiliser des références pour dessiner (cf [dessin médiéval d'éléphant par des gens qui n'en avaient jamais vu](/assets/200_elephant.jpg))
+- penser à utiliser des références pour dessiner (cf un dessin médiéval d'éléphant par des gens qui n'en avaient jamais vu) <details> ![manuscrit](/assets/200_elephant.jpg)
 - l'anglais c'est pratique, la majorité de la documentation est en anglais
 
 **références**  
-un manuscrit du 13ème siècle: https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_12_f_xiii page f.11v
+un manuscrit du 13ème siècle: <https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_12_f_xiii> page f.11v
 
 ## 4) jeux cools sans savoir dessiner
 cf [Annexes X.5](/cours/creation_gestion_ressources_0.html), une liste de jeux cools
-- video de gameplay (et, avant la minute donnée dans le lien, timelapse de dessin des assets) de gophers: [https://youtu.be/0jPLMCfSE0w?t=348](https://youtu.be/0jPLMCfSE0w?t=348)
-- 
-TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.
+- video de gameplay (et, avant la minute donnée dans le lien, timelapse de dessin des assets) de gophers: <https://youtu.be/0jPLMCfSE0w?t=348>
+
+[](TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.)
 
 # II. krita
 ## 1) introduction à krita: 1
@@ -109,7 +110,7 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 --> pour se familiariser avec l'interface de krita  
 --  
 
--- fin lundi matin 1 (plus un peu de krita2) --
+[](fin lundi matin 1 (plus un peu de krita2) --)
 
 ## 2) lisibilité
 - personnage/fond: que le perso se détache sur le fond
@@ -118,11 +119,11 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
     - dead cells design clair
 - personnages entre eux: qu'ils soient facilement différenciables
 - personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
-- fond/fond: premier plan en [illustration](/assets/300_horizonZeroDawn.jpg): ajoute de la profondeur; en [level design](301_fantasiaInfogrames_gd.png): gaffe à la parallaxe qui peut cacher des éléments importants au gameplay)
+- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
 
 **références**  
-Horizon Zero Dawn, par Guerilla Games: https://www.guerrilla-games.com/play/horizon  
-Fantasia, par Infogrames: https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)
+Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
+Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>
 
 --  
 **EXERCICE 2**  
@@ -131,9 +132,9 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 --  
 
 ## 3) introduction à krita: 2
-- les sous-fenêtres additionnelles sont à Settings > Dockers > ?
+- les sous-fenêtres additionnelles sont à *Settings > Dockers > ?*
 - si on laisse la fenêtre sur une option son nom apparaît
-- cacher les menus: Tab
+- cacher les menus: *Tab*
 - nouveau document, ouvrir un document, etc.
 - couleurs (principale et secondaire, historique des couleurs)
 - Opacité / taille
@@ -141,11 +142,11 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques
-    - [modes de calques](/assets/400_modesCalques.png)
+    - modes de calques
         - overlay et/ou multiply pour les ombres
         - overlay et/ou normal à faible opacité pour la lumière
         - erase
-        - tester les autres pour voir ce qu'ils font
+        - tester les autres pour voir ce qu'ils font<details>![modes de calques](/assets/400_modesCalques.png)
     - groupes de calques
     - verrouiller un calque / lock layer
     - verrouiller la transparence / lock alpha
@@ -161,19 +162,19 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - Options des Outils / Tool Options
 - Aperçu / Overview
 - Suppr: tout effacer
-- V cliquer-glisser: ligne droite (+ shift: 0°, 15°, 30°, 45°, etc.) (ou outil ligne / line tool)
+- *V cliquer-glisser*: ligne droite (+ *shift*: 0°, 15°, 30°, 45°, etc.) (ou outil ligne / line tool)
 - globalement, dans beaucoup de programmes graphiques:
-    - utiliser la souris et ctrl/alt/shift pour se déplacer,
-    - shift pour maintenir les proportions (par exemple quand on redimensionne)
-    - ctrl C copier, ctrl V coller, ctrl X couper, ctrl Z annuler
-    - ctrl S sauvegarder, ctrl shift S sauvegarder sous
-    - ctrl W fermer la fenêtre, ctrl Q quitter
-    - ctrl A tout sélectionner
-    - shift: ajouter à la sélection
+    - utiliser la souris et *ctrl/alt/shift* pour se déplacer,
+    - *shift* pour maintenir les proportions (par exemple quand on redimensionne)
+    - *ctrl C* copier, *ctrl V* coller, *ctrl X* couper, *ctrl Z* annuler
+    - *ctrl S* sauvegarder, *ctrl shift S* sauvegarder sous
+    - *ctrl W* fermer la fenêtre, *ctrl Q* quitter
+    - *ctrl A* tout sélectionner
+    - *shift*: ajouter à la sélection
 - transparence!
 
--- fin lundi aprèm 1 moins lisibilité plus formats--
--- fin mercredi aprèm 1 + gestion ressources + formats - lisibilité --
+[](fin lundi aprèm 1 moins lisibilité plus formats)
+[](fin mercredi aprèm 1 + gestion ressources + formats - lisibilité)
 
 --  
 **EXERCICE 3**  
@@ -181,22 +182,21 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 --> pour se familiariser avec les calques  
 --  
 
--- fin lundi matin 2 moins lisi fond/fond, plus formats --
+[](fin lundi matin 2 moins lisi fond/fond, plus formats)
 
 ## 4) introduction à krita: 3
 - outils de sélection
 - outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
-- Fill tool (le seau) (F)
-- outils de déplacement (T) et déformation (ctrl T) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
+- Fill tool (le seau) (*F*)
+- outils de déplacement (*T*) et déformation (*ctrl T*) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
 - redimensionnement
-    - redimensionnement de l'image (Image > Scale Image to New Size, Filtre: nearest neighbout, utiliser un multiple entier de la taille actuelle)
-    - redimensionnement du canevas (Image > Resize Canvas)
+    - redimensionnement de l'image (*Image > Scale Image to New Size*, *Filtre: nearest neighbour*, utiliser un multiple entier de la taille actuelle)
+    - redimensionnement du canevas (*Image > Resize Canvas*)
     - mode de redimensionnement: plus proche voisin / nearest neighbour
-    - crop tool (C)
+    - crop tool (*C*)
 - mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
-- fenêtre secondaire de prévisualisation: Window > New Window; Window > New View; Tab; 1; mettre au premier plan
-- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3
-    ![courbes](/assets/mine/courbes.png)
+- fenêtre secondaire de prévisualisation: *Window > New Window; Window > New View; Tab; 1; mettre au premier plan*
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3 <details>![courbes](/assets/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
@@ -231,8 +231,8 @@ autres:
 - **.psd**: fichier de travail de photoshop
 - **.pdf**: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
 
--- fin lun aprèm 2 moins lisi fond --
--- fin mercr aprèm 2 moins lisi --
+[](fin lun aprèm 2 moins lisi fond)
+[](fin mercr aprèm 2 moins lisi)
 
 ## 7) un chouilla de théorie des couleurs
 - éviter a priori les couleurs trop saturées
@@ -254,7 +254,7 @@ autres:
 - PENSER À DÉZOOMER RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
     - mettre une deuxième fenêtre de krita dézoomée si besoin
 
--- 2. fin lundi matin 1 moins lisi, moins formats --
+[ ](2. fin lundi matin 1 moins lisi, moins formats)
 
 ## 99) plus de ressources (principalement en anglais)
 - le [canal youtube de Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
@@ -302,25 +302,23 @@ Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit 
 - doivent s'emboîter sans que ça se voie
 	- pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs) (cf: [chrono trigger](/assets/501_chronoTrigger.png), stardew valley)
-    - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid)
-    - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor)
-    - vue de haut non-carrée (type jeu de plateau) (cf [Battle for Wesnoth](/assets/504_wesnoth.png))
-- exemple de tileset vu du haut  
-    - tileset minimal; en bas le tilest en haut un exemple d'utilisation ![topdown tileset minimal](/assets/mine/tiles-example-02_minimal_blank_4px.png)
-    - tileset minimal - avec légende ![topdown tile minimal legend](/assets/mine/tiles-example-02_minimal_legende_4px.png)
-    - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales ![topdown tileset medium basis](/assets/mine/tiles-example-02_median_A_basis_4px.png) 
-    - tileset médian - détails ![topdown tileset medium details](/assets/mine/tiles-example-02_median_B_details_4px.png)
-    - tileset médian - légende ![topdown tileset medium legend](/assets/mine/tiles-example-02_median_C_legend_4px.png)
+    - vu de haut (jrpgs) (cf: chrono trigger, stardew valley, ff6)<details> - chrono trigger ![chrono trigger](/assets/501_chronoTrigger.png) <br> - stardew valley ![stardew valley](/assets/502_stardewValley.jpg) <br> - final fantasy 6 ![ff6](/assets/103_ff6.jpg)
+    - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid, celeste) <details> - braid ![braid](/assets/503_braid.jpg) <br> - super meat boy ![super meat boy](/assets/504_superMeatBoy.jpg) <br> - super metroid ![super metroid](/assets/505_superMetroid.png) <br> - celeste ![celeste](/assets/109_celeste.png)
+    - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor, freecol) <details> - transistor ![transistor](/assets/506_transistor.jpg) <br> - freecol ![freecol](/assets/507_freecol.jpg)
+    - vue de haut non-carrée (type jeu de plateau); supporté par Godot (cf Battle for Wesnoth) <details> - battle for wesnoth ![wesnoth](/assets/508_wesnoth.jpg)
+- exemples de tileset vu du haut avec explications <details> - tileset minimal; en bas le tilest en haut un exemple d'utilisation <br> ![topdown tileset minimal](/assets/mine/tiles-example-02_minimal_blank_4px.png) <br> - tileset minimal - avec légende <br> ![topdown tile minimal legend](/assets/mine/tiles-example-02_minimal_legende_4px.png) <br> - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales <br> ![topdown tileset medium basis](/assets/mine/tiles-example-02_median_A_basis_4px.png) <br> - tileset médian - détails <br> ![topdown tileset medium details](/assets/mine/tiles-example-02_median_B_details_4px.png) <br> - tileset médian - légende <br> ![topdown tileset medium legend](/assets/mine/tiles-example-02_median_C_legend_4px.png)
 
 **références**  
-Chrono Trigger, par Square
-Stardew Valley, par Concerned Ape: https://www.stardewvalley.net/
-Super Meat Boy, par Team Meat: http://www.supermeatboy.com/
-Braid, par Jonathan Blow: https://www.gog.com/game/braid
-Super Metroid, par Nintendo
-Transistor, par Supergiant Games: https://www.supergiantgames.com/games/transistor/
-Battle for Wesnoth, par Tout Un Tas De Gens C'est Open Source: https://www.wesnoth.org/
+Chrono Trigger, par Square  
+Stardew Valley, par Concerned Ape: <https://www.stardewvalley.net/>  
+Final Fantasy 6, par Square Enix  
+Super Meat Boy, par Team Meat: <http://www.supermeatboy.com/>  
+Braid, par Jonathan Blow: <https://www.gog.com/game/braid>  
+Super Metroid, par Nintendo  
+Celeste, par Matt Makes Games: <http://www.celestegame.com/>  
+Transistor, par Supergiant Games: <https://www.supergiantgames.com/games/transistor/>  
+Freecol, par Tout Un Tas De Gens C'est Open Source: <http://www.freecol.org>  
+Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://www.wesnoth.org/>
 
 ## 2) Krita: 4
 - grilles
@@ -328,14 +326,12 @@ Battle for Wesnoth, par Tout Un Tas De Gens C'est Open Source: https://www.wesno
 - wrap around mode
 - remplir une zone d'une tile répétée: select tile > pattern icon (entre les couleurs et le bouton d'annulation) > use as pattern > sélectionner la zone > fill tool > use pattern
 
--- 2. fin lundi aprèm 1?
--- 2. fin merc 1?
-
+{% comment %}
 ## 3) Tiled
-godot-tiled: 
-importer: https://github.com/vnen/godot-tiled-importer -> buggy?
-exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?
-
+godot-tiled:  
+importer: https://github.com/vnen/godot-tiled-importer -> buggy?  
+exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?  
+{% endcomment %}
 --  
 **EXERCICE 5**  
 faire une tilemap, et la monter sur Krita ou Godot  
@@ -344,16 +340,22 @@ faire une tilemap, et la monter sur Krita ou Godot
 
 ## 3) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
-- perspective atmosphérique (cf Maxim Massalitin https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg)
+- perspective atmosphérique: avec la distance...
     - tout prend la teinte de l'air (en général: bleuté)
     - moins de contrastes
         - noirs moins noirs
-        - couleurs moins saturées
-- parallaxe (cf https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif TODO: find a better one)
+        - couleurs moins saturées <details> <br>![perspective atmospherique](/assets/601_persAtmo.jpg)
+- parallaxe
+    - plus c'est proche, plus ça va vite <details> <br>![parallaxe](/assets/602_Parallax_scroll.gif)
 - lumière
 	- comme unificateur (une seule source de lumière)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
 - règle des tiers (ne pas mettre de truc important tout contre le bord; il risque de ne pas être visible ou remarquable)
+
+
+**références**  
+Maxim Massalitin, [Désert des Agriates](https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg) sur wikimedia commons  
+NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif) sur wikimedia commons  
 
 ## 4) Krita: 5
 - outils perspective
