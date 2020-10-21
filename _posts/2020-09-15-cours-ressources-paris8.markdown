@@ -112,19 +112,6 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 
 [](fin lundi matin 1 (plus un peu de krita2) --)
 
-## 2) lisibilité
-- personnage/fond: que le perso se détache sur le fond
-- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
-    - supertux plateformes invisibles
-    - dead cells design clair
-- personnages entre eux: qu'ils soient facilement différenciables
-- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
-- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
-
-**références**  
-Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
-Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>
-
 --  
 **EXERCICE 2**  
 faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année, soit un autre personnage, soit un fanart, etc.)  
@@ -344,7 +331,28 @@ faire une tilemap, et la monter sur Krita ou Godot
 -> pour apprendre à faire des tilemaps  
 --  
 
-## 3) Décor plein
+## 3a) lisibilité
+- personnage/fond: que le perso se détache sur le fond
+    - pensez à mettre votre personnage dans votre fond quand vous travaillez
+        - pour tester sa taille
+        - et sa lisibilité
+- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
+    - supertux (bonus)
+        - plateformes invisibles
+        - murs creux
+    - dead cells / celeste
+        - plateformes qui se détachent bien
+        - arrière-plan dé-contrasté <details> - dead cells ![Dead Cells](/assets/111_Dead-Cells.jpg) <br> - Celeste ![Celeste](/assets/109_celeste.png)
+- personnages entre eux: qu'ils soient facilement différenciables
+- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
+- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
+
+**références**  
+Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
+Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>  
+Supertux [](__TODO__)
+
+## 3b) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
 - perspective atmosphérique: avec la distance...
     - tout prend la teinte de l'air (en général: bleuté)
@@ -371,6 +379,8 @@ NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Paralla
     - vanishing point et perspective (pas utile pour des tilemaps)
 - outils forme (*shift* pour conserver la proportion 1/1)
 - gomme lasso (utiliser l'outil "t)_Shapes_Fill" en mode "erase" est pratique pour effacer de grandes zones irrégulières peu précises)
+
+[](GIT LFS!!!)
 
 --  
 **EXERCICE 6**  
@@ -423,6 +433,9 @@ importer sa tilemap de Tiled à Godot
 ## 2) licences
 /!\ Toujours vérifier la licence des assets qu'on utilise.  
 cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
+
+[](3. fin L1A12 + un peu de 3 et 4)
+[](3. fin L1B12 + un peu de 3 et 4 - intro)
 
 ## 3) Audacity
 - navigation
