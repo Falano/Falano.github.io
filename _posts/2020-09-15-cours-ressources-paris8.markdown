@@ -15,6 +15,7 @@ N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes 
 Programmes utilisés pendant le cours:  
 Krita: <https://krita.org/fr/telechargement/krita-desktop/>  
 Audacity: <https://www.audacityteam.org/download/>  
+Musescore: <https://musescore.org/en>
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
@@ -421,13 +422,20 @@ importer sa tilemap de Tiled à Godot
 # IV. Son
 ## 1) intro
 - de l'importance du son
-- effets sonores / musique
+    - donne aussi des infos supplémentaires
+        - ce qui se passe offscreen
+        - matériaux des objets
+        - attire l'attention sur un détail
+        - feedback
+- deux types de son:
+    - 1. effets sonores, 2. musique
+        - moyen de production assez différents
 - (enregistrer / télécharger)->(modifier) / produire numériquement
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 - à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
 - couper un son au plus près, sans plage de silence au début (surtout pour les effets sonores d'action, dont il ne faut pas qu'ils soient en retard)
-- éviter les différences de niveau trop importantes
+- éviter les différences de niveau (volume sonore) trop importantes
     - il n'y a rien de plus irritant qu'un son trop fort
 
 ## 2) licences
@@ -484,12 +492,13 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 ## 4) musique
 - enregistrer sa musique: -> enregistreur + audacity
 - générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
-    - avec un logiciel d'écritures de partitions qui exporte en MIDI
+    - avec un logiciel d'écritures de partitions qui exporte aussi en MIDI ou avec du beau son
         - musescore
             - plein de soundfonts incluses de base
     - avec un logiciel de création de musique
         - https://beepbox.co/ (musique bitbox, simple d'utilisation)
-        - LMMS? [](TODO: )
+            - éventuellement exporter en MIDI, importer dans musescore, mettre de belles soundfonts et réexporter en .wav ou .ogg
+        - LMMS [](TODO: )
 - télécharger une musique sous licence libre
 
 ## 5) les formats audio
