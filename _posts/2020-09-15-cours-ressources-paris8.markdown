@@ -705,6 +705,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 - en pixel art
 	- [Fez](http://fezgame.com/): puzzle <details> ![fez](/assets/110_fez.png)
 	- + [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai): un jeu de création de bonsais
+    - [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
 
 - style graphique simple mais qui marche
 	- + [thomas was alone](http://www.thomaswasalone.com/thomaswasalone/): platformer
