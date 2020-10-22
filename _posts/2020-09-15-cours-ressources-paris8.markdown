@@ -515,6 +515,9 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - anticipation - action - réaction
     - pour la défense/esquive du joueur, diminuer l'anticipation pour augmenter la réactivité (cf __lien joueur du grenier__)
     - pour l'attaque des ennemis, augmenter l'anticipation pour donner au joueur le temps de réagir
+- anims décalées
+- changement de direction: plus de temps, ralentissement
+    - impression soulignée par s'il y a un élément qui suit (cheveux, corde, etc.)
 - strong key poses
 - de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
 - anim vague/fumée/vent/queue
@@ -524,10 +527,10 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
     - jambe/bras opposés
     - torse inclinaison
 - saut en jeu
+    - pas juste une anim mais jusqu'à trois bouts d'anim
 
 **références**  
 anim bugsBunny  
-quelques principes généraux d'animation: [https://www.youtube.com/watch?v=uDqjIdI4bF4](https://www.youtube.com/watch?v=uDqjIdI4bF4)  
 
 ## 2) outils d'animation
 - docker Timeline
@@ -563,6 +566,7 @@ quelques principes généraux d'animation: [https://www.youtube.com/watch?v=uDqj
     - [explosions](https://www.patreon.com/posts/explosions-part-7719254)
     - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
+- quelques [principes généraux d'animation]((https://www.youtube.com/watch?v=uDqjIdI4bF4)) (vidéo)  
 
 ## 100) Ressources en français
 - un [rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
