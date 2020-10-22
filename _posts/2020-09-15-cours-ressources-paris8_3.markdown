@@ -116,6 +116,7 @@ importer sa tilemap de Tiled à Godot
     - *T* déplacer,
     - *ctrl E* fusionner le calque actif avec celui du dessous
     - répéter
+- une [démo de dessin de tiles de platformer]( https://youtu.be/bdgpp8OPXDo)
 
 [](2. fin L1C12)
 
