@@ -110,7 +110,6 @@ cf [Annexes X.5](/cours/creation_gestion_ressources_0.html), une liste de jeux c
 faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
 --> pour se familiariser avec l'interface de krita  
 --  
-
 [](fin lundi matin 1 (plus un peu de krita2) --)
 
 --  
@@ -367,7 +366,6 @@ Supertux [](__TODO__)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
 - règle des tiers (ne pas mettre de truc important tout contre le bord; il risque de ne pas être visible ou remarquable)
 
-
 **références**  
 Maxim Massalitin, [Désert des Agriates](https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg) sur wikimedia commons  
 NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif) sur wikimedia commons  
@@ -552,7 +550,6 @@ anim bugsBunny
         - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
     - gimp
         - __TODO__
-
 
 ## 99) Plus de ressources (principalement en anglais)
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
