@@ -506,6 +506,8 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - **.aiff**: historiquement le format bonne qualité de mac (sans compression); assez lourd
 - **.wav**: historiquement le format bonne qualité de windows (sans compression); assez lourd mais rapide à lire pour godot; **lisible par godot**, conseillé pour les bruitages
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
+- **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
+
 
 # V. Animation
 ## 1) principes d'animation
@@ -663,6 +665,24 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
         - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
+- à propos de la musique: pour chaque musique différente, penser à son utilisation
+    - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
+        - mais on peut avoir plusieurs variations sur le même thème
+        - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
+    - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
+- à propos du son: penser aussi à son utilisation
+    - si vous mettez des bruits de pas, prévoir plusieurs variations
+        - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
+            - juste pour éviter d'avoir exactement le même son plein de fois de suite
+                - (on fait beaucoup de pas quand on marche)
+    - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
+        - penser aux tympans du joueur
+    - changer le volume en fonction de la fréquence du son
+        - un bruit de pas n'a pas besoin d'être très fort
+        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort
+            - et un screen-shake
+            - et un flash sur le perso
+            - et des particules!
 
 ## 2b) notions de fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
