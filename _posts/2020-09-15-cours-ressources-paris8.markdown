@@ -414,7 +414,7 @@ importer sa tilemap de Tiled à Godot
     - *ctrl E* fusionner le calque actif avec celui du dessous
     - répéter
 
-[](2. fin L1C12)
+[](2. fin L1C12 - lfs)
 
 
 # IV. Son
