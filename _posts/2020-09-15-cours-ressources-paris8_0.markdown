@@ -81,6 +81,7 @@ permalink: /cours/creation_gestion_ressources_0.html
         - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
+
 ## 2a) notions de game design
 - si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
 - lisibilité (cf II.2)
@@ -91,6 +92,24 @@ permalink: /cours/creation_gestion_ressources_0.html
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
         - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
+- à propos de la musique: pour chaque musique différente, penser à son utilisation
+    - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
+        - mais on peut avoir plusieurs variations sur le même thème
+        - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
+    - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
+- à propos du son: penser aussi à son utilisation
+    - si vous mettez des bruits de pas, prévoir plusieurs variations
+        - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
+            - juste pour éviter d'avoir exactement le même son plein de fois de suite
+                - (on fait beaucoup de pas quand on marche)
+    - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
+        - penser aux tympans du joueur
+    - changer le volume en fonction de la fréquence du son
+        - un bruit de pas n'a pas besoin d'être très fort
+        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort
+            - et un screen-shake
+            - et un flash sur le perso
+            - et des particules!
 
 ## 2b) notions de fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
@@ -145,35 +164,43 @@ permalink: /cours/creation_gestion_ressources_0.html
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
+Les jeux avec un + devant sont gratuits ou ont une démo gratuite.
 Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à la fois.  
 - en pixel art
-	- [fez](/assets/110_fez.png) (puzzle)
-	- *bonsai* (un jeu de création de bonsais) : [https://ldjam.com/events/ludum-dare/46/bonsai](https://ldjam.com/events/ludum-dare/46/bonsai)
+	- [Fez](http://fezgame.com/): puzzle <details> ![fez](/assets/110_fez.png)
+	- + [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai): un jeu de création de bonsais
+    - + [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
+
 - style graphique simple mais qui marche
-	- thomas was alone (platformer)
+	- + [thomas was alone](http://www.thomaswasalone.com/thomaswasalone/): platformer
 		- graphisme simple mais:
 		- textures et lumières
 		- voix des personnages
-	- [*you must gather your party before venturing forth*](/assets/998_ymgypbvf.png)  (puzzle) : [https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth)
+	- + [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth): puzzle
 		- très stylisé
-		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay)
-	- [selfless heroes](/assets/003_selflessHeroes.png)
+		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay) <details> ![ymgypbvf](/assets/998_ymgypbvf.png)
+	- + [Selfless Heroes](https://selflessheroes.fr/): intro à la programmation
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles
 			- les persos sont des chevaliers
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
-		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile
-	- [mini-metro](/assets/997_minimetro.jpg), par Dino Polo Club: [https://dinopoloclub.com/games/mini-metro/](https://dinopoloclub.com/games/mini-metro/)
-	    - utilise des symboles plutôt que des illustrations
-	- [*gophers*](/assets/105_gophers.png)
+		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile <details> ![selfless heroes](/assets/003_selflessHeroes.png)
+	- + [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
+	    - utilise des symboles plutôt que des illustrations <details> ![mini-metro](/assets/997_minimetro.jpg)
+	- + [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
-		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay)
-	- [night in the woods](/assets/996_nightInTheWoods.png) par Infinite Fall: [http://www.nightinthewoods.com/](http://www.nightinthewoods.com/)
+		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay) <details> ![*Gophers*](/assets/105_gophers.png)
+	- [Night in the Woods](http://www.nightinthewoods.com/) par Infinite Fall: narration
 	    - très chouette style graphique
 	        - soutenu/contrasté par la musique et l'histoire
 	    - mais composé quasi exclusivement de formes simples
-	    - simplification et stylisation des textures
+	    - simplification et stylisation des textures <details> ![night in the woods](/assets/996_nightInTheWoods.png)
+	- + [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
+
+- mécanique de jeu inhabituelle
+	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
+	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important
 
 ## 6) Vocabulaire
 - **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
@@ -193,3 +220,69 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **keyframe**: image clé; peut signifier
         - soit une image d'une animation sur laquelle on a effectué des changements (ce qui correspond à la deuxième définition de "frame")
         - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire directement entre deux images clés.
+- **placeholder**: version temporaire d'un asset qui a pour but d'être remplacée par une meilleure version, à terme, mais qui pour l'instant suffit (par exemple, pour tester la physique du saut du personnage, avant que l'équipe qui s'occupe du graphisme n'ai fini le perso, on peut mettre un carré rouge; c'est un placeholder).
+
+## 7) git lfs
+- /!\ git lfs ne marche pas avec github pages
+- qu'est-ce que c'est:
+    - lfs: "large file system"
+    - git lfs permet d'héberger les fichiers lourds dans un endroit à part
+        - le repository ne contient que des pointeurs vers les fichiers
+        - et il ne les télécharge que quand on en a besoin
+        - les "fichiers lourds" contiennent aussi les fichiers binaires (ou graphique ou son), même légers, parce qu'à la longue, vu qu'on doit à chaque fois ré-enregistrer tout le fichier au lieu de juste ce qui a changé, ils finissent par peser lourd dans le repo
+        - les "fichiers lourds" contiennent un peu ce qu'on veut, c'est l'utilisateur qui les définit
+- installation
+    - installer git lfs
+        - https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0
+        - ou git-lfs dans votre gestionnaire de paquets
+    - aller dans le dossier du projet versionné
+    - > git lfs install
+    - > git lfs track "\*.png,\*.jpg"
+        - avec la même syntaxe que pour le .gitignore; par exemple:
+            - \*.kra : tous les fichiers .kra, où qu'ils soient
+            - assets/ : tous les fichiers dans le dossier assets, y compris dans des sous-dossiers
+            - anim/\* : tous les fichiers dans le dossier anim (sous-dossiers non inclus)
+            - \*\*/test/\*.png : tous les fichiers png dans un dossier "test", où que soit le dossier
+            - \*spritesheet\*.png : tous les fichiers png qui contiennent le mot "spritesheet"
+            - animation/spritesheet\* : tous les fichiers qui commencent par "spritesheet" dans le dossier animation
+        -/!\ ne pas oublier les guillemets ou il suivra tous les .png (par exemple) actuels individuellement
+            - au lieu de en général tous les .png toujours
+    - > git add .gitattributes
+        - le .gitattributes est l'endroit où il a noté les fichiers à suivre
+    - > git commit -m "initialize lfs"
+        - ou "add .gitattributes"
+        - ou ce que vous voulez
+            - si vous ne commitez pas le .gitattributes, git lfs ne saura pas, quand il clone le projet chez quelqu'un d'autre, ce qu'il faut suivre
+    - et ensuite c'est juste du git normal: git add, git commit, git push, etc.
+- utilisations un peu spécifiques
+    - > git lfs ls-files
+        - afficher la liste des fichiers suivis par lfs
+    - > git lfs migrate info --everything --include="\*.jpg,\*.png"
+        - afficher une liste des fichiers impliqués par un migrate
+        - --everything: sur toutes les branches locales et distantes
+        - --include: quels fichiers inclure
+    - > git lfs migrate import --no-rewrite -m "Import test.zip, .mp3, .psd files in root of repo" test.zip *.mp3 *.psd
+        - changer les fichiers par leur version lfs
+        - sans le --no-rewrite, ça le fait rétroactivement dans les anciens commits
+            - du coup ça change l'historique et les identifiants des commits
+            - ce qui n'est pas trop gênant si on bosse seul
+            - mais qui peut foutre la merde dans un repo commun
+            - si on n'a pas le --norewrite, les autres doivent re-cloner le projet une fois qu'on a fini
+- désinstallation
+    - > git lfs uninstall
+    - enlever du .gitattributes tous les trucs lfs
+        - ou supprimer le .gitattributes si il ne contient que des trucs lfs
+    - > git lfs migrate export --everything --include .
+        - changer tous les fichiers lfs par leur version non-lfs
+            - par contre ça le fait rétroactivement dans les anciens commits
+                - du coup ça change l'historique et les identifiants des commits
+                - ce qui n'est pas trop gênant si on bosse seul
+                - mais qui peut foutre la merde dans un repo commun
+                - donc bien prévenir tout le monde qu'on va faire ça, et quand,
+                - qu'ils se soient organisés et aient mergé ce qui doit être mergé
+                - et qu'ils re-clonent le projet quand on a fini
+    - et pour complètement enlever les fichiers lfs du repo distant qui hébergeait les version lourdes, il faut supprimer et refaire le repo
+- doc
+    - documentation offcielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
+    - un article plus lisible <https://www.atlassian.com/fr/git/tutorials/git-lfs>
+    - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
