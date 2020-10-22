@@ -818,26 +818,26 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 - en pixel art
 	- [Fez](http://fezgame.com/): puzzle <details> ![fez](/assets/110_fez.png)
 	- + [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai): un jeu de création de bonsais
-    - [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
+    - + [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
 
 - style graphique simple mais qui marche
 	- + [thomas was alone](http://www.thomaswasalone.com/thomaswasalone/): platformer
 		- graphisme simple mais:
 		- textures et lumières
 		- voix des personnages
-	- [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth): puzzle
+	- + [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth): puzzle
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay) <details> ![ymgypbvf](/assets/998_ymgypbvf.png)
-	- [Selfless Heroes](https://selflessheroes.fr/): intro à la programmation
+	- + [Selfless Heroes](https://selflessheroes.fr/): intro à la programmation
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles
 			- les persos sont des chevaliers
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile <details> ![selfless heroes](/assets/003_selflessHeroes.png)
-	- [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
+	- + [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
 	    - utilise des symboles plutôt que des illustrations <details> ![mini-metro](/assets/997_minimetro.jpg)
-	- [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
+	- + [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay) <details> ![*Gophers*](/assets/105_gophers.png)
 	- [Night in the Woods](http://www.nightinthewoods.com/) par Infinite Fall: narration
@@ -845,12 +845,13 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 	        - soutenu/contrasté par la musique et l'histoire
 	    - mais composé quasi exclusivement de formes simples
 	    - simplification et stylisation des textures <details> ![night in the woods](/assets/996_nightInTheWoods.png)
-	- [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
+	- + [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
 
 - mécanique de jeu inhabituelle
+	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
+	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important 
 	- pikuniku?
 	- *rangement d'inventaire*(https://globalgamejam.org/2020/games/apothe-care-9)
-	- world of goo?
 
 ## 6) Vocabulaire
 - **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
