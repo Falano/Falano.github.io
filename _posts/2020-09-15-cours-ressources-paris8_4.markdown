@@ -13,13 +13,20 @@ permalink: /cours/creation_gestion_ressources_4.html
 # IV. Son
 ## 1) intro
 - de l'importance du son
-- effets sonores / musique
+    - donne aussi des infos supplémentaires
+        - ce qui se passe offscreen
+        - matériaux des objets
+        - attire l'attention sur un détail
+        - feedback
+- deux types de son:
+    - 1. effets sonores, 2. musique
+        - moyen de production assez différents
 - (enregistrer / télécharger)->(modifier) / produire numériquement
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 - à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
 - couper un son au plus près, sans plage de silence au début (surtout pour les effets sonores d'action, dont il ne faut pas qu'ils soient en retard)
-- éviter les différences de niveau trop importantes
+- éviter les différences de niveau (volume sonore) trop importantes
     - il n'y a rien de plus irritant qu'un son trop fort
 
 ## 2) licences
@@ -73,12 +80,13 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 ## 4) musique
 - enregistrer sa musique: -> enregistreur + audacity
 - générer sa propre musique (en 2ème année 2ème semestre il y a un cours de "synthèse d'images, animation et sons")
-    - avec un logiciel d'écritures de partitions qui exporte en MIDI
+    - avec un logiciel d'écritures de partitions qui exporte aussi en MIDI ou avec du beau son
         - musescore
             - plein de soundfonts incluses de base
     - avec un logiciel de création de musique
         - https://beepbox.co/ (musique bitbox, simple d'utilisation)
-        - LMMS? [](TODO: )
+            - éventuellement exporter en MIDI, importer dans musescore, mettre de belles soundfonts et réexporter en .wav ou .ogg
+        - LMMS [](TODO: )
 - télécharger une musique sous licence libre
 
 ## 5) les formats audio
@@ -88,7 +96,24 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - **.aiff**: historiquement le format bonne qualité de mac (sans compression); assez lourd
 - **.wav**: historiquement le format bonne qualité de windows (sans compression); assez lourd mais rapide à lire pour godot; **lisible par godot**, conseillé pour les bruitages
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
+- **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
+## 100) ressources en français
+- le [cours sur le son, avec une démo de tiles au début](https://youtu.be/XDcndwQZyQ4)
+    - 00:00 démonstration des tiles vue du haut
+    - 00:26:25 faire plusieurs niveaux (escaliers, terrasses, etc.) en tiles vu du haut
+    - 00:34:26 la lisibilité
+    - 00:46:43 décors "pleins" (pas en tiles, mais dessinés d'un bloc)
+    - 00:56:10 outils Assistants, formes géométriques et lasso de krita
+    - 01:05:17 intro son
+    - 01:11:52 format midi
+    - 01:13:50 beepbox
+    - 01:20:07 musescore
+    - 01:23:04 réexplication du format midi
+    - 01:31:04 les licences
+    - 01:43:31 sites de ressources audio
+    - 01:44:14 git lfs
+    - 01:50:43 audacity
 
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
