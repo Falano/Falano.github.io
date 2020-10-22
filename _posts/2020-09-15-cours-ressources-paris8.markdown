@@ -413,6 +413,7 @@ importer sa tilemap de Tiled à Godot
     - *T* déplacer,
     - *ctrl E* fusionner le calque actif avec celui du dessous
     - répéter
+- une [démo de dessin de tiles de platformer]( https://youtu.be/bdgpp8OPXDo)
 
 [](2. fin L1C12 - lfs)
 
@@ -508,6 +509,22 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
+## 100) ressources en français
+- le [cours sur le son, avec une démo de tiles au début](https://youtu.be/XDcndwQZyQ4)
+    - 00:00 démonstration des tiles vue du haut
+    - 00:26:25 faire plusieurs niveaux (escaliers, terrasses, etc.) en tiles vu du haut
+    - 00:34:26 la lisibilité
+    - 00:46:43 décors "pleins" (pas en tiles, mais dessinés d'un bloc)
+    - 00:56:10 outils Assistants, formes géométriques et lasso de krita
+    - 01:05:17 intro son
+    - 01:11:52 format midi
+    - 01:13:50 beepbox
+    - 01:20:07 musescore
+    - 01:23:04 réexplication du format midi
+    - 01:31:04 les licences
+    - 01:43:31 sites de ressources audio
+    - 01:44:14 git lfs
+    - 01:50:43 audacity
 
 # V. Animation
 ## 1) principes d'animation
