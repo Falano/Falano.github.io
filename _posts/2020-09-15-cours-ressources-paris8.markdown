@@ -871,5 +871,70 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **keyframe**: image clé; peut signifier
         - soit une image d'une animation sur laquelle on a effectué des changements (ce qui correspond à la deuxième définition de "frame")
         - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire directement entre deux images clés.
+- **placeholder**: version temporaire d'un asset qui a pour but d'être remplacée par une meilleure version, à terme, mais qui pour l'instant suffit (par exemple, pour tester la physique du saut du personnage, avant que l'équipe qui s'occupe du graphisme n'ai fini le perso, on peut mettre un carré rouge; c'est un placeholder).
 
+## 7) git lfs
+- /!\ git lfs ne marche pas avec github pages
+- qu'est-ce que c'est:
+    - lfs: "large file system"
+    - git lfs permet d'héberger les fichiers lourds dans un endroit à part
+        - le repository ne contient que des pointeurs vers les fichiers
+        - et il ne les télécharge que quand on en a besoin
+        - les "fichiers lourds" contiennent aussi les fichiers binaires (ou graphique ou son), même légers, parce qu'à la longue, vu qu'on doit à chaque fois ré-enregistrer tout le fichier au lieu de juste ce qui a changé, ils finissent par peser lourd dans le repo
+        - les "fichiers lourds" contiennent un peu ce qu'on veut, c'est l'utilisateur qui les définit
+- installation
+    - installer git lfs
+        - https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0
+        - ou git-lfs dans votre gestionnaire de paquets
+    - aller dans le dossier du projet versionné
+    - > git lfs install
+    - > git lfs track "\*.png,\*.jpg"
+        - avec la même syntaxe que pour le .gitignore; par exemple:
+            - \*.kra : tous les fichiers .kra, où qu'ils soient
+            - assets/ : tous les fichiers dans le dossier assets, y compris dans des sous-dossiers
+            - anim/\* : tous les fichiers dans le dossier anim (sous-dossiers non inclus)
+            - \*\*/test/\*.png : tous les fichiers png dans un dossier "test", où que soit le dossier
+            - \*spritesheet\*.png : tous les fichiers png qui contiennent le mot "spritesheet"
+            - animation/spritesheet\* : tous les fichiers qui commencent par "spritesheet" dans le dossier animation
+        -/!\ ne pas oublier les guillemets ou il suivra tous les .png (par exemple) actuels individuellement
+            - au lieu de en général tous les .png toujours
+    - > git add .gitattributes
+        - le .gitattributes est l'endroit où il a noté les fichiers à suivre
+    - > git commit -m "initialize lfs"
+        - ou "add .gitattributes"
+        - ou ce que vous voulez
+            - si vous ne commitez pas le .gitattributes, git lfs ne saura pas, quand il clone le projet chez quelqu'un d'autre, ce qu'il faut suivre
+    - et ensuite c'est juste du git normal: git add, git commit, git push, etc.
+- utilisations un peu spécifiques
+    - > git lfs ls-files
+        - afficher la liste des fichiers suivis par lfs
+    - > git lfs migrate info --everything --include="\*.jpg,\*.png"
+        - afficher une liste des fichiers impliqués par un migrate
+        - --everything: sur toutes les branches locales et distantes
+        - --include: quels fichiers inclure
+    - > git lfs migrate import --no-rewrite -m "Import test.zip, .mp3, .psd files in root of repo" test.zip *.mp3 *.psd
+        - changer les fichiers par leur version lfs
+        - sans le --no-rewrite, ça le fait rétroactivement dans les anciens commits
+            - du coup ça change l'historique et les identifiants des commits
+            - ce qui n'est pas trop gênant si on bosse seul
+            - mais qui peut foutre la merde dans un repo commun
+            - si on n'a pas le --norewrite, les autres doivent re-cloner le projet une fois qu'on a fini
+- désinstallation
+    - > git lfs uninstall
+    - enlever du .gitattributes tous les trucs lfs
+        - ou supprimer le .gitattributes si il ne contient que des trucs lfs
+    - > git lfs migrate export --everything --include .
+        - changer tous les fichiers lfs par leur version non-lfs
+            - par contre ça le fait rétroactivement dans les anciens commits
+                - du coup ça change l'historique et les identifiants des commits
+                - ce qui n'est pas trop gênant si on bosse seul
+                - mais qui peut foutre la merde dans un repo commun
+                - donc bien prévenir tout le monde qu'on va faire ça, et quand,
+                - qu'ils se soient organisés et aient mergé ce qui doit être mergé
+                - et qu'ils re-clonent le projet quand on a fini
+    - et pour complètement enlever les fichiers lfs du repo distant qui hébergeait les version lourdes, il faut supprimer et refaire le repo
+- doc
+    - documentation offcielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
+    - un article plus lisible <https://www.atlassian.com/fr/git/tutorials/git-lfs>
+    - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
 {% endcomment %}
