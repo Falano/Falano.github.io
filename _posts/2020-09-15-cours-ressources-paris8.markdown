@@ -570,11 +570,32 @@ anim bugsBunny
 ## 100) Ressources en français
 - un [rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 
-# VI. UI
+
+# VI. Finitions
+## 1) UI - theorie
+- on a (sur ordinateur) quatre états états de boutons:
+    - désactivé
+        - le bouton n'est pas disponible, il est impossible de cliquer dessus
+    - au repos
+        - le bouton est disponible mais personne n'est en train d'interagir avec
+    - sélectionné
+        - le bouton est sélectionné, soit avec la souris qui est au-dessus, soit avec le clavier ou la manette; il est prêt à être actionné
+        - en général, n'existe pas pour les jeux mobiles où on passe directement de repos à cliqué
+    - cliqué
+        - le bouton est en train d'être activé (à l'instant où on clique avec la souris, ou appuie sur la touche du clavier ou de la manette)
+
+
+## 2) UI - pratique
 https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
+
+## 3) "Juice"
+
 ## 99) plus de ressources (principalement en anglais)
-- un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)
+- un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)  
+- un tutoriel vidéo sur le ["juice"](https://www.youtube.com/watch?v=Fy0aCDmgnxg)  
+- un tutoriel écrit sur le ["juice"](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)  
+- un article sur les différents états des boutons et la navigation <https://material.io/design/interaction/states.html#usage>
 
 
 # VII. Imports et exports divers
