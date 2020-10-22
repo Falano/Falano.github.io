@@ -758,6 +758,20 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
         - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
         - ou des raccourcis vers de niveaux.
 
+## 2c) accessibilité
+- possibilité de changer tous les contrôles
+    - y compris celui d'accès au menu
+        - y compris quand on n'a pas accès à la touche par défaut d'accès au menu
+- sous-titres, et possibilité de les activer ou non
+    - ce paramètre doit être accessible avant le début du jeu
+    - je sais que vous n'aurez pas le temps de l'inclure dans votre jeu
+        - mais sachez que c'est important si vous faites un jeu qui n'est pas une démo qui dure moins d'une demi-heure
+- contrastes du texte
+    - cf <https://webaim.org/resources/contrastchecker/>
+- daltonisme
+- épilepsie
+- possibilité de passer les cinématiques
+
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
