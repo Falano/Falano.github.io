@@ -705,6 +705,9 @@ ACCESSIBILITY
 - un tutoriel écrit sur le ["juice"](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)  
 - un article sur les différents états des boutons et la navigation <https://material.io/design/interaction/states.html#usage>
 
+## 100) ressources en français
+- un [tutoriel écrit sur le feedback](https://www.forum-dessine.fr/tutoriels/les-signes-et-feedbacks)
+
 
 # VII. Imports et exports divers
 1) importer une spritesheet dans krita
@@ -817,7 +820,7 @@ ACCESSIBILITY
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
 ## 2a) notions de game design
-- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
+- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
 - lisibilité (cf II.2)
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
 - de l'importance du son (cf IV.1)
@@ -825,23 +828,23 @@ ACCESSIBILITY
 - essayer d'avoir une unité graphique
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
-        - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
+        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
 - à propos de la musique: pour chaque musique différente, penser à son utilisation
     - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
         - mais on peut avoir plusieurs variations sur le même thème
         - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
     - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
 - à propos du son: penser aussi à son utilisation
-    - si vous mettez des bruits de pas, prévoir plusieurs variations
+    - si vous mettez des bruits de pas, envisager de prévoir plusieurs variations
         - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
             - juste pour éviter d'avoir exactement le même son plein de fois de suite
                 - (on fait beaucoup de pas quand on marche)
     - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
         - penser aux tympans du joueur
-    - changer le volume en fonction de la fréquence du son
+    - plus on entend un bruit souvent plus il devrait être discret
         - un bruit de pas n'a pas besoin d'être très fort
-        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort
-            - et un screen-shake
+        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort, et durer plus longtemps, et avoir un son plus remarquable
+            - et avoir un screen-shake
             - et un flash sur le perso
             - et des particules!
 
@@ -992,6 +995,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 - mécanique de jeu inhabituelle
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
 	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important 
+	- + [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
 	- pikuniku?
 	- *rangement d'inventaire*(https://globalgamejam.org/2020/games/apothe-care-9)
 
