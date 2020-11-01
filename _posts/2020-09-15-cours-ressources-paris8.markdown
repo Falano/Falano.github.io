@@ -697,6 +697,8 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
 ## 3) "Juice"
 
+ACCESSIBILITY
+
 ## 99) plus de ressources (principalement en anglais)
 - un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)  
 - un tutoriel vidéo sur le ["juice"](https://www.youtube.com/watch?v=Fy0aCDmgnxg)  
@@ -865,18 +867,52 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
         - ou des raccourcis vers de niveaux.
 
 ## 2c) accessibilité
+En gras les propositions qui ne demandent quasiment aucun effort.  
+Tous ces paramètres doivent être accessibles avant le début du jeu (y compris avant la cinématique de début s'il y en a une).  
 - possibilité de changer tous les contrôles
     - y compris celui d'accès au menu
-        - y compris quand on n'a pas accès à la touche par défaut d'accès au menu
-- sous-titres, et possibilité de les activer ou non
-    - ce paramètre doit être accessible avant le début du jeu
-    - je sais que vous n'aurez pas le temps de l'inclure dans votre jeu
-        - mais sachez que c'est important si vous faites un jeu qui n'est pas une démo qui dure moins d'une demi-heure
-- contrastes du texte
-    - cf <https://webaim.org/resources/contrastchecker/>
+    - y compris les boutons de la souris
+    - idéalement, un jeu devrait pouvoir n'être joué qu'avec un seul dispositif (s'il se joue au clavier, que le menu puisse être navigué aussi avec uniquement le clavier)
+    - idéalement, on devrait pouvoir y jouer avec une seule main
+- si vous avez des dialogues audio: sous-titres, et possibilité de les activer ou non
+    - je sais que ce n'est pas hyper important vu qu'a priori vous n'aurez pas le temps d'enregistrer de l'audio pour tous vos dialogues, et encore moins de les sous-titrer
+        - mais sachez que c'est important si vous faites un jeu qui a des dialogues enregistrés et qui n'est pas une démo de moins d'une demi-heure
 - daltonisme
+    - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
+    - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
+        - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
+        - idéalement laisser le choix
+    - éventuellement leur mettre un son différent
+    - ou laisser les gens choisir les couleurs eux-même
 - épilepsie
+    - si vous avez des flashs de couleurs très contrastées (blanc, ou rouge vif) qui prennent une grosse partie de l'écran (plus d'un quart)
+        - ou des mouvements aléatoires de motifs de couleurs très contrastées, qui prennent une grosse partie de l'écran
+    - **alors mettre un écran d'avertissement au début du jeu**
+        - et éventuellement la possibilité de les désactiver
+        - et éviter le rouge très vif pour les flashs
+        - et éviter d'avoir trois ou plus flashs par seconde
+- **contrastes du texte**
+    - augmenter la taille du texte aide aussi à la lisibilité
+    - le fond derrière le texte peut avoir une légère texture, mais pas trop forte ou elle peut nuire à la lisibilité
+    - cf <https://webaim.org/resources/contrastchecker/>
+- dyslexie et problèmes de vue
+    - ne pas utiliser de polices serif
+    - ni l'italique
+    - ne pas rogner sur l'interligne (un interligne de 1.5 est plus lisible)
+    - **utiliser des majuscules et des minuscules, pas tout majuscule ou tout minuscule**
+    - préférer du texte non justifié
+    - utiliser des lignes courtes: pas plus de 70-80 caractères par ligne
+    - helvetica, arial et verdana sont, selon [une étude](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf), facilement lisibles
 - possibilité de passer les cinématiques
+
+**références**  
+un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibilité, avec des exemples et des explications (en anglais malheureusement): <http://gameaccessibilityguidelines.com/full-list/>
+à propos de l'épilepsie: <https://videogameseizures.wordpress.com/2018/02/15/seizures-from-2017s-best-video-games/>  
+<https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html>  
+à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>  
+à propos du texte: <https://webaim.org/resources/contrastchecker/>
+à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
 
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
