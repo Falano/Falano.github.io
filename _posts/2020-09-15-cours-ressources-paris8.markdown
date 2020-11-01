@@ -526,6 +526,8 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
     - 01:44:14 git lfs
     - 01:50:43 audacity
 
+[](probs: 3. fin L1C12)
+
 # V. Animation
 ## 1) intro
 - c'est quoi l'anim
