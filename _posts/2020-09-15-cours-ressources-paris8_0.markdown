@@ -74,16 +74,15 @@ permalink: /cours/creation_gestion_ressources_0.html
     - *Tab*: full paint mode
     - il y a aussi un outil zoom et un outil déplacement dans la sous-fenêtre des outils (ce sont les deux derniers de la liste)
 - **10**: options d'animation:
-    - Onion Skins / peau d'oignon: permet de voir en transparence les images précédentes et suivantes de l'animation (activable/désactivable par calque dans la timeline, ou pour tous les calques en cliquant sur le 0 dans le docker Peau d'Oignon);
+    - Onion Skins / pelure d'oignon: permet de voir en transparence les images précédentes et suivantes de l'animation (activable/désactivable par calque dans la timeline, ou pour tous les calques en cliquant sur le 0 dans le docker Peau d'Oignon);
     - Animation:
         - Lancer/Pauser l'animation,
         - Images de début et de fin (Start et End),
-        - nombre d'images par seconde (Frame Rate) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
+        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-
 ## 2a) notions de game design
-- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois (cf III.x)
+- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
 - lisibilité (cf II.2)
 - vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
 - de l'importance du son (cf IV.1)
@@ -91,23 +90,23 @@ permalink: /cours/creation_gestion_ressources_0.html
 - essayer d'avoir une unité graphique
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
-        - cf Happy Tree Friends, [Limbo](/assets/995_limbo.jpg) par Playdead: [https://playdead.com/games/limbo/](https://playdead.com/games/limbo/)
+        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
 - à propos de la musique: pour chaque musique différente, penser à son utilisation
     - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
         - mais on peut avoir plusieurs variations sur le même thème
         - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
     - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
 - à propos du son: penser aussi à son utilisation
-    - si vous mettez des bruits de pas, prévoir plusieurs variations
+    - si vous mettez des bruits de pas, envisager de prévoir plusieurs variations
         - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
             - juste pour éviter d'avoir exactement le même son plein de fois de suite
                 - (on fait beaucoup de pas quand on marche)
     - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
         - penser aux tympans du joueur
-    - changer le volume en fonction de la fréquence du son
+    - plus on entend un bruit souvent plus il devrait être discret
         - un bruit de pas n'a pas besoin d'être très fort
-        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort
-            - et un screen-shake
+        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort, et durer plus longtemps, et avoir un son plus remarquable
+            - et avoir un screen-shake
             - et un flash sur le perso
             - et des particules!
 
@@ -132,14 +131,65 @@ permalink: /cours/creation_gestion_ressources_0.html
         - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
         - ou des raccourcis vers de niveaux.
 
+## 2c) accessibilité
+En gras les propositions qui ne demandent quasiment aucun effort.  
+Tous ces paramètres doivent être accessibles avant le début du jeu (y compris avant la cinématique de début s'il y en a une).  
+- possibilité de changer tous les contrôles
+    - y compris celui d'accès au menu
+    - y compris les boutons de la souris
+    - idéalement, un jeu devrait pouvoir n'être joué qu'avec un seul dispositif (s'il se joue au clavier, que le menu puisse être navigué aussi avec uniquement le clavier)
+    - idéalement, on devrait pouvoir y jouer avec une seule main
+- si vous avez des dialogues audio: sous-titres, et possibilité de les activer ou non
+    - je sais que ce n'est pas hyper important vu qu'a priori vous n'aurez pas le temps d'enregistrer de l'audio pour tous vos dialogues, et encore moins de les sous-titrer
+        - mais sachez que c'est important si vous faites un jeu qui a des dialogues enregistrés et qui n'est pas une démo de moins d'une demi-heure
+- daltonisme
+    - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
+    - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
+        - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
+        - idéalement laisser le choix
+    - éventuellement leur mettre un son différent
+    - ou laisser les gens choisir les couleurs eux-même
+- épilepsie
+    - si vous avez des flashs de couleurs très contrastées (blanc, ou rouge vif) qui prennent une grosse partie de l'écran (plus d'un quart)
+        - ou des mouvements aléatoires de motifs de couleurs très contrastées, qui prennent une grosse partie de l'écran
+    - **alors mettre un écran d'avertissement au début du jeu**
+        - et éventuellement la possibilité de les désactiver
+        - et éviter le rouge très vif pour les flashs
+        - et éviter d'avoir trois ou plus flashs par seconde
+- **contrastes du texte**
+    - augmenter la taille du texte aide aussi à la lisibilité
+    - le fond derrière le texte peut avoir une légère texture, mais pas trop forte ou elle peut nuire à la lisibilité
+    - cf <https://webaim.org/resources/contrastchecker/>
+- dyslexie et problèmes de vue
+    - ne pas utiliser de polices serif
+    - ni l'italique
+    - ne pas rogner sur l'interligne (un interligne de 1.5 est plus lisible)
+    - **utiliser des majuscules et des minuscules, pas tout majuscule ou tout minuscule**
+    - préférer du texte non justifié
+    - utiliser des lignes courtes: pas plus de 70-80 caractères par ligne
+    - helvetica, arial et verdana sont, selon [une étude](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf), facilement lisibles
+- possibilité de passer les cinématiques
+
+**références**  
+un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibilité, avec des exemples et des explications (en anglais malheureusement): <http://gameaccessibilityguidelines.com/full-list/>
+à propos de l'épilepsie: <https://videogameseizures.wordpress.com/2018/02/15/seizures-from-2017s-best-video-games/>  
+<https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html>  
+à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>  
+à propos du texte: <https://webaim.org/resources/contrastchecker/>
+à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
+
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
+    - domaine public
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
         - **CC-0**: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
         - **CC-BY**: il faut [citer le nom de l'auteur, le titre de l'oeuvre, sa licence originale, et des liens vers chaque (par exemple dans l'écran de crédits du jeu vidéo, et un fichier texte avec les crédits et des hyperlinks)](https://creativecommons.org/use-remix/attribution/)
         - **CC-BY-SA-NC**: il faut citer l'auteur, l'oeuvre, la licence (BY: by), l'oeuvre dérivée doit avoir la même licence (SA: share alike), et on ne peut pas l'utiliser commercialement (NC: non commercial)
         - **CC-BY-ND**: a priori, ne pas l'utiliser pour un jeu: il faut citer l'auteur, l'oeuvre, la licence (BY: by), et on ne peut pas en diffuser d'adaptation (ND: non derivative; l'utilisation de sprites ou le montage d'audio pour un jeu compte très probablement comme "derivative")
         - si vous n'êtes pas sûr de la licence ou de si vous pouvez l'utiliser, et que vous pouvez contacter l'auteur, faites-le, très souvent il vous donnera la permission d'utiliser ses assets
+- pour votre jeu, vous pouvez utiliser la licence que vous voulez (qu'elle soit ou non creative commons); parfois les gens ont une licence pour le code et une autre pour les assets graphiques et audio (par exemple MIT pour le code et CC-BY pour les assets).
+    - /!\ SAUF SI vous avez utilisé des assets CC-SA (CC-BY-SA, CC-BY-SA-NC, etc.), dans ce cas vous êtes obligés de réutiliser la même licence qu'eux.
 
 ## 3b) Ressources externes
 -/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
@@ -155,6 +205,7 @@ permalink: /cours/creation_gestion_ressources_0.html
         - https://freemusicarchive.org/ (site de musiques CC)
         - https://filmmusic.io/search (site de musiques principalement CC BY)
         - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques gratuites avec attribution)
+        - https://musescore.org/en/handbook/soundfonts-and-sfz-files (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
@@ -201,6 +252,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 - mécanique de jeu inhabituelle
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
 	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important
+	- + [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
 
 ## 6) Vocabulaire
 - **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
@@ -215,11 +267,11 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - **orphan pixel**: un pixel tout seul, non relié à d'autres de la même couleur.
 - **frame**:
     - soit une image d'une animation, en tant que plus petit élément de temps disponible
-    - soit une image de l'animation dessinée par un être humain.
+    - soit une image de l'animation dessinée/créée directement par un être humain.
         - cf la différence entre le "frame rate" (plus petit élément de temps) et "new frame" (image dessinée)
     - **keyframe**: image clé; peut signifier
-        - soit une image d'une animation sur laquelle on a effectué des changements (ce qui correspond à la deuxième définition de "frame")
-        - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire directement entre deux images clés.
+        - soit une image d'une animation sur laquelle un humain a effectué des changements (ce qui correspond à la deuxième définition de "frame")
+        - soit une image importante pour le mouvement, les autres (**inbetweens** ou **tweens** ou **intervalles**) n'étant qu'une étape intermédiaire entre deux images clés.
 - **placeholder**: version temporaire d'un asset qui a pour but d'être remplacée par une meilleure version, à terme, mais qui pour l'instant suffit (par exemple, pour tester la physique du saut du personnage, avant que l'équipe qui s'occupe du graphisme n'ai fini le perso, on peut mettre un carré rouge; c'est un placeholder).
 
 ## 7) git lfs
@@ -283,6 +335,6 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
                 - et qu'ils re-clonent le projet quand on a fini
     - et pour complètement enlever les fichiers lfs du repo distant qui hébergeait les version lourdes, il faut supprimer et refaire le repo
 - doc
-    - documentation offcielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
+    - documentation officielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
     - un article plus lisible <https://www.atlassian.com/fr/git/tutorials/git-lfs>
     - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
