@@ -605,7 +605,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - régulier
 - début lent, accélération
 - fin lente, décélération
-- quasi instantané (interdiction de dessiner dans l'espace entre l'image de début et l'image de fin)
+- quasi instantané (interdiction de dessiner dans l'espace entre l'image de début et l'image de fin)  
 --  
 
 ## 4) principes d'animation 2
