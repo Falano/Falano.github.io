@@ -996,7 +996,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 
 - mécanique de jeu inhabituelle
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
-	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important 
+	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important
 	- + [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
 	- pikuniku?
 	- *rangement d'inventaire*(https://globalgamejam.org/2020/games/apothe-care-9)
@@ -1082,7 +1082,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
                 - et qu'ils re-clonent le projet quand on a fini
     - et pour complètement enlever les fichiers lfs du repo distant qui hébergeait les version lourdes, il faut supprimer et refaire le repo
 - doc
-    - documentation offcielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
+    - documentation officielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
     - un article plus lisible <https://www.atlassian.com/fr/git/tutorials/git-lfs>
     - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
 {% endcomment %}
