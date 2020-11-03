@@ -473,6 +473,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
         - *une fois l'enregistrement arrêté*, bouton play (triangle vert)
 - pour modifier/monter
     - supprimer les 'clics' de début et de fin de son
+        - tester l'effet "clic removal" ou "suppression de clics", sûrement il marche très bien; sinon:
         - sélectionner les deux-trois frames de début du son
         - Effect > Fade In
         - sélectionner les deux-trois frames de fin de son
