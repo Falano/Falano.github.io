@@ -496,7 +496,7 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
         - musescore
             - plein de soundfonts incluses de base
     - avec un logiciel de création de musique
-        - https://beepbox.co/ (musique bitbox, simple d'utilisation)
+        - <https://beepbox.co/> (musique bitbox, simple d'utilisation)
             - éventuellement exporter en MIDI, importer dans musescore, mettre de belles soundfonts et réexporter en .wav ou .ogg
         - LMMS [](TODO: )
 - télécharger une musique sous licence libre
@@ -607,6 +607,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - début lent, accélération
 - fin lente, décélération
 - quasi instantané (interdiction de dessiner dans l'espace entre l'image de début et l'image de fin)  
+
 --  
 
 ## 4) principes d'animation 2
@@ -692,7 +693,6 @@ faire traverser l'image à un trait suivant différents rythmes
     - cliqué
         - le bouton est en train d'être activé (à l'instant où on clique avec la souris, ou appuie sur la touche du clavier ou de la manette)
 
-
 ## 2) UI - pratique
 https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
@@ -712,7 +712,7 @@ ACCESSIBILITY
 
 
 # VII. Imports et exports divers
-1) importer une spritesheet dans krita
+## 1) importer une spritesheet dans krita
     - on va mettre chaque frame dans un fichier différent puis les réimporter dans la timeline
         - pour pouvoir la modifier
             - ajouter un accessoire ou changer le timing, par exemple
@@ -725,7 +725,7 @@ ACCESSIBILITY
             - tadaaa!
                 - vous pouvez commencer à travailler
 
-2) exporter du pixel art pour des réseaux sociaux
+## 2) exporter du pixel art pour des réseaux sociaux
     - export png
     - éventuellement ajouter de la marge
     - agrandir x4 (ou x3, x2 ou x5 selon ce qui rend le mieux)
@@ -738,7 +738,7 @@ ACCESSIBILITY
             - mais moindre
             - parce qu'elle sera diluée dans un nombre de pixels identiques plus important
 
-3) exporter son jeu
+## 3) exporter son jeu
 - itch.io
     - les collections de itch.io pour trier ses projets
     - ou pour ajouter les projets collaboratifs qui sont hébergés chez quelqu'un d'autre
@@ -819,7 +819,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
     - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
     - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
         - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
-    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
+    - **choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltoniens**
         - idéalement laisser le choix
     - éventuellement leur mettre un son différent
     - ou laisser les gens choisir les couleurs eux-même
@@ -942,29 +942,29 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 ## 3b) Ressources externes
 -/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
-    - https://opengameart.org/ (assets graphiques et sonores CC)
-    - https://www.dafont.com (polices de caractères avec filtre par licence)
-    - https://itch.io/game-assets/assets-cc0/tag-pixel-art : assets de pixel art CC0
-    - https://kenney.nl/assets (assets graphiques et audio CC-0)
+    - <https://opengameart.org/> (assets graphiques et sonores CC)
+    - <https://www.dafont.com> (polices de caractères avec filtre par licence)
+    - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
+    - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
 - ressources audio
     - sons
-        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
-        - https://freesound.org/ : un site de sons CC (licences différentes par son)
-        - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
-        - https://kenney.nl/assets?q=audio (assets graphiques et audio CC-0)
+        - <https://freesfx.co.uk/Default.aspx> : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
+        - <https://freesound.org/> : un site de sons CC (licences différentes par son)
+        - <https://www.bfxr.net/> : un outil open source de génération de sons. Nécessite flash.
+        - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
     - musique
-        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste de sites de musique libre)
-        - https://audionautix.com/ (site de musiques CC-BY)
-        - https://freemusicarchive.org/ (site de musiques CC)
-        - https://filmmusic.io/search (site de musiques principalement CC BY)
-        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques gratuites avec attribution)
-        - https://musescore.org/en/handbook/soundfonts-and-sfz-files (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
+        - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
+        - <https://audionautix.com/> (site de musiques CC-BY)
+        - <https://freemusicarchive.org/> (site de musiques CC)
+        - <https://filmmusic.io/search> (site de musiques principalement CC BY)
+        - liens: <https://incompetech.com/music/royalty-free/faq.html> (site de musiques gratuites avec attribution)
+        - <https://musescore.org/en/handbook/soundfonts-and-sfz-files> (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
     - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: ldjam.com
     - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: ggj.com
-	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: https://itch.io/jams
+	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
@@ -1040,7 +1040,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
         - les "fichiers lourds" contiennent un peu ce qu'on veut, c'est l'utilisateur qui les définit
 - installation
     - installer git lfs
-        - https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0
+        - <https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0>
         - ou git-lfs dans votre gestionnaire de paquets
     - aller dans le dossier du projet versionné
     - > git lfs install
