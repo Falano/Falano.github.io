@@ -13,9 +13,10 @@ Mon email: noemie. scherer @ gmail. com
 N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
 
 Programmes utilisés pendant le cours:  
-Krita: <https://krita.org/fr/telechargement/krita-desktop/>  
-Audacity: <https://www.audacityteam.org/download/>  
-Musescore: <https://musescore.org/en>
+Krita: <https://krita.org/fr/telechargement/krita-desktop/> (2D et animation)  
+Audacity: <https://www.audacityteam.org/download/> (audio)  
+Musescore: <https://musescore.org/en> (musique)  
+LMMS: <https://lmms.io/> (musique)  
 
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
