@@ -12,6 +12,9 @@ permalink: /cours/creation_gestion_ressources_0.html
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
+# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
+# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. Annexes
 ## 1) schéma de l'interface de Krita
 ![Interface Krita](/assets/999_interfaceKrita.png)
@@ -78,108 +81,10 @@ permalink: /cours/creation_gestion_ressources_0.html
     - Animation:
         - Lancer/Pauser l'animation,
         - Images de début et de fin (Start et End),
-        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
+        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images du cinéma en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 2a) notions de game design
-- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
-- lisibilité (cf II.2)
-- vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
-- de l'importance du son (cf IV.1)
-- de l'importance des retours visuels (feedback) (cf V.1)
-- essayer d'avoir une unité graphique
-    - et une unité entre le graphique, l'audio, l'histoire et le gameplay
-    - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
-        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
-- à propos de la musique: pour chaque musique différente, penser à son utilisation
-    - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
-        - mais on peut avoir plusieurs variations sur le même thème
-        - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
-    - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
-- à propos du son: penser aussi à son utilisation
-    - si vous mettez des bruits de pas, envisager de prévoir plusieurs variations
-        - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
-            - juste pour éviter d'avoir exactement le même son plein de fois de suite
-                - (on fait beaucoup de pas quand on marche)
-    - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
-        - penser aux tympans du joueur
-    - plus on entend un bruit souvent plus il devrait être discret
-        - un bruit de pas n'a pas besoin d'être très fort
-        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort, et durer plus longtemps, et avoir un son plus remarquable
-            - et avoir un screen-shake
-            - et un flash sur le perso
-            - et des particules!
-
-## 2b) notions de fabrication de jeu
-(ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
-- vous serez en retard sur le planning
-    - prévoyez un temps conséquent pour résoudre les bugs.
-        - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
-            - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
-    - faites un jeu modulaire
-        - globalement identifiez ce qui est essentiel et commencez par là, et faites le cool mais optionel en dernier.
-            - beaucoup plus de choses sont optionnelles qu'on ne croit.
-        - pour les jeux où les mécaniques de jeu sont importantes: isolez le centre, la partie la plus importante du jeu, et commencez par là. Une fois que ça marche bien, vous pouvez en ajouter une autre. Une fois qu'elle marche bien et se mèle bien à l'autre, ajoutez-en une troisième.
-        - pour les jeux où il y a de la narration: faites le début. Faites la fin. Puis faites le milieu. Comme ça si vous n'avez pas eu le temps de faire le milieu on ne s'en rendra pas compte.
-        - pour les jeux où les graphismes sont importants: faites des placeholders qui vous satisfont mais ne sont pas parfaits, et sachez que vous pourrez les retravailler après.
-    - d'expérience: si vous vous dites: après le rendu je finirai / polirai / ajouterai ce truc cool, il y a 96,8% de chances que vous ne le fassiez pas.
-- FAITES TESTER VOTRE JEU
-    - c'est important
-- la présence de son a une importance disproportionnée: si vous passez une heure à faire un son basique, ça aura à peu près autant d'impact que si vous passiez vingt heures à fignoler les assets graphiques.
-- éventuellement: faites un niveau de test, juste pour vous, avec les différentes parties du jeu toutes ensembles, histoire si vous devez tester un boss de ne pas avoir à rejouer tout le jeu.
-    - alternativement ou en plus: des cheat keys.
-        - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
-        - ou des raccourcis vers de niveaux.
-
-## 2c) accessibilité
-En gras les propositions qui ne demandent quasiment aucun effort.  
-Tous ces paramètres doivent être accessibles avant le début du jeu (y compris avant la cinématique de début s'il y en a une).  
-- possibilité de changer tous les contrôles
-    - y compris celui d'accès au menu
-    - y compris les boutons de la souris
-    - idéalement, un jeu devrait pouvoir n'être joué qu'avec un seul dispositif (s'il se joue au clavier, que le menu puisse être navigué aussi avec uniquement le clavier)
-    - idéalement, on devrait pouvoir y jouer avec une seule main
-- si vous avez des dialogues audio: sous-titres, et possibilité de les activer ou non
-    - je sais que ce n'est pas hyper important vu qu'a priori vous n'aurez pas le temps d'enregistrer de l'audio pour tous vos dialogues, et encore moins de les sous-titrer
-        - mais sachez que c'est important si vous faites un jeu qui a des dialogues enregistrés et qui n'est pas une démo de moins d'une demi-heure
-- daltonisme
-    - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
-    - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
-        - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
-    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
-        - idéalement laisser le choix
-    - éventuellement leur mettre un son différent
-    - ou laisser les gens choisir les couleurs eux-même
-- épilepsie
-    - si vous avez des flashs de couleurs très contrastées (blanc, ou rouge vif) qui prennent une grosse partie de l'écran (plus d'un quart)
-        - ou des mouvements aléatoires de motifs de couleurs très contrastées, qui prennent une grosse partie de l'écran
-    - **alors mettre un écran d'avertissement au début du jeu**
-        - et éventuellement la possibilité de les désactiver
-        - et éviter le rouge très vif pour les flashs
-        - et éviter d'avoir trois ou plus flashs par seconde
-- **contrastes du texte**
-    - augmenter la taille du texte aide aussi à la lisibilité
-    - le fond derrière le texte peut avoir une légère texture, mais pas trop forte ou elle peut nuire à la lisibilité
-    - cf <https://webaim.org/resources/contrastchecker/>
-- dyslexie et problèmes de vue
-    - ne pas utiliser de polices serif
-    - ni l'italique
-    - ne pas rogner sur l'interligne (un interligne de 1.5 est plus lisible)
-    - **utiliser des majuscules et des minuscules, pas tout majuscule ou tout minuscule**
-    - préférer du texte non justifié
-    - utiliser des lignes courtes: pas plus de 70-80 caractères par ligne
-    - helvetica, arial et verdana sont, selon [une étude](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf), facilement lisibles
-- possibilité de passer les cinématiques
-
-**références**  
-un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibilité, avec des exemples et des explications (en anglais malheureusement): <http://gameaccessibilityguidelines.com/full-list/>
-à propos de l'épilepsie: <https://videogameseizures.wordpress.com/2018/02/15/seizures-from-2017s-best-video-games/>  
-<https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html>  
-à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>  
-à propos du texte: <https://webaim.org/resources/contrastchecker/>
-à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
-
-## 3a) Licences
+## 2) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
     - domaine public
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
@@ -191,27 +96,32 @@ un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibili
 - pour votre jeu, vous pouvez utiliser la licence que vous voulez (qu'elle soit ou non creative commons); parfois les gens ont une licence pour le code et une autre pour les assets graphiques et audio (par exemple MIT pour le code et CC-BY pour les assets).
     - /!\ SAUF SI vous avez utilisé des assets CC-SA (CC-BY-SA, CC-BY-SA-NC, etc.), dans ce cas vous êtes obligés de réutiliser la même licence qu'eux.
 
-## 3b) Ressources externes
--/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
+## 3) Ressources externes
+-/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
+- ressources graphiques
+    - <https://opengameart.org/> (assets graphiques et sonores CC)
+    - <https://www.dafont.com> (polices de caractères avec filtre par licence)
+    - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
+    - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
 - ressources audio
     - sons
-        - https://freesfx.co.uk/Default.aspx : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
-        - https://freesound.org/ : un site de sons CC (licences différentes par son)
-        - https://www.bfxr.net/ : un outil open source de génération de sons. Nécessite flash.
-        - https://kenney.nl/assets?q=audio (assets graphiques et audio CC-0)
+        - <https://freesfx.co.uk/Default.aspx> : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
+        - <https://freesound.org/> : un site de sons CC (licences différentes par son)
+        - <https://www.bfxr.net/> : un outil open source de génération de sons. Nécessite flash.
+        - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
     - musique
-        - https://www.hongkiat.com/blog/creative-common-music-download/ (liste de sites de musique libre)
-        - https://audionautix.com/ (site de musiques CC-BY)
-        - https://freemusicarchive.org/ (site de musiques CC)
-        - https://filmmusic.io/search (site de musiques principalement CC BY)
-        - liens: https://incompetech.com/music/royalty-free/faq.html (site de musiques gratuites avec attribution)
-        - https://musescore.org/en/handbook/soundfonts-and-sfz-files (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
+        - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
+        - <https://audionautix.com/> (site de musiques CC-BY)
+        - <https://freemusicarchive.org/> (site de musiques CC)
+        - <https://filmmusic.io/search> (site de musiques principalement CC BY)
+        - liens: <https://incompetech.com/music/royalty-free/faq.html> (site de musiques gratuites avec attribution)
+        - <https://musescore.org/en/handbook/soundfonts-and-sfz-files> (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
-    - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: ldjam.com
-    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: ggj.com
-	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: https://itch.io/jams
+    - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: <https://ldjam.com/>
+    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
+	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
@@ -285,7 +195,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
         - les "fichiers lourds" contiennent un peu ce qu'on veut, c'est l'utilisateur qui les définit
 - installation
     - installer git lfs
-        - https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0
+        - <https://github.com/git-lfs/git-lfs/releases/tag/v2.12.0>
         - ou git-lfs dans votre gestionnaire de paquets
     - aller dans le dossier du projet versionné
     - > git lfs install
