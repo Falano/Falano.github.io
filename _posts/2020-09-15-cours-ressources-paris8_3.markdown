@@ -9,7 +9,6 @@ permalink: /cours/creation_gestion_ressources_3.html
 # O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
-
 # III. Décors
 ## 1) Tiles
 - doivent s'emboîter sans que ça se voie
@@ -56,7 +55,28 @@ faire une tilemap, et la monter sur Krita ou Godot
 -> pour apprendre à faire des tilemaps  
 --  
 
-## 3) Décor plein
+## 3a) lisibilité
+- personnage/fond: que le perso se détache sur le fond
+    - pensez à mettre votre personnage dans votre fond quand vous travaillez
+        - pour tester sa taille
+        - et sa lisibilité
+- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
+    - supertux (bonus)
+        - plateformes invisibles
+        - murs creux
+    - dead cells / celeste
+        - plateformes qui se détachent bien
+        - arrière-plan dé-contrasté <details> - dead cells ![Dead Cells](/assets/111_Dead-Cells.jpg) <br> - Celeste ![Celeste](/assets/109_celeste.png)
+- personnages entre eux: qu'ils soient facilement différenciables
+- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
+- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
+
+**références**  
+Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
+Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>  
+Supertux, par Tout Un Tas De Gens C'est Open Source: <https://www.supertux.org/>
+
+## 3b) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
 - perspective atmosphérique: avec la distance...
     - tout prend la teinte de l'air (en général: bleuté)
@@ -69,7 +89,6 @@ faire une tilemap, et la monter sur Krita ou Godot
 	- comme unificateur (une seule source de lumière)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)
 - règle des tiers (ne pas mettre de truc important tout contre le bord; il risque de ne pas être visible ou remarquable)
-
 
 **références**  
 Maxim Massalitin, [Désert des Agriates](https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg) sur wikimedia commons  
@@ -118,9 +137,11 @@ importer sa tilemap de Tiled à Godot
     - répéter
 - une [démo de dessin de tiles de platformer]( https://youtu.be/bdgpp8OPXDo)
 
-[](2. fin L1C12)
+[](2. fin L1C12 - lfs)
 
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
+# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
+# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
-
