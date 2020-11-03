@@ -3,7 +3,7 @@ layout: default
 title:  "Cours Paris 8: Création et Gestion de ressources"
 date:   2020-09-15 19:05:09 +0200
 categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_5.html
+permalink: /cours/creation_gestion_ressources_6.html
 ---  
 
 # O. [Menu](/cours/creation_gestion_ressources.html)
