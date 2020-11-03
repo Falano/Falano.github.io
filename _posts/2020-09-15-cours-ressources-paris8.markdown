@@ -350,7 +350,7 @@ faire une tilemap, et la monter sur Krita ou Godot
 **références**  
 Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
 Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>  
-Supertux [](__TODO__)
+Supertux, par Tout Un Tas De Gens C'est Open Source: <https://www.supertux.org/>
 
 ## 3b) Décor plein
 - rappel: lisibilité (perso/fond, plateformes, fond/fond)
@@ -536,12 +536,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
         - stop-motion
             - [animation d'objets (PES)](https://www.youtube.com/watch?v=qBjLW5_dGAM)
             - [pâte à modeler (shawn the sheep)](https://www.youtube.com/watch?v=0_4vs0nCCUI)
-            - [marionnettes (the nightmare before christmas)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
+            - [marionnettes (L'étrange Noel de Mister Jack)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
             - [marionettes (ma vie de courgette](https://www.youtube.com/watch?v=OEwycy4aaFw)
             - [marionettes (le petit prince)](https://vimeo.com/164860211)
             - Jiri Trnka
         - pixilation
             - [luminaris](https://vimeo.com/24051768)
+            - [Neighbours](https://vimeo.com/39056719)
         - papier découpé
             - [lotte reiniger](https://www.youtube.com/watch?v=ZXQPZqOqe58)
             - [the breadwinner / parvana](https://www.youtube.com/watch?v=bIEZ5c4kPn8)
@@ -553,7 +554,6 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
         - 2D numérique
             - [tangle tower](https://www.youtube.com/watch?v=4n9LbvdkEtI)
             - [later alligator](https://www.youtube.com/watch?v=YbmKuBrDhow)
-            - [spirit farer](https://www.youtube.com/watch?v=4pKJ-NuSjNE)
             - [jotun](https://www.youtube.com/watch?v=a8HG2fWlsns)
         - vectoriel
             - [teen titans Go!](https://www.youtube.com/watch?v=C1hIp-UxXfA)
@@ -567,7 +567,23 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - de l'importance du mime (si vous le sentez)
 
 **références**
-__TODO__
+Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>
+Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>
+L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick
+Ma vie de Courgette, réalisé par Claude Barras
+Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>
+Luminaris, par Juan Pablo Zaramella
+Neighbours, de Norman McLaren
+Parvana (the breadwinner), réalisé par Nora Twomey
+Les 101 Dalmatiens, produit par Disney
+Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert
+Cuphead, par Studio MDHR
+Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>
+Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>
+Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>
+Teen Titans Go!, produit par Cartoon Network
+Team Fortress 2, par Valve
+Abzu, par GiantSquid <https://abzugame.com/>
 
 ## 2) principes d'animation 1
 - timing
@@ -674,7 +690,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - quelques [principes généraux d'animation]((https://www.youtube.com/watch?v=uDqjIdI4bF4)) (vidéo)  
 
 ## 100) Ressources en français
-- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
+- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
@@ -854,7 +870,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 
 ## 100) Plus de ressources (en français)
 - game design:
-    - The Art of Game Design, de Jesse Schell (a été traduit en français)
+    - L'art du game design (The Art of Game Design), de Jesse Schell
 
 
 # X. Annexes
@@ -961,8 +977,8 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
-    - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: ldjam.com
-    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: ggj.com
+    - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: <https://ldjam.com/>
+    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
 	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
 
 ## 5) jeux cool
