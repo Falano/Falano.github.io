@@ -18,12 +18,13 @@ permalink: /cours/creation_gestion_ressources_5.html
         - stop-motion
             - [animation d'objets (PES)](https://www.youtube.com/watch?v=qBjLW5_dGAM)
             - [pâte à modeler (shawn the sheep)](https://www.youtube.com/watch?v=0_4vs0nCCUI)
-            - [marionnettes (the nightmare before christmas)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
+            - [marionnettes (L'étrange Noel de Mister Jack)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
             - [marionettes (ma vie de courgette](https://www.youtube.com/watch?v=OEwycy4aaFw)
             - [marionettes (le petit prince)](https://vimeo.com/164860211)
             - Jiri Trnka
         - pixilation
             - [luminaris](https://vimeo.com/24051768)
+            - [Neighbours](https://vimeo.com/39056719)
         - papier découpé
             - [lotte reiniger](https://www.youtube.com/watch?v=ZXQPZqOqe58)
             - [the breadwinner / parvana](https://www.youtube.com/watch?v=bIEZ5c4kPn8)
@@ -35,7 +36,6 @@ permalink: /cours/creation_gestion_ressources_5.html
         - 2D numérique
             - [tangle tower](https://www.youtube.com/watch?v=4n9LbvdkEtI)
             - [later alligator](https://www.youtube.com/watch?v=YbmKuBrDhow)
-            - [spirit farer](https://www.youtube.com/watch?v=4pKJ-NuSjNE)
             - [jotun](https://www.youtube.com/watch?v=a8HG2fWlsns)
         - vectoriel
             - [teen titans Go!](https://www.youtube.com/watch?v=C1hIp-UxXfA)
@@ -49,7 +49,23 @@ permalink: /cours/creation_gestion_ressources_5.html
 - de l'importance du mime (si vous le sentez)
 
 **références**
-__TODO__
+Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>
+Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>
+L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick
+Ma vie de Courgette, réalisé par Claude Barras
+Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>
+Luminaris, par Juan Pablo Zaramella
+Neighbours, de Norman McLaren
+Parvana (the breadwinner), réalisé par Nora Twomey
+Les 101 Dalmatiens, produit par Disney
+Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert
+Cuphead, par Studio MDHR
+Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>
+Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>
+Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>
+Teen Titans Go!, produit par Cartoon Network
+Team Fortress 2, par Valve
+Abzu, par GiantSquid <https://abzugame.com/>
 
 ## 2) principes d'animation 1
 - timing
@@ -88,7 +104,8 @@ faire traverser l'image à un trait suivant différents rythmes
 - régulier
 - début lent, accélération
 - fin lente, décélération
-- quasi instantané (interdiction de dessiner dans l'espace entre l'image de début et l'image de fin)  
+- quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
+
 --  
 
 ## 4) principes d'animation 2
@@ -126,15 +143,6 @@ faire traverser l'image à un trait suivant différents rythmes
         - atterrissage
 - anim vague/fumée/vent/queue
 
-**références**  
-anticipation: 
-- explication très courte (gif animé): <https://twitter.com/yvesbalak/status/859337493883301888>  
-- explication moyenne (article + vidéo): <http://www.dsource.in/course/principles-animation/anticipation>  
-- explication plus longue (article + vidéos): <https://www.animationmentor.com/blog/anticipation-the-12-basic-principles-of-animation/>  
-anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>  
-timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>  
-déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
-
 ## 3) export
 - suite d'images
     - File > Render Animation Frames (Fichier > Rendu de l'animation)
@@ -143,6 +151,14 @@ déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
         - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
 
 ## 99) Plus de ressources (principalement en anglais)
+- anticipation:
+    - explication très courte (gif animé): <https://twitter.com/yvesbalak/status/859337493883301888>
+    - explication moyenne (article + vidéo): <http://www.dsource.in/course/principles-animation/anticipation>
+    - explication plus longue (article + vidéos): <https://www.animationmentor.com/blog/anticipation-the-12-basic-principles-of-animation/>
+- anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>
+- timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
+- déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
+
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
@@ -153,14 +169,17 @@ déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
     - [fumée/explosion](https://www.patreon.com/posts/smoke-animation-6851636)
     - [explosions](https://www.patreon.com/posts/explosions-part-7719254)
     - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
-- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
 - quelques [principes généraux d'animation]((https://www.youtube.com/watch?v=uDqjIdI4bF4)) (vidéo)  
 
 ## 100) Ressources en français
+- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
 - des __vidéos montrant des mouvements, à utiliser comme références__
 
 
+# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
+# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
