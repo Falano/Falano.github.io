@@ -22,6 +22,7 @@ permalink: /cours/creation_gestion_ressources_4.html
     - 1. effets sonores, 2. musique
         - moyen de production assez différents
 - (enregistrer / télécharger)->(modifier) / produire numériquement
+    - <https://www.bfxr.net/> un site de génération d'effets sonores
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 - à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
@@ -31,7 +32,10 @@ permalink: /cours/creation_gestion_ressources_4.html
 
 ## 2) licences
 /!\ Toujours vérifier la licence des assets qu'on utilise.  
-cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
+cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
+
+[](3. fin L1A12 + un peu de 3 et 4)
+[](3. fin L1B12 + un peu de 3 et 4 - intro)
 
 ## 3) Audacity
 - navigation
@@ -56,6 +60,7 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
         - *une fois l'enregistrement arrêté*, bouton play (triangle vert)
 - pour modifier/monter
     - supprimer les 'clics' de début et de fin de son
+        - tester l'effet "clic removal" ou "suppression de clics", sûrement il marche très bien; sinon:
         - sélectionner les deux-trois frames de début du son
         - Effect > Fade In
         - sélectionner les deux-trois frames de fin de son
@@ -84,7 +89,7 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
         - musescore
             - plein de soundfonts incluses de base
     - avec un logiciel de création de musique
-        - https://beepbox.co/ (musique bitbox, simple d'utilisation)
+        - <https://beepbox.co/> (musique bitbox, simple d'utilisation)
             - éventuellement exporter en MIDI, importer dans musescore, mettre de belles soundfonts et réexporter en .wav ou .ogg
         - LMMS [](TODO: )
 - télécharger une musique sous licence libre
@@ -115,5 +120,13 @@ cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication de
     - 01:44:14 git lfs
     - 01:50:43 audacity
 
+[](probs: 3. fin L1C12)
+[](4. fin L1A12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
+[](4. fin L1B12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
+
+
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
+# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
+# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
