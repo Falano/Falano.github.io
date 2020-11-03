@@ -18,11 +18,15 @@ Audacity: <https://www.audacityteam.org/download/> (audio)
 Musescore: <https://musescore.org/en> (musique)  
 LMMS: <https://lmms.io/> (musique)  
 
+# O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
+# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
+# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
 
 {% comment %}
