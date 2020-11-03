@@ -766,7 +766,10 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
     - dans les game jams, les versions web sont en général plus jouées
         - mais hors du contexte d'une game jam, la différence est probablement moins grande
     - mais plus il y a de versions différentes plus les gens qui ont des configurations inhabituelles pourront en trouver une qui marche chez eux
-
+- press kit
+    - télécharger ici <http://dopresskit.com/>
+    - exemples:
+        - [](TODO: add examples)
 
 # VIII. Game Design
 ## 1) notions de game design
