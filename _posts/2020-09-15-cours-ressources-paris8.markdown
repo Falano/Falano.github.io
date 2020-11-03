@@ -430,6 +430,7 @@ importer sa tilemap de Tiled à Godot
     - 1. effets sonores, 2. musique
         - moyen de production assez différents
 - (enregistrer / télécharger)->(modifier) / produire numériquement
+    - <https://www.bfxr.net/> un site de génération d'effets sonores
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 - à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
@@ -643,15 +644,6 @@ faire traverser l'image à un trait suivant différents rythmes
         - atterrissage
 - anim vague/fumée/vent/queue
 
-**références**  
-anticipation: 
-- explication très courte (gif animé): <https://twitter.com/yvesbalak/status/859337493883301888>  
-- explication moyenne (article + vidéo): <http://www.dsource.in/course/principles-animation/anticipation>  
-- explication plus longue (article + vidéos): <https://www.animationmentor.com/blog/anticipation-the-12-basic-principles-of-animation/>  
-anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>  
-timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>  
-déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
-
 ## 3) export
 - suite d'images
     - File > Render Animation Frames (Fichier > Rendu de l'animation)
@@ -660,6 +652,14 @@ déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
         - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
 
 ## 99) Plus de ressources (principalement en anglais)
+- anticipation:
+    - explication très courte (gif animé): <https://twitter.com/yvesbalak/status/859337493883301888>
+    - explication moyenne (article + vidéo): <http://www.dsource.in/course/principles-animation/anticipation>
+    - explication plus longue (article + vidéos): <https://www.animationmentor.com/blog/anticipation-the-12-basic-principles-of-animation/>
+- anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>
+- timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
+- déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
+
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
@@ -670,10 +670,10 @@ déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
     - [fumée/explosion](https://www.patreon.com/posts/smoke-animation-6851636)
     - [explosions](https://www.patreon.com/posts/explosions-part-7719254)
     - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
-- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
 - quelques [principes généraux d'animation]((https://www.youtube.com/watch?v=uDqjIdI4bF4)) (vidéo)  
 
 ## 100) Ressources en français
+- un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu; a été traduit en français): The Animator's Survival Kit, de Richard Williams
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
@@ -752,6 +752,111 @@ ACCESSIBILITY
         - mais hors du contexte d'une game jam, la différence est probablement moins grande
     - mais plus il y a de versions différentes plus les gens qui ont des configurations inhabituelles pourront en trouver une qui marche chez eux
 
+
+# VIII. Game Design
+## 1) notions de game design
+- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
+- lisibilité (cf II.2)
+- vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
+- de l'importance du son (cf IV.1)
+- de l'importance des retours visuels (feedback) (cf V.1)
+- essayer d'avoir une unité graphique
+    - et une unité entre le graphique, l'audio, l'histoire et le gameplay
+    - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
+        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
+- à propos de la musique: pour chaque musique différente, penser à son utilisation
+    - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
+        - mais on peut avoir plusieurs variations sur le même thème
+        - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
+    - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
+- à propos du son: penser aussi à son utilisation
+    - si vous mettez des bruits de pas, envisager de prévoir plusieurs variations
+        - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
+            - juste pour éviter d'avoir exactement le même son plein de fois de suite
+                - (on fait beaucoup de pas quand on marche)
+    - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
+        - penser aux tympans du joueur
+    - plus on entend un bruit souvent plus il devrait être discret
+        - un bruit de pas n'a pas besoin d'être très fort
+        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort, et durer plus longtemps, et avoir un son plus remarquable
+            - et avoir un screen-shake
+            - et un flash sur le perso
+            - et des particules!
+
+## 2) notions d'organisation pour la fabrication de jeu
+(ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
+- vous serez en retard sur le planning
+    - prévoyez un temps conséquent pour résoudre les bugs.
+        - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
+            - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
+    - faites un jeu modulaire
+        - globalement identifiez ce qui est essentiel et commencez par là, et faites le cool mais optionel en dernier.
+            - beaucoup plus de choses sont optionnelles qu'on ne croit.
+        - pour les jeux où les mécaniques de jeu sont importantes: isolez le centre, la partie la plus importante du jeu, et commencez par là. Une fois que ça marche bien, vous pouvez en ajouter une autre. Une fois qu'elle marche bien et se mèle bien à l'autre, ajoutez-en une troisième.
+        - pour les jeux où il y a de la narration: faites le début. Faites la fin. Puis faites le milieu. Comme ça si vous n'avez pas eu le temps de faire le milieu on ne s'en rendra pas compte.
+        - pour les jeux où les graphismes sont importants: faites des placeholders qui vous satisfont mais ne sont pas parfaits, et sachez que vous pourrez les retravailler après.
+    - d'expérience: si vous vous dites: après le rendu je finirai / polirai / ajouterai ce truc cool, il y a 96,8% de chances que vous ne le fassiez pas.
+- FAITES TESTER VOTRE JEU
+    - c'est important
+- la présence de son a une importance disproportionnée: si vous passez une heure à faire un son basique, ça aura à peu près autant d'impact que si vous passiez vingt heures à fignoler les assets graphiques.
+- éventuellement: faites un niveau de test, juste pour vous, avec les différentes parties du jeu toutes ensembles, histoire si vous devez tester un boss de ne pas avoir à rejouer tout le jeu.
+    - alternativement ou en plus: des cheat keys.
+        - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
+        - ou des raccourcis vers de niveaux.
+
+## 3) accessibilité
+En gras les propositions qui ne demandent quasiment aucun effort.  
+Tous ces paramètres doivent être accessibles avant le début du jeu (y compris avant la cinématique de début s'il y en a une).  
+- possibilité de changer tous les contrôles
+    - y compris celui d'accès au menu
+    - y compris les boutons de la souris
+    - idéalement, un jeu devrait pouvoir n'être joué qu'avec un seul dispositif (s'il se joue au clavier, que le menu puisse être navigué aussi avec uniquement le clavier)
+    - idéalement, on devrait pouvoir y jouer avec une seule main
+- si vous avez des dialogues audio: sous-titres, et possibilité de les activer ou non
+    - je sais que ce n'est pas hyper important vu qu'a priori vous n'aurez pas le temps d'enregistrer de l'audio pour tous vos dialogues, et encore moins de les sous-titrer
+        - mais sachez que c'est important si vous faites un jeu qui a des dialogues enregistrés et qui n'est pas une démo de moins d'une demi-heure
+- daltonisme
+    - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
+    - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
+        - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
+        - idéalement laisser le choix
+    - éventuellement leur mettre un son différent
+    - ou laisser les gens choisir les couleurs eux-même
+- épilepsie
+    - si vous avez des flashs de couleurs très contrastées (blanc, ou rouge vif) qui prennent une grosse partie de l'écran (plus d'un quart)
+        - ou des mouvements aléatoires de motifs de couleurs très contrastées, qui prennent une grosse partie de l'écran
+    - **alors mettre un écran d'avertissement au début du jeu**
+        - et éventuellement la possibilité de les désactiver
+        - et éviter le rouge très vif pour les flashs
+        - et éviter d'avoir trois ou plus flashs par seconde
+- **contrastes du texte**
+    - augmenter la taille du texte aide aussi à la lisibilité
+    - le fond derrière le texte peut avoir une légère texture, mais pas trop forte ou elle peut nuire à la lisibilité
+    - cf <https://webaim.org/resources/contrastchecker/>
+- dyslexie et problèmes de vue
+    - ne pas utiliser de polices serif
+    - ni l'italique
+    - ne pas rogner sur l'interligne (un interligne de 1.5 est plus lisible)
+    - **utiliser des majuscules et des minuscules, pas tout majuscule ou tout minuscule**
+    - préférer du texte non justifié
+    - utiliser des lignes courtes: pas plus de 70-80 caractères par ligne
+    - helvetica, arial et verdana sont, selon [une étude](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf), facilement lisibles
+- possibilité de passer les cinématiques
+
+## 99) Ressources externes (en anglais)
+- accessibilité:
+    - un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibilité, avec des exemples et des explications: <http://gameaccessibilityguidelines.com/full-list/>
+    - à propos de l'épilepsie: <https://videogameseizures.wordpress.com/2018/02/15/seizures-from-2017s-best-video-games/> et <https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html>
+    - à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>
+    - à propos du texte: <https://webaim.org/resources/contrastchecker/>
+    - à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
+
+## 100) Plus de ressources (en français)
+- game design:
+    - The Art of Game Design, de Jesse Schell (a été traduit en français)
+
+
 # X. Annexes
 ## 1) schéma de l'interface de Krita
 ![Interface Krita](/assets/999_interfaceKrita.png)
@@ -821,103 +926,6 @@ ACCESSIBILITY
         - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-## 2a) notions de game design
-- si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
-- lisibilité (cf II.2)
-- vitesse de réaction du jeu: éviter les animations longues en début d'action (cf V.1)
-- de l'importance du son (cf IV.1)
-- de l'importance des retours visuels (feedback) (cf V.1)
-- essayer d'avoir une unité graphique
-    - et une unité entre le graphique, l'audio, l'histoire et le gameplay
-    - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
-        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
-- à propos de la musique: pour chaque musique différente, penser à son utilisation
-    - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
-        - mais on peut avoir plusieurs variations sur le même thème
-        - tester de l'écouter en boucle pendant dix minutes (y compris en faisant autre chose) pour vérifier qu'elle ne devient pas irritante à la longue
-    - une musique de fin de combat par exemple peut avoir un cycle beaucoup plus court
-- à propos du son: penser aussi à son utilisation
-    - si vous mettez des bruits de pas, envisager de prévoir plusieurs variations
-        - pas trop différents non plus, qu'on sente que c'est la même personne qui marche sur le même matériau
-            - juste pour éviter d'avoir exactement le même son plein de fois de suite
-                - (on fait beaucoup de pas quand on marche)
-    - même pour un son qui est censé être très fort, strident ou un peu désagréable, ne pas le rendre trop fort/strident/désagréable
-        - penser aux tympans du joueur
-    - plus on entend un bruit souvent plus il devrait être discret
-        - un bruit de pas n'a pas besoin d'être très fort
-        - la super attaque du boss final qu'il n'utilise qu'une fois toutes les cinq minutes peut avoir un son plus fort, et durer plus longtemps, et avoir un son plus remarquable
-            - et avoir un screen-shake
-            - et un flash sur le perso
-            - et des particules!
-
-## 2b) notions de fabrication de jeu
-(ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
-- vous serez en retard sur le planning
-    - prévoyez un temps conséquent pour résoudre les bugs.
-        - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
-            - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
-    - faites un jeu modulaire
-        - globalement identifiez ce qui est essentiel et commencez par là, et faites le cool mais optionel en dernier.
-            - beaucoup plus de choses sont optionnelles qu'on ne croit.
-        - pour les jeux où les mécaniques de jeu sont importantes: isolez le centre, la partie la plus importante du jeu, et commencez par là. Une fois que ça marche bien, vous pouvez en ajouter une autre. Une fois qu'elle marche bien et se mèle bien à l'autre, ajoutez-en une troisième.
-        - pour les jeux où il y a de la narration: faites le début. Faites la fin. Puis faites le milieu. Comme ça si vous n'avez pas eu le temps de faire le milieu on ne s'en rendra pas compte.
-        - pour les jeux où les graphismes sont importants: faites des placeholders qui vous satisfont mais ne sont pas parfaits, et sachez que vous pourrez les retravailler après.
-    - d'expérience: si vous vous dites: après le rendu je finirai / polirai / ajouterai ce truc cool, il y a 96,8% de chances que vous ne le fassiez pas.
-- FAITES TESTER VOTRE JEU
-    - c'est important
-- la présence de son a une importance disproportionnée: si vous passez une heure à faire un son basique, ça aura à peu près autant d'impact que si vous passiez vingt heures à fignoler les assets graphiques.
-- éventuellement: faites un niveau de test, juste pour vous, avec les différentes parties du jeu toutes ensembles, histoire si vous devez tester un boss de ne pas avoir à rejouer tout le jeu.
-    - alternativement ou en plus: des cheat keys.
-        - Par exemple, pour un rpg, appuyer sur 'A' change le booléen "a fini la mission 1" à vrai.
-        - ou des raccourcis vers de niveaux.
-
-## 2c) accessibilité
-En gras les propositions qui ne demandent quasiment aucun effort.  
-Tous ces paramètres doivent être accessibles avant le début du jeu (y compris avant la cinématique de début s'il y en a une).  
-- possibilité de changer tous les contrôles
-    - y compris celui d'accès au menu
-    - y compris les boutons de la souris
-    - idéalement, un jeu devrait pouvoir n'être joué qu'avec un seul dispositif (s'il se joue au clavier, que le menu puisse être navigué aussi avec uniquement le clavier)
-    - idéalement, on devrait pouvoir y jouer avec une seule main
-- si vous avez des dialogues audio: sous-titres, et possibilité de les activer ou non
-    - je sais que ce n'est pas hyper important vu qu'a priori vous n'aurez pas le temps d'enregistrer de l'audio pour tous vos dialogues, et encore moins de les sous-titrer
-        - mais sachez que c'est important si vous faites un jeu qui a des dialogues enregistrés et qui n'est pas une démo de moins d'une demi-heure
-- daltonisme
-    - envisager de mettre des motifs, en plus des couleurs, pour différencier deux types, ou ajouter des formes pour l'identification.
-    - **ou changer la luminosité de manière à ce que ce soit reconnaissable aussi en niveaux de gris**
-        - un [site qui transforme une image en "vue daltonienne", pour tester si elle reste lisible](https://www.color-blindness.com/coblis-color-blindness-simulator/)
-    - choisir orange/bleu au lieu de rouge/vert comme couleurs opposées est plus souvent lisible par les daltonien
-        - idéalement laisser le choix
-    - éventuellement leur mettre un son différent
-    - ou laisser les gens choisir les couleurs eux-même
-- épilepsie
-    - si vous avez des flashs de couleurs très contrastées (blanc, ou rouge vif) qui prennent une grosse partie de l'écran (plus d'un quart)
-        - ou des mouvements aléatoires de motifs de couleurs très contrastées, qui prennent une grosse partie de l'écran
-    - **alors mettre un écran d'avertissement au début du jeu**
-        - et éventuellement la possibilité de les désactiver
-        - et éviter le rouge très vif pour les flashs
-        - et éviter d'avoir trois ou plus flashs par seconde
-- **contrastes du texte**
-    - augmenter la taille du texte aide aussi à la lisibilité
-    - le fond derrière le texte peut avoir une légère texture, mais pas trop forte ou elle peut nuire à la lisibilité
-    - cf <https://webaim.org/resources/contrastchecker/>
-- dyslexie et problèmes de vue
-    - ne pas utiliser de polices serif
-    - ni l'italique
-    - ne pas rogner sur l'interligne (un interligne de 1.5 est plus lisible)
-    - **utiliser des majuscules et des minuscules, pas tout majuscule ou tout minuscule**
-    - préférer du texte non justifié
-    - utiliser des lignes courtes: pas plus de 70-80 caractères par ligne
-    - helvetica, arial et verdana sont, selon [une étude](http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf), facilement lisibles
-- possibilité de passer les cinématiques
-
-**références**  
-un site extrêmement bien fait qui regroupe plein de conseils pour l'accessibilité, avec des exemples et des explications (en anglais malheureusement): <http://gameaccessibilityguidelines.com/full-list/>
-à propos de l'épilepsie: <https://videogameseizures.wordpress.com/2018/02/15/seizures-from-2017s-best-video-games/>  
-<https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html>  
-à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>  
-à propos du texte: <https://webaim.org/resources/contrastchecker/>
-à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
 
 ## 3a) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
