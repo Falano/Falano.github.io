@@ -622,7 +622,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - régulier
 - début lent, accélération
 - fin lente, décélération
-- quasi instantané (interdiction de dessiner dans l'espace entre l'image de début et l'image de fin)  
+- quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
 
 --  
 
@@ -715,7 +715,6 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
 
 ## 3) "Juice"
 
-ACCESSIBILITY
 
 ## 99) plus de ressources (principalement en anglais)
 - un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)  
@@ -939,7 +938,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
     - Animation:
         - Lancer/Pauser l'animation,
         - Images de début et de fin (Start et End),
-        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
+        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images du cinéma en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
 ## 2) Licences
