@@ -440,7 +440,7 @@ importer sa tilemap de Tiled à Godot
 
 ## 2) licences
 /!\ Toujours vérifier la licence des assets qu'on utilise.  
-cf [Annexes X.3a](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
+cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
 
 [](3. fin L1A12 + un peu de 3 et 4)
 [](3. fin L1B12 + un peu de 3 et 4 - intro)
@@ -926,8 +926,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
         - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images de la télé TODO: ou du cinéma? en Europe), 12 c'est bien, 6 c'est possible mais limite);
         - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
 
-
-## 3a) Licences
+## 2) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
     - domaine public
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
@@ -939,8 +938,8 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 - pour votre jeu, vous pouvez utiliser la licence que vous voulez (qu'elle soit ou non creative commons); parfois les gens ont une licence pour le code et une autre pour les assets graphiques et audio (par exemple MIT pour le code et CC-BY pour les assets).
     - /!\ SAUF SI vous avez utilisé des assets CC-SA (CC-BY-SA, CC-BY-SA-NC, etc.), dans ce cas vous êtes obligés de réutiliser la même licence qu'eux.
 
-## 3b) Ressources externes
--/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.3a, une explication des principales licences libres utilisées pour les assets
+## 3) Ressources externes
+-/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
     - <https://opengameart.org/> (assets graphiques et sonores CC)
     - <https://www.dafont.com> (polices de caractères avec filtre par licence)
