@@ -602,7 +602,6 @@ The Legend of Zelda, Nintendo
     - ou ajouter un filtre ou une piste si on a trop peu de vie
     - etc.
 - ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme FF6 ¯\_(ツ)_/¯
-[](TODO: regarder s'il y a un wwise libre)
 
 ## 5) les formats audio
 - **.aup**: format de travail de audacity
@@ -646,7 +645,7 @@ The Legend of Zelda, Nintendo
             - [animation d'objets (PES)](https://www.youtube.com/watch?v=qBjLW5_dGAM)
             - [pâte à modeler (shawn the sheep)](https://www.youtube.com/watch?v=0_4vs0nCCUI)
             - [marionnettes (L'étrange Noel de Mister Jack)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
-            - [marionettes (ma vie de courgette](https://www.youtube.com/watch?v=OEwycy4aaFw)
+            - [marionettes (ma vie de courgette)](https://www.youtube.com/watch?v=OEwycy4aaFw)
             - [marionettes (le petit prince)](https://vimeo.com/164860211)
             - Jiri Trnka
         - pixilation
@@ -676,23 +675,23 @@ The Legend of Zelda, Nintendo
 - de l'importance du mime (si vous le sentez)
 
 **références**
-Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>
-Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>
-L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick
-Ma vie de Courgette, réalisé par Claude Barras
-Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>
-Luminaris, par Juan Pablo Zaramella
-Neighbours, de Norman McLaren
-Parvana (the breadwinner), réalisé par Nora Twomey
-Les 101 Dalmatiens, produit par Disney
-Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert
-Cuphead, par Studio MDHR
-Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>
-Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>
-Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>
-Teen Titans Go!, produit par Cartoon Network
-Team Fortress 2, par Valve
-Abzu, par GiantSquid <https://abzugame.com/>
+Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>  
+Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>  
+L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick  
+Ma vie de Courgette, réalisé par Claude Barras  
+Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>  
+Luminaris, par Juan Pablo Zaramella  
+Neighbours, réalisé par Norman McLaren, produit par l'ONF/NFB (Office National du Film canadien)  
+Parvana (the breadwinner), réalisé par Nora Twomey  
+Les 101 Dalmatiens, produit par Disney  
+Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert  
+Cuphead, par Studio MDHR  
+Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>  
+Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>  
+Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>  
+Teen Titans Go!, produit par Cartoon Network  
+Team Fortress 2, par Valve  
+Abzu, par GiantSquid <https://abzugame.com/>  
 
 ## 2) principes d'animation 1
 - timing
@@ -756,7 +755,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - les poses-clé doivent être très claires, aussi bien pour le personnage que pour l'action
     - les intervalles peuvent être un peu moches
         - ce qui compte c'est que l'anim globale soit bien
-- squash and stretch, déformations (cf [une animation des looney toons](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
+- squash and stretch, déformations (cf [une animation des looney tunes](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
 - de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
@@ -1081,10 +1080,15 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 ## 3) Ressources externes
 -/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
-    - <https://opengameart.org/> (assets graphiques et sonores CC)
-    - <https://www.dafont.com> (polices de caractères avec filtre par licence)
-    - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
-    - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
+    - persos, décors et UI
+        - <https://opengameart.org/> (assets graphiques et sonores CC)
+        - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
+        - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
+    - polices de caractères
+        - <https://www.dafont.com>
+        - <https://www.fontspace.com/>
+        - <https://www.fontsquirrel.com>
+        - et plein d'autres
 - ressources audio
     - sons
         - <https://freesfx.co.uk/Default.aspx> : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
