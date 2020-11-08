@@ -777,9 +777,10 @@ Looney Tunes, par Warner Bros
 ## 3) export
 - suite d'images
     - File > Render Animation Frames (Fichier > Rendu de l'animation)
+        - les images de début et de fin doivent être comprises entre les images de début et de fin du docker Animation
 - spritesheet
-    - krita
-        - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
+    - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
+        - avant l'export, désactiver l'onionskin et les calques superflus (par exemple l'arrière-plan)
 
 ## 99) Plus de ressources (principalement en anglais)
 - anticipation:
