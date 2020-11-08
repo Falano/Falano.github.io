@@ -702,13 +702,15 @@ Abzu, par GiantSquid <https://abzugame.com/>
     - par exemple:
         - pour une action très rapide, on voudra une image différente par frame (pour la partie très rapide en tous cas), et éventuellement un framerate de 24
         - pour une action très lente (un idle par exemple), un framerate de 12 et une image toutes les une ou deux frames selon les images peuvent suffire
+        - mais globalement essayer de ne pas avoir moins de 12 images/secondes à part pour un idle
+        - utiliser l'espace plutôt que le temps pour gérer le rythme dans l'anim finale
 - varier les rythmes
     - les robots/machines ont tendance à avoir des mouvements plus réguliers
     - typiquement un mouvement organique est plus lent au départ et à l'arrivée
         - s'il y a beaucoup de force derrière ce mouvement, il aura une très forte anticipation et un rebond à l'arrivée
-    - changement de direction: plus de temps, ralentissement
+    - changement de direction: plus de temps, ralentissement (cf [vidéo de mouvement de pendule](https://www.youtube.com/watch?v=B573sEUDLw8))
         - le ralentissement est d'autant plus visible que l'objet mouvant est lourd et qu'il va vite
-        - impression soulignée s'il y a un élément qui suit (cheveux, corde, etc.)
+        - impression soulignée s'il y a un élément qui suit (cheveux, écharpe, queue, etc.) ([un exemple](https://www.youtube.com/watch?v=Fliz85Kgnww), [un autre exemple](https://www.youtube.com/watch?v=KFWgrzgj7xQ))
 
 ## 3) outils d'animation
 - docker Timeline
@@ -736,7 +738,7 @@ faire traverser l'image à un trait suivant différents rythmes
 --  
 
 ## 4) principes d'animation 2
-- anticipation - action - réaction
+- anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
     - pour la défense/esquive du joueur, diminuer l'anticipation pour augmenter la réactivité
     - pour l'attaque des ennemis, augmenter l'anticipation pour donner au joueur le temps de réagir
     - l'anticipation sert à préparer le joueur pour qu'il lise mieux l'action
@@ -770,6 +772,9 @@ faire traverser l'image à un trait suivant différents rythmes
         - atterrissage
 - anim vague/fumée/vent/queue
 
+**références**
+Looney Tunes, par Warner Bros
+
 ## 3) export
 - suite d'images
     - File > Render Animation Frames (Fichier > Rendu de l'animation)
@@ -785,7 +790,11 @@ faire traverser l'image à un trait suivant différents rythmes
 - anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>
 - timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
 - déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
+- course (article écrit illustré de gifs): <http://www.lessmilk.com/tutorial/pixel-art-run-cycle>
 
+- les 12 principes de l'animation:
+    - le bouquin qui en parle à l'origine, jamais traduit en français apparement: The Illusion of Life: Disney Animation, de Frank Thomas et Ollie Johnston
+    - un explication sur wikipedia: <https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
@@ -800,6 +809,7 @@ faire traverser l'image à un trait suivant différents rythmes
 
 ## 100) Ressources en français
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
+- les 12 principes de l'animation: https://fr.wikipedia.org/wiki/12_principes_de_base_de_l%27animation
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
@@ -978,6 +988,9 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
     - à propos du daltonisme: <https://www.color-blindness.com/coblis-color-blindness-simulator/>
     - à propos du texte: <https://webaim.org/resources/contrastchecker/>
     - à propos de la dyslexie: <https://bigelowandholmes.typepad.com/bigelow-holmes/2014/11/typography-dyslexia.html> et <http://dyslexiahelp.umich.edu/sites/default/files/good_fonts_for_dyslexia_study.pdf>
+- général:
+    - une [explication amusante et claire des différents métiers du jeu vidéo](https://www.gamasutra.com/blogs/LizEngland/20140423/216092/quotThe_Door_Problemquot_of_Game_Design.php)
+    - plein de [conférences libres d'accès sur le jeu vidéo](https://www.gdcvault.com/free/)
 
 ## 100) Plus de ressources (en français)
 - game design:
