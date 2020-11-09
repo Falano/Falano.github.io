@@ -813,7 +813,15 @@ Looney Tunes, par Warner Bros
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
-- des __vidéos montrant des mouvements, à utiliser comme références__
+- des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
+- une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
+- [début du cours d'animation (mercredi)](https://youtu.be/cUXbnengUY8)
+    - 00:00:00 timing
+    - 00:08:00 anticipation
+    - 00:11:30 amorti (ralentissement en début ou fin de mouvement)
+    - 00:13:45 outils d'animation de krita
+    - 00:26:33 exercice
+- une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
 
 # VI. Finitions
 ## 1) UI - theorie
@@ -995,6 +1003,22 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 ## 100) Plus de ressources (en français)
 - game design:
     - L'art du game design (The Art of Game Design), de Jesse Schell
+- un [enregistrement du cours sur le game design](https://youtu.be/BZ9x_0qWJMk)
+    - 00:00:00 le canal Annonces sur discord
+    - 00:11:21 le site du cours
+    - 00:13:28 le son (intro)
+    - 00:36:55 rappel: les licences
+    - 00:42:39 audacity
+    - 00:49:15 les formats audio
+    - 00:54:29 rappel: beeepbox
+    - 00:54:50 rappel: musescore
+    - 00:56:15 rappel: LMMS
+    - 01:00:56 notions de game design
+    - 01:19:19 notions d'organisation pour la fabrication d'un jeu
+    - 01:37:42 accessibilité
+    - 01:54:57 anticipation en animation
+    - 01:57:47 outils d'animation de krita
+    - 02:15:10 exercice
 
 
 # X. Annexes
