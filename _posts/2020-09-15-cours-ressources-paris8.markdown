@@ -518,9 +518,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
     - là où on assemble le contenu de tous les autres editors
     - dupliquer un module *ctrl cliquer glisser*
     - piste Sample Track: accepte un fichier audio
-    - piste Automation Track [](TODO!!)
+    - piste Automation Track: animer un contrôle (par exemple changer le volume d'une autre piste)
+        - edit song-global automation
+        - controller rack: cyclic automation qui peut être controllé par un autre contrôle
     - piste Triple Oscillator [](TODO!!)
     - loop point (début: *clic molette* fin: *clic droit*)
+    - changer un instrument
+    - sauver ses presets
 - My Presets
     - si on clique sur un preset on l'entend
 - My Instruments
@@ -562,7 +566,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - une flûte, hautbois, ou violon pour la ligne mélodique
 - de la musique chiptune pour un effet rétro
 - plein d'effets ou des instruments synthétisés pour un air plus sci-fi/futuriste/urbain
-- des choeurs peuvent donner un air musique sacrée/impressionnant
+- des choeurs ou des orgues peuvent donner un air musique sacrée/impressionnant
 - une voix qui chante (ou fredonne) peut donner un caractère plus intimiste/berceuse
 - un saxophone ou une trompette ( + batterie, + contrebasse) pour une atmosphère jazz/New York/1960
 - accordéon: musique de rue, France urbaine ou de village, etc.
