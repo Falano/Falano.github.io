@@ -19,7 +19,7 @@ permalink: /cours/creation_gestion_ressources_5.html
             - [animation d'objets (PES)](https://www.youtube.com/watch?v=qBjLW5_dGAM)
             - [pâte à modeler (shawn the sheep)](https://www.youtube.com/watch?v=0_4vs0nCCUI)
             - [marionnettes (L'étrange Noel de Mister Jack)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
-            - [marionettes (ma vie de courgette](https://www.youtube.com/watch?v=OEwycy4aaFw)
+            - [marionettes (ma vie de courgette)](https://www.youtube.com/watch?v=OEwycy4aaFw)
             - [marionettes (le petit prince)](https://vimeo.com/164860211)
             - Jiri Trnka
         - pixilation
@@ -49,23 +49,23 @@ permalink: /cours/creation_gestion_ressources_5.html
 - de l'importance du mime (si vous le sentez)
 
 **références**
-Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>
-Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>
-L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick
-Ma vie de Courgette, réalisé par Claude Barras
-Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>
-Luminaris, par Juan Pablo Zaramella
-Neighbours, de Norman McLaren
-Parvana (the breadwinner), réalisé par Nora Twomey
-Les 101 Dalmatiens, produit par Disney
-Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert
-Cuphead, par Studio MDHR
-Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>
-Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>
-Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>
-Teen Titans Go!, produit par Cartoon Network
-Team Fortress 2, par Valve
-Abzu, par GiantSquid <https://abzugame.com/>
+Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>  
+Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>  
+L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick  
+Ma vie de Courgette, réalisé par Claude Barras  
+Le petit prince (2015), réalisé par Mark Osborne, stop-motion animée par le studio TouTenKartoon <https://toutenkartoon.ca/>  
+Luminaris, par Juan Pablo Zaramella  
+Neighbours, réalisé par Norman McLaren, produit par l'ONF/NFB (Office National du Film canadien)  
+Parvana (the breadwinner), réalisé par Nora Twomey  
+Les 101 Dalmatiens, produit par Disney  
+Le Roi et L'oiseau, de Paul Grimault et Jacques Prévert  
+Cuphead, par Studio MDHR  
+Tangle Tower, par SFB games <https://sfbgames.com/press/sheet.php?p=tangle_tower>  
+Later Alligator, par PillowFight Games et SmallBu Animation <https://press.pillowfight.io/later_alligator/index.html>  
+Jotun, par Thunder Lotus Games <https://thunderlotusgames.com/jotun/>  
+Teen Titans Go!, produit par Cartoon Network  
+Team Fortress 2, par Valve  
+Abzu, par GiantSquid <https://abzugame.com/>  
 
 ## 2) principes d'animation 1
 - timing
@@ -75,13 +75,15 @@ Abzu, par GiantSquid <https://abzugame.com/>
     - par exemple:
         - pour une action très rapide, on voudra une image différente par frame (pour la partie très rapide en tous cas), et éventuellement un framerate de 24
         - pour une action très lente (un idle par exemple), un framerate de 12 et une image toutes les une ou deux frames selon les images peuvent suffire
+        - mais globalement essayer de ne pas avoir moins de 12 images/secondes à part pour un idle
+        - utiliser l'espace plutôt que le temps pour gérer le rythme dans l'anim finale
 - varier les rythmes
     - les robots/machines ont tendance à avoir des mouvements plus réguliers
     - typiquement un mouvement organique est plus lent au départ et à l'arrivée
         - s'il y a beaucoup de force derrière ce mouvement, il aura une très forte anticipation et un rebond à l'arrivée
-    - changement de direction: plus de temps, ralentissement
+    - changement de direction: plus de temps, ralentissement (cf [vidéo de mouvement de pendule](https://www.youtube.com/watch?v=B573sEUDLw8))
         - le ralentissement est d'autant plus visible que l'objet mouvant est lourd et qu'il va vite
-        - impression soulignée s'il y a un élément qui suit (cheveux, corde, etc.)
+        - impression soulignée s'il y a un élément qui suit (cheveux, écharpe, queue, etc.) ([un exemple](https://www.youtube.com/watch?v=Fliz85Kgnww), [un autre exemple](https://www.youtube.com/watch?v=KFWgrzgj7xQ))
 
 ## 3) outils d'animation
 - docker Timeline
@@ -109,7 +111,7 @@ faire traverser l'image à un trait suivant différents rythmes
 --  
 
 ## 4) principes d'animation 2
-- anticipation - action - réaction
+- anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
     - pour la défense/esquive du joueur, diminuer l'anticipation pour augmenter la réactivité
     - pour l'attaque des ennemis, augmenter l'anticipation pour donner au joueur le temps de réagir
     - l'anticipation sert à préparer le joueur pour qu'il lise mieux l'action
@@ -127,7 +129,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - les poses-clé doivent être très claires, aussi bien pour le personnage que pour l'action
     - les intervalles peuvent être un peu moches
         - ce qui compte c'est que l'anim globale soit bien
-- squash and stretch, déformations (cf [une animation des looney toons](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
+- squash and stretch, déformations (cf [une animation des looney tunes](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
 - de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
@@ -143,12 +145,16 @@ faire traverser l'image à un trait suivant différents rythmes
         - atterrissage
 - anim vague/fumée/vent/queue
 
+**références**
+Looney Tunes, par Warner Bros
+
 ## 3) export
 - suite d'images
     - File > Render Animation Frames (Fichier > Rendu de l'animation)
+        - les images de début et de fin doivent être comprises entre les images de début et de fin du docker Animation
 - spritesheet
-    - krita
-        - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
+    - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
+        - avant l'export, désactiver l'onionskin et les calques superflus (par exemple l'arrière-plan)
 
 ## 99) Plus de ressources (principalement en anglais)
 - anticipation:
@@ -158,7 +164,11 @@ faire traverser l'image à un trait suivant différents rythmes
 - anims décalées (article + vidéo): <http://www.dsource.in/course/principles-animation/follow-through-and-overlapping-action>
 - timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
 - déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
+- course (article écrit illustré de gifs): <http://www.lessmilk.com/tutorial/pixel-art-run-cycle>
 
+- les 12 principes de l'animation:
+    - le bouquin qui en parle à l'origine, jamais traduit en français apparement: The Illusion of Life: Disney Animation, de Frank Thomas et Ollie Johnston
+    - un explication sur wikipedia: <https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
 - plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
@@ -173,10 +183,19 @@ faire traverser l'image à un trait suivant différents rythmes
 
 ## 100) Ressources en français
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
+- les 12 principes de l'animation: https://fr.wikipedia.org/wiki/12_principes_de_base_de_l%27animation
 - une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
-- des __vidéos montrant des mouvements, à utiliser comme références__
+- des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
+- une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
+- [début du cours d'animation (mercredi)](https://youtu.be/cUXbnengUY8)
+    - 00:00:00 timing
+    - 00:08:00 anticipation
+    - 00:11:30 amorti (ralentissement en début ou fin de mouvement)
+    - 00:13:45 outils d'animation de krita
+    - 00:26:33 exercice
+- une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
 
 
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
