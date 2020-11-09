@@ -617,8 +617,20 @@ The Legend of Zelda, Nintendo
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
 ## 99) ressources en anglais
-- un [tuto sur LMMS au pif](https://www.youtube.com/watch?v=TrMTlpeSw8Y)
+- un livre sur la musique de jeu vidéo, souvent utilisé dans des cours d'unifs ou d'écoles: A Composer’s Guide to Game Music, de Winifred Phillips
+- un [compositeur de musique de jeu très intéressant qui analyse des musiques de jeu](https://www.youtube.com/c/jakebutineau/featured)
+    - [canal Game Music Discussions](https://www.youtube.com/playlist?list=PLn9G57Vo6gadLUEzzvz38tKQ5x1P-1g4h)
+    - [canal The Game Music Podcast](https://www.youtube.com/playlist?list=PLn9G57Vo6gafeDzvegH-nmD5IGbDz5k0s)
+- une [vidéo d'analyse générale de la musique de jeux prenant comme exemple plein de jeux différents](https://www.youtube.com/watch?v=XkndjIA-WVY)
+- un [compositeur qui explique comment il a fait une musique alternative pour le Witcher 3](https://www.youtube.com/watch?v=mp06Yoo6bNM)
+    - à [3:54](https://youtu.be/mp06Yoo6bNM?t=224) il joue the witcher avec sa musique
+    - à [5:35](https://youtu.be/mp06Yoo6bNM?t=337) il montre chaque piste (et il explique des trucs, mais on peut aussi juste l'ignorer)
+- une [vidéo expliquant tout le processus](https://www.youtube.com/watch?v=1qPfH95ry84)
+- une [interview écrite des sound designer et game developer de Untitled Goose Game](https://www.fmod.com/blog/untitled-goose-game-interview)
+- un [court article sur la musique de jeu vidéo en général](https://audient.com/tutorial/composing-music-video-games/)
+- un [article académique sur la musique de jeu vidéo](https://www.researchgate.net/publication/329210926_Designing_a_game_for_music_Integrated_design_approaches_for_Ludic_music_and_Interactivity)
 - une [vidéo sur la théorie musicale](https://www.youtube.com/watch?v=rgaTLrZGlk0)
+- un [tuto sur LMMS au pif](https://www.youtube.com/watch?v=TrMTlpeSw8Y)
 
 ## 100) ressources en français
 - un [mémoire sur la musique de jeu vidéo](https://www.ens-louis-lumiere.fr/sites/default/files/2017-08/Soulier_Son_2016.pdf)
