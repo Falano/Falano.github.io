@@ -10,7 +10,7 @@ permalink: /cours/creation_gestion_ressources_4.html
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. [Krita](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. Son
+# IV. [Son](/cours/creation_gestion_ressources_4.html)
 ## 1) intro
 - de l'importance du son
     - donne aussi des infos supplémentaires
@@ -91,8 +91,104 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
     - avec un logiciel de création de musique
         - <https://beepbox.co/> (musique bitbox, simple d'utilisation)
             - éventuellement exporter en MIDI, importer dans musescore, mettre de belles soundfonts et réexporter en .wav ou .ogg
-        - LMMS [](TODO: )
+        - LMMS
 - télécharger une musique sous licence libre
+
+## 4b) LMMS
+- aide: bouton 'i'
+- navigation
+    - se déplacer dans le temps: *clic gauche* sur la ligne du temps au-dessus de l'espace de travail
+    - zoom/dézoom: ctrl molette
+    - commencer/arrêter la lecture: *espace*
+    - solo/mute
+- song editor
+    - là où on assemble le contenu de tous les autres editors
+    - dupliquer un module *ctrl cliquer glisser*
+    - piste Sample Track: accepte un fichier audio
+    - piste Automation Track [](TODO!!)
+    - piste Triple Oscillator [](TODO!!)
+    - loop point (début: *clic molette* fin: *clic droit*)
+- My Presets
+    - si on clique sur un preset on l'entend
+- My Instruments
+    - audio file processor
+        - pour enregistrer ses propres instruments
+            - options de boucle
+    - SF2 player
+        - File: le fichier .sf2 de la soundfont
+        - Patch: choisir parmi la liste des instruments disponibles dans la soundfont choisie
+    - sfxr
+        - fonctionne comme sfxr (qui l'eût cru)
+        - boutons random et mutation
+- beat editor
+    - possibilité d'ajouter autant d'instruments qu'on veut
+- piano editor
+    - input midi ou clavier ordi
+        - tempo
+    - raccourcis claviers habituels:
+        - *ctrl A* sélectionner tout
+        - *ctrl C* copier
+        - *ctrl V* coller
+        - probablement d'autres
+    - outil dessin
+        - dessin (*shift D* puis *clic gauche*)
+        - gomme (*clic droit*)
+        - adapter la durée (*clic gauche* en fin de note)
+        - déplacement
+            - *cliquer glisser*: déplacer
+            - *shift cliquer glisser*: copier
+    - chords (harmoniques)
+    - outil selection
+        - pour déplacement (*cliquer glisser* avec l'outil dessin)
+        - sélectionner des notes une par une *shift clic gauche*
+        - pour suppression (*suppr*)
+
+## 4c) utilisation habituelle des instruments
+- des cloches, des xylophones ou des hangs (percussions délicates qui résonnent) aigus pour une atmosphère féerique/magique/nature
+- des trompettes, cors et autres cuivres pour un air épique et impressionnant
+- une flûte, hautbois, ou violon pour la ligne mélodique
+- de la musique chiptune pour un effet rétro
+- plein d'effets ou des instruments synthétisés pour un air plus sci-fi/futuriste/urbain
+- des choeurs peuvent donner un air musique sacrée/impressionnant
+- une voix qui chante (ou fredonne) peut donner un caractère plus intimiste/berceuse
+- un saxophone ou une trompette ( + batterie, + contrebasse) pour une atmosphère jazz/New York/1960
+- accordéon: musique de rue, France urbaine ou de village, etc.
+    - généralement: pas mal d'endroits ont des instruments qui leur sont propres, ne pas hésiter à les utiliser si on trouve une soundbank (ou un instrumentiste) adaptée
+- ne pas hésiter à mélanger sons et musique (cf [une musique qui utilise des bruits comme notes](https://www.youtube.com/watch?v=fOCaNBGMMgE), [une autre](https://www.youtube.com/watch?v=SAUKJNCQK6U))
+    - par exemple une musique militaire peut utiliser comme rythme de fond le bruit d'une armée en marche (cf [le chant des partisans tel que chanté par Yves Montand](https://www.youtube.com/watch?v=DeXraool4QE))
+    - un son informatif, comme un bruitage de "tu as trouvé un coffre" ou "tu as été touché" peut être une musique courte (cf [Zelda](https://www.youtube.com/watch?v=CGBO_Xbz3Dk))
+- globalement: chercher "best /_style recherché/_" sur youtube et voir ce qui sort et tenter de faire quelque chose qui semble respecter les mêmes règles; éventuellement se renseigner un peu sur les règles théoriques du genre (les rythmes fréquents, les tonalités favorisées, etc.)
+- une bonne base pour faire une musique qui sonne bien c'est d'utiliser beepbox et se contraindre à n'utiliser que les notes d'une de ses "scales" (gammes).
+
+**références**
+vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>
+vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>
+le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand
+The Legend of Zelda, Nintendo
+
+
+## 4d) spécifités des musiques de jeu
+- la boucle
+    - de base: juste une boucle
+    - potentiellement intro (une fois) -> boucle (qui se répète autant de fois que nécessaire) -> conclusion/transition (une fois)
+    - voire intro -> boucle1 -> boucle2 -> transition -> boucle3 -> conclusion
+        - les "->" entre les boucles indiquant un événement dans le jeu qui cause le changement de musique
+    - plein de variations possibles mais: on sait quand ça commence on ne sait jamais quand ça finit
+    - il est possible aussi d'avoir plusieurs points de changement de musique potentiels:
+        - soit d'une part les fragments A B C et D, qui forment une boucle, et d'autre part A' B' C' D', qui forment une autre boucle, et de base ça joue la première boucle: ABCDABCDABCDABCD...,
+        - mais une action du joueur peut passer à la deuxième boucle dès qu'une fin de segment est atteinte:
+        - si le joueur agit pendant que la musique jouait B, à la fin au lieu de passer à C on passe à C', puis ça continue en D'A'B'C'D'A'B'...
+        - ou alors à la fin de B au lieu de passer à C ça passe à A', et continue en B'C'D'A'B'C'...
+- possibilité d'ajouter des effets à toute la bande son, lié aux événements du jeu
+    - par exemple progressivement ajouter de la réverbération quand le perso descend dans une caverne
+    - ou baisser progressivement le son d'une piste et augmenter celui d'une autre
+    - ou lancer la piste des cuivres (par exemple) à un moment précis (prévoir plusieurs points d'entrée possibles)
+- visée informative
+    - par exemple changer de thème musical quand un ennemi approche
+    - ou augmenter le tempo pour prévenir qu'il reste peu de temps pour finir une tâche
+    - ou ajouter un filtre ou une piste si on a trop peu de vie
+    - etc.
+- ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme FF6 ¯\_(ツ)_/¯
 
 ## 5) les formats audio
 - **.aup**: format de travail de audacity
@@ -103,7 +199,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
+## 99) ressources en anglais
+- un [tuto sur LMMS au pif](https://www.youtube.com/watch?v=TrMTlpeSw8Y)
+- une [vidéo sur la théorie musicale](https://www.youtube.com/watch?v=rgaTLrZGlk0)
+
 ## 100) ressources en français
+- un [mémoire sur la musique de jeu vidéo](https://www.ens-louis-lumiere.fr/sites/default/files/2017-08/Soulier_Son_2016.pdf)
+- un [musicien/sound designer qui raconte comment il fait les musiques de jeu](https://www.youtube.com/watch?v=ctoGioZNYTM)
 - le [cours sur le son, avec une démo de tiles au début](https://youtu.be/XDcndwQZyQ4)
     - 00:00 démonstration des tiles vue du haut
     - 00:26:25 faire plusieurs niveaux (escaliers, terrasses, etc.) en tiles vu du haut
