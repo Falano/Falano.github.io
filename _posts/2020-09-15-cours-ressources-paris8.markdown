@@ -636,6 +636,8 @@ The Legend of Zelda, Nintendo
     - 01:50:43 audacity
 
 [](probs: 3. fin L1C12)
+[](4. fin L1A12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
+[](4. fin L1B12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
 
 # V. Animation
 ## 1) intro
@@ -735,6 +737,7 @@ faire traverser l'image à un trait suivant différents rythmes
 - quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
 
 --  
+[](4. fin l1C12)
 
 ## 4) principes d'animation 2
 - anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
