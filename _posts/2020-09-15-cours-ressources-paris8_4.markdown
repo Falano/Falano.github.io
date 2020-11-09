@@ -105,9 +105,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
     - là où on assemble le contenu de tous les autres editors
     - dupliquer un module *ctrl cliquer glisser*
     - piste Sample Track: accepte un fichier audio
-    - piste Automation Track [](TODO!!)
+    - piste Automation Track: animer un contrôle (par exemple changer le volume d'une autre piste)
+        - edit song-global automation
+        - controller rack: cyclic automation qui peut être controllé par un autre contrôle
     - piste Triple Oscillator [](TODO!!)
     - loop point (début: *clic molette* fin: *clic droit*)
+    - changer un instrument
+    - sauver ses presets
 - My Presets
     - si on clique sur un preset on l'entend
 - My Instruments
@@ -149,7 +153,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - une flûte, hautbois, ou violon pour la ligne mélodique
 - de la musique chiptune pour un effet rétro
 - plein d'effets ou des instruments synthétisés pour un air plus sci-fi/futuriste/urbain
-- des choeurs peuvent donner un air musique sacrée/impressionnant
+- des choeurs ou des orgues peuvent donner un air musique sacrée/impressionnant
 - une voix qui chante (ou fredonne) peut donner un caractère plus intimiste/berceuse
 - un saxophone ou une trompette ( + batterie, + contrebasse) pour une atmosphère jazz/New York/1960
 - accordéon: musique de rue, France urbaine ou de village, etc.
@@ -161,10 +165,10 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - une bonne base pour faire une musique qui sonne bien c'est d'utiliser beepbox et se contraindre à n'utiliser que les notes d'une de ses "scales" (gammes).
 
 **références**
-vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>
-vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>
-le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand
-The Legend of Zelda, Nintendo
+vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>  
+vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>  
+le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand  
+The Legend of Zelda, Nintendo  
 
 
 ## 4d) spécifités des musiques de jeu
@@ -188,7 +192,7 @@ The Legend of Zelda, Nintendo
     - ou augmenter le tempo pour prévenir qu'il reste peu de temps pour finir une tâche
     - ou ajouter un filtre ou une piste si on a trop peu de vie
     - etc.
-- ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme FF6 ¯\_(ツ)_/¯
+- ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme Final Fantasy 6 ¯\_(ツ)_/¯
 
 ## 5) les formats audio
 - **.aup**: format de travail de audacity
@@ -200,8 +204,20 @@ The Legend of Zelda, Nintendo
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
 ## 99) ressources en anglais
-- un [tuto sur LMMS au pif](https://www.youtube.com/watch?v=TrMTlpeSw8Y)
+- un livre sur la musique de jeu vidéo, souvent utilisé dans des cours d'unifs ou d'écoles: A Composer’s Guide to Game Music, de Winifred Phillips
+- un [compositeur de musique de jeu très intéressant qui analyse des musiques de jeu](https://www.youtube.com/c/jakebutineau/featured)
+    - [canal Game Music Discussions](https://www.youtube.com/playlist?list=PLn9G57Vo6gadLUEzzvz38tKQ5x1P-1g4h)
+    - [canal The Game Music Podcast](https://www.youtube.com/playlist?list=PLn9G57Vo6gafeDzvegH-nmD5IGbDz5k0s)
+- une [vidéo d'analyse générale de la musique de jeux prenant comme exemple plein de jeux différents](https://www.youtube.com/watch?v=XkndjIA-WVY)
+- un [compositeur qui explique comment il a fait une musique alternative pour le Witcher 3](https://www.youtube.com/watch?v=mp06Yoo6bNM)
+    - à [3:54](https://youtu.be/mp06Yoo6bNM?t=224) il joue the witcher avec sa musique
+    - à [5:35](https://youtu.be/mp06Yoo6bNM?t=337) il montre chaque piste (et il explique des trucs, mais on peut aussi juste l'ignorer)
+- une [vidéo expliquant tout le processus](https://www.youtube.com/watch?v=1qPfH95ry84)
+- une [interview écrite des sound designer et game developer de Untitled Goose Game](https://www.fmod.com/blog/untitled-goose-game-interview)
+- un [court article sur la musique de jeu vidéo en général](https://audient.com/tutorial/composing-music-video-games/)
+- un [article académique sur la musique de jeu vidéo](https://www.researchgate.net/publication/329210926_Designing_a_game_for_music_Integrated_design_approaches_for_Ludic_music_and_Interactivity)
 - une [vidéo sur la théorie musicale](https://www.youtube.com/watch?v=rgaTLrZGlk0)
+- un [tuto sur LMMS au pif](https://www.youtube.com/watch?v=TrMTlpeSw8Y)
 
 ## 100) ressources en français
 - un [mémoire sur la musique de jeu vidéo](https://www.ens-louis-lumiere.fr/sites/default/files/2017-08/Soulier_Son_2016.pdf)
