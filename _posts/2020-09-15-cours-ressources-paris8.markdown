@@ -578,10 +578,10 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - une bonne base pour faire une musique qui sonne bien c'est d'utiliser beepbox et se contraindre à n'utiliser que les notes d'une de ses "scales" (gammes).
 
 **références**
-vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>
-vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>
-le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand
-The Legend of Zelda, Nintendo
+vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>  
+vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>  
+le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand  
+The Legend of Zelda, Nintendo  
 
 
 ## 4d) spécifités des musiques de jeu
@@ -605,7 +605,7 @@ The Legend of Zelda, Nintendo
     - ou augmenter le tempo pour prévenir qu'il reste peu de temps pour finir une tâche
     - ou ajouter un filtre ou une piste si on a trop peu de vie
     - etc.
-- ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme FF6 ¯\_(ツ)_/¯
+- ou alors on peut aussi inclure dans son jeu dix minutes d'un opéra qu'on a composé spécialement pour lui, comme Final Fantasy 6 ¯\_(ツ)_/¯
 
 ## 5) les formats audio
 - **.aup**: format de travail de audacity
