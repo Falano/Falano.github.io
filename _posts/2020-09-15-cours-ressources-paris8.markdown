@@ -250,6 +250,8 @@ autres:
 [ ](2. fin lundi matin 1 moins lisi, moins formats)
 
 ## 99) plus de ressources (principalement en anglais)
+- un [article écrit plus théorique de l'artiste de Celeste](https://kano.me/blog/my-thoughts-on-very-low-resolution/)
+- comment [paramétrer godot pour le pixel art (écrit)](https://llangis.xyz/learn-godot-tutorial-1-settings-up-for-pixel-art)
 - le [canal youtube de Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
     - notamment:
     - [lignes et courbes](https://www.youtube.com/watch?v=ye21r27kN9I&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=3)
@@ -810,6 +812,7 @@ Looney Tunes, par Warner Bros
 - timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
 - déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
 - course (article écrit illustré de gifs): <http://www.lessmilk.com/tutorial/pixel-art-run-cycle>
+- intervalles non réalistes pour guider l'oeil: <https://youtu.be/Ih65Kg4DTw8?t=710>
 
 - les 12 principes de l'animation:
     - le bouquin qui en parle à l'origine, jamais traduit en français apparement: The Illusion of Life: Disney Animation, de Frank Thomas et Ollie Johnston
@@ -1018,6 +1021,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 - général:
     - une [explication amusante et claire des différents métiers du jeu vidéo](https://www.gamasutra.com/blogs/LizEngland/20140423/216092/quotThe_Door_Problemquot_of_Game_Design.php)
     - plein de [conférences libres d'accès sur le jeu vidéo](https://www.gdcvault.com/free/)
+    - [article "prototyper un jeu en moins de 7 jours" sur le game design et l'organisation](https://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php)
 
 ## 100) Plus de ressources (en français)
 - game design:
