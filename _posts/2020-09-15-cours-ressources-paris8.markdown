@@ -618,6 +618,25 @@ The Legend of Zelda, Nintendo
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
+## 97) exercices
+1) dix à quinze morceaux de musique (sans paroles) que vous aimez bien, de plusieurs styles différents
+- composer un morceau en utilisant des fragments d'au moins sept d'entre eux
+- observer où et comment les transitions passent le mieux, y compris quand l'instrumentation et le style musical sont différents
+2) un instrument, un thème musical simple.
+- ajouter un autre instrument après deux à six fragments, qui habille le thème et lui donne un peu plus de poids
+    - faire attention à ce que le changement ait l'air naturel et pas trop brusque: faire attention à quand le nouvel instrument entre
+- le faire plusieurs fois
+- ajouter un instrument et en enlever un ou plusieurs pour changer l'atmosphère du morceau
+- le faire plusieurs fois
+3) un thème musical de quatre à sept phrases musicales
+- composer un autre thème musical compatible (rythme et tempo similaires, au moins deux instruments identiques)
+- choisir des points de passage, le même nombre sur chaque thème
+- vérifier que l'on peut passer d'un thème à l'autre en utilisant chacun des points de passage
+
+
+## 98) exemples
+- un thème avec plusieurs niveaux: le [thème de terra dans ff6](https://www.youtube.com/watch?v=a6t_uyg_pF8)
+
 ## 99) ressources en anglais
 - un livre sur la musique de jeu vidéo, souvent utilisé dans des cours d'unifs ou d'écoles: A Composer’s Guide to Game Music, de Winifred Phillips
 - un [compositeur de musique de jeu très intéressant qui analyse des musiques de jeu](https://www.youtube.com/c/jakebutineau/featured)
@@ -802,6 +821,30 @@ Looney Tunes, par Warner Bros
 - spritesheet
     - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
         - avant l'export, désactiver l'onionskin et les calques superflus (par exemple l'arrière-plan)
+
+## 97) exercices
+1) un trait.
+- Une anim où il traverse l'écran de gauche à droite à une vitesse régulière.
+- Une autre où il accélère.
+- Une autre où il ralentit.
+- Une autre où il le traverse quasi instantanément.
+2) un perso; qu'il soit en position de base de idle; rendre le calque animable et copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière, d'opacité décroissante quand on s'éloigne de la frame actuelle (ou d'une autre manière si c'est plus confortable pour vous). Sur un autre calque, non animé, se faire une palette dans un coin des couleurs du personnage.
+- En s'aidant de l'onionskin, faire une anim qui boucle (éventuellement au cours du processus d'animation déplacer la frame de fin si l'anim ne fait pas 30 images): esquive, saut, ou attaque.
+- Sur un autre calque, non animé, noter dans une couleur non utilisée ailleurs la position des yeux à chaque frame, et de l'extrémité de chaque membre (mains, jambes, pattes) dans d'autres couleurs.
+- Vérifier si ça suit autant que possible une courbe, et que les espacements entre deux points sont réguliers; si non, modifier l'animation pour que ça soit davantage le cas.
+3) un perso. Une action.
+- Décrire l'action en trois à cinq silhouettes (possibilité de marquer l'oeil, mais c'est tout).
+- Ajuster le timing en déplaçant les keyframes dans le temps.
+- Une fois que c'est bon, ajouter des couleurs.
+- Ajouter des silhouettes entre.
+- Ajuster le timing et les courbes du mouvement (cf exercice 2)
+- ajouter des silhouettes.
+- Quand le mouvement a suffisament d'images, mettre en couleur ce qui ne l'est pas.
+4) illustration du principe de l'inertie
+4a) tenir un tissu entre ses doigts, en en laissant pendre une grosse partie (par exemple un t-shirt, tenu aux épaules). Avancer les mains brusquement de 30 centimètres, observer le délai avec lequel le reste du tissu suit le mouvement. Tester une action unique (avancer les mains une fois) et une boucle (faire un mouvement de va-et-vient sans s'arrêter). Tester avec des matériaux plus ou moins rigides et lourds (veste en cuir, chemise légère, etc.)
+4b) Un perso avec un élément secondaire inerte ou semi-inerte (un gosse qui traine un doudou, un personnage avec une queue, une ceinture, une écharpe, ou des cheveux longs, une cape, une pousse de plante sur la tête, etc.).
+- Animer un mouvement brusque.
+- Etudier comment l'élément secondaire agit.
 
 ## 99) Plus de ressources (principalement en anglais)
 - anticipation:
