@@ -27,21 +27,7 @@ permalink: /cours/creation_gestion_ressources_2.html
 faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
 --> pour se familiariser avec l'interface de krita  
 --  
-
 [](fin lundi matin 1 (plus un peu de krita2) --)
-
-## 2) lisibilité
-- personnage/fond: que le perso se détache sur le fond
-- plateformes et éléments interactifs: qu'ils soient clairement identifiables comme tels
-    - supertux plateformes invisibles
-    - dead cells design clair
-- personnages entre eux: qu'ils soient facilement différenciables
-- personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
-- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
-
-**références**  
-Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
-Fantasia, par Infogrames: <https://fr.wikipedia.org/wiki/Fantasia_(jeu_vid%C3%A9o)>
 
 --  
 **EXERCICE 2**  
@@ -176,6 +162,8 @@ autres:
 [ ](2. fin lundi matin 1 moins lisi, moins formats)
 
 ## 99) plus de ressources (principalement en anglais)
+- un [article écrit plus théorique de l'artiste de Celeste](https://kano.me/blog/my-thoughts-on-very-low-resolution/)
+- comment [paramétrer godot pour le pixel art (écrit)](https://llangis.xyz/learn-godot-tutorial-1-settings-up-for-pixel-art)
 - le [canal youtube de Brandon James Greer](https://www.youtube.com/channel/UCC26K7LTSrJK0BPAUyyvtQg)
     - notamment:
     - [lignes et courbes](https://www.youtube.com/watch?v=ye21r27kN9I&list=PLxfQIomHccxvoTON6hXhfZyAUdFXd-z1P&index=3)
