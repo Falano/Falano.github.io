@@ -109,6 +109,8 @@ faire traverser l'image à un trait suivant différents rythmes
 - quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
 
 --  
+[](4. fin l1C12)
+[](5. fin L1A12 + anticipation)
 
 ## 4) principes d'animation 2
 - anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
@@ -145,6 +147,8 @@ faire traverser l'image à un trait suivant différents rythmes
         - atterrissage
 - anim vague/fumée/vent/queue
 
+[](5. fin L1B12 - vague; marche rapidement)
+
 **références**
 Looney Tunes, par Warner Bros
 
@@ -156,6 +160,36 @@ Looney Tunes, par Warner Bros
     - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
         - avant l'export, désactiver l'onionskin et les calques superflus (par exemple l'arrière-plan)
 
+## 97) exercices
+1) étude du timing
+- dessiner un trait.
+- Une anim où il traverse l'écran de gauche à droite à une vitesse régulière.
+- Une autre où il accélère.
+- Une autre où il ralentit.
+- Une autre où il le traverse quasi instantanément.
+
+2) courbes d'animation
+- dessiner un perso; qu'il soit en position de base de idle; rendre le calque animable et copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière, d'opacité décroissante quand on s'éloigne de la frame actuelle (ou d'une autre manière si c'est plus confortable pour vous). Sur un autre calque, non animé, se faire une palette dans un coin des couleurs du personnage.
+- En s'aidant de l'onionskin, faire une anim qui boucle (éventuellement au cours du processus d'animation déplacer la frame de fin si l'anim ne fait pas 30 images): esquive, saut, ou attaque.
+- Sur un autre calque, non animé, noter dans une couleur non utilisée ailleurs la position des yeux à chaque frame, et de l'extrémité de chaque membre (mains, jambes, pattes) dans d'autres couleurs.
+- Vérifier si ça suit autant que possible une courbe, et que les espacements entre deux points sont réguliers; si non, modifier l'animation pour que ça soit davantage le cas.
+
+3) intervalles (et silhouettes)
+- dessiner un perso, choisir une action.
+- Décrire l'action en trois à cinq silhouettes (possibilité de marquer l'oeil, mais c'est tout).
+- Ajuster le timing en déplaçant les keyframes dans le temps.
+- Une fois que c'est bon, ajouter des couleurs.
+- Ajouter des silhouettes entre.
+- Ajuster le timing et les courbes du mouvement (cf exercice 2)
+- ajouter des silhouettes.
+- Quand le mouvement a suffisament d'images, mettre en couleur ce qui ne l'est pas.
+
+4) illustration du principe de l'inertie
+- tenir un tissu entre ses doigts, en en laissant pendre une grosse partie (par exemple un t-shirt, tenu aux épaules). Avancer les mains brusquement de 30 centimètres, observer le délai avec lequel le reste du tissu suit le mouvement. Tester une action unique (avancer les mains une fois) et une boucle (faire un mouvement de va-et-vient sans s'arrêter). Tester avec des matériaux plus ou moins rigides et lourds (veste en cuir, chemise légère, etc.)
+- Dessiner un perso avec un élément secondaire inerte ou semi-inerte (un gosse qui traine un doudou, un personnage avec une queue, une ceinture, une écharpe, ou des cheveux longs, une cape, une pousse de plante sur la tête, etc.).
+- Animer un mouvement brusque.
+- Etudier comment l'élément secondaire agit.
+
 ## 99) Plus de ressources (principalement en anglais)
 - anticipation:
     - explication très courte (gif animé): <https://twitter.com/yvesbalak/status/859337493883301888>
@@ -165,6 +199,7 @@ Looney Tunes, par Warner Bros
 - timing (vidéo): <https://www.youtube.com/watch?v=rHEJZXvFc5I>
 - déformation (vidéo): <https://youtu.be/h8NrKjJPAuw?t=53>
 - course (article écrit illustré de gifs): <http://www.lessmilk.com/tutorial/pixel-art-run-cycle>
+- intervalles non réalistes pour guider l'oeil: <https://youtu.be/Ih65Kg4DTw8?t=710>
 
 - les 12 principes de l'animation:
     - le bouquin qui en parle à l'origine, jamais traduit en français apparement: The Illusion of Life: Disney Animation, de Frank Thomas et Ollie Johnston
@@ -196,6 +231,8 @@ Looney Tunes, par Warner Bros
     - 00:13:45 outils d'animation de krita
     - 00:26:33 exercice
 - une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
+
+[](5. fin L1C12)
 
 
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
