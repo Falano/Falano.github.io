@@ -775,6 +775,7 @@ faire traverser l'image à un trait suivant différents rythmes
 
 --  
 [](4. fin l1C12)
+[](5. fin L1A12 + anticipation)
 
 ## 4) principes d'animation 2
 - anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
@@ -810,6 +811,8 @@ faire traverser l'image à un trait suivant différents rythmes
             - tenir
         - atterrissage
 - anim vague/fumée/vent/queue
+
+[](5. fin L1B12 - vague; marche rapidement)
 
 **références**
 Looney Tunes, par Warner Bros
@@ -887,6 +890,8 @@ Looney Tunes, par Warner Bros
     - 00:13:45 outils d'animation de krita
     - 00:26:33 exercice
 - une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
+
+[](5. fin L1C12)
 
 # VI. Finitions
 ## 1) UI - theorie
