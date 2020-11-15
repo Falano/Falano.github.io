@@ -203,6 +203,30 @@ The Legend of Zelda, Nintendo
 - **.ogg**: meilleure qualité que mp3 à poids égal (compressé), open source, léger, un peu lent à lire pour godot; **lisible par godot**, conseillé pour les voix, les musiques, et les sons qui durent
 - **.midi**: fichier pour la musique: il enregistre les paramètres de chaque note (hauteur, durée, etc.), et on peut ensuite y appliquer le son qu'on veut, soit généré par l'ordinateur, soit enregistré et stocké dans une banque de sons appelée 'soundfont' (souvent utilisées pour les instruments de musique). Une sorte de partition lisible par l'ordinateur, qui ne contient en tant que tel aucun son, mais peut être jouée par n'importe quel instrument.
 
+## 97) exercices
+1) patchwork
+- prendre dix à quinze morceaux de musique (sans paroles) que vous aimez bien, de plusieurs styles différents
+- composer un morceau en utilisant des fragments d'au moins sept d'entre eux
+- observer où et comment les transitions passent le mieux, y compris quand l'instrumentation et le style musical sont différents
+
+2) compatibilité verticale
+- choisir un instrument, et écrire un thème musical simple.
+- ajouter un autre instrument après deux à six fragments, qui habille le thème et lui donne un peu plus de poids
+    - faire attention à ce que le changement ait l'air naturel et pas trop brusque: faire attention à quand le nouvel instrument entre
+- le faire plusieurs fois
+- ajouter un instrument et en enlever un ou plusieurs pour changer l'atmosphère du morceau
+- le faire plusieurs fois
+
+3) compatibilité horizontale
+- composer un thème musical de quatre à sept phrases musicales
+- composer un autre thème musical compatible (rythme et tempo similaires, au moins deux instruments identiques)
+- choisir des points de passage, le même nombre sur chaque thème
+- vérifier que l'on peut passer d'un thème à l'autre en utilisant chacun des points de passage
+
+
+## 98) exemples
+- un thème avec plusieurs niveaux: le [thème de terra dans ff6](https://www.youtube.com/watch?v=a6t_uyg_pF8)
+
 ## 99) ressources en anglais
 - un livre sur la musique de jeu vidéo, souvent utilisé dans des cours d'unifs ou d'écoles: A Composer’s Guide to Game Music, de Winifred Phillips
 - un [compositeur de musique de jeu très intéressant qui analyse des musiques de jeu](https://www.youtube.com/c/jakebutineau/featured)
