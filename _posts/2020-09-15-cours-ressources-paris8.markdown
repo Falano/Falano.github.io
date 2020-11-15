@@ -997,6 +997,7 @@ https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html
             - et avoir un screen-shake
             - et un flash sur le perso
             - et des particules!
+- flow
 
 ## 2) notions d'organisation pour la fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
