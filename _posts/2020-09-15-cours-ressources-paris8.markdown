@@ -995,6 +995,7 @@ is it fun? make more of it. is it not? Remove it.
 - un tutoriel vidéo sur le ["juice"](https://www.youtube.com/watch?v=Fy0aCDmgnxg)  
 - un tutoriel écrit sur le ["juice"](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)  
 - un article sur les différents états des boutons et la navigation <https://material.io/design/interaction/states.html#usage>
+- playlist [Good Design/Bad Design](https://www.youtube.com/watch?v=bE_ZuNp1CTI&list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN), d'analyse de jeux
 
 ## 100) ressources en français
 - un [tutoriel écrit sur le feedback](https://www.forum-dessine.fr/tutoriels/les-signes-et-feedbacks)
