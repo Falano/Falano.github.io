@@ -99,16 +99,22 @@ permalink: /cours/creation_gestion_ressources_0.html
 ## 3) Ressources externes
 -/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
-    - <https://opengameart.org/> (assets graphiques et sonores CC)
-    - <https://www.dafont.com> (polices de caractères avec filtre par licence)
-    - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
-    - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
+    - persos, décors et UI
+        - <https://opengameart.org/> (assets graphiques et sonores CC)
+        - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
+        - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
+    - polices de caractères
+        - <https://www.dafont.com>
+        - <https://www.fontspace.com/>
+        - <https://www.fontsquirrel.com>
+        - et plein d'autres
 - ressources audio
     - sons
         - <https://freesfx.co.uk/Default.aspx> : un site de sons (gratuit avec attribution au site (une attribution globale suffit, pas forcément une par son))
         - <https://freesound.org/> : un site de sons CC (licences différentes par son)
         - <https://www.bfxr.net/> : un outil open source de génération de sons. Nécessite flash.
         - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
+        - <https://sonniss.com/gameaudiogdc18/> et <https://sonniss.com/gameaudiogdc2017/> et <https://sonniss.com/gameaudiogdc2016/>: entre 10 et 30 Gb chaque de sons .wav gratuits et utilisables commercialement sans attribution
     - musique
         - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
         - <https://audionautix.com/> (site de musiques CC-BY)
@@ -122,34 +128,36 @@ permalink: /cours/creation_gestion_ressources_0.html
     - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: <https://ldjam.com/>
     - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
 	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
+	- une jam fondée en france qui a lieu trois fois par an: https://alakajam.com/article/about/welcome
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
-Les jeux avec un + devant sont gratuits ou ont une démo gratuite.
+Les jeux avec un /+ devant sont gratuits ou ont une démo gratuite (tous les jeux de jam sont gratuits).
 Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à la fois.  
 - en pixel art
 	- [Fez](http://fezgame.com/): puzzle <details> ![fez](/assets/110_fez.png)
-	- + [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai): un jeu de création de bonsais
-    - + [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
+	- /+ [*bonsai*](https://ldjam.com/events/ludum-dare/46/bonsai): un jeu de création de bonsais
+    - /+ [The Ur-Quan Masters](http://sc2.sourceforge.net/): exploration spatiale <details> ![uqm](/assets/994_uqm.png)
+    - /+ [Roguelight](https://managore.itch.io/roguelight): un roguelike où la seule source de lumière sont les flèches enflammées qu'on tire <details> ![roguelight](/assets/106_roguelight.png)
 
 - style graphique simple mais qui marche
-	- + [thomas was alone](http://www.thomaswasalone.com/thomaswasalone/): platformer
+	- /+ [thomas was alone](http://www.thomaswasalone.com/thomaswasalone/): platformer
 		- graphisme simple mais:
 		- textures et lumières
 		- voix des personnages
-	- + [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth): puzzle
+	- /+ [*you must gather your party before venturing forth*](https://ldjam.com/events/ludum-dare/46/ymgypbvf-you-must-gather-your-party-before-venturing-forth): puzzle
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles (la race des persos, qui influence le gameplay) <details> ![ymgypbvf](/assets/998_ymgypbvf.png)
-	- + [Selfless Heroes](https://selflessheroes.fr/): intro à la programmation
+	- /+ [Selfless Heroes](https://selflessheroes.fr/): intro à la programmation
 		- très stylisé
 		- mais les informations importantes sont facilement lisibles
 			- les persos sont des chevaliers
 			- chacun est un personnage différent
 			- la différence entre chaque type de tile est claire
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile <details> ![selfless heroes](/assets/003_selflessHeroes.png)
-	- + [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
+	- /+ [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
 	    - utilise des symboles plutôt que des illustrations <details> ![mini-metro](/assets/997_minimetro.jpg)
-	- + [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
+	- /+ [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay) <details> ![*Gophers*](/assets/105_gophers.png)
 	- [Night in the Woods](http://www.nightinthewoods.com/) par Infinite Fall: narration
@@ -157,12 +165,22 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 	        - soutenu/contrasté par la musique et l'histoire
 	    - mais composé quasi exclusivement de formes simples
 	    - simplification et stylisation des textures <details> ![night in the woods](/assets/996_nightInTheWoods.png)
-	- + [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
+	- /+ [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
 
 - mécanique de jeu inhabituelle
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
 	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important
-	- + [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
+	- /+ [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
+	- /+ [Dorfromantik](https://twitter.com/_Toukana): jeu de pose de tuile (esthétique jeu de plateau) pour former des motifs/paysages spécifiques <details> ![dorfromantik](/assets/993_dorfromantik.jpg)
+
+- jeux de jam qui n'entrent pas dans les autres catégories
+    - [*primed*](https://gimblll.itch.io/primed): un shooter simple qui met en place certains des conseils des deux vidéos sur le "juice"
+    - [*around the world*](https://alakajam.com/10th-alakajam/1014/around-the-world/#results): exploration navale et commerce
+    - [*hallo operator*](https://cloakedninjas.itch.io/hello-operator): connection de téléphones
+    - [*abyss meal*](https://kweej.itch.io/abyss-meal): manger des petits poissons sans se faire manger par des grands
+    - [*pirate's trial*](https://alakajam.com/10th-alakajam/1006/pirates-trial-a-scavenger-hunt/): chasse au trésor
+    - [*pandemia*](https://www.lexaloffle.com/bbs/?tid=31451): pzzle/stratégie
+
 
 ## 6) Vocabulaire
 - **tile**: une image (en général un fragment de décor) utilisée pour composer une image plus grande (un niveau entier) avec d'autres tiles, espacées régulièrement; elle sera typiquement réutilisée de nombreuses fois dans le même niveau.
