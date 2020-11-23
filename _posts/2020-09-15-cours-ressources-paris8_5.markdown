@@ -48,7 +48,7 @@ permalink: /cours/creation_gestion_ressources_5.html
 - onion skin et tables lumineuses
 - de l'importance du mime (si vous le sentez)
 
-**références**
+**références**  
 Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>  
 Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>  
 L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick  
@@ -132,7 +132,7 @@ faire traverser l'image à un trait suivant différents rythmes
     - les intervalles peuvent être un peu moches
         - ce qui compte c'est que l'anim globale soit bien
 - squash and stretch, déformations (cf [une animation des looney tunes](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
-- de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
+- de l'importance de l'anim de "personnage blessé" [](TODO: faire un exemple hurtanim avec/sans)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
     - head bob
@@ -146,10 +146,17 @@ faire traverser l'image à un trait suivant différents rythmes
             - tenir
         - atterrissage
 - anim vague/fumée/vent/queue
+- animations standard d'un personnage d'un jeu de combat:
+    - idle
+    - marche et/ou course
+    - une ou plusieurs attaques
+    - mort
+    - personnage touché
+    - saut (si platformer)
 
 [](5. fin L1B12 - vague; marche rapidement)
 
-**références**
+**références**  
 Looney Tunes, par Warner Bros
 
 ## 3) export
@@ -223,6 +230,7 @@ Looney Tunes, par Warner Bros
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
 - des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
+- [plein de marches différentes](https://www.youtube.com/watch?v=cVjIqr8CTtQ)
 - une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
 - [début du cours d'animation (mercredi)](https://youtu.be/cUXbnengUY8)
     - 00:00:00 timing
@@ -233,6 +241,7 @@ Looney Tunes, par Warner Bros
 - une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
 
 [](5. fin L1C12)
+[](6. fin L1AB12; spritesheet rapidement)
 
 
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
