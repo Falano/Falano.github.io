@@ -43,11 +43,12 @@ permalink: /cours/creation_gestion_ressources_8.html
             - et avoir un screen-shake
             - et un flash sur le perso
             - et des particules!
+- flow
 
 ## 2) notions d'organisation pour la fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
 - vous serez en retard sur le planning
-    - prévoyez un temps conséquent pour résoudre les bugs.
+    - prévoyez un temps conséquent pour résoudre les bugs <details> - ![le planning de A Short Hike](/assets/801_aShortHikesPlanning.jpg)
         - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
             - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
     - faites un jeu modulaire
@@ -115,6 +116,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 - général:
     - une [explication amusante et claire des différents métiers du jeu vidéo](https://www.gamasutra.com/blogs/LizEngland/20140423/216092/quotThe_Door_Problemquot_of_Game_Design.php)
     - plein de [conférences libres d'accès sur le jeu vidéo](https://www.gdcvault.com/free/)
+    - [article "prototyper un jeu en moins de 7 jours" sur le game design et l'organisation](https://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php)
 
 ## 100) Plus de ressources (en français)
 - game design:
@@ -135,5 +137,6 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
     - 01:54:57 anticipation en animation
     - 01:57:47 outils d'animation de krita
     - 02:15:10 exercice
+
 
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
