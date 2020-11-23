@@ -582,7 +582,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - globalement: chercher "best /_style recherché/_" sur youtube et voir ce qui sort et tenter de faire quelque chose qui semble respecter les mêmes règles; éventuellement se renseigner un peu sur les règles théoriques du genre (les rythmes fréquents, les tonalités favorisées, etc.)
 - une bonne base pour faire une musique qui sonne bien c'est d'utiliser beepbox et se contraindre à n'utiliser que les notes d'une de ses "scales" (gammes).
 
-**références**
+**références**  
 vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>  
 vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>  
 le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand  
@@ -721,7 +721,7 @@ The Legend of Zelda, Nintendo
 - onion skin et tables lumineuses
 - de l'importance du mime (si vous le sentez)
 
-**références**
+**références**  
 Western Spaghetti, par PES: <https://www.youtube.com/watch?v=qBjLW5_dGAM>  
 Shawn the Sheep, série et film produits par Aardman Animation: <https://www.youtube.com/user/aardmanshaunthesheep>  
 L'étrange Noel de Mister Jack (The Nightmare Before Christmas), réalisé par Henry Selick  
@@ -805,7 +805,7 @@ faire traverser l'image à un trait suivant différents rythmes
     - les intervalles peuvent être un peu moches
         - ce qui compte c'est que l'anim globale soit bien
 - squash and stretch, déformations (cf [une animation des looney tunes](https://youtu.be/h8NrKjJPAuw?t=53) à regarder image par image)
-- de l'importance de l'anim de "personnage blessé" (cf __faire un exemple hurtanim avec/sans__)
+- de l'importance de l'anim de "personnage blessé" [](TODO: faire un exemple hurtanim avec/sans)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
     - head bob
@@ -829,7 +829,7 @@ faire traverser l'image à un trait suivant différents rythmes
 
 [](5. fin L1B12 - vague; marche rapidement)
 
-**références**
+**références**  
 Looney Tunes, par Warner Bros
 
 ## 3) export
@@ -1000,6 +1000,7 @@ is it fun? make more of it. is it not? Remove it.
 ## 100) ressources en français
 - un [tutoriel écrit sur le feedback](https://www.forum-dessine.fr/tutoriels/les-signes-et-feedbacks)
 
+[](6. fin L1C12)
 
 # VII. Imports et exports divers
 ## 1) importer une spritesheet dans krita
@@ -1079,7 +1080,7 @@ is it fun? make more of it. is it not? Remove it.
 ## 2) notions d'organisation pour la fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
 - vous serez en retard sur le planning
-    - prévoyez un temps conséquent pour résoudre les bugs.
+    - prévoyez un temps conséquent pour résoudre les bugs <details> - ![le planning de A Short Hike](/assets/801_aShortHikesPlanning.jpg)
         - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
             - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
     - faites un jeu modulaire
