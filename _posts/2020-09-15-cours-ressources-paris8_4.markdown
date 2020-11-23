@@ -105,10 +105,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
     - là où on assemble le contenu de tous les autres editors
     - dupliquer un module *ctrl cliquer glisser*
     - piste Sample Track: accepte un fichier audio
+        - cliquer sur la partie droite du song editor
+        - puis double-cliquer sur le rectangle orange pour choisir le fichier audio à insérer
     - piste Automation Track: animer un contrôle (par exemple changer le volume d'une autre piste)
         - edit song-global automation
         - controller rack: cyclic automation qui peut être controllé par un autre contrôle
-    - piste Triple Oscillator [](TODO!!)
+    - piste Triple Oscillator
+        - plein de presets, les tester
     - loop point (début: *clic molette* fin: *clic droit*)
     - changer un instrument
     - sauver ses presets
@@ -164,7 +167,7 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - globalement: chercher "best /_style recherché/_" sur youtube et voir ce qui sort et tenter de faire quelque chose qui semble respecter les mêmes règles; éventuellement se renseigner un peu sur les règles théoriques du genre (les rythmes fréquents, les tonalités favorisées, etc.)
 - une bonne base pour faire une musique qui sonne bien c'est d'utiliser beepbox et se contraindre à n'utiliser que les notes d'une de ses "scales" (gammes).
 
-**références**
+**références**  
 vidéo "Making Music with STUFF FROM KITCHEN" de l'utilisateur youtube JRinne Films: <https://www.youtube.com/watch?v=fOCaNBGMMgE>  
 vidéo "Using household objects to make music" de l'utilisateur youtube electroviolence: <https://www.youtube.com/watch?v=SAUKJNCQK6U>  
 le Chant des Partisans, de Anna Marly, traduit en français par Joseph Kessel et Maurice Druon, chanté par Yves Montand  
