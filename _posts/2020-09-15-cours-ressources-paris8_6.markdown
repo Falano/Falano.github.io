@@ -30,7 +30,7 @@ permalink: /cours/creation_gestion_ressources_6.html
         - antiquité grecque: pierre taillée, motifs géométriques
         - nature: terre, arbres et feuilles
         - moderne-ish: posters, cahiers, etc. (cf Moonlighter, Night in the Wood)
-        - futur: néons, hologrammes, effet écran (glitches, lignes cathodiques), semi-transparence (cf Transistor, cf Starcraft II)<details> - ![Age of Empires](assets/702_aoe2.jpg) <br> - ![moonlighter](/assets/703_moonlighter.jpg) <br> - ![Night in the woods](/assets/704_nitw.jpg) <br> - ![Transistor](/assets/705_transistor.jpg) <br> - ![Starcraft II](/assets/706_sc2.jpg))
+        - futur: néons, hologrammes, effet écran (glitches, lignes cathodiques), semi-transparence (cf Transistor, cf Starcraft II)<details> - ![Age of Empires](/assets/702_aoe2.jpg) <br> - ![moonlighter](/assets/703_moonlighter.jpg) <br> - ![Night in the woods](/assets/704_nitw.jpg) <br> - ![Transistor](/assets/705_transistor.jpg) <br> - ![Starcraft II](/assets/706_sc2.jpg)
     - abstrait (cf sims)
         - minimaliste (cf overland, mini metro, a short hike)
         - cartoon
@@ -38,18 +38,18 @@ permalink: /cours/creation_gestion_ressources_6.html
         - style graphique non-figuratif précis (cf persona 5) <details> - ![les sims 4](/assets/707_sims.jpg) <br> - ![overland](/assets/708_overland.jpg) <br> - ![minimetro](/assets/997_minimetro.jpg) <br> - ![a short hike](/assets/708b_aShortHike.jpg) <br> - ![persona 5](/assets/709_persona5.jpg)
     - ou un mélange des deux (cf crusader kings 2)
         - motifs abstraits sur un fond qui évoque du parchemin (cf pyre) <details> - ![crusader kings 2](/assets/710_crusaderKings2.jpg) <br> - ![pyre](/assets/711_pyre.jpg)
-- strategy (cf wesnoth) <details> ![wesnoth](/assets/508_wesnoth.jpg)
-    - grid?
-    - team colors?
-    - available moves?
-    - cone of visibility (stealth games) and radius of sound?
+- strategie (cf wesnoth) <details> ![wesnoth](/assets/508_wesnoth.jpg)
+    - grille?
+    - couleurs des équipes?
+    - déplacements disponibles?
+    - cône de visibilité (jeux furtifs) et radius du son?
 - astuce pour créer du volume rapidement sur un élément de UI (cf minecraft) <details> ![minecraft](/assets/712_minecraft.jpg)
 - prendre en compte la taille de l'écran (le texte sera-t-il lisible? les boutons seront-ils cliquables?)
     - les jeux mobiles ont des boutons plus grands
     - des boutons trop grands sur un jeu pc ça fait cheap
 - comparaison ff7 vieux/remake (plus petits écrans) <details> ![ff7](/assets/713_ff7.jpg)
 - utiliser l'anticipation et le squash and stretch dans la UI pour un effet cartoon
-- consistency
+- cohérence visuelle
     - limiter le nombre de polices de caractère différentes
     - ne pas avoir non plus quinze type de boutons différents
 - flot intuitif
@@ -66,17 +66,17 @@ permalink: /cours/creation_gestion_ressources_6.html
 - nine patch rect ([documentation officielle godot](https://docs.godotengine.org/en/3.0/classes/class_ninepatchrect.html), [tuto vidéo (en)](https://www.youtube.com/watch?v=OrTMWb1bN24))
 
 ## 2) "Juice"
-Jan (Vlambeer), conférence "the art of screenshake" (vidéo): <https://www.youtube.com/watch?v=AJdEqssNZ-U>
-- "the main way you interact with the world"
-- "give the player a reason not to hold the button"
-- flux d'informations <details> ![flux d'informations](/assets/791_jansTalk.jpg)
-juice it or lose it video: <https://www.youtube.com/watch?v=Fy0aCDmgnxg>
-sound.
-particles!!!
-permanence, si pertinent; effets spéciaux; fumée d'une explosion, corps, objets cassés, etc.
-des ralentis!
-Night In The Woods jump on stuff
-is it fun? make more of it. is it not? Remove it.
+- Jan (Vlambeer), conférence "the art of screenshake" (vidéo): <https://www.youtube.com/watch?v=AJdEqssNZ-U>
+    - "the main way you interact with the world"
+    - "give the player a reason not to hold the button"
+    - flux d'informations <details> ![flux d'informations](/assets/791_jansTalk.jpg)
+    - permanence, si pertinent; effets spéciaux; fumée d'une explosion, corps, objets cassés, etc.
+    - des ralentis!
+- vidéo "juice it or lose it": <https://www.youtube.com/watch?v=Fy0aCDmgnxg>
+    - son.
+    - particules!!!
+- Night In The Woods sauter sur les poubelels
+- est-ce marrant? En ajouter? Pas marrant? L'enlever.
 
 ## 97) exemples
 - UI
@@ -88,10 +88,10 @@ is it fun? make more of it. is it not? Remove it.
 
 ## 99) plus de ressources (principalement en anglais)
 - un tutoriel sur la [UI](https://www.patreon.com/posts/ui-9-slice-14798512) sur le site de studiominiboss (les tutos en .gif)  
-- un tutoriel vidéo sur le ["juice"](https://www.youtube.com/watch?v=Fy0aCDmgnxg)  
+- vidéo ["juice it or lose it"](https://www.youtube.com/watch?v=Fy0aCDmgnxg)  
 - un tutoriel écrit sur le ["juice"](https://gameanalytics.com/blog/squeezing-more-juice-out-of-your-game-design.html)  
 - un article sur les différents états des boutons et la navigation <https://material.io/design/interaction/states.html#usage>
-- playlist [Good Design/Bad Design](https://www.youtube.com/watch?v=bE_ZuNp1CTI&list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN), d'analyse de jeux
+- playlist [Good Design/Bad Design](https://www.youtube.com/watch?v=bE_ZuNp1CTI&list=PL8K0_g1wdQeoxta9RyvTK-DnhU4jI2QJN) d'analyse de jeux
 
 ## 100) ressources en français
 - un [tutoriel écrit sur le feedback](https://www.forum-dessine.fr/tutoriels/les-signes-et-feedbacks)
