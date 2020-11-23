@@ -1327,7 +1327,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
 	- [A Blind Legend](http://www.ablindlegend.com/), par Dowino: un jeu d'aventure où l'ouïe est le sens le plus important
 	- /+ [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/), par Davey Wreden: un "jeu narratif expérimental à la première personne"
-	- /+ [Dorfromantik](TODO: le site/twitter de dorfromantik): jeu de pose de tuile (esthétique jeu de plateau) pour former des motifs/paysages spécifiques <details> ![dorfromantik](/assets/993_dorfromantik.jpg)
+	- /+ [Dorfromantik](https://twitter.com/_Toukana): jeu de pose de tuile (esthétique jeu de plateau) pour former des motifs/paysages spécifiques <details> ![dorfromantik](/assets/993_dorfromantik.jpg)
 	- pikuniku?
 	- *rangement d'inventaire*(https://globalgamejam.org/2020/games/apothe-care-9)
 
