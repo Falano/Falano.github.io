@@ -520,10 +520,13 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
     - là où on assemble le contenu de tous les autres editors
     - dupliquer un module *ctrl cliquer glisser*
     - piste Sample Track: accepte un fichier audio
+        - cliquer sur la partie droite du song editor
+        - puis double-cliquer sur le rectangle orange pour choisir le fichier audio à insérer
     - piste Automation Track: animer un contrôle (par exemple changer le volume d'une autre piste)
         - edit song-global automation
         - controller rack: cyclic automation qui peut être controllé par un autre contrôle
-    - piste Triple Oscillator [](TODO!!)
+    - piste Triple Oscillator
+        - plein de presets, les tester
     - loop point (début: *clic molette* fin: *clic droit*)
     - changer un instrument
     - sauver ses presets
@@ -1203,6 +1206,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
         - <https://freesound.org/> : un site de sons CC (licences différentes par son)
         - <https://www.bfxr.net/> : un outil open source de génération de sons. Nécessite flash.
         - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
+        - <https://sonniss.com/gameaudiogdc18/> et <https://sonniss.com/gameaudiogdc2017/> et <https://sonniss.com/gameaudiogdc2016/>: entre 10 et 30 Gb chaque de sons .wav gratuits et utilisables commercialement sans attribution
     - musique
         - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
         - <https://audionautix.com/> (site de musiques CC-BY)
