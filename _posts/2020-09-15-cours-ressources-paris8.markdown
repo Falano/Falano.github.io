@@ -819,6 +819,13 @@ faire traverser l'image à un trait suivant différents rythmes
             - tenir
         - atterrissage
 - anim vague/fumée/vent/queue
+- animations standard d'un personnage d'un jeu de combat:
+    - idle
+    - marche et/ou course
+    - une ou plusieurs attaques
+    - mort
+    - personnage touché
+    - saut (si platformer)
 
 [](5. fin L1B12 - vague; marche rapidement)
 
@@ -896,6 +903,7 @@ Looney Tunes, par Warner Bros
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
 - des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
+- [plein de marches différentes](https://www.youtube.com/watch?v=cVjIqr8CTtQ)
 - une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
 - [début du cours d'animation (mercredi)](https://youtu.be/cUXbnengUY8)
     - 00:00:00 timing
