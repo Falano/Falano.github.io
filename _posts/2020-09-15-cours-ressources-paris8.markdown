@@ -1271,6 +1271,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
         - <https://opengameart.org/> (assets graphiques et sonores CC)
         - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
         - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
+        - <https://www.procjam.sekritforum.com/art/> (assets graphiques CC-BY-NC)
     - polices de caractères
         - <https://www.dafont.com>
         - <https://www.fontspace.com/>
