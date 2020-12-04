@@ -45,6 +45,13 @@ permalink: /cours/creation_gestion_ressources_7.html
     - les collections de itch.io pour trier ses projets
     - ou pour ajouter les projets collaboratifs qui sont hébergés chez quelqu'un d'autre
     - les pages de jeux sont hautement personnalisables, et mieux vaut une belle page, tant qu'à faire
+        - par exemple:
+            - [Reap](https://managore.itch.io/reap)
+            - [Faerie Afterlight](https://claygamestudio.itch.io/faerie-afterlight)
+            - [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom)
+            - [i](https://vltrauiolet.itch.io/i)
+            - [espionage](https://momeka.itch.io/espionage)
+            - [Haemo](https://managore.itch.io/haemo)
     - gamejolt aussi fait ça
         - je ne l'ai pas vraiment essayé, mais il n'y a pas de raison qu'il soit moins bien
 - faire une version web
@@ -55,7 +62,11 @@ permalink: /cours/creation_gestion_ressources_7.html
 - press kit
     - télécharger ici <http://dopresskit.com/>
     - exemples:
-        - [](TODO: add examples)
+        - [I was a teenage exocoloniste](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
+        - [Rebuild 3](http://northwaygames.com/presskit/sheet.php?p=rebuild_3)
+        - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
+        - [Vlambeer](https://www.vlambeer.com/press/)
+        - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)
 
 # VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)
