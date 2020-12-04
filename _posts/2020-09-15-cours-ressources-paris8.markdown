@@ -979,7 +979,7 @@ Looney Tunes, par Warner Bros
 - vidéo "juice it or lose it": <https://www.youtube.com/watch?v=Fy0aCDmgnxg>
     - son.
     - particules!!!
-- Night In The Woods sauter sur les poubelels
+- Night In The Woods sauter sur les poubelles
 - est-ce marrant? En ajouter? Pas marrant? L'enlever.
 
 ## 97) exemples
@@ -1035,6 +1035,13 @@ Looney Tunes, par Warner Bros
     - les collections de itch.io pour trier ses projets
     - ou pour ajouter les projets collaboratifs qui sont hébergés chez quelqu'un d'autre
     - les pages de jeux sont hautement personnalisables, et mieux vaut une belle page, tant qu'à faire
+        - par exemple:
+            - [Reap](https://managore.itch.io/reap)
+            - [Faerie Afterlight](https://claygamestudio.itch.io/faerie-afterlight)
+            - [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom)
+            - [i](https://vltrauiolet.itch.io/i)
+            - [espionage](https://momeka.itch.io/espionage)
+            - [Haemo](https://managore.itch.io/haemo)
     - gamejolt aussi fait ça
         - je ne l'ai pas vraiment essayé, mais il n'y a pas de raison qu'il soit moins bien
 - faire une version web
@@ -1045,7 +1052,11 @@ Looney Tunes, par Warner Bros
 - press kit
     - télécharger ici <http://dopresskit.com/>
     - exemples:
-        - [](TODO: add examples)
+        - [I was a teenage exocoloniste](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
+        - [Rebuild 3](http://northwaygames.com/presskit/sheet.php?p=rebuild_3)
+        - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
+        - [Vlambeer](https://www.vlambeer.com/press/)
+        - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)
 
 # VIII. Game Design
 ## 1) notions de game design
@@ -1335,7 +1346,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 - jeux de jam qui n'entrent pas dans les autres catégories
     - [*primed*](https://gimblll.itch.io/primed): un shooter simple qui met en place certains des conseils des deux vidéos sur le "juice"
     - [*around the world*](https://alakajam.com/10th-alakajam/1014/around-the-world/#results): exploration navale et commerce
-    - [*hallo operator*](https://cloakedninjas.itch.io/hello-operator): connection de téléphones
+    - [*hello operator*](https://cloakedninjas.itch.io/hello-operator): connection de téléphones
     - [*abyss meal*](https://kweej.itch.io/abyss-meal): manger des petits poissons sans se faire manger par des grands
     - [*pirate's trial*](https://alakajam.com/10th-alakajam/1006/pirates-trial-a-scavenger-hunt/): chasse au trésor
     - [*pandemia*](https://www.lexaloffle.com/bbs/?tid=31451): pzzle/stratégie
