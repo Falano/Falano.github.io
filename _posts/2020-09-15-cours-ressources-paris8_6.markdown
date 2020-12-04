@@ -75,7 +75,7 @@ permalink: /cours/creation_gestion_ressources_6.html
 - vidéo "juice it or lose it": <https://www.youtube.com/watch?v=Fy0aCDmgnxg>
     - son.
     - particules!!!
-- Night In The Woods sauter sur les poubelels
+- Night In The Woods sauter sur les poubelles
 - est-ce marrant? En ajouter? Pas marrant? L'enlever.
 
 ## 97) exemples
