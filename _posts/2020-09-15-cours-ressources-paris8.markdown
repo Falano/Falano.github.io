@@ -1437,4 +1437,29 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - documentation officielle <https://github.com/git-lfs/git-lfs/tree/master/docs/man> (en)
     - un article plus lisible <https://www.atlassian.com/fr/git/tutorials/git-lfs>
     - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
+
+## 8) Règles du rendu
+- à propos des projets:
+    - les projets peuvent se faire soit en groupe soit seul;
+    - si vous voulez utiliser un autre logiciel que ceux montrés en cours, demandez-moi; a priori s'il est open source et que j'ai l'impression qu'il fera le boulot je dirai oui (gimp, libresprite, etc.), s'il est propriétaire non (photoshop, sai, etc.).
+- à propos des personnages:
+    - ils doivent faire au max 64x64 pixels
+    - les fanarts sont autorisés, mais il est obligatoire de préciser dans l'écran des 'credits' (là où vous écrivez le nom de tous les participants au jeu) de quel perso et quel oeuvre c'est tiré (et si après le cours vous vous rendez compte que votre idée de jeu est géniale et que vous allez le publier sur steam/gog/epic/itch et gagner des fortunes, je vous conseille de changer le design du perso)
+- à propos de l'audio:
+    - vous pouvez utiliser des sons et des musiques disponibles en ligne tant que leur licence l'autorise et que vous les mentionnez comme il faut dans les crédits (mais si le son/la musique vous intéresse, je vous encourage à les faire vous-même, ça sera pris en compte)
+- à propos des décors:
+    - il est conseillé (c'est beaucoup plus simple pour le level design) de faire des tilemaps, mais ce n'est pas obligatoire.
+    - tiles ou pas, ça doit être du pixel art (dessiné avec une brosse dure).
+    - un décor non-constitué de tiles peut faire max 640x360
+- la date de rendu du projet est le lundi 4 janvier, à 7h du matin au plus tard
+- à rendre dans le rendu:
+    - l'exécutable du jeu
+    - le projet godot
+    - vos fichiers source (.kra, .aup, lien beepbox, etc.) finaux ainsi que plusieurs versions intermédiaires
+    - les fichiers des ressources externes que vous avez utilisées (n'oubliez pas aussi qu'il est obligatoire de les attribuer (dire "musique: 'Jazzy', de Kevin McLeod, lien-vers-son-site, CC-BY" par exemple) dans l'écran des crédits, et/ou dans un fichier texte joint à l'exécutable s'il y en a trop)
+    - vous pouvez aussi inclure si vous le souhaitez:
+        - des trucs graphiques/audio que vous avez fait pour le projet (et que vous trouvez bien) et que vous n'avez pas eu le temps d'inclure (ou vous avez changé de direction artistique depuis et ça ne colle plus à cette version du jeu)
+        - un texte explicatif (pas trop long) pour expliquer des trucs pas clairs dans le jeu, ou qui demandent des connaissances préalables que je pourrais ne pas avoir
+- à propos de la notation:
+    - je prendrai en compte le jeu lui-même (est-ce que le graphisme et l'audio vont bien ensemble et avec le jeu, est-ce que vous les utilisez efficacement, feedback, tout ça) et si j'ai l'impression que si vous avez besoin de faire du graphisme/son pour un jeu vous pourrez vous débrouiller (anim, son, fond, musique, etc.)
 {% endcomment %}
