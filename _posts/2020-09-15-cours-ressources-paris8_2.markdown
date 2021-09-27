@@ -8,26 +8,29 @@ permalink: /cours/creation_gestion_ressources_2.html
 
 # O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. krita
-## 1) introduction à krita: 1
-- cf [Annexes X.1](/cours/creation_gestion_ressources_0.html), un schéma de l'interface de krita
-- changer le nombre d'annulations possibles (Settings > Configure Krita > General > Miscellaneous > Undo Stack Size; 60 c'est bien, tester jusqu'à trouver la valeur qui nous convient)
-- sauvegarder (ctrl S)
-- pinceau / brush (B)
-- gomme / eraser (E)
-- annuler (Ctrl Z; désannuler: Shift Ctrl Z)
-- couleurs (Advanced Color Selector)
-- calques / layers (superficiellement)
-- brosse de pixel art (taper "pixel" dans la barre de recherche des brosses, et choisir la brosse "u)\_Pixel\_Art")
-- déplacement dans l'image (molette ou ctrl clic molette: zoom; espace clic ou clic molette: se déplacer)
-- taille de la brosse (shift clic: changer la tailler de la brosse)
+# II. Libresprite
+## 1) introduction à Libresprite: 1
+- PAS À JOUR cf [Annexes X.1](/cours/creation_gestion_ressources_0.html), un schéma de l'interface de libresprite
+- sauvegarder: ctrl S (File>Save/Save As)
+- crayon: B (Pencil Tool)
+- gomme: E (Eraser Tool)
+- annuler: Ctrl Z; dés-annuler: Ctrl Y
+- couleurs (palette à gauche, sélecteur de couleurs en bas)
+- pipette: alt-clic ou I (Eyedropper Tool)
+- déplacement d'une image: V (Move Tool) ou ctrl cliquer-glisser
+- déplacement dans l'image (molette: zoom; espace cliquer-glisser: se déplacer)
+- taille et forme de la brosse (menu du haut)
 
 --  
 **EXERCICE 1**  
-faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)  
---> pour se familiariser avec l'interface de krita  
+faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du personnage principal du projet de fin d'année, un objet qui redonne de la vie, un icône de sort, une potion, etc.)
+--> pour se familiariser avec l'interface de libresprite
 --  
-[](fin lundi matin 1 (plus un peu de krita2) --)
+
+- pot de peinture: G (paint bucket)
+- formes géométriques: U (Rectangle/Ellipse Tool)
+- forme: D (Contour Tool)
+- échanger les couleurs d'arrière-plan et d'avant-plan (X)
 
 --  
 **EXERCICE 2**  
@@ -35,14 +38,18 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 --> pour se familiariser avec krita et pour s'entraîner à synthétiser des formes pour le pixel art  
 --  
 
-## 3) introduction à krita: 2
-- les sous-fenêtres additionnelles sont à *Settings > Dockers > ?*
-- si on laisse la fenêtre sur une option son nom apparaît
-- cacher les menus: *Tab*
+## 3) introduction à libresprite: 2
+- calques / layers (créer nouveau, supprimer, déplacer, visibilité)
+- preview window
 - nouveau document, ouvrir un document, etc.
-- couleurs (principale et secondaire, historique des couleurs)
-- Opacité / taille
-    - si on clique droit sur un slider on peut entrer une valeur précise
+- sauvegarder et systeme de fichiers
+- couleurs (principale et secondaire, changement de couleur, palettes loading and saving)
+- changement de couleurs (Edit > Replace Color (dans l'image); palette > Edit Color (dans la palette))
+- sélectionner tout (ctrl A)
+- tout déselectionner (ctrl D)
+- copier couper coller (ctrl C ctrl X ctrl V)
+
+
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques

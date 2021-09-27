@@ -9,7 +9,7 @@ permalink: /cours/creation_gestion_ressources_1.html
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 ## 1) présentation du cours
 
-- pixel art avec krita
+- pixel art avec libresprite
     - personnages
     - animation
     - décors
@@ -17,11 +17,12 @@ permalink: /cours/creation_gestion_ressources_1.html
         - assemblés avec une tilemap <details>![(exemple de tilemap dans Godot)](/assets/002_tilemap.png)
 - son avec audacity (qui a des écouteurs?)
     - logiciel d'écriture musicale?
-- gestion de ressources
+    - crédits!
+- gestion de ressources (!!)
 - projet final (platformer? jeu narratif? énigmes? puzzle? stratégie? contemplatif? tower defense? etc.)
 
 ## 2) présentation du pixel art
-pourquoi krita: autres logiciels (gimp, etc.)  
+pourquoi libresprite: autres logiciels (krita, gimp, etc.)  
 pourquoi le pixel art: relativement simple (cf Selfless Heroes), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes ![Selfless Heroes](/assets/003_selflessHeroes.png)
 
 présentation et historique du pixel art:  
