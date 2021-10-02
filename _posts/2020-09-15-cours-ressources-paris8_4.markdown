@@ -8,7 +8,7 @@ permalink: /cours/creation_gestion_ressources_4.html
 
 # O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Krita](/cours/creation_gestion_ressources_2.html)
+# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 ## 1) intro
@@ -34,8 +34,6 @@ permalink: /cours/creation_gestion_ressources_4.html
 /!\ Toujours vérifier la licence des assets qu'on utilise.  
 cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des principales licences libres utilisées pour les assets
 
-[](3. fin L1A12 + un peu de 3 et 4)
-[](3. fin L1B12 + un peu de 3 et 4 - intro)
 
 ## 3) Audacity
 - navigation
@@ -249,25 +247,6 @@ The Legend of Zelda, Nintendo
 ## 100) ressources en français
 - un [mémoire sur la musique de jeu vidéo](https://www.ens-louis-lumiere.fr/sites/default/files/2017-08/Soulier_Son_2016.pdf)
 - un [musicien/sound designer qui raconte comment il fait les musiques de jeu](https://www.youtube.com/watch?v=ctoGioZNYTM)
-- le [cours sur le son, avec une démo de tiles au début](https://youtu.be/XDcndwQZyQ4)
-    - 00:00 démonstration des tiles vue du haut
-    - 00:26:25 faire plusieurs niveaux (escaliers, terrasses, etc.) en tiles vu du haut
-    - 00:34:26 la lisibilité
-    - 00:46:43 décors "pleins" (pas en tiles, mais dessinés d'un bloc)
-    - 00:56:10 outils Assistants, formes géométriques et lasso de krita
-    - 01:05:17 intro son
-    - 01:11:52 format midi
-    - 01:13:50 beepbox
-    - 01:20:07 musescore
-    - 01:23:04 réexplication du format midi
-    - 01:31:04 les licences
-    - 01:43:31 sites de ressources audio
-    - 01:44:14 git lfs
-    - 01:50:43 audacity
-
-[](probs: 3. fin L1C12)
-[](4. fin L1A12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
-[](4. fin L1B12 + V.3 timeline e V.3 onionskin + annexes game design e accessibility)
 
 
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
