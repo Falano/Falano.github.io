@@ -18,7 +18,7 @@ permalink: /cours/creation_gestion_ressources_0.html
 # X. Annexes
 ## 1) schéma de l'interface de Libresprite
 ![Interface Libresprite](/assets/999_interfaceLibresprite.jpg)
-- **0**: menus:
+- **1**: menus:
     - File:
         - nouveau document (New),
         - ouvrir un document (Open ou Open Recent),
@@ -58,20 +58,20 @@ permalink: /cours/creation_gestion_ressources_0.html
         - Grille (Grid)
         - mode infini pour faire des tiles qui bouclent (Tiled Mode)
         - si une de vos fenêtres/onglets/bouts de programme a disparu cherchez là
-- **1**: couleurs:
+- **2**: couleurs:
     - Palette
     - Sélecteur de couleurs (redimensionnable pour une sélection plus précise; ou cliquer sur le nom de la couleur en bas)
     - Échanger couleur d'arrière-plan et de second plan: *X*
-- **2**: couleurs:
+- **3**: couleurs:
     - Changer une couleur de la palette (Edit Color: *F4*)
     - Créer une palette à partir de l'image actuelle (Options > Create Palette from current Sprite)
-- **3**: pinceau:
+- **4**: pinceau:
     - Forme du pinceau (Brush Type)
     - Taille du pinceau (Brush Size)
     - Type de dessin (Ink): Normal (Simple Ink), semi-transparent (Alpha Compositing), sans dépasser (Lock Alpha)
-- **4**: onglets:
+- **5**: onglets:
     - Onglets avec les différents fichiers ouverts
-- **5**: outils (certains en contiennent plusieurs qui apparaissent quand on laisse appuyé)
+- **6**: outils (certains en contiennent plusieurs qui apparaissent quand on laisse appuyé)
     - Outils de sélection
     - Pinceau (Pencil Tool: *B*)
     - Gomme (Eraser: *E*)
@@ -82,7 +82,7 @@ permalink: /cours/creation_gestion_ressources_0.html
     - Ligne (*L*) / Courbe (*Shift L*)
     - Formes géométiques
     - Outil Lasso (Contour Tool)
-- **6**: Layers/ Calques:
+- **7**: Layers/ Calques:
     - rendre un calque visible ou non (icône oeil)
     - rendre un calque modifiable ou non (icône cadenas)
     - frames d'animation continues ou non (pour rendre indépendante une frame précise, clic droit > Unlink) (icône deux points)
