@@ -175,6 +175,8 @@ autres:
 - l'[aide officielle de asprite](https://www.aseprite.org/docs/)
 
 ## 100) quelques ressources en français
+- exemples de différents styles graphiques en pixel art <details> un tweet de [sy0sa](https://twitter.com/sy0sa/status/845932073181339648) ![stylisations1](/assets/116_pxartStyles.png)  
+![stylisations2](/assets/117_pxartStyles2.png)
 - une traduction d'extraits du tuto de Arne ([http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)):
     - Palettes:
 ![Palettes](/assets/arnesTuto/01_Skintone.gif)  
