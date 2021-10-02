@@ -10,7 +10,7 @@ permalink: /cours/creation_gestion_ressources_2.html
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. Libresprite
 ## 1) introduction à Libresprite: 1
-- PAS À JOUR cf [Annexes X.1](/cours/creation_gestion_ressources_0.html), un schéma de l'interface de libresprite
+- cf [Annexes X.1](/cours/creation_gestion_ressources_0.html), un schéma de l'interface de libresprite
 - sauvegarder: ctrl S (File>Save/Save As)
 - crayon: B (Pencil Tool)
 - gomme: E (Eraser Tool)
@@ -18,7 +18,7 @@ permalink: /cours/creation_gestion_ressources_2.html
 - couleurs (palette à gauche, sélecteur de couleurs en bas)
 - pipette: alt-clic ou I (Eyedropper Tool)
 - déplacement d'une image: V (Move Tool) ou ctrl cliquer-glisser
-- déplacement dans l'image (molette: zoom; espace cliquer-glisser: se déplacer)
+- déplacement dans l'image (molette: zoom; espace cliquer-glisser ou clic molette glisser: se déplacer)
 - taille et forme de la brosse (menu du haut)
 
 --  
@@ -35,7 +35,7 @@ faire un objet en 16*16 pixels (par exemple l'icône de la barre de vie du perso
 --  
 **EXERCICE 2**  
 faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année, soit un autre personnage, soit un fanart, etc.)  
---> pour se familiariser avec krita et pour s'entraîner à synthétiser des formes pour le pixel art  
+--> pour se familiariser avec libresprite et pour s'entraîner à synthétiser des formes pour le pixel art  
 --  
 
 ## 3) introduction à libresprite: 2
@@ -44,36 +44,29 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
 - nouveau document, ouvrir un document, etc.
 - sauvegarder et systeme de fichiers
 - couleurs (principale et secondaire, changement de couleur, palettes loading and saving)
-- changement de couleurs (Edit > Replace Color (dans l'image); palette > Edit Color (dans la palette))
+- changement de couleurs (Edit > Replace Color (sur le calque actif); palette > Edit Color (dans la palette))
 - sélectionner tout (ctrl A)
 - tout déselectionner (ctrl D)
 - copier couper coller (ctrl C ctrl X ctrl V)
-
-
 - Calques / Layers
     - ajouter/supprimer/déplacer un calque
     - opacité de calques
     - modes de calques
         - overlay et/ou multiply pour les ombres
         - overlay et/ou normal à faible opacité pour la lumière
-        - erase
         - tester les autres pour voir ce qu'ils font<details>![modes de calques](/assets/400_modesCalques.png)
-    - groupes de calques
-    - verrouiller un calque / lock layer
-    - verrouiller la transparence / lock alpha
-    - hériter la transparence / inherit alpha
-        - par exemple pour avoir un calque couleur et un calque forme
-        - ou pour les ombres/lumières
+    - verrouiller un calque
     - utilisation
-        - pour des éléments superposés séparés (pour la p1eau d'oignon)
+        - pour des éléments superposés séparés (pour la peau d'oignon)
         - pour des éléments secondaires (fumée de cigarette, queue de cheval, cape)
         - pour des éléments non-permanents (pour avoir plusieurs versions du même personnage, avec ou sans chapeau par exemple, ou avec ou sans tatouages)
         - pour des tests dont on pourrait décider, une fois finis, que finalement ils ne nous plaisent pas
-    - transparence
-- Options des Outils / Tool Options
-- Aperçu / Overview
-- Suppr: tout effacer
-- *V cliquer-glisser*: ligne droite (+ *shift*: 0°, 15°, 30°, 45°, etc.) (ou outil ligne / line tool)
+- Modes de brosse:
+    - normal (Simple Ink)
+    - transparence (Alpha Compositing)
+    - ne dessiner que sur des pixels opaques ou semi-opaques (Lock Alpha)
+- Aperçu / Preview
+- Suppr: tout effacer (sur le calque actif)
 - globalement, dans beaucoup de programmes graphiques:
     - utiliser la souris et *ctrl/alt/shift* pour se déplacer,
     - *shift* pour maintenir les proportions (par exemple quand on redimensionne)
@@ -82,10 +75,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - *ctrl W* fermer la fenêtre, *ctrl Q* quitter
     - *ctrl A* tout sélectionner
     - *shift*: ajouter à la sélection
-- transparence!
 
-[](fin lundi aprèm 1 moins lisibilité plus formats)
-[](fin mercredi aprèm 1 + gestion ressources + formats - lisibilité)
 
 --  
 **EXERCICE 3**  
@@ -93,21 +83,19 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
 --> pour se familiariser avec les calques  
 --  
 
-[](fin lundi matin 2 moins lisi fond/fond, plus formats)
 
-## 4) introduction à krita: 3
-- outils de sélection
-- outils de sélection par couleur (contiguous selection tool, similar color selection tool) et leur options (dans le docker tool options)
-- Fill tool (le seau) (*F*)
-- outils de déplacement (*T*) et déformation (*ctrl T*) (ne l'utiliser que pour les symmétries, pas pour redimensionner)
+## 4) introduction à libresprite: 3
+- outils de sélection (premier icône tout en haut des outils; laisser appuyer pour voir les différents outils)
+    - Shift: ajouter à la sélection
+    - Shift Alt: enlever de la sélection
+- Paint Bucket tool (la goutte d'eau) (*G*)
+    - options (dans la barre du haut): Tolérance, Contiguous, plus d'options
+- outils de déplacement (*V*) et déformation (*ctrl T*) (le pixel art en général n'aime pas être redimensionné à la main, ni pivoté)
 - redimensionnement
-    - redimensionnement de l'image (*Image > Scale Image to New Size*, *Filtre: nearest neighbour*, utiliser un multiple entier de la taille actuelle)
-    - redimensionnement du canevas (*Image > Resize Canvas*)
-    - mode de redimensionnement: plus proche voisin / nearest neighbour
-    - crop tool (*C*)
-- mentionner les brosses et la sensibilité à la pression pour l'opacité et la taille
-- fenêtre secondaire de prévisualisation: *Window > New Window; Window > New View; Tab; 1; mettre au premier plan*
-- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2,1,2,3 et non 3,1,2,1,2,3 <details>![courbes](/assets/mine/courbes.png)
+    - redimensionnement de l'image (*Sprite > Sprite Size*, *Method: nearest neighbour*, utiliser un multiple entier de la taille actuelle (200%, 300%, pas 212%))
+    - redimensionnement du canevas (*Sprite > Canvas Size*)
+    - Couper les bords de l'image (*Sprite > Trim*)
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2, 2,1,2,2,3 et non 3,1,2,1,3,2,3 <details>![courbes](/assets/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
@@ -118,7 +106,7 @@ faire des variantes d'ennemis ou de pnj en modifiant leur couleur, et les export
 ## 5) gestion ressources
 - noms de fichiers: a-z, A-Z, 0-9, -, _ sont sûrs, éviter ponctuation, /, \, accents et symboles (cf [une source au pif](https://support.promax.com/knowledge/special-characters))
 - organisation de répertoire et conventions de nommage communes par projet pour tout le monde, sous-répertoires.
-- exports .kra incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.kra, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File>Export" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.kra, MonPersonnage-02-couleur.kra, etc.)
+- exports .ase incrémentiels (noms descriptifs, numérotés, dans un dossier à part éventuellement, par exemple: utiliser l'option "File>Save" (ctrl S) et/ou "File>Save As" avec le nom MonPersonnage.ase, dès qu'on y pense (toutes les cinq minutes), et utiliser l'option "File > Save Copy As" dès qu'on est à une étape importante: MonPersonnage-01-silhouette.ase, MonPersonnage-02-couleur.ase, etc.)
     - /!\ si sauvegarde en plus basse qualité, _d'abord_ sauver sous un autre nom puis réduire la qualité
 - essayer de se créer des ressources réutilisables (tilemaps, icones, UI)
 - git lfs (au 2nd semestre, cours de Outils informatiques collaboratifs (git))
@@ -132,7 +120,7 @@ Même une fois le travail fini, il est mieux de toujours conserver un fichier de
 Formats 2D principaux pour ce cours-ci:
 - **.jpg**: très léger, forte compression (pas très bonne qualité), ne l'utiliser que comme fichier d'export final, et jamais pour le pixel art (la compression abîme l'image), lisible partout, ne contient jamais de transparence ni de calques
 - **.png**: assez léger, lisible partout, **très bon format pour l'export final de pixel art**, très léger s'il y a peu de couleurs ou de grandes plages de la même couleur (typiquement: le pixel art), peut contenir de la transparence mais pas de calques
-- **.kra**: fichier de travail de krita, lisible uniquement par les ordinateurs ayant krita installé, pas de compression (très bonne qualité), lourd, peut contenir de la transparence, des calques, des animations, etc.
+- **.ase**: fichier de travail de libresprite, lisible uniquement par les ordinateurs ayant libresprite installé, pas de compression (très bonne qualité), lourd, peut contenir de la transparence, des calques, des animations, etc.
 
 autres:
 - **.gif**: utilisé pour des animations de petite taille (l'animation se lance automatiquement dans la plupart des lecteurs et des pages web), peut contenir de la transparence. À qualité visuelle équivalente, souvent plus lourd qu'un autre format vidéo bien compressé, mais est traité comme une image, donc ne nécessite pas de lecteur vidéo pour être lu, ce qui est parfois pratique. Pas de son.
@@ -140,10 +128,9 @@ autres:
 - **.mkv**: fichier vidéo open source, souvent compressé, pouvant contenir plusieurs pistes audio et de sous-titres différentes
 - **.xcf**: fichier de travail de gimp
 - **.psd**: fichier de travail de photoshop
+- **.kra**: fichier de travail de krita
 - **.pdf**: utilisé pour des documents à plusieurs pages et/ou avec des charactères écrits
 
-[](fin lun aprèm 2 moins lisi fond)
-[](fin mercr aprèm 2 moins lisi)
 
 ## 7) un chouilla de théorie des couleurs
 - éviter a priori les couleurs trop saturées
@@ -162,11 +149,9 @@ autres:
     - il n'est pas toujours nécessaire, par exemple, que les personnages aient une bouche
 - partir d'une forme simple (carré, rond, triangle) et sculpter avec le pinceau et la gomme pour les détails
     - commencer avec une silhouette monochrome pour être sûr qu'elle soit bien lisible
-- PENSER À DÉZOOMER RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
-    - mettre une deuxième fenêtre de krita dézoomée si besoin
+- PENSER À REGARDER LA PREVIEW RÉGULIÈREMENT; le pixel art n'est pas très lisible de très près, c'est normal, il faut juste qu'il soit lisible quand on joue
 - ORGANISATION DU PROJET (couper en petits bouts finis) (cf [Annexes X.2b](/cours/creation_gestion_ressources_0.html))
 
-[ ](2. fin lundi matin 1 moins lisi, moins formats)
 
 ## 99) plus de ressources (principalement en anglais)
 - un [article écrit plus théorique de l'artiste de Celeste](https://kano.me/blog/my-thoughts-on-very-low-resolution/)
@@ -186,6 +171,8 @@ autres:
     - [principes généraux de pixel art](https://www.patreon.com/posts/pixel-art-1-6971422)
     - [contours](https://www.patreon.com/posts/outlines-14106192)
     - [character design](https://www.patreon.com/posts/character-design-7530899)
+- des [astuces pour libresprite ou aseprite](https://twitter.com/aseprite/status/1124442198651678720)
+- l'[aide officielle de asprite](https://www.aseprite.org/docs/)
 
 ## 100) quelques ressources en français
 - une traduction d'extraits du tuto de Arne ([http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)):
