@@ -143,11 +143,14 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
         - <https://www.bfxr.net/> : un outil open source de génération de sons. Nécessite flash.
         - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
         - <https://sonniss.com/gameaudiogdc18/> et <https://sonniss.com/gameaudiogdc2017/> et <https://sonniss.com/gameaudiogdc2016/>: entre 10 et 30 Gb chaque de sons .wav gratuits et utilisables commercialement sans attribution
+        - <https://wingless-seraph.net/en/material-se.html> (des musiques et sons gratuits avec attribution; bien formattés pour du jeu (la plupart des musiques incluent une version qui boucle))
+
     - musique
         - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
         - <https://audionautix.com/> (site de musiques CC-BY)
         - <https://freemusicarchive.org/> (site de musiques CC)
         - <https://filmmusic.io/search> (site de musiques principalement CC BY)
+        - <https://wingless-seraph.net/en/material-music.html> (des musiques et sons gratuits avec attribution; bien formattés pour du jeu (la plupart des musiques incluent une version qui boucle))
         - liens: <https://incompetech.com/music/royalty-free/faq.html> (site de musiques gratuites avec attribution)
         - <https://musescore.org/en/handbook/soundfonts-and-sfz-files> (lien vers des soundfonts (polices de son: fichiers qui traduisent un fichier .midi en du beau son))
 
@@ -193,7 +196,6 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 	        - soutenu/contrasté par la musique et l'histoire
 	    - mais composé quasi exclusivement de formes simples
 	    - simplification et stylisation des textures <details> ![night in the woods](/assets/996_nightInTheWoods.png)
-	- /+ [capsule](https://finji.itch.io/capsule) par Finji [](__TODO__)
 
 - mécanique de jeu inhabituelle
 	- [World of Goo](https://2dboy.com/), par 2DBoy: construction d'échelles et de pyramides avec des blobs de truc gluant
