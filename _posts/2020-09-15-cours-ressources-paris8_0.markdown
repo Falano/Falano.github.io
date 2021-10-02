@@ -126,7 +126,7 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
 ## 3) Ressources externes
 -/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
 - ressources graphiques
-    - persos, décors et UI
+    - persos, décors et UI (il est interdit de les utiliser pour ce cours, mais je vous les donne pour après)
         - <https://opengameart.org/> (assets graphiques et sonores CC)
         - <https://itch.io/game-assets/assets-cc0/tag-pixel-art> : assets de pixel art CC0
         - <https://kenney.nl/assets> (assets graphiques et audio CC-0)
@@ -207,7 +207,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - [*hello operator*](https://cloakedninjas.itch.io/hello-operator): connection de téléphones
     - [*abyss meal*](https://kweej.itch.io/abyss-meal): manger des petits poissons sans se faire manger par des grands
     - [*pirate's trial*](https://alakajam.com/10th-alakajam/1006/pirates-trial-a-scavenger-hunt/): chasse au trésor
-    - [*pandemia*](https://www.lexaloffle.com/bbs/?tid=31451): pzzle/stratégie
+    - [*pandemia*](https://www.lexaloffle.com/bbs/?tid=31451): puzzle/stratégie
 
 
 ## 6) Vocabulaire
@@ -215,7 +215,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - un ensemble de tiles est un **tileset**
     - un niveau composé de tiles est une **tilemap**; on utilise parfois "tilemap" pour dire "ensemble de tiles"
 - **asset**: un élément composant le jeu. Dans sa définition la plus étroite, se réfère uniquement aux assets graphiques (les tiles, les personnages, etc.), mais souvent aussi aux assets sonores, et parfois inclue des scripts.
-- **palette**: un ensemble de couleurs qu'on utilise dans l'image (et on n'en utilise aucune autre). Les palettes de pixel art sont souvent assez réduites.
+- **palette**: l'ensemble de couleurs qui composent une image (ou qu'on prévoit d'utiliser pour une image). Les palettes de pixel art sont souvent assez réduites.
 - **prop**: littéralement, "accessoire"; un objet composant de décor, souvent avec lequel le personnage peut interagir
 - termes spécifiques au pixel art, en anglais:
     - **jaggies**: des sortes d'accrocs créés par une courbe irrégulière ou une ligne à la largeur illogiquement irrégulière
@@ -296,26 +296,30 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - un article court et encore plus lisible <https://dzone.com/articles/git-lfs-why-and-how-to-use> (en)
 
 ## 8) Règles du rendu
+- la date de rendu du projet est le **samedi 18 décembre** 2021, à **7h du matin** au plus tard
 - à propos des projets:
-    - les projets peuvent se faire soit en groupe soit seul;
-    - si vous voulez utiliser un autre logiciel que ceux montrés en cours, demandez-moi; a priori s'il est open source et que j'ai l'impression qu'il fera le boulot je dirai oui (gimp, libresprite, etc.), s'il est propriétaire non (photoshop, sai, etc.).
+    - les projets peuvent se faire soit en groupe de deux soit seul;
+    - si vous voulez utiliser un autre logiciel que ceux montrés en cours, demandez-moi.
 - à propos des personnages:
-    - ils doivent faire au max 64x64 pixels
     - les fanarts sont autorisés, mais il est obligatoire de préciser dans l'écran des 'credits' (là où vous écrivez le nom de tous les participants au jeu) de quel perso et quel oeuvre c'est tiré (et si après le cours vous vous rendez compte que votre idée de jeu est géniale et que vous allez le publier sur steam/gog/epic/itch et gagner des fortunes, je vous conseille de changer le design du perso)
+    - il est interdit de décalquer/recopier une spritesheet existante, même si vous lui ajoutez des éléments.
 - à propos de l'audio:
-    - vous pouvez utiliser des sons et des musiques disponibles en ligne tant que leur licence l'autorise et que vous les mentionnez comme il faut dans les crédits (mais si le son/la musique vous intéresse, je vous encourage à les faire vous-même, ça sera pris en compte)
+    - il est obligatoire de mentionner d'où ça vient dans les crédits ("musique composée par Machin Truc avec Beepbox", par exemple); si c'est vous qui l'avez fait, mettez votre nom à la place de "Machin Truc".
+    - vous pouvez utiliser des sons et des musiques disponibles en ligne tant que leur licence l'autorise et que vous les mentionnez comme il faut dans les crédits (mais si le son/la musique vous intéresse, je vous encourage à les faire vous-même, ça fera des points bonus)
 - à propos des décors:
-    - il est conseillé (c'est beaucoup plus simple pour le level design) de faire des tilemaps, mais ce n'est pas obligatoire.
+    - si vous avez plusieurs niveaux un peu longs, il est conseillé (c'est beaucoup plus simple pour le level design) de faire des tilemaps, mais ce n'est pas obligatoire.
     - tiles ou pas, ça doit être du pixel art (dessiné avec une brosse dure).
-    - un décor non-constitué de tiles peut faire max 640x360
-- la date de rendu du projet est le lundi 4 janvier, à 7h du matin au plus tard
+    - il est interdit de réutiliser ce qui a été fait par quelqu'un d'autre, même si vous le modifiez.
 - à rendre dans le rendu:
-    - l'exécutable du jeu
+    - l'exécutable du jeu (linux et windows)
     - le projet godot
-    - vos fichiers source (.kra, .aup, lien beepbox, etc.) finaux ainsi que plusieurs versions intermédiaires
-    - les fichiers des ressources externes que vous avez utilisées (n'oubliez pas aussi qu'il est obligatoire de les attribuer (dire "musique: 'Jazzy', de Kevin McLeod, lien-vers-son-site, CC-BY" par exemple) dans l'écran des crédits, et/ou dans un fichier texte joint à l'exécutable s'il y en a trop)
-    - vous pouvez aussi inclure si vous le souhaitez:
-        - des trucs graphiques/audio que vous avez fait pour le projet (et que vous trouvez bien) et que vous n'avez pas eu le temps d'inclure (ou vous avez changé de direction artistique depuis et ça ne colle plus à cette version du jeu)
-        - un texte explicatif (pas trop long) pour expliquer des trucs pas clairs dans le jeu, ou qui demandent des connaissances préalables que je pourrais ne pas avoir
+    - vos fichiers source (.ase, .aup, lien beepbox, etc.) finaux
+    - les fichiers des ressources externes que vous avez utilisées (n'oubliez pas aussi qu'il est obligatoire de les attribuer (dire "musique: 'Jazzy', de Kevin McLeod, lien-vers-son-site, CC-BY" par exemple) dans l'écran des crédits, et/ou dans un fichier texte joint à l'exécutable et clairement mentionné dans les crédits s'il y en a trop)
 - à propos de la notation:
-    - je prendrai en compte le jeu lui-même (est-ce que le graphisme et l'audio vont bien ensemble et avec le jeu, est-ce que vous les utilisez efficacement, feedback, tout ça) et si j'ai l'impression que si vous avez besoin de faire du graphisme/son pour un jeu vous pourrez vous débrouiller (anim, son, fond, musique, etc.)
+    - je prendrai en compte le jeu lui-même (est-ce que le graphisme et l'audio vont bien ensemble et avec le jeu, est-ce que vous les utilisez efficacement, feedback, tout ça) et si j'ai l'impression que si vous avez besoin de faire du graphisme/son pour un jeu vous pourrez vous débrouiller
+    - a priori vous passez si vous n'avez enfreint aucune consigne et que votre jeu contient:
+        - des bruitages, implémentés dans le jeu
+        - de la musique, implémentée dans le jeu
+        - au moins un personnage, animé avec le système d'animation de libresprite (ou de krita), avec plusieurs animations de plus de trois images différentes
+        - des décors avec soit des tiles soit de la parallaxe
+    - il y a des points bonus si en plus ce que vous faites est chouette (son fait par vous-même, personnages et/ou animation efficaces, décors animés, concept de jeu particulièrement intéressant, plein de niveaux, ambiance réussie, etc.)
