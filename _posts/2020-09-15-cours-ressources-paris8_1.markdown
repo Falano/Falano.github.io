@@ -71,7 +71,7 @@ cf [Annexes X.5](/cours/creation_gestion_ressources_0.html), une liste de jeux c
 
 [](TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.)
 
-# II. [Krita](/cours/creation_gestion_ressources_2.html)
+# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
