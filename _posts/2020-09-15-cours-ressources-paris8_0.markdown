@@ -16,73 +16,100 @@ permalink: /cours/creation_gestion_ressources_0.html
 # VII. [Exports](/cours/creation_gestion_ressources_7.html)
 # VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. Annexes
-## 1) schéma de l'interface de Krita
-![Interface Krita](/assets/999_interfaceKrita.png)
-- **0**:
-    - nouveau document,
-    - ouvrir un document,
-    - sauvegarder (*ctrl S*),
-    - annuler (*ctrl Z*),
-    - refaire (*ctrl shift Z*)
-- **1**:
-    - brosse, pinceau (*B*). Pour dessiner (déposer de la couleur sur le canevas).
+## 1) schéma de l'interface de Libresprite
+![Interface Libresprite](/assets/999_interfaceLibresprite.jpg)
+- **0**: menus:
+    - File:
+        - nouveau document (New),
+        - ouvrir un document (Open ou Open Recent),
+        - sauvegarder (Save: *ctrl S*),
+    - Edit (opérations sur le calque courant):
+        - annuler (Undo: *ctrl Z*),
+        - refaire (Redo: *ctrl Y*),
+        - tout gommer sur le calque courant (Clear: *Suppr*)
+        - tourner le calque courant (Rotate)
+        - Miroir (Flip Horizontal: *Shift H* ou Flip Vertical: *Shift V*)
+        - Déplacement, rotation et étirement manuel (Transform: *Ctrl T*)
+        - Changer sur le calque courant une couleur par une autre (Replace Color: *Shift R*)
+        - Raccourcis clavier (Keyboard Shortcuts)
+        - Préférences (Preferences; si ça rame, cocher Experimental > Use Native Mouse Cursor, Experimental > Use Native File Dialog et Cursors > Brush Preview > None)
+    - Sprite (opérations sur tous les calques)
+        - Modifier le niveau de détails (Sprite Size)
+        - Changer la tailler de l'espace de travail (Canvas Size)
+        - Miroir ou Rotation de tous les calques (Rotate Canvas / Flip Canvas)
+        - Supprimer les marges inutiles (Trim)
+    - Layer (calques):
+        - Nouveau calque (New Layer)
+        - Supprimer le(s) calque(s) sélectionné(s) (Remove Layer)
+        - Dupliquer le calque (Duplicate)
+        - Mélanger le calque sélectionné avec celui d'en dessous (Merge Down)
+        - Mélanger tous les calques pour ne plus en avoir qu'un seul (Flatten)
+    - Frame (animation):
+        - Ajouter une image d'animation après l'image sélectionnée; pour tous les calques, elle continendra une copie de l'image active (New Frame)
+        - Ajouter une image d'animation vide après l'image sélectionnée (New Empty Frame)
+        - Dupliquer l'image sélectionnée sur l'image d'après (ne touche que le calque sélectionné); s'il n'y a pas d'image d'après, en crée, s'il y en a une, l'écrase (Duplicate Cell(s))
+        - Dupliquer l'image sélectionnée sur l'image d'après; si le calque est en mode "continu", lier les deux (Duplicate Linked Cell(s))
+        - Supprimer l'image d'animation sélectionnée (pour tous les calques)
+    - Select (Sélections):
+        - Tout sélectionner (All: *Ctrl A*)
+        - Tout désélectionner (Deselect: *Ctrl D*)
+        - Inverser la Sélection (Inverse: *Ctrl Shift I*)
+    - View (Fenêtres et options de visualisation):
+        - Grille (Grid)
+        - mode infini pour faire des tiles qui bouclent (Tiled Mode)
+        - si une de vos fenêtres/onglets/bouts de programme a disparu cherchez là
+- **1**: couleurs:
+    - Palette
+    - Sélecteur de couleurs (redimensionnable pour une sélection plus précise; ou cliquer sur le nom de la couleur en bas)
+    - Échanger couleur d'arrière-plan et de second plan: *X*
 - **2**: couleurs:
-    - couleur principale (haut gauche) et couleur secondaire (bas droite).
-    - cliquer sur les carrés de couleur pour la changer,
-    - cliquer sur les carrés noir et blanc en bas à gauche pour retourner aux valeurs par défaut.
-    - *X* pour intervertir couleur principale et secondaire.
-    - *Ctrl clic* pour définir comme couleur principale une couleur présente dans l'image
-- **3**:
-    - opacité
-    - taille du pinceau (*shift clic*)
-- **4**:
-    - Eraser / gomme (*E*): effacer (remplacer des pixels de couleur par des pixels transparents); attention: la gomme est un mode du pinceau et non un outil à part.
-    - *Suppr*: effacer tout le calque actif (ou la sélection).
-- **5**:
-    - Brush Presets / liste des brosses,
-    - barre de recherche en bas,
-    - liste des catégories en haut
+    - Changer une couleur de la palette (Edit Color: *F4*)
+    - Créer une palette à partir de l'image actuelle (Options > Create Palette from current Sprite)
+- **3**: pinceau:
+    - Forme du pinceau (Brush Type)
+    - Taille du pinceau (Brush Size)
+    - Type de dessin (Ink): Normal (Simple Ink), semi-transparent (Alpha Compositing), sans dépasser (Lock Alpha)
+- **4**: onglets:
+    - Onglets avec les différents fichiers ouverts
+- **5**: outils (certains en contiennent plusieurs qui apparaissent quand on laisse appuyé)
+    - Outils de sélection
+    - Pinceau (Pencil Tool: *B*)
+    - Gomme (Eraser: *E*)
+    - Sélecteur de couleurs (Eyedropper: *I*)
+    - Zoom (*Z*) / Déplacement de la caméra (*H*)
+    - Bouger un objet (*V*)
+    - Remplir une zone de couleur (Paint Bucket Tool: *G*)
+    - Ligne (*L*) / Courbe (*Shift L*)
+    - Formes géométiques
+    - Outil Lasso (Contour Tool)
 - **6**: Layers/ Calques:
-    - nouveau calque,
-    - dupliquer calque,
-    - déplacer le calque dans la pile vers le bas,
-    - déplacer le calque dans la pile vers le haut;
-    - tout à droite, supprimer le calque
-    - *double clic* ou *F2* sur le nom du calque pour le renommer
-        - bien nommer ses calques!
-    - icone "oeil" à gauche de chaque calque: visibilité du calque
-    - à droite de chaque calque:
-        - icone "ampoule": dés/activer l'ionion skin (aussi appelé "table lumineuse")
-        - icone "verrou": rendre le calque non sélectionnable et non modifiable (temporairement)
-        - icone "alpha": option "inherit alpha"; ne seront visibles que les pixels à l'emplacement desquels il y a un pixel opaque sur un calque plus bas (en tenant compte des groupes de calques)
-        - icone "quadrillage/transparence": option "lock alpha": quand on dessine sur ce calque, on ne change que la couleur des pixels, ils gardent leur transparence (du coup sur un pixel transparent on ne voit pas de changement)
-    - *ctrl G*: faire un groupe de calques avec tous les calques sélectionnés
-        - pratique pour l'organisation
-    - tout en haut (là où il y a écrit "Normal" sur le screenshot), changer le mode du calque actif
-    - juste en dessous, changer l'opacité du calque
-- **7**:
-    - Advanced Color Selector / sélecteur de couleurs: change la couleur de premier plan;
-    - a un historique de couleurs sur la droite (cliquer sur une des couleurs pour la rendre couleur de premier plan)
-- **8**:
-    - Tool Options / Options des Outils: toujours vérifier s'il ne contient pas une option qui fait exactement ce dont on a besoin avec l'outil actuel.
-- **9**: Overview:
-    - permet de zoomer et se déplacer dans l'image sans utiliser les raccourcis claviers; qui sont:
-    - *molette* ou *ctrl clic molette*: zoom;
-    - *espace clic* ou *clic molette*: se déplacer;
+    - rendre un calque visible ou non (icône oeil)
+    - rendre un calque modifiable ou non (icône cadenas)
+    - frames d'animation continues ou non (pour rendre indépendante une frame précise, clic droit > Unlink) (icône deux points)
+    - paramètres de la transparences des images d'avant et d'après, la "peau d'oignon" (Onionskin) (icône sliders)
+    - activation ou non de la peau d'oignon (Onionskin) (icône deux carrés)
+    - *double clic* sur le nom du calque pour afficher les options
+        - le renommer
+            - bien nommer ses calques!
+        - changer son opacité
+        - changer son mode de calque
+    - *clic droit* sur le numéro de frame permet, entre autres, de changer son tag (pour si on a plusieurs actions à la suite par exemple)
+    - en haut: options de lecture de l'animation
+        - aller à la première frame
+        - aller à la frame précédente
+        - jouer/mettre en pause l'animation (*Enter* et *Echap*)
+        - aller à la frame suivante
+        - aller à la dernière frame
+- **7**: Espace de dessin:
+    - pour zoomer et se déplacer dans l'image, les raccourcis claviers sont:
+    - *molette*: zoom;
+    - *clic molette*: se déplacer;
     - *shift clic molette* ou *shift espace clic*: rotation;
-    - *pav num 5*: remettre la rotation à 0° (droite);
-    - *pav num 1*: échelle 100%;
-    - *pav num 2*: adapter à la hauteur,
-    - *pav num 3*: adapter à la largeur;
-    - *Tab*: full paint mode
-    - il y a aussi un outil zoom et un outil déplacement dans la sous-fenêtre des outils (ce sont les deux derniers de la liste)
-- **10**: options d'animation:
-    - Onion Skins / pelure d'oignon: permet de voir en transparence les images précédentes et suivantes de l'animation (activable/désactivable par calque dans la timeline, ou pour tous les calques en cliquant sur le 0 dans le docker Peau d'Oignon);
-    - Animation:
-        - Lancer/Pauser l'animation,
-        - Images de début et de fin (Start et End),
-        - nombre d'images par seconde (Frame Rate / Fréquence d'images) (24 pour les mouvements rapides (le nombre d'images du cinéma en Europe), 12 c'est bien, 6 c'est possible mais limite);
-        - Timeline / Timing: là où se passe le gros de l'animation, où on passe d'une image à l'autre, et peut déplacer des images
+    - *pav num 1 à 6*: raccourcis pour le zoom;
+    - il y a aussi un outil zoom et un outil déplacement dans la barre des outils à droite (la loupe et la croix fléchée)
+    - *ctrl clic*: sélectionner le calque contenant le pixel sur lequel on a cliqué
+/!\ Libresprite ne maintient pas sa documentation, mais c'est un fork de Aseprite, dont la doc est [ici](https://www.aseprite.org/docs/) (en anglais).
+Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec des astuces (sur aseprite, mais ça s'applique aussi à libresprite en général)
 
 ## 2) Licences
 - /!\ Toujours vérifier la licence des assets qu'on utilise.
