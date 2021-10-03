@@ -138,7 +138,8 @@ autres:
         -  les couleurs complémentaires sont celles qui sont opposées sur le cercle des teintes: rouge et vert, violet et jaune, bleu et orange
     - mais pour faire ressortir un détail (de petite taille) et attirer l'attention, on peut saturer davantage ses couleurs (sur un _petit_ espace)
         - ou utiliser une couleur complémentaire à celles généralement utilisées dans le niveau
-- pour info: un gris entouré de rouge sembrera rougeâtre (ça marche pour tous les couples de complémentaires)
+- pour info: notre perception des couleurs change en fonction de celles qui les entourent <details> ![colorDress](/assets/402_colorDress.jpg)[source](https://en.wikipedia.org/wiki/The_dress)
+- roues des couleurs <details>![rouesDesCouleurs](/assets/401_theorieCouleurs.jpg) [source](https://medium.com/learning-lab/how-i-learnt-about-color-theories-and-made-my-best-color-palettes-in-one-month-a461604ca669)
 
 ## 8) Recap général
 - ombres et lumières de teintes différentes (typiquement un vert clair sera plus jaune, un bleu clair plus cyan, et un rouge clair ou un jaune foncé plus orange)
