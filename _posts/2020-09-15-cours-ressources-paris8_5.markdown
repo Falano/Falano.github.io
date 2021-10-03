@@ -8,7 +8,7 @@ permalink: /cours/creation_gestion_ressources_5.html
 
 # O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Krita](/cours/creation_gestion_ressources_2.html)
+# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. Animation
@@ -86,31 +86,43 @@ Abzu, par GiantSquid <https://abzugame.com/>
         - impression soulignée s'il y a un élément qui suit (cheveux, écharpe, queue, etc.) ([un exemple](https://www.youtube.com/watch?v=Fliz85Kgnww), [un autre exemple](https://www.youtube.com/watch?v=KFWgrzgj7xQ))
 
 ## 3) outils d'animation
-- docker Timeline
+- Menu Frame
 	- ajouter / supprimer une frame
-	- déplacer / copier des frames
-	- utiliser les calques pour ajouter / enlever un élément sur plusieurs frames d'un coup
-	- scroll molette pour se déplacer dans le temps (avec la souris sur le docker Timeline)
-	- clic droit sur le nom d'un calque > show in timeline
-- docker Animation
-	- nombre d'images par seconde (24 pour le cinéma en europe; 12 c'est bien; 6 c'est possible mais un peu limite)
-	    - quand on change le nombre d'images par seconde pour ajouter/enlever des détails: sélectionner toutes les frames de la plage concernée dans la timeline, et clic droit sur la sélection > Insert hold frame (ou remove hold frame)
-- docker Onion Skin / Pelure d'Oignon
-	- cliquer sur les numéros en haut pour l'activer/désactiver pour cette frame
-	- cliquer sur le 0 pour le désactiver complètement
-	- il faut l'activer pour chaque calque
+    - changer la vitesse de l'animation: constant time rate
+        - le cinéma en europe c'est 24fps, la télé 25
+        - aux Etats-Unis, la télé c'est 30fps.
+        - converti en millisecondes, ça donne: 25fps: 40ms; 12.5fps: 80ms; 8fps: 125ms; 6.25fps: 160ms
+        - 25 c'est très fluide (pour des mouvements rapides), 12.5 c'est bien, 6 ça va pour un idle mais sinon c'est un peu limite
+        - toujours utiliser un constant time rate, et au besoin doubler des images pour les faire durer plus longtemps
+- panneau des calques
+	- déplacer / copier des frames (sélectionner, ctrl cliquer-glisser le contour)
+	- calques continus / *clic droit > Unlink*
+	- *Alt Scroll molette* pour se déplacer dans le temps
+	- changer la durée de l'onionskin (cliquer glisser sur la timeline)
+	- /!\ quand vous supprimez une image de l'animation (et que vous avez plusieurs calques), cliquez toujours dessus avant dans le panneau des calques et vérifiez qu'elle ne supprime pas la frame sur tous les calques
+- options de l'Onion Skin
+    - Merge Frame vs Red/Blue Tint
+	- activer Current Layer Only si on a un arriète-plan, le désactiver si notre perso est séparé en plusieurs calques
 
 --  
 **EXERCICE 7**  
 faire traverser l'image à un trait suivant différents rythmes  
 - régulier
 - début lent, accélération
-- fin lente, décélération
+- début rapide, décélération
 - quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
 
+**EXERCICE 8**  
+- ouvrir une image de 64*64
+- prendre une brosse ronde d'environ 10px
+- sur l'image 3, faire un point dans le coin en bas à gauche (qui ne touche pas les bords)
+- les images 1 et 2 peuvent soit être vides soit être des copies continues de l'image 3
+- sur l'image 8, faire un point en haut au milieu
+- sur l'image 13, faire un point en bas à droite
+- les images 14 et 15 peuvent soit être vides soit être des copies continues de l'image 13
+- remplir les images vides du milieu (si vous avez besoin de plus ou moins d'images vous pouvez en ajouter ou enlever)
+
 --  
-[](4. fin l1C12)
-[](5. fin L1A12 + anticipation)
 
 ## 4) principes d'animation 2
 - anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
@@ -154,18 +166,15 @@ faire traverser l'image à un trait suivant différents rythmes
     - personnage touché
     - saut (si platformer)
 
-[](5. fin L1B12 - vague; marche rapidement)
-
 **références**  
 Looney Tunes, par Warner Bros
 
 ## 3) export
 - suite d'images
-    - File > Render Animation Frames (Fichier > Rendu de l'animation)
-        - les images de début et de fin doivent être comprises entre les images de début et de fin du docker Animation
+    - File > Save As (choisir le format .png)
+    - si on nomme son fichier {tag}_quelqueChose.png, les noms des images comprendront le nom de son tag (pratique pour exporter plusieurs anims à partir d'un seul fichier).
 - spritesheet
-    - installer ce plugin <https://github.com/Falano/kritaSpritesheetManager>
-        - avant l'export, désactiver l'onionskin et les calques superflus (par exemple l'arrière-plan)
+    - File > Export Spritesheet (si Padding, choisir Shape)
 
 ## 97) exercices
 1) étude du timing
@@ -176,7 +185,7 @@ Looney Tunes, par Warner Bros
 - Une autre où il le traverse quasi instantanément.
 
 2) courbes d'animation
-- dessiner un perso; qu'il soit en position de base de idle; rendre le calque animable et copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière, d'opacité décroissante quand on s'éloigne de la frame actuelle (ou d'une autre manière si c'est plus confortable pour vous). Sur un autre calque, non animé, se faire une palette dans un coin des couleurs du personnage.
+- dessiner un perso; qu'il soit en position de base de idle; copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière (ou d'une autre manière si c'est plus confortable pour vous). Utiliser une palette réduite pour que ce soit plus rapide à animer.
 - En s'aidant de l'onionskin, faire une anim qui boucle (éventuellement au cours du processus d'animation déplacer la frame de fin si l'anim ne fait pas 30 images): esquive, saut, ou attaque.
 - Sur un autre calque, non animé, noter dans une couleur non utilisée ailleurs la position des yeux à chaque frame, et de l'extrémité de chaque membre (mains, jambes, pattes) dans d'autres couleurs.
 - Vérifier si ça suit autant que possible une courbe, et que les espacements entre deux points sont réguliers; si non, modifier l'animation pour que ça soit davantage le cas.
@@ -226,22 +235,11 @@ Looney Tunes, par Warner Bros
 ## 100) Ressources en français
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
 - les 12 principes de l'animation: https://fr.wikipedia.org/wiki/12_principes_de_base_de_l%27animation
-- une [démo vidéo: rapide aperçu des outils d'animation de krita](https://youtu.be/6NWJ119jJaI) (vidéo, pas de son)
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
 - des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
 - [plein de marches différentes](https://www.youtube.com/watch?v=cVjIqr8CTtQ)
 - une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
-- [début du cours d'animation (mercredi)](https://youtu.be/cUXbnengUY8)
-    - 00:00:00 timing
-    - 00:08:00 anticipation
-    - 00:11:30 amorti (ralentissement en début ou fin de mouvement)
-    - 00:13:45 outils d'animation de krita
-    - 00:26:33 exercice
-- une [autre démo rapide sur l'animation (timing et animations secondaires, inertie)](https://youtu.be/BscB06QlFfI)
-
-[](5. fin L1C12)
-[](6. fin L1AB12; spritesheet rapidement)
 
 
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
