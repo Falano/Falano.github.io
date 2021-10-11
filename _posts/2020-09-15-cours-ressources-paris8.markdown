@@ -13,7 +13,7 @@ Mon email: noemie. scherer (at) gmail. com
 N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
 
 Programmes utilisés pendant le cours:  
-Libresprite: <https://libresprite.github.io/#!/downloads> (pixel art et animation)  
+Libresprite: <https://github.com/LibreSprite/LibreSprite> (pixel art et animation) (si sur linux ça ne marche pas, rendre le fichier exécutable et ressayer de le lancer)  
 Audacity: <https://www.audacityteam.org/download/> (audio)  
 Musescore: <https://musescore.org/en> (musique)  
 LMMS: <https://lmms.io/> (musique)  
