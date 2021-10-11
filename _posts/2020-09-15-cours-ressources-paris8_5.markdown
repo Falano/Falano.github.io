@@ -21,7 +21,7 @@ permalink: /cours/creation_gestion_ressources_5.html
             - [marionnettes (L'étrange Noel de Mister Jack)](https://www.youtube.com/watch?v=Wy7yv44vjIo)
             - [marionettes (ma vie de courgette)](https://www.youtube.com/watch?v=OEwycy4aaFw)
             - [marionettes (le petit prince)](https://vimeo.com/164860211)
-            - Jiri Trnka
+            - [Jiri Trnka ("ne pas boire au volant")](https://www.youtube.com/watch?v=pyUAFzw24KA)
         - pixilation
             - [luminaris](https://vimeo.com/24051768)
             - [Neighbours](https://vimeo.com/39056719)
