@@ -106,7 +106,7 @@ Abzu, par GiantSquid <https://abzugame.com/>
 
 --  
 **EXERCICE 7**  
-faire traverser l'image à un trait suivant différents rythmes  
+faire traverser l'image à un trait suivant différents rythmes (taille de l'image: 128x32 ou 256x64)  
 - régulier
 - début lent, accélération
 - début rapide, décélération
@@ -150,6 +150,7 @@ faire traverser l'image à un trait suivant différents rythmes
     - head bob
     - jambe/bras opposés
     - torse inclinaison
+- /!\ pour une animation de jeu, toujours animer une boucle qui fait du sur-place. C'est le moteur de jeu qui se chargera de la faire se déplacer
 - saut en jeu
     - pas juste une anim mais trois à cinq bouts d'anim
         - début du saut
@@ -183,6 +184,23 @@ Looney Tunes, par Warner Bros
 - Une autre où il accélère.
 - Une autre où il ralentit.
 - Une autre où il le traverse quasi instantanément.
+[correction](/assets/exos/exo7_trait.ase)
+
+2) étude du timing 2 et des courbes
+- ouvrir une image de 64*64
+- prendre une brosse ronde d'environ 10px
+- sur l'image 3, faire un point dans le coin en bas à gauche (qui ne touche pas les bords)
+- les images 1 et 2 peuvent soit être vides soit être des copies continues de l'image 3
+- sur l'image 8, faire un point en haut au milieu
+- sur l'image 13, faire un point en bas à droite
+- les images 14 et 15 peuvent soit être vides soit être des copies continues de l'image 13
+- remplir les images vides du milieu (si vous avez besoin de plus ou moins d'images vous pouvez en ajouter ou enlever)  
+[correction](/assets/exos/exo8_3balles.ase)  
+
+3) animation de marche/course  
+faire une animation de marche/course  
+- [exemple1: étapes](/assets/exos/decompositionAnim_marcheCourse.ase)
+- [exemple2: détails](/assets/exos/charaViolet_course.ase)
 
 2) courbes d'animation
 - dessiner un perso; qu'il soit en position de base de idle; copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière (ou d'une autre manière si c'est plus confortable pour vous). Utiliser une palette réduite pour que ce soit plus rapide à animer.
