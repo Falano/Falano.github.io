@@ -183,7 +183,7 @@ Looney Tunes, par Warner Bros
 - Une anim où il traverse l'écran de gauche à droite à une vitesse régulière.
 - Une autre où il accélère.
 - Une autre où il ralentit.
-- Une autre où il le traverse quasi instantanément.
+- Une autre où il le traverse quasi instantanément.  
 [correction](/assets/exos/exo7_trait.ase)
 
 2) étude du timing 2 et des courbes
