@@ -73,8 +73,8 @@ Abzu, par GiantSquid <https://abzugame.com/>
     - plus les images sont rapprochées dans le temps (sur la timeline), plus ça bouge vite
     - plus le framerate (fréquence d'images) est élevé plus ça va vite
     - par exemple:
-        - pour une action très rapide, on voudra une image différente par frame (pour la partie très rapide en tous cas), et éventuellement un framerate de 24
-        - pour une action très lente (un idle par exemple), un framerate de 12 et une image toutes les une ou deux frames selon les images peuvent suffire
+        - pour une action très rapide, on voudra une image différente par frame (pour la partie très rapide en tous cas), et éventuellement un framerate de 24fps
+        - pour une action très lente (un idle par exemple), un framerate de 12fps et une image toutes les une ou deux frames selon les images peuvent suffire
         - mais globalement essayer de ne pas avoir moins de 12 images/secondes à part pour un idle
         - utiliser l'espace plutôt que le temps pour gérer le rythme dans l'anim finale
 - varier les rythmes

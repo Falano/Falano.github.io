@@ -62,10 +62,10 @@ permalink: /cours/creation_gestion_ressources_7.html
 - press kit
     - télécharger ici <http://dopresskit.com/>
     - exemples:
-        - [I was a teenage exocoloniste](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
+        - [I was a teenage exocolonist](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
         - [Rebuild 3](http://northwaygames.com/presskit/sheet.php?p=rebuild_3)
         - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
-        - [Vlambeer](https://www.vlambeer.com/press/)
+        - [Later Alligator](https://press.pillowfight.io/later_alligator/index.html)
         - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)
 
 # VIII. [Game Design](/cours/creation_gestion_ressources_8.html)

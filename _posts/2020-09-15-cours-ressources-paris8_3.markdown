@@ -108,6 +108,7 @@ importer sa tilemap de Tiled à Godot
     - [des variations de texture sur la même base pour ajouter de la diversité](https://www.artstation.com/artwork/PoErV4)
 - un [tutoriel vidéo sur le système de tiles de godot](https://www.youtube.com/watch?v=F6VerW98gEc)
 - un [tutoriel écrit sur les tiles dans godot](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/)
+- les [un tuto visuel sur les brosses non-régulières dans Libresprite](https://www.artstation.com/artwork/Nx2vz5)
 
 
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
