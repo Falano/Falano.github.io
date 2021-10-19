@@ -202,6 +202,10 @@ faire une animation de marche/course
 - [exemple1: étapes](/assets/exos/decompositionAnim_marcheCourse.ase)
 - [exemple2: détails](/assets/exos/charaViolet_course.ase)
 
+4) animation de saut  
+animer un saut (utilisable dans un jeu vidéo: différentes étapes, boucle)
+- [exemple](/assets/exos/decompositionAnim_saut.ase)
+
 2) courbes d'animation
 - dessiner un perso; qu'il soit en position de base de idle; copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière (ou d'une autre manière si c'est plus confortable pour vous). Utiliser une palette réduite pour que ce soit plus rapide à animer.
 - En s'aidant de l'onionskin, faire une anim qui boucle (éventuellement au cours du processus d'animation déplacer la frame de fin si l'anim ne fait pas 30 images): esquive, saut, ou attaque.
@@ -250,14 +254,17 @@ faire une animation de marche/course
     - [timings en animation](https://www.patreon.com/posts/animation-easing-8030922)
 - quelques [principes généraux d'animation]((https://www.youtube.com/watch?v=uDqjIdI4bF4)) (vidéo)  
 
-## 100) Ressources en français
+## 100) Ressources en français ou visuelles
 - un gros bouquin sur les principes d'animation (pas spécifique au pixel art ni au jeu): Techniques d'Animation (The Animator's Survival Kit), de Richard Williams
 - les 12 principes de l'animation: https://fr.wikipedia.org/wiki/12_principes_de_base_de_l%27animation
 - une [vidéo humoristique (par le Joueur du Grenier) sur les choses à ne pas faire dans un jeu](https://www.youtube.com/watch?v=5I7pukuy8sQ)
 - une série de photographies décomposant le mouvement: [Animal Locomotion, d'Edward Muybridge (sur wikibooks)](https://fr.wikibooks.org/wiki/Photographie/Personnalit%C3%A9s/M/Eadweard_Muybridge)
 - des [vidéos montrant différents mouvements, dont plusieurs marches, à utiliser comme références](https://www.youtube.com/c/endlessreference/videos)
 - [plein de marches différentes](https://www.youtube.com/watch?v=cVjIqr8CTtQ)
-- une [vidéo (pas de son) de démo d'animation dans krita](https://youtu.be/6NWJ119jJaI)
+- des vidéos de sauts (baisser la vitesse pour mieux voir):
+    - [saut en course arrêt fixe](https://youtu.be/Gf3-J7gaaak?t=93)
+    - [saut en course](https://www.youtube.com/watch?v=u9YpwensnPE)
+    - [saut à l'arrêt](https://www.youtube.com/watch?v=BBQBu-hQ5ec)
 
 
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
