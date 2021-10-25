@@ -155,10 +155,10 @@ cf [Annexes X.2](/cours/creation_gestion_ressources_0.html), une explication des
 - de la musique chiptune pour un effet rétro
 - plein d'effets ou des instruments synthétisés pour un air plus sci-fi/futuriste/urbain
 - des choeurs ou des orgues peuvent donner un air musique sacrée/impressionnant
-- une voix qui chante (ou fredonne) peut donner un caractère plus intimiste/berceuse
+- une voix qui chante (ou fredonne) peut donner un caractère plus intimiste/berceuse (surtout si c'est enregistré à faible distance)
 - un saxophone ou une trompette ( + batterie, + contrebasse) pour une atmosphère jazz/New York/1960
 - accordéon: musique de rue, France urbaine ou de village, etc.
-    - généralement: pas mal d'endroits ont des instruments qui leur sont propres, ne pas hésiter à les utiliser si on trouve une soundbank (ou un instrumentiste) adaptée
+    - généralement: pas mal d'endroits ont des instruments qui leur sont propres, ne pas hésiter à les utiliser si on trouve une soundbank (ou un instrumentaliste) adaptée
 - ne pas hésiter à mélanger sons et musique (cf [une musique qui utilise des bruits comme notes](https://www.youtube.com/watch?v=fOCaNBGMMgE), [une autre](https://www.youtube.com/watch?v=SAUKJNCQK6U))
     - par exemple une musique militaire peut utiliser comme rythme de fond le bruit d'une armée en marche (cf [le chant des partisans tel que chanté par Yves Montand](https://www.youtube.com/watch?v=DeXraool4QE))
     - un son informatif, comme un bruitage de "tu as trouvé un coffre" ou "tu as été touché" peut être une musique courte (cf [Zelda](https://www.youtube.com/watch?v=CGBO_Xbz3Dk))
