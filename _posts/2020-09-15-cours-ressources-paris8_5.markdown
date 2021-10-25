@@ -201,6 +201,8 @@ Looney Tunes, par Warner Bros
 faire une animation de marche/course  
 - [exemple1: étapes](/assets/exos/decompositionAnim_marcheCourse.ase)
 - [exemple2: détails](/assets/exos/charaViolet_course.ase)
+- [tuto: marche vue du haut](https://www.patreon.com/posts/top-down-walk-21353953)
+- [stylisations persos](/assets/mine/stylisations_perso_marche.ase)
 
 4) animation de saut  
 animer un saut (utilisable dans un jeu vidéo: différentes étapes, boucle)
