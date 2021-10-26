@@ -99,7 +99,7 @@ importer sa tilemap de Tiled à Godot
 {% endcomment %}
 
 ## 99) plus de ressources (principalement en anglais)
-- plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
+- plein de tutoriels format gif, courts et efficaces: [https://saint11.org/blog/pixel-art-tutorials/](https://saint11.org/blog/pixel-art-tutorials/)
     - [arbres](https://www.patreon.com/posts/vegetation-part-7416630)
     - [variations de tiles](https://www.patreon.com/posts/making-tiles-12881715)
     - [perspective](https://www.patreon.com/posts/parallax-and-7863658)

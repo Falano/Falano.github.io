@@ -244,7 +244,7 @@ animer un saut (utilisable dans un jeu vidéo: différentes étapes, boucle)
 - les 12 principes de l'animation:
     - le bouquin qui en parle à l'origine, jamais traduit en français apparement: The Illusion of Life: Disney Animation, de Frank Thomas et Ollie Johnston
     - un explication sur wikipedia: <https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation>
-- plein de tutoriels format gif, courts et efficaces: [https://blog.studiominiboss.com/pixelart](https://blog.studiominiboss.com/pixelart)
+- plein de tutoriels format gif, courts et efficaces: [https://saint11.org/blog/pixel-art-tutorials/](https://saint11.org/blog/pixel-art-tutorials/)
     - notamment:
     - [boucles d'animation](https://www.patreon.com/posts/seamless-7346998)
     - [motion blur](https://www.patreon.com/posts/motion-blur-11596285)
