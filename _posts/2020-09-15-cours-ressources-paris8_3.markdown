@@ -54,6 +54,7 @@ faire une tilemap, et la monter sur Libresprite ou Godot
     - supertux (bonus)
         - plateformes invisibles
         - murs creux
+        - difficulté artificielle créée par de faux signaux: le joueur n'est pas l'ennemi du game designer.
     - dead cells / celeste
         - plateformes qui se détachent bien
         - arrière-plan dé-contrasté <details> - dead cells ![Dead Cells](/assets/111_Dead-Cells.jpg) <br> - Celeste ![Celeste](/assets/109_celeste.png)
