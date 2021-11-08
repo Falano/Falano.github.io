@@ -147,10 +147,11 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
 - de l'importance de l'anim de "personnage blessé" [](TODO: faire un exemple hurtanim avec/sans)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
-    - head bob
+    - il *doit* y avoir une différence de hauteur de la tête (à cause de la hauteur des hanches, en fait) pendant la marche/course ![marche](/assets/mine/upDownWalk.gif)
     - jambe/bras opposés
-    - torse inclinaison
-- /!\ pour une animation de jeu, toujours animer une boucle qui fait du sur-place. C'est le moteur de jeu qui se chargera de la faire se déplacer
+    - inclinaison du torse: un torse plus incliné vers l'avant traduit souvent une vitesse plus grande - sauf pour les athlètes, qui courent avec le torse droit.
+    - le centre de gravité doit être entre les points d'appuis ou la position cesse d'être stable et le personnage / l'objet tombe (ou saute, s'il a donné une impulsion)
+- */!\ pour une animation de jeu, toujours animer une boucle qui fait du sur-place. C'est le moteur de jeu qui se chargera de la faire se déplacer*
 - saut en jeu
     - pas juste une anim mais trois à cinq bouts d'anim
         - début du saut
@@ -158,7 +159,7 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
         - transition
             - tenir
         - atterrissage
-- anim vague/fumée/vent/queue
+- anim ondulation: vague/fumée/vent/queue/drapeau/etc.
 - animations standard d'un personnage d'un jeu de combat:
     - idle
     - marche et/ou course
