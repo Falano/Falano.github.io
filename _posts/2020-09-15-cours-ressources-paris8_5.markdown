@@ -147,7 +147,8 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
 - de l'importance de l'anim de "personnage blessé" [](TODO: faire un exemple hurtanim avec/sans)
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
-    - il *doit* y avoir une différence de hauteur de la tête (à cause de la hauteur des hanches, en fait) pendant la marche/course ![marche](/assets/mine/upDownWalk.gif)
+    - il *doit* y avoir une différence de hauteur de la tête (à cause de la hauteur des hanches, en fait) pendant la marche/course  
+    ![marche](/assets/mine/upDownWalk.gif)  
     - jambe/bras opposés
     - inclinaison du torse: un torse plus incliné vers l'avant traduit souvent une vitesse plus grande - sauf pour les athlètes, qui courent avec le torse droit.
     - le centre de gravité doit être entre les points d'appuis ou la position cesse d'être stable et le personnage / l'objet tombe (ou saute, s'il a donné une impulsion)
