@@ -32,17 +32,31 @@ Transistor, par Supergiant Games: <https://www.supergiantgames.com/games/transis
 Freecol, par Tout Un Tas De Gens C'est Open Source: <http://www.freecol.org>  
 Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://www.wesnoth.org/>
 
-## 2) Libresprite: 4
+## 2a) Libresprite: 4
 - grilles (View > Grid > Grid Settings; éventuellement, Snap to Grid)
 - mode infini (View > Tiled Mode)
-- remplir une zone d'une tile (pour les tilemaps ou les motifs réguliers) répétée: dessiner sa tile, la sélectionner, Edit > New Brush (*Ctrl B*); marche avec le pinceau, le pot de peinture/remplissage/goutte, les formes géométriques, etc.
-    - pour les motifs irréguliers (feuilles, rochers, etc.), utiliser ça avec l'outil "Spray" (*Shift B*, sur la même ligne que l'outil pinceau), avec des valeurs basses de "spray width" et "spray speed"
+- remplir une zone d'une tile (pour les tilemaps ou les motifs réguliers) répétée: dessiner sa tile, la sélectionner, Edit > New Brush (*Ctrl B*); marche avec le pinceau, le pot de peinture/remplissage/goutte, les formes géométriques, etc. 
+    - pour les motifs irréguliers (feuilles, rochers, etc.), utiliser ça avec l'outil "Spray" (*Shift B*, sur la même ligne que l'outil pinceau), avec des valeurs basses de "spray width" et "spray speed": (tuto détaillé)[https://www.artstation.com/artwork/Nx2vz5]
 - rappel: outils forme (*shift* pour conserver la proportion 1/1)
+- (variations de tiles)[https://www.patreon.com/posts/making-tiles-12881715]
+
+## 2b) Godot tilemaps
 
 --  
 **EXERCICE 5**  
-faire une tilemap, et la monter sur Libresprite ou Godot  
--> pour apprendre à faire des tilemaps  
+- faire une tilemap  
+- dessiner un polygone fermé d'au moins 7 sommets, dont chaque sommet est dans une case de quadrillage différente
+- dans le logiciel de dessin, assembler une forme utilisant sa tilemap qui suit la forme du polygone.
+
+--  
+
+**EXERCICE 6**  
+- importer sa tilemap dans Godot, la tester
+- vérifier le type de formes qu'on peut faire avec et si les transitions marchent bien
+- s'il manque des tiles, en rajouter
+- si des tiles ne communiquent pas bien, les modifier
+- continuer jusqu'à ce que la tilemap marche
+
 --  
 
 ## 3a) lisibilité
@@ -92,11 +106,6 @@ NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Paralla
 godot-tiled:  
 importer: https://github.com/vnen/godot-tiled-importer -> buggy?  
 exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?  
-
---  
-**EXERCICE 6**  
-importer sa tilemap de Tiled à Godot  
---  
 {% endcomment %}
 
 ## 99) plus de ressources (principalement en anglais)

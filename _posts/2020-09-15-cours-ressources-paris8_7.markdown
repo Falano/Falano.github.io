@@ -8,29 +8,22 @@ permalink: /cours/creation_gestion_ressources_7.html
 
 # O. [Menu](/cours/creation_gestion_ressources.html)
 # I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Krita](/cours/creation_gestion_ressources_2.html)
+# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
 # III. [Décors](/cours/creation_gestion_ressources_3.html)
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 # V. [Animation](/cours/creation_gestion_ressources_5.html)
 # VI. [Finitions](/cours/creation_gestion_ressources_6.html)
 # VII. [Exports](/cours/creation_gestion_ressources_7.html)
-## 1) importer une spritesheet dans krita
-- on va mettre chaque frame dans un fichier différent puis les réimporter dans la timeline
+## 1) importer une spritesheet
+- on va prendre notre spritesheet et réimporter chaque image dans la timeline
     - pour pouvoir la modifier
         - ajouter un accessoire ou changer le timing, par exemple
-    - du coup:
-        - l'ouvrir comme une image normale
-        - Image > Image Split (Image > Fractionner l'image)
-            - en png
-        - ouvrir une nouvelle image de la taille d'une frame
-        - File > Import as Animation Frames (Fichier > Importer les images de l'animation)
-        - tadaaa!
-            - vous pouvez commencer à travailler
+- File > Import Spritesheet
 
 ## 2) exporter du pixel art pour des réseaux sociaux
-- export png
-- éventuellement ajouter de la marge
-- agrandir x4 (ou x3, x2 ou x5 selon ce qui rend le mieux)
+- File > Save as > File type: png
+- éventuellement ajouter de la marge (Sprite > Canvas Size)
+- agrandir x4 (ou x3, x2 ou x5 selon ce qui rend le mieux) (Sprite > Sprite Size)
 - filtre nearest neighbour (voisin le plus proche)
     - pour que ce soit lisible, parce que globalement un perso en pixel art tout seul, échelle 1, c'est pas hyper lisible
         - et si on zoome dans le navigateur il ne sait pas qu'il faut utiliser nearest neighbour
@@ -63,7 +56,7 @@ permalink: /cours/creation_gestion_ressources_7.html
     - télécharger ici <http://dopresskit.com/>
     - exemples:
         - [I was a teenage exocolonist](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
-        - [Rebuild 3](http://northwaygames.com/presskit/sheet.php?p=rebuild_3)
+        - [Wandersong](http://greg.style/press/sheet.php?p=wandersong)
         - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
         - [Later Alligator](https://press.pillowfight.io/later_alligator/index.html)
         - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)

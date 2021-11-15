@@ -121,22 +121,6 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 ## 100) Plus de ressources (en français)
 - game design:
     - L'art du game design (The Art of Game Design), de Jesse Schell
-- un [enregistrement du cours sur le game design](https://youtu.be/BZ9x_0qWJMk)
-    - 00:00:00 le canal Annonces sur discord
-    - 00:11:21 le site du cours
-    - 00:13:28 le son (intro)
-    - 00:36:55 rappel: les licences
-    - 00:42:39 audacity
-    - 00:49:15 les formats audio
-    - 00:54:29 rappel: beeepbox
-    - 00:54:50 rappel: musescore
-    - 00:56:15 rappel: LMMS
-    - 01:00:56 notions de game design
-    - 01:19:19 notions d'organisation pour la fabrication d'un jeu
-    - 01:37:42 accessibilité
-    - 01:54:57 anticipation en animation
-    - 01:57:47 outils d'animation de krita
-    - 02:15:10 exercice
 
 
 # X. [Annexes](/cours/creation_gestion_ressources_0.html)

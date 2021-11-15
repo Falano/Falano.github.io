@@ -323,5 +323,5 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
         - des bruitages, implémentés dans le jeu
         - de la musique, implémentée dans le jeu
         - au moins un personnage, animé avec le système d'animation de libresprite (ou de krita), avec plusieurs animations de plus de trois images différentes
-        - des décors avec soit des tiles soit de la parallaxe
+        - des décors avec soit des tiles (qui s'imbriquent) soit de la parallaxe
     - il y a des points bonus si en plus ce que vous faites est chouette (son fait par vous-même, personnages et/ou animation efficaces, décors animés, concept de jeu particulièrement intéressant, plein de niveaux, ambiance réussie, etc.)

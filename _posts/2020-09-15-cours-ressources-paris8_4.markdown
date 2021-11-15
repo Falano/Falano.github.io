@@ -13,6 +13,10 @@ permalink: /cours/creation_gestion_ressources_4.html
 # IV. [Son](/cours/creation_gestion_ressources_4.html)
 ## 1) intro
 - de l'importance du son
+    - ambiance
+        - regardez un film d'horreur sans le son([exemple](https://www.youtube.com/watch?v=FnCdOQsX5kc)), ça perd 50% de l'effet.
+        - pareil pour les trailers avec des musiques un peu "épiques"
+        - pareil pour un peu tout en fait
     - donne aussi des infos supplémentaires
         - ce qui se passe offscreen
         - matériaux des objets
@@ -22,7 +26,7 @@ permalink: /cours/creation_gestion_ressources_4.html
     - 1. effets sonores, 2. musique
         - moyen de production assez différents
 - (enregistrer / télécharger)->(modifier) / produire numériquement
-    - <https://www.bfxr.net/> un site de génération d'effets sonores
+    - [rFXGen](https://raylibtech.itch.io/rfxgen): un programme de génération d'effets sonores, utilisable en ligne sans téléchargement
     - les écouteurs-enregistreurs ont trois bandes sur le port jack, les non-enregistreurs n'en ont que deux
 - à propos du MIDI et des soundfonts
 - différence mono/stéréo (mono: une piste (son identique pour les deux oreilles), stéréo: deux pistes (un son différent pour chaque oreille: peut donner une impression de mouvement dans l'espace))
@@ -226,7 +230,7 @@ The Legend of Zelda, Nintendo
 
 
 ## 98) exemples
-- un thème avec plusieurs niveaux: le [thème de terra dans ff6](https://www.youtube.com/watch?v=a6t_uyg_pF8)
+- un thème avec plusieurs niveaux: le [thème de terra dans ff6](https://www.youtube.com/watch?v=KqKwu5Mp7q8)
 
 ## 99) ressources en anglais
 - un livre sur la musique de jeu vidéo, souvent utilisé dans des cours d'unifs ou d'écoles: A Composer’s Guide to Game Music, de Winifred Phillips
