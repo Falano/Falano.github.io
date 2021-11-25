@@ -309,19 +309,20 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - il est obligatoire de mentionner d'où ça vient dans les crédits ("musique composée par Machin Truc avec Beepbox", par exemple); si c'est vous qui l'avez fait, mettez votre nom à la place de "Machin Truc".
     - vous pouvez utiliser des sons et des musiques disponibles en ligne tant que leur licence l'autorise et que vous les mentionnez comme il faut dans les crédits (mais si le son/la musique vous intéresse, je vous encourage à les faire vous-même, ça fera des points bonus)
 - à propos des décors:
-    - si vous avez plusieurs niveaux un peu longs, il est conseillé (c'est beaucoup plus simple pour le level design) de faire des tilemaps, mais ce n'est pas obligatoire.
+    - si vous avez plusieurs niveaux un peu longs, il est conseillé (c'est beaucoup plus simple pour le level design) de faire des tilemaps.
     - tiles ou pas, ça doit être du pixel art (dessiné avec une brosse dure).
     - il est interdit de réutiliser ce qui a été fait par quelqu'un d'autre, même si vous le modifiez.
 - à rendre dans le rendu:
     - l'exécutable du jeu (linux et windows)
     - le projet godot
-    - vos fichiers source (.ase, .aup, lien beepbox, etc.) finaux
+    - vos fichiers source (.ase, .aup, lien beepbox, etc.)
     - les fichiers des ressources externes que vous avez utilisées (n'oubliez pas aussi qu'il est obligatoire de les attribuer (dire "musique: 'Jazzy', de Kevin McLeod, lien-vers-son-site, CC-BY" par exemple) dans l'écran des crédits, et/ou dans un fichier texte joint à l'exécutable et clairement mentionné dans les crédits s'il y en a trop)
+    - un fichier texte avec vos nom, prénom, celui de votre binôme le cas échéant, et, si vous avez fait le son vous-même, comment.
 - à propos de la notation:
     - je prendrai en compte le jeu lui-même (est-ce que le graphisme et l'audio vont bien ensemble et avec le jeu, est-ce que vous les utilisez efficacement, feedback, tout ça) et si j'ai l'impression que si vous avez besoin de faire du graphisme/son pour un jeu vous pourrez vous débrouiller
     - a priori vous passez si vous n'avez enfreint aucune consigne et que votre jeu contient:
         - des bruitages, implémentés dans le jeu
         - de la musique, implémentée dans le jeu
-        - au moins un personnage, animé avec le système d'animation de libresprite (ou de krita), avec plusieurs animations de plus de trois images différentes
-        - des décors avec soit des tiles (qui s'imbriquent) soit de la parallaxe
+        - au moins un personnage, animé avec le système d'animation de libresprite (ou de krita), avec plusieurs animations de plus de quatre images différentes (s'il n'y a pas de personnages ou qu'ils ne peuvent pas être animés, trouver un autre endroit où faire des anims un chouilla complexes: effets spéciaux d'explosions, feu fumée, ou bien décors, ou en dernier recours menus)
+        - des décors avec des tiles (qui s'imbriquent, utilisant les autotiles) (si ça ne fonctionne pas avec le style graphique de votre jeu, vous pouvez mettre les tiles dans un niveau à part non-utilisé)
     - il y a des points bonus si en plus ce que vous faites est chouette (son fait par vous-même, personnages et/ou animation efficaces, décors animés, concept de jeu particulièrement intéressant, plein de niveaux, ambiance réussie, etc.)
