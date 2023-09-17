@@ -109,6 +109,7 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
     - une [explication amusante et claire des différents métiers du jeu vidéo](https://www.gamasutra.com/blogs/LizEngland/20140423/216092/quotThe_Door_Problemquot_of_Game_Design.php)
     - plein de [conférences libres d'accès sur le jeu vidéo](https://www.gdcvault.com/free/)
     - [article "prototyper un jeu en moins de 7 jours" sur le game design et l'organisation](https://www.gamasutra.com/view/feature/130848/how_to_prototype_a_game_in_under_7_.php)
+    - [le site de Nicky Case, qui utilise des principes de game design pour parler de systèmes et de société]()
 
 ## 100) Plus de ressources (en français)
 - game design:

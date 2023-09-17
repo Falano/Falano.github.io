@@ -107,6 +107,7 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
 - début rapide, décélération
 - quasi instantané (sans dessiner dans l'espace entre l'image de début et l'image de fin)  
 
+
 **EXERCICE 8**  
 - ouvrir une image de 64*64
 - prendre une brosse ronde d'environ 10px
@@ -118,6 +119,7 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
 - remplir les images vides du milieu (si vous avez besoin de plus ou moins d'images vous pouvez en ajouter ou enlever)
 
 --  
+
 
 ## 4) principes d'animation 2
 - anticipation (prendre de l'élan) - action - réaction (cf [un gif](https://twitter.com/yvesbalak/status/859337493883301888))
@@ -173,6 +175,7 @@ Looney Tunes, par Warner Bros
     - si on nomme son fichier {tag}_quelqueChose.png, les noms des images comprendront le nom de son tag (pratique pour exporter plusieurs anims à partir d'un seul fichier).
 - spritesheet
     - File > Export Spritesheet (si Padding, choisir Shape)
+
 
 ## 97) exercices
 1) étude du timing

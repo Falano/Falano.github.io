@@ -15,7 +15,10 @@ L'adresse de ce cours:
 Mon email: noemie. scherer (at) gmail. com
 
 Programmes utilisés pendant le cours:  
-Libresprite: <https://github.com/LibreSprite/LibreSprite> (pixel art et animation) (si sur linux ça ne marche pas, rendre le fichier exécutable et ressayer de le lancer)  
+Libresprite: <https://github.com/LibreSprite/LibreSprite> (pixel art et animation)
+- si sur linux ça ne marche pas, rendre le fichier exécutable et ressayer de le lancer)
+- si vous êtes sur mac, vous pouvez utiliser [pixelorama](https://orama-interactive.itch.io/pixelorama) (qui a été développé sur godot)
+
 Audacity: <https://www.audacityteam.org/download/> (audio)  
 Musescore: <https://musescore.org/en> (musique)  
 LMMS: <https://lmms.io/> (musique)  

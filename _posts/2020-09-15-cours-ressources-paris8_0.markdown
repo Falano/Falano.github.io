@@ -135,6 +135,7 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
         - <https://kenney.nl/assets?q=audio> (assets graphiques et audio CC-0)
         - <https://sonniss.com/gameaudiogdc18/> et <https://sonniss.com/gameaudiogdc2017/> et <https://sonniss.com/gameaudiogdc2016/>: entre 10 et 30 Gb chaque de sons .wav gratuits et utilisables commercialement sans attribution
         - <https://wingless-seraph.net/en/material-se.html> (des musiques et sons gratuits avec attribution; bien formattés pour du jeu (la plupart des musiques incluent une version qui boucle))
+        - <https://mixkit.co/> : musiques et sons gratuits (en tant que pub pour s'inscrire sur la version payante, mais il y en a quand même une bonne quantité de disponibles gratuitement)
 
     - musique
         - <https://www.hongkiat.com/blog/creative-common-music-download/> (liste de sites de musique libre)
@@ -150,7 +151,7 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
     - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: <https://ldjam.com/>
     - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
 	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
-	- une jam fondée en france qui a lieu trois fois par an: https://alakajam.com/article/about/welcome
+	- une jam fondée en france qui a lieu trois fois par an: <https://alakajam.com/article/about/welcome>
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  
@@ -179,7 +180,7 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
 		- et pour éviter la monotonie visuelle, il y a plusieurs types de chaque tile <details> ![selfless heroes](/assets/003_selflessHeroes.png)
 	- /+ [Mini Metro](https://dinopoloclub.com/games/mini-metro/), par Dino Polo Club: un jeu de gestion de métros
 	    - utilise des symboles plutôt que des illustrations <details> ![mini-metro](/assets/997_minimetro.jpg)
-	- /+ [*Gophers*](https://hyperlinkyourheart.itch.io/gophers)(/assets/105_gophers.png): narration
+	- /+ [*Gophers*](https://hyperlinkyourheart.itch.io/gophers): narration
 		- les palettes de couleurs limitées, utilisées à bon escient, marchent souvent bien
 		- un travail sur l'atmosphère (accord graphisme-son-histoire-gameplay) <details> ![*Gophers*](/assets/105_gophers.png)
 	- [Night in the Woods](http://www.nightinthewoods.com/) par Infinite Fall: narration
