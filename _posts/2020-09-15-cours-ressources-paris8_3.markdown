@@ -35,8 +35,16 @@ Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://ww
     - pour les motifs irréguliers (feuilles, rochers, etc.), utiliser ça avec l'outil "Spray" (*Shift B*, sur la même ligne que l'outil pinceau), avec des valeurs basses de "spray width" et "spray speed": (tuto détaillé)[https://www.artstation.com/artwork/Nx2vz5]
 - rappel: outils forme (*shift* pour conserver la proportion 1/1)
 - (variations de tiles)[https://www.patreon.com/posts/making-tiles-12881715]
+- placer les tiles côte-à-côte et de manière logique et continue
 
 ## 2b) Godot tilemaps
+- importer la tilemap (en .png) dans godot
+- créer un objet tilemap, lui ajouter un nouveau tileset
+- new autotile
+- mettre le bitmask, l'icône, les priorités et les collisions.
+- attention à ne pas avoir de tiles qui se superposent, c'est compliqué à gérer
+- Si on voit les contours des tiles, activer pixel snap (Set Project > Project Settings > Rendering > Quality > 2d > Use Pixel Snap (activé), ou bien utiliser la recherche pour trouver "Pixel Snap").
+
 
 --  
 **EXERCICE 5**  
