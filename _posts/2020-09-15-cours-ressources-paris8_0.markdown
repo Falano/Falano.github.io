@@ -1,20 +1,10 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_0.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/annexes.html
+topnav: topnav_P8_Ressources
 ---
-
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
 # X. Annexes
 ## 1) schéma de l'interface de Libresprite
 ![Interface Libresprite](/assets/999_interfaceLibresprite.jpg)
@@ -112,7 +102,8 @@ permalink: /cours/creation_gestion_ressources_0.html
 Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec des astuces (sur aseprite, mais ça s'applique aussi à libresprite en général)
 
 ## 2) Licences
-- /!\ Toujours vérifier la licence des assets qu'on utilise.
+{% include warning.html content="Toujours vérifier la licence des assets qu'on utilise." %}
+- différentes licences:
     - domaine public
     - [licences Creative Commons](https://creativecommons.fr/licences/#toc-les-licences-) (en 3ème année 2nd semestre vous avez un cours de "droit, éthique, informatique")
         - **CC-0**: on cède tous les droits cédables: permet de faire à peu près tout (sauf prétendre qu'on l'a fait soi-même: c'est le droit moral, qui est inaliénable en loi française; et sauf dire que l'auteur soutient l'utilisation qu'on en fait)
@@ -124,7 +115,7 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
     - /!\ SAUF SI vous avez utilisé des assets CC-SA (CC-BY-SA, CC-BY-SA-NC, etc.), dans ce cas vous êtes obligés de réutiliser la même licence qu'eux.
 
 ## 3) Ressources externes
--/!\ Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets
+{% include warning.html content="Toujours vérifier la licence des assets qu'on utilise! cf Annexes X.2, une explication des principales licences libres utilisées pour les assets" %}
 - ressources graphiques
     - persos, décors et UI (il est interdit de les utiliser pour ce cours, mais je vous les donne pour après)
         - <https://opengameart.org/> (assets graphiques et sonores CC)
@@ -320,7 +311,8 @@ Les catégories sont assez floues, la plupart des jeux entrent dans plusieurs à
     - un fichier texte avec vos nom, prénom, celui de votre binôme le cas échéant, et, si vous avez fait le son vous-même, comment.
 - à propos de la notation:
     - je prendrai en compte le jeu lui-même (est-ce que le graphisme et l'audio vont bien ensemble et avec le jeu, est-ce que vous les utilisez efficacement, feedback, tout ça) et si j'ai l'impression que si vous avez besoin de faire du graphisme/son pour un jeu vous pourrez vous débrouiller
-    - a priori vous passez si vous n'avez enfreint aucune consigne et que votre jeu contient:
+    {% include warning.html content="ceci (ci-dessous) est le strict minimum pour passer: si vous ne rendez pas au moins ça a priori vous ne passez pas"%}
+    - a priori vous passez si vous n'avez enfreint aucune consigne et que votre jeu contient *au minimum*:
         - des bruitages, implémentés dans le jeu
         - de la musique, implémentée dans le jeu
         - au moins un personnage, animé avec le système d'animation de libresprite (ou de krita), avec plusieurs animations de plus de quatre images différentes (s'il n'y a pas de personnages ou qu'ils ne peuvent pas être animés, trouver un autre endroit où faire des anims un chouilla complexes: effets spéciaux d'explosions, feu fumée, ou bien décors, ou en dernier recours menus)

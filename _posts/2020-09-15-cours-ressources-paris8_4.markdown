@@ -1,16 +1,11 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_4.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/son.html
+topnav: topnav_P8_Ressources
 ---
-
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
+# IV. Son
 ## 1) intro
 - de l'importance du son
     - ambiance
@@ -251,10 +246,3 @@ The Legend of Zelda, Nintendo
 ## 100) ressources en français
 - un [mémoire sur la musique de jeu vidéo](https://www.ens-louis-lumiere.fr/sites/default/files/2017-08/Soulier_Son_2016.pdf)
 - un [musicien/sound designer qui raconte comment il fait les musiques de jeu](https://www.youtube.com/watch?v=ctoGioZNYTM)
-
-
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)

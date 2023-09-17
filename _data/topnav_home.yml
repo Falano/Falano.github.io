@@ -1,0 +1,32 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+
+topnav_dropdowns:
+- title: Topnav_Home
+  folders:
+    - title: Cours
+      folderitems:
+      - title: Ressources
+        url: \/cours\/creation_gestion_ressources\/menu.html
+      - title: Moteurs Jeu
+        url: \/cours\/introduction_moteurs_jeu\/menu.html
+      - title: Blender
+        url: \/cours\/introduction_3D\/menu.html
+    - title: Portfolio
+      folderitems:
+      - title: 2D (2D, tradi, UI, gifs)
+        url: /cours/introduction_3D/menu.html
+      - title: 3D (lopo, sculpt???)
+        url: /cours/introduction_3D/menu.html
+      - title: Volume (sculpt, bijoux)
+        url: /cours/introduction_3D/menu.html
+      - title: Animation (animatics, stopmo, gifs)
+        url: /cours/introduction_3D/menu.html
+      - title: Games (jeux, UI)
+        url: /cours/introduction_3D/menu.html
+
+topnav:
+- title: CV
+  items:
+  - title: HOME
+    url: 

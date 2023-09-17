@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_3.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/decors.html
+topnav: topnav_P8_Ressources
 ---
-
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
 # III. Décors
 ## 1) Tiles
 - doivent s'emboîter sans que ça se voie
@@ -119,11 +115,3 @@ exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?
 - un [tutoriel vidéo sur le système de tiles de godot](https://www.youtube.com/watch?v=F6VerW98gEc)
 - un [tutoriel écrit sur les tiles dans godot](https://www.davidepesce.com/2019/10/18/godot-tutorial-7-using-tile-maps-to-create-game-map/)
 - les [un tuto visuel sur les brosses non-régulières dans Libresprite](https://www.artstation.com/artwork/Nx2vz5)
-
-
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)

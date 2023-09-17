@@ -1,19 +1,12 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_7.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/exports.html
+topnav: topnav_P8_Ressources
 ---  
 
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
+# VII. Exports
 ## 1) importer une spritesheet
 - on va prendre notre spritesheet et réimporter chaque image dans la timeline
     - pour pouvoir la modifier
@@ -60,6 +53,3 @@ permalink: /cours/creation_gestion_ressources_7.html
         - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
         - [Later Alligator](https://press.pillowfight.io/later_alligator/index.html)
         - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)
-
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)

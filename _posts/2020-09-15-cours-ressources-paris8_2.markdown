@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_2.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/libresprite.html
+topnav: topnav_P8_Ressources
 ---
-
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
 # II. Libresprite
 ## 1) introduction à Libresprite: 1
 - cf [Annexes X.1](/cours/creation_gestion_ressources_0.html), un schéma de l'interface de libresprite
@@ -204,12 +201,3 @@ Des lignes de pixels posées rapidement semblent irrégulières et désordonnée
 ![Bruit](/assets/arnesTuto/06_Noise.gif)  
 Du bruit et des pixels inutilement orphelins (non reliés à d'autres pixels de la même couleur), c'est ce qu'on obtient quand on essaie d'incorporer trop de détails. Il est tentant d'en inclure autant que possible, mais il faut considérer l'échelle du pixel art et comment être clair, et aussi la facilité d'animation (des détails lisibles sur une image pourraient être difficiles à dupliquer sur l'image suivante, légèrement tournée). L'artiste connaît peut-être l'intention derrière chaque pixel, mais le joueur généralement pas, et les verra donc probablement comme du bruit (et l'artiste aussi en y retournant plus tard).  
 Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit pour ajouter des variations dans la texture.
-
-
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)

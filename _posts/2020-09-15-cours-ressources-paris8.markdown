@@ -1,16 +1,18 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources.html
+last_updated: July 27, 2023
+permalink: cours/creation_gestion_ressources/menu.html
+redirect_from: cours/creation_gestion_ressources
+topnav: topnav_P8_Ressources
 ---
 
-L'adresse de ce cours: 
-<https://falano.github.io/cours/creation_gestion_ressources.html>
+# 0. Menu
 
-Mon email: noemie. scherer (at) gmail. com  
-N'hésitez pas à m'envoyer un mail si vous avez des questions ou si vous êtes bloqués, j'essaierai de répondre rapidement (y compris si votre question porte sur un truc graphique qui n'est pas du pixel art).  
+L'adresse de ce cours: 
+<https://falano.github.io/cours/creation_gestion_ressources>
+
+Mon email: noemie. scherer (at) gmail. com
 
 Programmes utilisés pendant le cours:  
 Libresprite: <https://github.com/LibreSprite/LibreSprite> (pixel art et animation) (si sur linux ça ne marche pas, rendre le fichier exécutable et ressayer de le lancer)  

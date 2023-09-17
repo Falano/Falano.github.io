@@ -1,0 +1,18 @@
+entries:
+- title: sidebar
+  product: Creation et Gestion de Ressources
+  version:
+  folders:
+  - title: Menu
+    output: web
+    folderitems:
+
+    - title: Menu
+      url: \/cours\/creation_gestion_ressources\/menu.html
+      output: web
+
+    - title: Introduction
+      url: \/cours\/creation_gestion_ressources\/introduction.html
+      output: web
+
+# n'est visible que avec le layout "default"

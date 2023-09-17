@@ -1,14 +1,12 @@
 ---
-layout: default
-title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_1.html
+layout: page
+title: "Cours Paris 8: Création et Gestion de ressources: Introduction"
+last_updated: July 27, 2023
+permalink: cours/creation_gestion_ressources/introduction.html
+topnav: topnav_P8_Ressources
+#sidebar: P8_Ressources
 --- 
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
 ## 1) présentation du cours
-
 - pixel art avec libresprite
     - personnages
     - animation
@@ -71,11 +69,5 @@ cf [Annexes X.5](/cours/creation_gestion_ressources_0.html), une liste de jeux c
 
 [](TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.)
 
-# II. [Libresprite](/cours/creation_gestion_ressources_2.html)
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)
+## 100) ressources en français
+- [un tutoriel général sur le pixel art (trait, couleurs, lumières, tiles, anims, etc.)](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)

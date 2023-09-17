@@ -1,20 +1,12 @@
 ---
-layout: default
+layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
-date:   2020-09-15 19:05:09 +0200
-categories: classes, krita, 2D, fr
-permalink: /cours/creation_gestion_ressources_8.html
+last_updated: July 27, 2023
+permalink: /cours/creation_gestion_ressources/game-design.html
+topnav: topnav_P8_Ressources
 ---  
 
-# O. [Menu](/cours/creation_gestion_ressources.html)
-# I. [Introduction](/cours/creation_gestion_ressources_1.html)
-# II. [Krita](/cours/creation_gestion_ressources_2.html)
-# III. [Décors](/cours/creation_gestion_ressources_3.html)
-# IV. [Son](/cours/creation_gestion_ressources_4.html)
-# V. [Animation](/cours/creation_gestion_ressources_5.html)
-# VI. [Finitions](/cours/creation_gestion_ressources_6.html)
-# VII. [Exports](/cours/creation_gestion_ressources_7.html)
-# VIII. [Game Design](/cours/creation_gestion_ressources_8.html)
+# VIII. Game Design
 ## 1) notions de game design
 - si jeu de plateforme/énigmes avec plusieurs niveaux: introduire une seule mécanique de jeu à la fois et laisser le temps d'expérimenter (cf III.x) (cf [une vidéo en anglais intéressante mais où il parle vite](https://www.youtube.com/watch?v=8FpigqfcvlM))
 - lisibilité (cf II.2)
@@ -121,6 +113,3 @@ Tous ces paramètres doivent être accessibles avant le début du jeu (y compris
 ## 100) Plus de ressources (en français)
 - game design:
     - L'art du game design (The Art of Game Design), de Jesse Schell
-
-
-# X. [Annexes](/cours/creation_gestion_ressources_0.html)
