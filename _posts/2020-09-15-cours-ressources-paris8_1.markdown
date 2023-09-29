@@ -21,21 +21,37 @@ topnav: topnav_P8_Ressources
 
 ## 2) présentation du pixel art
 pourquoi libresprite: autres logiciels (krita, gimp, etc.)  
-pourquoi le pixel art: relativement simple (cf Selfless Heroes), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes ![Selfless Heroes](/assets/003_selflessHeroes.png)
+pourquoi le pixel art: relativement simple (cf Selfless Heroes), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes  
+![Selfless Heroes](/assets/003_selflessHeroes.png)
 
 présentation et historique du pixel art:  
 - absence d'antialiasing/anticrénelage automatique (-> options des outils)<details>![antialiasing/anticrénelage](/assets/000_anti-aliasing.png)
 - racines du pixel art dans des contraintes techniques (cf pokemon red, mario, la palette de couleurs de la console nes, final fantasy 6)
     - nombre de pixels limité
     - nombre de couleurs limité (cf dithering)
-    - utilisation de tilemaps <details> - pokemon red ![pokemon red](/assets/100_pokemon.jpg) <br> - mario ![mario](/assets/101_mario.jpg) <br> - la palette de couleurs de la console nes ![palette nes](/assets/102_nes_palette.jpg) <br> - final fantasy 6 ![final fantasy 6](/assets/103_ff6.jpg) <br> - dithering ![dithering](/assets/001_dithering.png)
+    - utilisation de tilemaps <details> - pokemon red:  
+    ![pokemon red](/assets/100_pokemon.jpg)  <br>  - mario:  
+    ![mario](/assets/101_mario.jpg) <br> - la palette de couleurs de la console nes: 
+    ![palette nes](/assets/102_nes_palette.jpg) <br> - final fantasy 6:  
+    ![final fantasy 6](/assets/103_ff6.jpg) <br> - dithering:  
+    ![dithering](/assets/001_dithering.png)
 - pixel art actuel
-    - nostalgie et aspect rétro ou préférence graphique (cf A short Hike, Owlboy, Celeste) <details> - A short Hike ![A short Hike](/assets/113_aShortHike.png) <br> - Owlboy ![owlboy](/assets/107_owlboy_gd.png) <br> - Celeste ![celeste](/assets/109_celeste.png)
+    - nostalgie et aspect rétro ou préférence graphique (cf A short Hike, Owlboy, Celeste) <details> - A short Hike:  
+    ![A short Hike](/assets/113_aShortHike.png) <br> - Owlboy:  
+    ![owlboy](/assets/107_owlboy_gd.png) <br> - Celeste:  
+    ![celeste](/assets/109_celeste.png)
     - utilisation pour la vitesse/facilité d'exécution
         - jeux de game jam (Gophers, Roguelight; cf [Annexes X.4](/cours/creation_gestion_ressources_0.html)), une explication et une liste de game jams
-        - jeux indé (Hyperlight Drifter) <details> - Gophers ![gophers](/assets/105_gophers.png) <br> - Roguelight ![roguelight](/assets/106_roguelight.png) <br> - Hyperlight Drifter ![hyperlight drifter](/assets/108_hyperLightDrifter.png)
-    - utilisation mixte avec des technologies récentes (Fez, Dead Cells, The last Night) <details> - Fez ![fez](/assets/110_fez.png) <br> - Dead Cells ![dead cells](/assets/111_Dead-Cells.jpg) <br> - The last Night ![the last night](/assets/112_TheLastNight.jpg)
-- utilisation hors jeux (illustration) <details> - Jindrich Stejskal ![exemple 1](/assets/114_jindrich-stejskal.gif) <br> - Jubilee ![exemple 2](/assets/115_jubilee.png)
+        - jeux indé (Hyperlight Drifter) <details> - Gophers:  
+        ![gophers](/assets/105_gophers.png) <br> - Roguelight:  
+        ![roguelight](/assets/106_roguelight.png) <br> - Hyperlight Drifter:  
+        ![hyperlight drifter](/assets/108_hyperLightDrifter.png)
+    - utilisation mixte avec des technologies récentes (Fez, Dead Cells, The last Night) <details> - Fez:  
+    ![fez](/assets/110_fez.png) <br> - Dead Cells ![dead cells](/assets/111_Dead-Cells.jpg) <br> - The last Night:  
+    ![the last night](/assets/112_TheLastNight.jpg)
+- utilisation hors jeux (illustration) <details> - Jindrich Stejskal:  
+![exemple 1](/assets/114_jindrich-stejskal.gif) <br> - Jubilee:  
+![exemple 2](/assets/115_jubilee.png)
 
 **références**  
 Selfless Heroes, par Félicien Brochu: <https://selflessheroes.fr/>  
