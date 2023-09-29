@@ -3,9 +3,7 @@ layout: page
 title:  "Cours Paris 8: Introduction aux Moteurs de Jeu"
 last_updated: September 29, 2023
 permalink: /cours/introduction_moteurs_jeu/introduction.html
-redirect_from: /cours/introduction_moteurs_jeu
 topnav: topnav_P8_MoteursJeu
-#sidebar: P8_MoteursJeu
 ---
 
 # 1. Introduction
