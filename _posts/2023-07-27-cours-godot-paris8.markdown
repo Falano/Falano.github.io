@@ -19,3 +19,5 @@ Programmes utilisés pendant le cours:
 Godot: <https://godotengine.org/> (moteur de jeu)
 
 Documentation godot: [anglais, version 4.1](https://docs.godotengine.org/en/stable/) et [français, version 3.5](https://docs.godotengine.org/fr/latest/)
+
+Pas de cours le vendredi 27 octobre.
