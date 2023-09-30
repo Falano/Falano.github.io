@@ -27,7 +27,8 @@ Exercice 1:
 - choisissez un jeu que vous aimez bien (si vous n'avez pas d'idée, vous pouvez demander à la personne assise à côté de vous, mais c'est mieux si vous connaissez le jeu)
 - trouvez une vidéo de gameplay du jeu
 - décomposez les instructions / interactions qui composent le jeu (condition > action; ou: quand/si il se passe ça, alors faire ça)
-()[correction: donnez-moi des noms de types de jeu; qui a un platformer? Qui a un fps? Qui a un rpg 3rd person? Qui a une visual novel? Qui a un rts? Qui a autre chose? (parler du feedback visuel/audio aussi]
+
+[//]: # (correction: donnez-moi des noms de types de jeu; qui a un platformer? Qui a un fps? Qui a un rpg 3rd person? Qui a une visual novel? Qui a un rts? Qui a autre chose? (parler du feedback visuel/audio aussi))
 
 ## 2) présentation du cours
 - on utilisera Godot
