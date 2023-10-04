@@ -10,3 +10,7 @@ topnav:
     - title: Introduction
       url: introduction.html
       output: web
+
+    - title: Annexes
+      url: annexes.html
+      output: web
