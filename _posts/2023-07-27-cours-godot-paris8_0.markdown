@@ -14,6 +14,7 @@ audio:
 personnages:  
 <https://luizmelo.itch.io/huntress>  
 <https://rvros.itch.io/animated-pixel-hero>  
+<https://ibb.co/album/jHSktR>  
 <https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character>  
 <https://luizmelo.itch.io/monsters-creatures-fantasy>  
 
