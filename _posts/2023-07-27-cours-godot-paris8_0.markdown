@@ -27,3 +27,10 @@ décors:
 <https://www.kenney.nl/assets/pixel-platformer>  
 <https://jamiebrownhill.itch.io/solaria-demo>  
 <https://clockworkraven.itch.io/raven-fantasy-pixel-art-tileset-green-forest>  
+
+## 2) Choses utiles générales sur Godot
+- améliorer le rendu visuel si pixel art: Projet > Paramètres du projet > Rendu > Textures > Filtre de texture par défaut > Nearest
+- chercher la définition d'une fonction d'un script: ctrl + clic
+- montrer les possibilités d'autocomplétion: ctrl + space
+- commenter un bloc de code: ctrl K
+- quand un bouton (UI) ne marche pas, vérifier "mouse" et "process"
