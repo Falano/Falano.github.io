@@ -8,9 +8,9 @@ topnav: topnav_P8_MoteursJeu
 
 # 0. Annexes
 ## 1) Quelques ressources
-général (listes de personnages et décors):
-<https://itch.io/game-assets/assets-cc0>
-<https://kenney.nl/assets/category:2D>
+général (listes de personnages et décors):  
+<https://itch.io/game-assets/assets-cc0>  
+<https://kenney.nl/assets/category:2D>  
 
 audio:  
 <https://gamesounds.xyz>  
@@ -18,7 +18,7 @@ audio:
 personnages:  
 <https://luizmelo.itch.io/huntress>  
 <https://rvros.itch.io/animated-pixel-hero>  
-<https://ibb.co/album/jHSktR>  (mot de passe: P8)
+<https://ibb.co/album/jHSktR>  (mot de passe: P8)  
 <https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character>  
 <https://luizmelo.itch.io/monsters-creatures-fantasy>  
 
