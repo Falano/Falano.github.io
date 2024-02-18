@@ -1,0 +1,54 @@
+/*topnav*/
+.navbar-inverse {
+/*background color of navbar*/
+    background-color: var(--main-bg-col);
+/*almost invisible line between navbar and page*/
+    border-color: var(--sec-bg-col);
+}
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+/*text and icon in topnav*/
+    color: var(--main-text-col);
+}
+.navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+/*text of tabs in topnav when you hover over them*/
+     color: var(--sec-text-col);
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+/*background of current tab of navbar*/
+    background-color: var(--sec-bg-col);
+/*text of current tab of navbar*/
+    color: var(--sec-text-col);
+}
+
+
+/*topnav with dropdown menu*/
+div.navbar-collapse .dropdown-menu > li > a:hover {
+/*when topnav has dropdown menu, color of highlighted lines in dropdown*/
+    background-color: var(--main-bg-col);
+    color: var(--main-text-col);
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+/*when topnav has dropdown, color of *bg* of the parent of the current dropdown*/
+    background-color: var(--sec-bg-col);
+/*when topnav has dropdown, color of *text* of the parent of the current dropdown*/
+    color: var(--sec-text-col);
+}
+
+/*page content - titles*/
+h1 {color: var(--main-bg-col) }
+h2 {color: var(--sec-bg-col) }
+
+/*page content - links*/
+a:link {
+color: var(--main-bg-col)
+}
+a:visited {
+color: var(--sec-bg-col)
+}
+a:hover {
+color: var(--sec-bg-col)
+}
+a:active {
+color: var(--sec-bg-col);
+background-color: var(--sec-text-col)
+}

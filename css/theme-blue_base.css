@@ -38,15 +38,19 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
+/*background color of navbar*/
     background-color: #347DBE;
+/*almost invisible line between navbar and page*/
     border-color: #015CAE;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+/*text and icon in topnav*/
     color: white;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
-     color: #f0f0f0;
+/*text of tabs in topnav when you hover over them*/
+     color: #baf4ff;
 }
 
 a.navbar-brand:hover {
@@ -73,7 +77,10 @@ a.navbar-brand:hover {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    background-color: #347DBE;
+/*background of current tab of navbar*/
+    background-color: #015CAE;
+/*text of current tab of navbar*/
+    color: #9ffbfc
 }
 
 .btn-primary:hover,
@@ -113,9 +120,11 @@ li.sidebarTitle {
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+/*background color of navbar*/
     background-color: #015CAE;
 }
 
 .navbar-inverse .navbar-toggle {
+/*almost invisible line between navbar and page*/
     border-color: #015CAE;
 }

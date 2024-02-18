@@ -10,6 +10,7 @@ h4 {color: #808080; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     background-color: #248ec2;
+    
     color: white;
 }
 
@@ -22,14 +23,17 @@ h4 {color: #808080; }
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
+/*when topnav has dropdown menu, color of highlighted lines in dropdown*/
     background-color: #72ac4a;
 }
 
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+/*text and icon in topnav*/
     color: white;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
+/*text of tabs in topnav when you hover over them*/
      color: #f0f0f0;
 }
 
@@ -46,8 +50,17 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
+/*background color of navbar*/
     background-color: #72ac4a;
-    border-color: #5b893c;
+/*almost invisible line between navbar and page*/
+    border-color: #368a57;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+/*background of current tab of navbar*/
+    background-color: #368a57;
+/*text of current tab of navbar*/
+    color: #d1ffa3
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
@@ -55,8 +68,10 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #5b893c;
-    color: #ffffff;
+/*when topnav has dropdown, color of *bg* of the parent of the current dropdown*/
+    background-color: #368a57;
+/*when topnav has dropdown, color of *text* of the parent of the current dropdown*/
+    color: #cbed9a;
 }
 
 /* not sure if using this ...*/

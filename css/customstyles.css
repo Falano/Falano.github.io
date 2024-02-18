@@ -85,10 +85,10 @@ margin-top: -40px
 
 .post-content img {
     margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: auto  ;
     max-width: 100%;
-    max-height: 100%;
+    max-height: 80vh;
 }
 
 .post-content ol li, .post-content ul li {
@@ -779,6 +779,8 @@ video {
     display: block;
     margin: 30px 0px;
     border: 1px solid #c0c0c0;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -877,30 +879,9 @@ span.soft {
 
 .col-md-9 img {
     max-width: 100%;
-    max-height: 100%;
+    max-height: 80vh
 }
 
-
-.post-content img {
-    margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-}
-.col-md-9 img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-
-.post-content img {
-    margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-}
 
 .videoThumbs img {
     float: left;
