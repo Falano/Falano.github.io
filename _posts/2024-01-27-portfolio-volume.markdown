@@ -32,8 +32,7 @@ To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fou
 ![otter](https://i.ibb.co/q7Jz0rV/20240203-183413-0-innocent-5-V1.jpg)
 ![hare-side-dark](https://i.ibb.co/94vt72X/IMG-0275-done-int5.jpg)
 ![owl-side](https://i.ibb.co/zr9x0ZC/20240201-120833-0-innocent-value-5-V1.jpg)
-![owl-front](https://i.ibb.co/99nm9Vd/20240201-120635-0-innocent-value-5-V1.jpg)
-<video controls src="https://va.media.tumblr.com/tumblr_s81cyubp4A1ardsi7_r2.mp4"></video>
+<video controls loop preload="metadata" src="https://va.media.tumblr.com/tumblr_s81cyubp4A1ardsi7_r2.mp4"></video>
 
 ## Glazes
 ### Islets [](30€)
