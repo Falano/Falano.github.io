@@ -16,7 +16,7 @@ topnav: topnav_P8_Ressources
 ## 2) exporter du pixel art pour des réseaux sociaux
 - File > Save as > File type: png
 - éventuellement ajouter de la marge (Sprite > Canvas Size)
-- agrandir x4 (ou x3, x2 ou x5 selon ce qui rend le mieux) (Sprite > Sprite Size)
+- agrandir x4 (ou x3, x2 ou x5 selon ce qui rend le mieux) (Sprite > Sprite Size) (ou sauvegarder avec "Save a Copy As" et utiliser l'option de redimensionnement liée à la sauvegarde)
 - filtre nearest neighbour (voisin le plus proche)
     - pour que ce soit lisible, parce que globalement un perso en pixel art tout seul, échelle 1, c'est pas hyper lisible
         - et si on zoome dans le navigateur il ne sait pas qu'il faut utiliser nearest neighbour
@@ -49,7 +49,4 @@ topnav: topnav_P8_Ressources
     - télécharger ici <http://dopresskit.com/>
     - exemples:
         - [I was a teenage exocolonist](http://northwaygames.com/presskit/sheet.php?p=exocolonist#projects)
-        - [Wandersong](http://greg.style/press/sheet.php?p=wandersong)
-        - [Octodad](https://younghorsesgames.com/press/sheet.php?p=octodad_dadliest_catch)
         - [Later Alligator](https://press.pillowfight.io/later_alligator/index.html)
-        - [Ridiculous Fishing](https://www.vlambeer.com/press/sheet.php?p=Ridiculous_Fishing)

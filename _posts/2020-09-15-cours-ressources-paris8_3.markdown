@@ -103,14 +103,19 @@ Supertux, par Tout Un Tas De Gens C'est Open Source: <https://www.supertux.org/>
 Maxim Massalitin, [Désert des Agriates](https://commons.wikimedia.org/wiki/File:D%C3%A9sert_des_Agriates_(5739231175).jpg) sur wikimedia commons  
 NuclearDuckie, [Parallax Scroll](https://commons.wikimedia.org/wiki/File:Parallax_scroll.gif) sur wikimedia commons  
 
-[](GIT LFS!!!)
+## 3c) Parallaxe dans Godot
+- nodes:
+- ParallaxBackground
+-- ParallaxLayer
+--- Sprite2D (mettre comme texture son image de ce calque de la parallaxe)
+-- ParallaxLayer
+--- Sprite2D (un autre calque de la parallaxe)
+-- ParallaxLayer
+--- Sprite2D
 
-{% comment %}
-## 3) Tiled
-godot-tiled:  
-importer: https://github.com/vnen/godot-tiled-importer -> buggy?  
-exporter: https://github.com/MikeMnD/tiled-to-godot-export -> unfinished?  
-{% endcomment %}
+- avoir des images au moins deux fois plus grandes (sur chaque dimension qui subit de la parallaxe) que le nombre de pixels affiché sur l'écran (taille de la fenetre / zoom de la caméra (sur la node camera) * scale du projet (dans les projets settings) )
+- ParallaxLayer > Mirroring: mettre les dimensions de la texture de la Sprite2D (pour chaque dimension qui subit de la parallaxe)
+- pour désactiver la parallaxe sur l'axe horizontal, mettre à 0 le Mirroring en Y.
 
 ## 99) plus de ressources (principalement en anglais)
 - plein de tutoriels format gif, courts et efficaces: [https://saint11.org/blog/pixel-art-tutorials/](https://saint11.org/blog/pixel-art-tutorials/)

@@ -21,7 +21,7 @@ topnav: topnav_P8_Ressources
 
 ## 2) présentation du pixel art
 pourquoi libresprite: autres logiciels (krita, gimp, etc.)  
-pourquoi le pixel art: relativement simple (cf Selfless Heroes), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes  
+pourquoi le pixel art: relativement simple (cf Selfless Heroes, cf [ces deux](https://www.artstation.com/artwork/68Rr8V) [tutoriels](https://www.artstation.com/artwork/PoErV4)), assez répandu, ne nécessite pas forcément de tablette graphique ni de savoir dessiner <details>- Selfless Heroes  
 ![Selfless Heroes](/assets/003_selflessHeroes.png)
 
 présentation et historique du pixel art:  
@@ -82,8 +82,6 @@ un manuscrit du 13ème siècle: <https://www.bl.uk/manuscripts/FullDisplay.aspx?
 ## 4) jeux cools sans savoir dessiner
 cf [Annexes X.5](/cours/creation_gestion_ressources_0.html), une liste de jeux cools
 - video de gameplay (et, avant la minute donnée dans le lien, timelapse de dessin des assets) de gophers: <https://youtu.be/0jPLMCfSE0w?t=348>
-
-[](TODO: vids de pxart simple (gophers et autre ), ou de trailers de jeux simples et cools.)
 
 ## 100) ressources en français
 - [un tutoriel général sur le pixel art (trait, couleurs, lumières, tiles, anims, etc.)](http://www.lesforges.org/article/cours-pixel-art-preface?scroll_to=article)

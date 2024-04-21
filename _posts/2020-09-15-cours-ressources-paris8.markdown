@@ -23,5 +23,4 @@ Libresprite: <https://github.com/LibreSprite/LibreSprite> (pixel art et animatio
 Audacity: <https://www.audacityteam.org/download/> (audio)  
 Musescore: <https://musescore.org/en> (musique)  
 LMMS: <https://lmms.io/> (musique)  
-
-rendu final: voir Annexes (tout en bas)
+(si sur un ordi sur linux le son ne marche pas, lancer pavucontrol depuis un terminal et vérifier que rien n'est mis en silencieux, notamment dans l'onglet du volume de sortie)
