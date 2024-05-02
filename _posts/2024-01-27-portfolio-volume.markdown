@@ -29,8 +29,9 @@ To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fou
 ![salamander mini drake hanging](https://i.ibb.co/7X6X7BW/IMG-0184-jpg-pt.jpg)
 ![salamander mini drake hanging](https://i.ibb.co/DpXw4FT/IMG-0193-jpg-pt.jpg)
 ### Geometric Animals [](200+€)
+![snow leopard B leaping: fullbody three quarters](https://i.ibb.co/FmfNqXV/DEFAULT-AVA2593-0-jpg-wmb9bbdce7-b1a0-4a00-ac2b-b6d12c5d1e32.jpg)
 ![otter](https://i.ibb.co/q7Jz0rV/20240203-183413-0-innocent-5-V1.jpg)
-![hare-side-dark](https://i.ibb.co/94vt72X/IMG-0275-done-int5.jpg)
+![hare A running: right profile](https://i.ibb.co/kJKy6hH/DEFAULT-AVA2679-0-jpg-wm10d11fe6-926e-4b21-a440-0da5d470a864.jpg)
 ![owl-side](https://i.ibb.co/zr9x0ZC/20240201-120833-0-innocent-value-5-V1.jpg)
 <video controls loop preload="metadata" src="https://va.media.tumblr.com/tumblr_s81cyubp4A1ardsi7_r2.mp4"></video>
 
