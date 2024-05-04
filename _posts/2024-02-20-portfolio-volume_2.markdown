@@ -1,19 +1,19 @@
 ---
 layout: page
-title:  "Porfolio Noémie Scherer: Volume"
+title:  "Volume - Noémie Scherer"
 last_updated: March 29, 2024
 permalink: /portfolio/volume/sculpture.html
 topnav: topnav_Portfolio_Volume
 ---
 
-Photos à venir bientôt
+Bientôt plus de photos!
 
-Pics coming soon!
+More pics coming soon!
 
 # Sculpture
 ## Snowwalker's feet
-SnowLeo A batting  
 ### Snow Leopard B leaping
+longest dimension: about 42 cm
 ![snow leopard B leaping: fullbody three quarters](https://i.ibb.co/FmfNqXV/DEFAULT-AVA2593-0-jpg-wmb9bbdce7-b1a0-4a00-ac2b-b6d12c5d1e32.jpg)
 ![snow leopard B leaping: close-up torso out](https://i.ibb.co/CQPP2QR/DEFAULT-AVA2592-0-jpg-wm166f9f3b-f711-427d-aa71-575f8a7230ee.jpg)
 ![snow leopard B leaping: fullbody top](https://i.ibb.co/Bfnn1mV/DEFAULT-AVA2590-0-jpg-wm1bec8dc1-73a1-4409-9efe-b7c3fd118ade.jpg)
@@ -25,6 +25,7 @@ SnowLeo A batting
 [](¿¿Lynx??)  
 Owl A standing  
 ### Owl B hunting  
+longest dimension: about 42 cm
 ![owl B hunting: three quarters left](https://i.ibb.co/61YMRcQ/DEFAULT-AVA2624-0-jpg-wme07b6fe0-d7c8-4aad-95e4-245be142ccd9.jpg)
 ![owl B hunting: front](https://i.ibb.co/FndRF4k/DEFAULT-AVA2622-0-jpg-wm86fd254f-425d-4d0f-9461-3e9ff75e401c.jpg)
 ![owl B hunting: three quarters right](https://i.ibb.co/y88V9ng/DEFAULT-AVA2617-0-jpg-wm0a88cb15-2661-4818-8c05-dd4303d7e7cf.jpg)
@@ -33,6 +34,7 @@ Owl A standing
 ![owl B hunting: talons close-up](https://i.ibb.co/ydhStKp/DEFAULT-AVA2626-0-jpg-wmf2e766dc-c8f7-4fad-bd65-1c8862512138.jpg)
 [](¿¿Owl C hunting better??)
 ### Hare A running  
+longest dimension: about 20 cm
 ![hare A running: profile right](https://i.ibb.co/kJKy6hH/DEFAULT-AVA2679-0-jpg-wm10d11fe6-926e-4b21-a440-0da5d470a864.jpg)
 ![hare A running: three quarters front right](https://i.ibb.co/rkqXQYf/DEFAULT-AVA2664-0-jpg-wmfa73ce99-75c0-4540-93ef-0d6b44660589.jpg)
 ![hare A running: front](https://i.ibb.co/fNtZr2J/DEFAULT-AVA2657-0-jpg-wmb334dedc-a2ce-4dd9-9ddf-20d254656021.jpg)
@@ -64,9 +66,13 @@ mouffette A
 [](¿¿lycaon??)
 [](tasso, gray horse, raccoon, mouflon, serpent coral, reindeer, mucca)
 
+## Unsorted geometric animals
+otter  
+drom  
+
 ## Tinies
 micro drakes  
 mini sheep  
 micro sheep  
 
-[](## Nightmare Fuel: ---With Mouth: Owl, Possum, Raven, Croco (Tasm); ---With (Rump) Eyes: Panther, Deer, Ginetta; ---With (Head) Eyes: Orca, Panda, Pygmy Owl; ---With Horns: Sheep, Rhino, Deer; ---With Slices: Zebra, Tasm, Mongoose, Numbat; ---With (Longbody) Many Legs: Stoat, Otarie, Lizard; ---With (Shortbody) Many Legs: Monkey, Horse?; ---With Face: Owl, Fox, gattopardo, sloth)
+[](## Nightmare Fuel: ### With Mouth: Owl, Possum, Raven, Croco (Tasm); ### With (Rump) Eyes: Panther, Deer, Ginetta, Snake? Owl? Hyena? Spotted Ray?; ### With (Head) Eyes: Orca, Panda, Pygmy Owl, Sand Lizard; ### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?; ### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?; ### With (Longbody) Many Legs: Stoat, Otarie, Lizard; ### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?; ### With Face: Owl, Fox, gattopardo, sloth)

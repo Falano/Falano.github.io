@@ -10,7 +10,8 @@ Photos à venir bientôt
 
 Pics coming soon!
 
-# Necklaces / Wall Decorations / Magnets / Trivets
+# Necklaces / Wall Decorations / Magnets
+about 5-6 cm in diameter
 ## Birds
 owl  
 raven  
