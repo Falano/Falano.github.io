@@ -13,7 +13,7 @@ More pics coming soon!
 # Sculpture
 ## Snowwalker's feet
 ### Snow Leopard B leaping
-longest dimension: about 42 cm
+longest dimension: about 40-45 cm
 ![snow leopard B leaping: fullbody three quarters](https://i.ibb.co/FmfNqXV/DEFAULT-AVA2593-0-jpg-wmb9bbdce7-b1a0-4a00-ac2b-b6d12c5d1e32.jpg)
 ![snow leopard B leaping: close-up torso out](https://i.ibb.co/CQPP2QR/DEFAULT-AVA2592-0-jpg-wm166f9f3b-f711-427d-aa71-575f8a7230ee.jpg)
 ![snow leopard B leaping: fullbody top](https://i.ibb.co/Bfnn1mV/DEFAULT-AVA2590-0-jpg-wm1bec8dc1-73a1-4409-9efe-b7c3fd118ade.jpg)
@@ -34,7 +34,7 @@ longest dimension: about 20-30 cm
 [](¿¿Lynx??)  
 Owl A standing  
 ### Owl B hunting  
-longest dimension: about 42 cm
+longest dimension: about 40-45 cm
 ![owl B hunting: three quarters left](https://i.ibb.co/61YMRcQ/DEFAULT-AVA2624-0-jpg-wme07b6fe0-d7c8-4aad-95e4-245be142ccd9.jpg)
 ![owl B hunting: front](https://i.ibb.co/FndRF4k/DEFAULT-AVA2622-0-jpg-wm86fd254f-425d-4d0f-9461-3e9ff75e401c.jpg)
 ![owl B hunting: three quarters right](https://i.ibb.co/y88V9ng/DEFAULT-AVA2617-0-jpg-wm0a88cb15-2661-4818-8c05-dd4303d7e7cf.jpg)
@@ -91,8 +91,20 @@ wwhpets
 [](tasso, gray horse, raccoon, mouflon, serpent coral, reindeer, mucca)
 
 ## Unsorted geometric animals
-otter  
-drom  
+### Otter
+longest dimension: about 20 cm
+![otter: top left](https://i.ibb.co/TMNdh1H/DEFAULT-AVA2827-0-jpg-wm7419cfd9-5fa2-43e7-9781-b5983acf8614.jpg)
+![otter: close-up neck](https://i.ibb.co/7zPn21H/DEFAULT-AVA2835-0-jpg-wm843c0d9f-86c9-44d7-89cf-90dd562d27a2.jpg)
+![otter: body front](https://i.ibb.co/jTSjHZw/DEFAULT-AVA2849-0-jpg-wmd9551151-dcb0-47b2-abe1-4aef8329caa2.jpg)
+![otter: top right](https://i.ibb.co/r3LWkMb/DEFAULT-AVA2830-0-jpg-wma50d7504-70ff-4adf-906e-fad4a2c23a98.jpg)
+![otter: back right](https://i.ibb.co/hy783LC/DEFAULT-AVA2853-0-jpg-wm57aa84e4-cb8a-459c-a5bb-b20f3779fdaf.jpg)
+![otter: back left](https://i.ibb.co/Xx6fPQR/DEFAULT-AVA2851-0-jpg-wm53b9ca6a-83d6-4974-a60d-caa44c307fa7.jpg)
+### Camel
+longest dimension: about 10 cm
+![camel: three quarters front left](https://i.ibb.co/svhK7NR/DEFAULT-AVA2792-0-jpg-wmac0819e0-67f1-486d-bca4-1109a611a395.jpg)
+![camel: three quarters back left](https://i.ibb.co/2q6SRwd/DEFAULT-AVA2797-0-jpg-wmc7233c95-f4b1-4127-9937-d2f0775c2655.jpg)
+![camel: top](https://i.ibb.co/31xgNvK/DEFAULT-AVA2800-0-jpg-wm9f749fc6-4572-47a6-a228-ab16e9283416.jpg)
+![camel: side](https://i.ibb.co/kJVH9V0/DEFAULT-AVA2805-0-jpg-wma22c247e-0fd6-46d4-bd26-87a0ca9b9ecc.jpg)
 
 ## Tinies
 micro drakes  
