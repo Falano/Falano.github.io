@@ -63,14 +63,24 @@ longest dimension: about 20 cm
 [](Hare C standing)
 
 ## Flying Swimmers
+![6 medium drakes, including 4 white and red, one red and white, and one red and blue](https://i.ibb.co/fxKQ6cg/DEFAULTIMG-0483-wm3b7e62ef-0396-45ee-8dad-c11fc6963085.jpg)
 ### Drakes: white
-white and red clay  
-white and green  
-white and yellow orange  
-white and blue  
+![white red D drake: head front](https://i.ibb.co/W0kh2zc/DEFAULTIMG-0453-wma0ee2029-d5b9-4dd9-914a-013e9b1b0d2e.jpg)
+![white red D drake: top](https://i.ibb.co/gw0ZPmd/MEDIUMIMG-0452-wm25d0595d-ac91-4794-96d3-17fc9f5ff7d8.jpg)
+![white red  E drake: side](https://i.ibb.co/VpnhzfL/DEFAULTIMG-0456-wm10134921-ce02-4094-8847-9a607be79413.jpg)
+![white red F drake: spiral](https://i.ibb.co/XZm9n9X/DEFAULTIMG-0479-wm0283e5fa-e1c4-4a52-817b-c8b41f701bc4.jpg)  
+[](that's enough white and red pics, don't add any more)
+[](white and green)
+[](white and yellow orange)
+[](white and blue)
 ### Drakes: red
-red clay and white  
-red clay and blue  
+![red blue A drake: side](https://i.ibb.co/yXRp2f4/DEFAULTIMG-0450-wm384afda8-bfc4-4fc9-89fa-c6d6a0e92eb5.jpg)
+![red blue A drake: back side](https://i.ibb.co/Yj1H0Dx/DEFAULTIMG-0447-wm194d4da9-6be7-463e-b7d9-d04a6164123d.jpg)
+![red blue B drake: top](https://i.ibb.co/mvxG3Zt/DEFAULTIMG-0464-wm342e4125-b9ec-4f85-92d9-9a26cf73b181.jpg)
+![red white A drake: back](https://i.ibb.co/86V25VC/DEFAULTIMG-0460-wm96cae19d-b0ae-4a85-b693-74acfb2527d2.jpg)
+![red white A drake: side](https://i.ibb.co/swKtgv6/DEFAULTIMG-0461-wm1ca258ff-00aa-4fdf-afd5-365ea64dd4f4.jpg)
+![red white B drake: head side](https://i.ibb.co/jg1Lm7d/DEFAULTIMG-0470-wm44354014-c0f9-42fd-acff-0c0c12f735a7.jpg)
+![red white B drake: top](https://i.ibb.co/TWsBrc4/DEFAULTIMG-0469-wmbc7cb9ff-ffaa-4922-bc49-9b09caf63677.jpg)
 ### Drakes: black
 black and yellow  
 
