@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Porfolio Noémie Scherer: Volume"
+title:  "Volume - Noémie Scherer"
 last_updated: January 27, 2024
 permalink: /portfolio/volume/menu.html
 redirect_from: portfolio/volume
@@ -11,9 +11,13 @@ topnav: topnav_Portfolio_Volume
 # Volume
 ![stand](https://i.ibb.co/hgLJQYf/IMG-0414-clean.jpg)
 
-**FR:** Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) et inscrivez-vous à la newsletter! (j'enverrai probablement entre deux et six emails par an, et vous pouvez vous désinscrire quand vous voulez)
+**FR:**  
+- Si vous ne voyez pas les images, essayez de désactiver votre bloqueur de publicités  
+- Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) et inscrivez-vous à la newsletter! (j'enverrai probablement entre deux et six emails par an, et vous pouvez vous désinscrire quand vous voulez)  
 
-**EN:** To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fourthwall.com/) and subscribe to the newsletter! (I'll probably send two to six emails a year, you can unsubscribe any time)
+**EN:**  
+- If you don't see any pics, try disabling your adblocker, it may have mistaken them as ads
+- To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fourthwall.com/) and subscribe to the newsletter! (I'll probably send two to six emails a year, you can unsubscribe any time)
 
 ## Decor
 ### Medaillons

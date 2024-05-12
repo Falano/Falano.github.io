@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Porfolio Noémie Scherer: Volume"
+title:  "Fairs - Noémie Scherer"
 last_updated: January 27, 2024
 permalink: /portfolio/volume/fairs.html
 topnav: topnav_Portfolio_Volume

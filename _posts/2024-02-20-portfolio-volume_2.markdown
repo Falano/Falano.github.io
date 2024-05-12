@@ -1,14 +1,13 @@
 ---
 layout: page
-title:  "Volume - Noémie Scherer"
+title:  "Sculpture - Noémie Scherer"
 last_updated: March 29, 2024
 permalink: /portfolio/volume/sculpture.html
 topnav: topnav_Portfolio_Volume
 ---
+**FR:** Si les photos ne s'affichent pas essayez de désactiver votre bloqueur de publicités.
 
-Bientôt plus de photos!
-
-More pics coming soon!
+**EN:** If the pics don't show try disabling your adblocker, it may have mistaken them as ads.
 
 # Sculpture
 ## Snowwalker's feet
@@ -29,10 +28,9 @@ longest dimension: about 20-30 cm
 ![snow leopard A sitting: top back](https://i.ibb.co/FsBq51c/DEFAULT-AVA2739-0-jpg-wm37f911aa-1549-4d05-b264-7bd6a312f18c.jpg)
 ![snow leopard A sitting: back](https://i.ibb.co/d7dD1XZ/DEFAULT-AVA2763-0-jpg-wmf547ae2f-e860-431c-b140-104698d8ba22.jpg)
 ![snow leopard A sitting: back left](https://i.ibb.co/dfKMWCt/DEFAULT-AVA2749-0-jpg-wm5c1bfcf0-4466-4f2d-9374-8eb6d41bba73.jpg)
-
-[](¿¿SnowLeo C onBack??)
+[](SnowLeo C onBack.)
 [](¿¿Lynx??)  
-Owl A standing  
+[](¡¡Owl A standing!!)  
 ### Owl B hunting  
 longest dimension: about 40-45 cm
 ![owl B hunting: three quarters left](https://i.ibb.co/61YMRcQ/DEFAULT-AVA2624-0-jpg-wme07b6fe0-d7c8-4aad-95e4-245be142ccd9.jpg)
@@ -60,7 +58,7 @@ longest dimension: about 20 cm
 ![hare B rising: head close-up](https://i.ibb.co/fDt9wLY/DEFAULT-AVA2692-0-jpg-wmbe7e05a7-d3d6-423f-9978-adcad585837b.jpg)
 ![hare B rising: top](https://i.ibb.co/Fz7KMmL/DEFAULT-AVA2699-0-jpg-wmcfc1e4da-010e-4258-a60b-82cfbe7e1af4.jpg)
 ![hare B rising: right side](https://i.ibb.co/v3QrJ0T/DEFAULT-AVA2708-0-jpg-wmd4b7b9dd-335d-4f7c-88ce-42a2d5e83549.jpg)
-[](Hare C standing)
+[](Hare C standing.)
 
 ## Flying Swimmers
 ![6 medium drakes, including 4 white and red, one red and white, and one red and blue](https://i.ibb.co/fxKQ6cg/DEFAULTIMG-0483-wm3b7e62ef-0396-45ee-8dad-c11fc6963085.jpg)
@@ -92,13 +90,15 @@ longest dimension: about 15-20 cm
 ![sheep B: body side](https://i.ibb.co/tBjtkxS/DEFAULT-AVA2765-0-jpg-wm-idac41fdd7-6cbb-47c3-8f69-8e976ac3ef81.jpg)
 ![sheep B: body front](https://i.ibb.co/XJMS3L5/DEFAULT-AVA2768-0-jpg-wm-id494ef786-5570-4bec-85d7-b712932a71f3.jpg)
 ![sheep B: top](https://i.ibb.co/qxkzH0p/DEFAULT-AVA2770-0-jpg-wm-idc1424e37-9af9-4c3b-b76c-4ce471c58599.jpg)
-  
-mouffette A  
-horses A hugging  
-wwhpets  
+
+### Cats and Dogs
+![cats and dogs: all](https://i.ibb.co/GPhHrdv/DEFAULT-AVA2865-0-wm533f7bb6-bfda-48da-adcb-cd4a31d71458.jpg)  
+[](¡¡add pics of individual cats and dogs. Maybe not all but like four-ish? Six-ish? !!)
+[](mouffette A.)
+[](horses A hugging.)
+[](lycaons A, B et C.)
 [](¿¿przewalski jumping??)
-[](¿¿lycaon??)
-[](tasso, gray horse, raccoon, mouflon, serpent coral, reindeer, mucca)
+[](¿¿tasso, gray horse, raccoon, mouflon, serpent coral, reindeer, mucca??)
 
 ## Unsorted geometric animals
 ### Otter
@@ -117,15 +117,31 @@ longest dimension: about 10 cm
 ![camel: side](https://i.ibb.co/kJVH9V0/DEFAULT-AVA2805-0-jpg-wma22c247e-0fd6-46d4-bd26-87a0ca9b9ecc.jpg)
 
 ## Tinies
-micro drakes  
-
-### Mini sheep  
 longest dimension: about 5 cm
+### Micro drakes
+![micro drakes: all, side](https://i.ibb.co/LNzHpSz/DEFAULT-AVA2856-wm67093b6c-1d72-4dbf-b048-685838c82b0d.jpg)
+![micro drakes: all, top](https://i.ibb.co/W5wXG80/DEFAULT-AVA2857-wm9d0cf0f3-32af-4a6f-a0d8-f9a77ef780dc.jpg)
+![micro drakes: all, three quarters](https://i.ibb.co/5LJ9rRt/DEFAULT-AVA2859-0-jpg-wm484cdfb3-13fd-4e85-8875-27365bc439bb.jpg)
+![micro drakes: orange](https://i.ibb.co/G7DVCPf/DEFAULT-AVA2860-0-jpg-wm4106b58e-7cb5-49ad-9dc2-d031ae07798e.jpg)
+![micro drakes: purple](https://i.ibb.co/D5NqPNX/DEFAULT-AVA2861-0-jpg-wmc6b0d801-51d9-4526-8c85-17e01e9115f2.jpg)
+![micro drakes: blue](https://i.ibb.co/VMqfTJL/DEFAULT-AVA2862-0-jpg-wm562d89b3-a0f9-4e5b-a5ad-2ca2f698e2c9.jpg)
+![micro drakes blue: with medium for size](https://i.ibb.co/t4vVFNT/DEFAULTIMG-0491-wm3197c581-f656-4840-9f21-457f7b322943.jpg)
+![micro drakes blue: side](https://i.ibb.co/jgBWTJj/DEFAULTIMG-0492-wm9c7947a8-9894-40e6-a76b-b95d0922710c.jpg)
+![micro drakes blue: top](https://i.ibb.co/SxvKHMP/DEFAULTIMG-0493-wmca19516c-4f98-4eab-a2bb-021a07827d22.jpg)
+
+### Mini sheep
 ![all sheep](https://i.ibb.co/TqS7Hz1/DEFAULT-AVA2778-0-jpg-wm7937856a-4a53-4267-9e52-944c23470e53.jpg)
 ![mini sheep](https://i.ibb.co/L0J3Msq/DEFAULT-AVA2788-wmfc6ac185-3fe4-4133-a005-ece105e913b2.jpg)
 
 ### Micro sheep
-longest dimension: about 5 cm
 ![micro sheep](https://i.ibb.co/PCrq2Q1/DEFAULT-AVA2782-wm6cc039ce-fe7c-49b5-92e3-f1071b6c0e95.jpg)
 
-[](## Nightmare Fuel: ### With Mouth: Owl, Possum, Raven, Croco (Tasm); ### With (Rump) Eyes: Panther, Deer, Ginetta, Snake? Owl? Hyena? Spotted Ray?; ### With (Head) Eyes: Orca, Panda, Pygmy Owl, Sand Lizard; ### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?; ### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?; ### With (Longbody) Many Legs: Stoat, Otarie, Lizard; ### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?; ### With Face: Owl, Fox, gattopardo, sloth)
+[](## Nightmare Fuel:)
+[](### With Mouth: Owl, Possum, Raven, Croco (Tasm);)
+[](### With (Rump) Eyes: Panther, Deer, Genetta, Ball Python, Owl? Hyena? Spotted Ray?;)
+[](### With (Head) Eyes: Orca, Panda, Pygmy Owl, Sand Lizard;)
+[](### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?;)
+[](### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?;)
+[](### With (Longbody) Many Legs: Stoat, Otarie, Lizard;)
+[](### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?;)
+[](### With Face: Owl, Fox, gattopardo, sloth)
