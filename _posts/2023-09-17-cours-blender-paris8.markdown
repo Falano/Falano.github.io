@@ -5,7 +5,6 @@ last_updated: September 17, 2023
 permalink: /cours/introduction_3D/menu.html
 redirect_from: /cours/introduction_3D
 topnav: topnav_P8_3D
-#sidebar: P8_MoteursJeu
 ---
 
 # 0. Menu

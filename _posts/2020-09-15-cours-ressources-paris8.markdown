@@ -2,9 +2,9 @@
 layout: page
 title:  "Cours Paris 8: Création et Gestion de ressources"
 last_updated: July 27, 2023
-permalink: cours/creation_gestion_ressources/menu.html
-redirect_from: cours/creation_gestion_ressources
-redirect_from: cours/creation_gestion_ressources/
+permalink: /cours/creation_gestion_ressources/menu.html
+redirect_from: /cours/creation_gestion_ressources
+redirect_from: /cours/creation_gestion_ressources/
 topnav: topnav_P8_Ressources
 ---
 
