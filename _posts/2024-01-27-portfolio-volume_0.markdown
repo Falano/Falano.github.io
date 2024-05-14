@@ -6,9 +6,9 @@ permalink: /portfolio/volume/fairs.html
 topnav: topnav_Portfolio_Volume
 ---
 
-**FR:** Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) et inscrivez-vous à la newsletter! (j'enverrai probablement entre deux et six emails par an, et vous pouvez vous désinscrire quand vous voulez)
+**FR:** Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, inscrivez-vous à [ma newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) et/ou rendez-vous sur la [boutique en ligne](https://nolanfa-shop.fourthwall.com/)
 
-**EN:** To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fourthwall.com/) and subscribe to the newsletter! (I'll probably send two to six emails a year, you can unsubscribe any time)
+**EN:** To get an email when I open sales, you can subscribe to [my newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) and/or check the [online shop](https://nolanfa-shop.fourthwall.com/) and hope you get there the right day
 
 # Fairs and exhibitions
 ## 2024

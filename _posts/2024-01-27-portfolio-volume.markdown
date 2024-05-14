@@ -13,11 +13,13 @@ topnav: topnav_Portfolio_Volume
 
 **FR:**  
 - Si vous ne voyez pas les images, essayez de désactiver votre bloqueur de publicités  
-- Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) et inscrivez-vous à la newsletter! (j'enverrai probablement entre deux et six emails par an, et vous pouvez vous désinscrire quand vous voulez)  
+- Pour acheter des pièces, rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) (pour l'instant fermée)
+- et inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) pour être au courant des marchés, expos, et de l'ouverture de la boutique en ligne!
 
 **EN:**  
 - If you don't see any pics, try disabling your adblocker, it may have mistaken them as ads
-- To get an email when I open sales, head on to [my shop](https://nolanfa-shop.fourthwall.com/) and subscribe to the newsletter! (I'll probably send two to six emails a year, you can unsubscribe any time)
+- To buy ceramics, head on to [my shop](https://nolanfa-shop.fourthwall.com/) (closed for now)
+- and subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) to know about fairs, exhibitions and sales drops!
 
 ## Decor
 ### Medaillons
@@ -44,3 +46,7 @@ topnav: topnav_Portfolio_Volume
 ### Islets
 ![green islet top](https://i.ibb.co/4fXvnc9/IMG-0168-done-int5.jpg)
 ![green islet side](https://i.ibb.co/Y0FtZfC/IMG-0169-done-int5.jpg)
+
+
+
+[Subscribe to the newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)
