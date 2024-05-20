@@ -889,11 +889,11 @@ span.soft {
     border: 1px solid #dedede;
 }
 
-
+/* change images size */
 @media only screen and (min-width: 900px), only screen and (min-device-width: 900px) {
     .col-md-9 img {
-        max-width: 700px;
-        max-height: 700px;
+        max-width: 1000px;
+        max-height: 1200px;
     }
 }
 
@@ -1145,7 +1145,7 @@ h4.panel-title {
     margin-top: 0px;
 }
 
-/*set navbar breakpoint so that it converts to hamburger earlier */
+/*set navbar breakpoint so that it converts to hamburger earlier
 
 @media (max-width: 1200px) {
     .navbar-header {
@@ -1180,5 +1180,5 @@ h4.panel-title {
     }
     .collapse.in{
         display:block !important;
-    }
+    }*/
 }
