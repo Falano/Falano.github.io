@@ -29,7 +29,7 @@ longest dimension: about 20-30 cm
 ![snow leopard A sitting: back](https://i.ibb.co/d7dD1XZ/DEFAULT-AVA2763-0-jpg-wmf547ae2f-e860-431c-b140-104698d8ba22.jpg)
 ![snow leopard A sitting: back left](https://i.ibb.co/dfKMWCt/DEFAULT-AVA2749-0-jpg-wm5c1bfcf0-4466-4f2d-9374-8eb6d41bba73.jpg)
 [](SnowLeo C onBack.)
-[](¿¿Lynx??)  
+[](Lynx A.)  
 [](¡¡Owl A standing!!)  
 ### Owl B hunting  
 longest dimension: about 40-45 cm
@@ -80,7 +80,7 @@ longest dimension: about 20 cm
 ![red white B drake: head side](https://i.ibb.co/jg1Lm7d/DEFAULTIMG-0470-wm44354014-c0f9-42fd-acff-0c0c12f735a7.jpg)
 ![red white B drake: top](https://i.ibb.co/TWsBrc4/DEFAULTIMG-0469-wmbc7cb9ff-ffaa-4922-bc49-9b09caf63677.jpg)
 ### Drakes: black
-black and yellow  
+[](black and yellow)  
 
 ## Clay colored
 ### Suffolk sheep
@@ -97,8 +97,9 @@ longest dimension: about 15-20 cm
 [](mouffette A.)
 [](horses A hugging.)
 [](lycaons A, B et C.)
+[](tasso mom + tassi kids.)
 [](¿¿przewalski jumping??)
-[](¿¿tasso, gray horse, raccoon, mouflon, serpent coral, reindeer, mucca??)
+[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca??)
 
 ## Unsorted geometric animals
 ### Otter
