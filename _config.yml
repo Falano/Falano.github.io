@@ -41,7 +41,9 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      sidebar: home_sidebar
+      sidebar: none
+# I should find a way to make hide_sidebar: true work on layouts and not just individual pages
+#      sidebar: home_sidebar
       topnav: topnav_home
 
 

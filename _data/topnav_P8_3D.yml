@@ -7,36 +7,28 @@ topnav:
       url: menu.html
       output: web
 
-    - title: Introduction
+    - title: Introduction # faire des exos de navigation
       url: introduction.html
       output: web
 
-    - title: Libresprite
-      url: libresprite.html
+    - title: Modelisation
+      url: modelisation.html
       output: web
 
-    - title: Décors
-      url: decors.html
+    - title: Textures
+      url: Textures.html
       output: web
 
-    - title: Son
-      url: son.html
+    - title: Rigging
+      url: rigging.html
       output: web
 
     - title: Animation
       url: animation.html
       output: web
 
-    - title: Finitions
+    - title: Finitions # lumieres, export, import dans unity/godot/etc.
       url: finitions.html
-      output: web
-
-    - title: Exports
-      url: exports.html
-      output: web
-
-    - title: Game Design
-      url: game-design.html
       output: web
 
     - title: Annexes

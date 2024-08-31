@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: page_cera_EN
 title:  "Sculpture - Noémie Scherer"
-last_updated: March 29, 2024
-permalink: /portfolio/volume/sculpture.html
-topnav: topnav_Portfolio_Volume
+last_updated: August 30, 2024
+permalink: /portfolio/volume/sculpture_EN.html
+topnav: topnav_Portfolio_Volume_EN
 ---
-**FR:** Si les photos ne s'affichent pas essayez de désactiver votre bloqueur de publicités.
-
-**EN:** If the pics don't show try disabling your adblocker, it may have mistaken them as ads.
 
 # Sculpture
 ## Snowwalker's feet
 ### Snow Leopard B leaping
-longest dimension: about 40-45 cm
+longest dimension: about 40-45 cm / 17 inches
 ![snow leopard B leaping: fullbody three quarters](https://i.ibb.co/FmfNqXV/DEFAULT-AVA2593-0-jpg-wmb9bbdce7-b1a0-4a00-ac2b-b6d12c5d1e32.jpg)
 ![snow leopard B leaping: close-up torso out](https://i.ibb.co/CQPP2QR/DEFAULT-AVA2592-0-jpg-wm166f9f3b-f711-427d-aa71-575f8a7230ee.jpg)
 ![snow leopard B leaping: fullbody top](https://i.ibb.co/Bfnn1mV/DEFAULT-AVA2590-0-jpg-wm1bec8dc1-73a1-4409-9efe-b7c3fd118ade.jpg)
@@ -21,7 +18,7 @@ longest dimension: about 40-45 cm
 ![snow leopard B leaping: head front](https://i.ibb.co/pWVKwxr/DEFAULT-AVA2564-0-jpg-wm6bc4d82f-ee23-48f9-9ee1-4f211377fb29.jpg)
 ![snow leopard B leaping: fullbody back tail](https://i.ibb.co/NntfPPY/DEFAULT-AVA2605-0-jpg-wm650212d3-0f65-4048-8638-bb2167cc7a44.jpg)
 ### Snow Leopard A sitting
-longest dimension: about 20-30 cm
+longest dimension: about 20-30 cm / 10 inches
 ![snow leopard A sitting: top front](https://i.ibb.co/mDK2602/DEFAULT-AVA2713-0-jpg-wmef7ea598-ae7c-45d4-a6be-e98f850a96a4.jpg)
 ![snow leopard A sitting: top right](https://i.ibb.co/mXW9LzL/DEFAULT-AVA2729-0-jpg-wma357e396-8d94-47c9-b9a1-89924e978b97.jpg)
 ![snow leopard A sitting: side right](https://i.ibb.co/ZHfrJHk/DEFAULT-AVA2758-0-jpg-wm27b43324-8b03-4802-865a-065bc7e317b6.jpg)
@@ -30,9 +27,14 @@ longest dimension: about 20-30 cm
 ![snow leopard A sitting: back left](https://i.ibb.co/dfKMWCt/DEFAULT-AVA2749-0-jpg-wm5c1bfcf0-4466-4f2d-9374-8eb6d41bba73.jpg)
 [](SnowLeo C onBack.)
 [](Lynx A.)  
-[](¡¡Owl A standing!!)  
+### Owl A standing 
+longest dimension: about 15 cm / 6 inches
+![owl A standing: facing right](https://i.postimg.cc/jj42qwdS/DEFAULTIMG-0664-wm4a3384c9-dd30-4da5-8085-2128d15ec865.jpg)
+![owl A standing: front](https://i.postimg.cc/bJYJZysH/DEFAULTIMG-0665-wm7bc142cf-011a-4c21-9bd4-b14f949fee6a.jpg)
+![owl A standing: facing left](https://i.postimg.cc/Y9XSg5Fc/DEFAULTIMG-0666-wm35a1554b-47d0-4852-abaa-9b27a6c0ce8a.jpg)
+![owl A standing: back](https://i.postimg.cc/1Xf3Kv08/DEFAULTIMG-0667-wmd5159f86-987f-4e2c-884a-49d7f058a17c.jpg)
 ### Owl B hunting  
-longest dimension: about 40-45 cm
+longest dimension: about 40-45 cm / 17 inches
 ![owl B hunting: three quarters left](https://i.ibb.co/61YMRcQ/DEFAULT-AVA2624-0-jpg-wme07b6fe0-d7c8-4aad-95e4-245be142ccd9.jpg)
 ![owl B hunting: front](https://i.ibb.co/FndRF4k/DEFAULT-AVA2622-0-jpg-wm86fd254f-425d-4d0f-9461-3e9ff75e401c.jpg)
 ![owl B hunting: three quarters right](https://i.ibb.co/y88V9ng/DEFAULT-AVA2617-0-jpg-wm0a88cb15-2661-4818-8c05-dd4303d7e7cf.jpg)
@@ -41,7 +43,7 @@ longest dimension: about 40-45 cm
 ![owl B hunting: talons close-up](https://i.ibb.co/ydhStKp/DEFAULT-AVA2626-0-jpg-wmf2e766dc-c8f7-4fad-bd65-1c8862512138.jpg)
 [](¿¿Owl C hunting better??)
 ### Hare A running  
-longest dimension: about 20 cm
+longest dimension: about 20 cm / 8 inches
 ![hare A running: profile right](https://i.ibb.co/kJKy6hH/DEFAULT-AVA2679-0-jpg-wm10d11fe6-926e-4b21-a440-0da5d470a864.jpg)
 ![hare A running: three quarters front right](https://i.ibb.co/rkqXQYf/DEFAULT-AVA2664-0-jpg-wmfa73ce99-75c0-4540-93ef-0d6b44660589.jpg)
 ![hare A running: front](https://i.ibb.co/fNtZr2J/DEFAULT-AVA2657-0-jpg-wmb334dedc-a2ce-4dd9-9ddf-20d254656021.jpg)
@@ -51,7 +53,7 @@ longest dimension: about 20 cm
 ![hare A running: close-up rump](https://i.ibb.co/nMzzmRm/DEFAULT-AVA2670-0-jpg-wmffcb548a-8dca-4043-9a52-8ce83235bac0.jpg)
   
 ### Hare B rising
-longest dimension: about 20 cm
+longest dimension: about 20 cm / 8 inches
 ![hare B rising: front](https://i.ibb.co/51dLLhm/DEFAULT-AVA2680-0-jpg-wm1f647cb0-bfef-4555-a118-ccb2404d3820.jpg)
 ![hare B rising: back](https://i.ibb.co/TBF2whh/DEFAULT-AVA2685-0-jpg-wmf05f6414-bdac-4c2e-8877-b1019ced17bf.jpg)
 ![hare B rising: left profile](https://i.ibb.co/YyvGhMN/DEFAULT-AVA2687-0-jpg-wm189f3188-cce6-49d0-a46c-045b93a6c95e.jpg)
@@ -59,6 +61,12 @@ longest dimension: about 20 cm
 ![hare B rising: top](https://i.ibb.co/Fz7KMmL/DEFAULT-AVA2699-0-jpg-wmcfc1e4da-010e-4258-a60b-82cfbe7e1af4.jpg)
 ![hare B rising: right side](https://i.ibb.co/v3QrJ0T/DEFAULT-AVA2708-0-jpg-wmd4b7b9dd-335d-4f7c-88ce-42a2d5e83549.jpg)
 [](Hare C standing.)
+
+### Smaller snow leopards
+longest dimensions: about 10-20 cm / 4-8 inches, depending.
+![smoked mini snoleo looking left](https://i.postimg.cc/sDBy8Sgq/DEFAULTIMG-0714-wmcb3866a0-eea7-41f4-aa00-83ef1438260f.jpg)
+![two smoked mini snoleo sculptures, playing, from a low angle](https://i.postimg.cc/rpTkKPN2/DEFAULTIMG-0716-wmddc45f66-55b3-4f08-ae09-e34960922c5a.jpg)
+![one sculpture of two snoleos, playing, one bopping the other's nose](https://i.postimg.cc/rpd2Pvxp/DEFAULTIMG-0733-wm889bbf72-514d-407c-88d5-afeeb945d3c5.jpg)
 
 ## Flying Swimmers
 ![6 medium drakes, including 4 white and red, one red and white, and one red and blue](https://i.ibb.co/fxKQ6cg/DEFAULTIMG-0483-wm3b7e62ef-0396-45ee-8dad-c11fc6963085.jpg)
@@ -84,26 +92,40 @@ longest dimension: about 20 cm
 
 ## Clay colored
 ### Suffolk sheep
-longest dimension: about 15-20 cm
+longest dimension: about 15-20 cm / 7 inches
 ![sheep A: body front](https://i.ibb.co/MM4tk6x/DEFAULT-AVA2773-0-jpg-wm-idc34bf1fa-ad0d-459d-817a-7681c54a247f.jpg)
 ![sheep A: body side](https://i.ibb.co/Q9r4K1t/DEFAULT-AVA2776-0-jpg-wm-id08070e04-e013-463c-8d95-66fad8936de9.jpg)
 ![sheep B: body side](https://i.ibb.co/tBjtkxS/DEFAULT-AVA2765-0-jpg-wm-idac41fdd7-6cbb-47c3-8f69-8e976ac3ef81.jpg)
 ![sheep B: body front](https://i.ibb.co/XJMS3L5/DEFAULT-AVA2768-0-jpg-wm-id494ef786-5570-4bec-85d7-b712932a71f3.jpg)
 ![sheep B: top](https://i.ibb.co/qxkzH0p/DEFAULT-AVA2770-0-jpg-wm-idc1424e37-9af9-4c3b-b76c-4ce471c58599.jpg)
+### Mustélidés
+longest dimension: about 30-40 cm / 15 inches
+![Skunk: facing left](https://i.postimg.cc/9XYqM6PC/DEFAULTIMG-0641-wmd4c09b1b-a20c-4c3c-8380-22b79b0f20e5.jpg)\
+\
+longest dimension: about 10 cm / 4 inches for the two big ones and 5 cm / 2 inches for the smaller ones
+![Beaver Family: obedient kits](https://i.postimg.cc/yxsgjjHM/DEFAULTIMG-0625-wm9ee81cbd-2d44-4d5c-b90d-61908afe3634.jpg)
+![Beaver Family: crying kit](https://i.postimg.cc/XqLZz5Np/DEFAULTIMG-0628-wma5b95f11-ff43-4820-a824-a6948a427d2e.jpg)
+![Beaver Family: three kits playing](https://i.postimg.cc/jdqnJMvN/DEFAULTIMG-0629-wm989585cf-07ec-4536-af36-d577b3af6573.jpg)
+![Beaver Family: all 15 kits and 2 adults](https://i.postimg.cc/fWCJZxZb/DEFAULTIMG-0671-montage-wmd4ac3f85-2e62-49d6-9a9b-906df55119cc.jpg)
+
+### Chevaux
+longest dimension: about 20 cm / 8 inches
+![Horses Hugging A](https://i.postimg.cc/NjSKSBt7/DEFAULTIMG-0652-wm258e5e67-8317-4859-8d30-931950346b22.jpg)
 
 ### Cats and Dogs
 ![cats and dogs: all](https://i.ibb.co/GPhHrdv/DEFAULT-AVA2865-0-wm533f7bb6-bfda-48da-adcb-cd4a31d71458.jpg)  
-[](¡¡add pics of individual cats and dogs. Maybe not all but like four-ish? Six-ish? !!)
+[](¡¡add pics of individual cats and dogs. Maybe not all but like four-ish? Six-ish? !!) [](TODO: make another two three-part ones, for time)
 [](mouffette A.)
 [](horses A hugging.)
 [](lycaons A, B et C.)
-[](tasso mom + tassi kids.)
-[](¿¿przewalski jumping??)
-[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca??)
+[](tasso mom + tassi kids.) [](TODO: make another 3 batches)
+[](przewalski jumping.)
+[](¿¿muscardin volant / orange painted bat ; also: indian flying fox??)
+[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope (nw), nyala (striped antelope), red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler (rn monkey), coconut octopus (rnw), giant Pacific octopus (rw), red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel (nwr), ribbon seal (nw), loggerhead sea turtle (rw), narwhal ??)
 
 ## Unsorted geometric animals
 ### Otter
-longest dimension: about 20 cm
+longest dimension: about 20 cm / 8 inches
 ![otter: top left](https://i.ibb.co/TMNdh1H/DEFAULT-AVA2827-0-jpg-wm7419cfd9-5fa2-43e7-9781-b5983acf8614.jpg)
 ![otter: close-up neck](https://i.ibb.co/7zPn21H/DEFAULT-AVA2835-0-jpg-wm843c0d9f-86c9-44d7-89cf-90dd562d27a2.jpg)
 ![otter: body front](https://i.ibb.co/jTSjHZw/DEFAULT-AVA2849-0-jpg-wmd9551151-dcb0-47b2-abe1-4aef8329caa2.jpg)
@@ -111,14 +133,14 @@ longest dimension: about 20 cm
 ![otter: back right](https://i.ibb.co/hy783LC/DEFAULT-AVA2853-0-jpg-wm57aa84e4-cb8a-459c-a5bb-b20f3779fdaf.jpg)
 ![otter: back left](https://i.ibb.co/Xx6fPQR/DEFAULT-AVA2851-0-jpg-wm53b9ca6a-83d6-4974-a60d-caa44c307fa7.jpg)
 ### Camel
-longest dimension: about 10 cm
+longest dimension: about 10 cm / 4 inches
 ![camel: three quarters front left](https://i.ibb.co/svhK7NR/DEFAULT-AVA2792-0-jpg-wmac0819e0-67f1-486d-bca4-1109a611a395.jpg)
 ![camel: three quarters back left](https://i.ibb.co/2q6SRwd/DEFAULT-AVA2797-0-jpg-wmc7233c95-f4b1-4127-9937-d2f0775c2655.jpg)
 ![camel: top](https://i.ibb.co/31xgNvK/DEFAULT-AVA2800-0-jpg-wm9f749fc6-4572-47a6-a228-ab16e9283416.jpg)
 ![camel: side](https://i.ibb.co/kJVH9V0/DEFAULT-AVA2805-0-jpg-wma22c247e-0fd6-46d4-bd26-87a0ca9b9ecc.jpg)
 
 ## Tinies
-longest dimension: about 5 cm
+longest dimension: about 5 cm / 2 inches
 ### Micro drakes
 ![micro drakes: all, side](https://i.ibb.co/LNzHpSz/DEFAULT-AVA2856-wm67093b6c-1d72-4dbf-b048-685838c82b0d.jpg)
 ![micro drakes: all, top](https://i.ibb.co/W5wXG80/DEFAULT-AVA2857-wm9d0cf0f3-32af-4a6f-a0d8-f9a77ef780dc.jpg)
@@ -136,13 +158,21 @@ longest dimension: about 5 cm
 
 ### Micro sheep
 ![micro sheep](https://i.ibb.co/PCrq2Q1/DEFAULT-AVA2782-wm6cc039ce-fe7c-49b5-92e3-f1071b6c0e95.jpg)
+![micro sheep colored, glazed and unglazed, from above](https://i.postimg.cc/qMpkdGK8/DEFAULTIMG-0864-wm-engobes-BOTZa4d073f0-7607-493f-b031-e42cd6f6dc42.jpg)
 
-[](## Nightmare Fuel:)
+[](TODO: test sandwich clay-engobe-clay, with the bad ones and the new ones)
+[](TODO: tiny turtles)
+[](TODO: dendrobates, micro-drakes-like)
+[](TODO: more medium sheep)
+
+[](## Biblical Accuracy:)
 [](### With Mouth: Owl, Possum, Raven, Croco (Tasm);)
 [](### With (Rump) Eyes: Panther, Deer, Genetta, Ball Python, Owl? Hyena? Spotted Ray?;)
 [](### With (Head) Eyes: Orca, Panda, Pygmy Owl, Sand Lizard;)
-[](### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?;)
+[](### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?, grand koudou;)
 [](### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?;)
 [](### With (Longbody) Many Legs: Stoat, Otarie, Lizard;)
-[](### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?;)
-[](### With Face: Owl, Fox, gattopardo, sloth)
+[](### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?; Jacana (baby legs))
+[](### With Face: Owl, Fox, gattopardo, sloth, hare)
+
+[](TODOES GENERAL: closed loop body, bodies in contact, body parts, bodies w trans millipedes, wet river rock color with text (???), wet river rock color with only half hidden painting (chicken dinosaur, fossil snail nautilus ammonites, horse pegasus, were wolf, snake drake, horse unicorn for Jade, ooooh flags (dry: black and (dark and light), wet: (black and dark) and light)))
