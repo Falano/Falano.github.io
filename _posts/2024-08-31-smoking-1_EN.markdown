@@ -9,7 +9,7 @@ permalink: /portfolio/volume/2024-08-31_smoking_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
 
-I had a fair amount of questions and comments about the smoky look of my sculptures (likened to wood or stone by a couple people), so I thought I'd talk about it here 
+I had a fair amount of questions and comments about the smoky look of my sculptures (a couple people asked what material it was and said it looked like wood or stone), so I thought I'd talk about it here.
 (also, fair warning, I am absolutely not certain "smoking" is the way it's said in english; if someone knows the proper term please do reach out and tell me)
 
 ## Official Raku
