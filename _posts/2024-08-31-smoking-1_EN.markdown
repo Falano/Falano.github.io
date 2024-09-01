@@ -8,15 +8,15 @@ decription: How I do my smoked sculptures
 permalink: /portfolio/volume/2024-08-31_smoking_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
-
-I had a fair amount of questions and comments about the smoky look of my sculptures (a couple people asked what material it was and said it looked like wood or stone), so I thought I'd talk about it here.
+\
+I had a fair amount of questions and comments about the smoky look of my sculptures (a couple people asked what material it was and said it looked like wood or stone), so I thought I'd talk about it here.\
 (also, fair warning, I am absolutely not certain "smoking" is the way it's said in english; if someone knows the proper term please do reach out and tell me)
 
 ## Official Raku
 Maybe you've seen raku around? Those cracked glazes with very deep blacks? 
 ![raku](https://upload.wikimedia.org/wikipedia/commons/e/e7/Raku_gestookte_bal.jpg)
 
-That's western raku. Western raku is apparently loosely inspired by the japanese technique called raku, but it mostly took one very specific part of it and ran with it.  
+That's western raku. Western raku is apparently loosely inspired by the japanese technique called raku, but it mostly took one very specific part of it and ran with it.\
 Point is, you get those crack by removing the very hot piece of ceramics from the very hot kiln (ceramics oven) and immediately putting it in some kind of combustible. Usually sawdust. That then combusts. Which produces smoke. Glaze, that naturally tends to crack, cracks even more due to the sudden changes in temperature, and the smoke gets inside the cracks and colors them black. Non-glazed parts get more smoke and turn darker, and their matte texture contrasts with the shinier one of the glaze.\
 And if you cover it the smoldering eats at the oxygen inside and glazes react -sometimes vividly- to being fired in an atmosphere with low oxygen.
 
@@ -25,7 +25,7 @@ And if you cover it the smoldering eats at the oxygen inside and glazes react -s
 That's the theory.
 
 ## Unorthodox Smoking
-Now, I'm a bit experimental about it. Here's my process:  
+Now, I'm a bit experimental about it. Here's my process:\
 The sculptures are white(-ish; sometimes a bit creamy depending on the clay) at the beginning, and smoky at the end:  
 ![otter sculpture before smoking: is white](https://64.media.tumblr.com/7fe424b8c1292c74ce6be4c923c2be6f/ec58cdc37ec5c8ba-9b/s1280x1920/d521811fb3781b4ffdf97924ca500886c2c42c28.jpg)
 ![otter sculpture after smoking: is brownish](https://i.postimg.cc/sDqWpdrC/DEFAULT-AVA2827-0-jpg-wm7419cfd9-5fa2-43e7-9781-b5983acf8614.jpg)
@@ -34,8 +34,8 @@ So I first sculpt, wait forever (a couple weeks to a couple months) for it to dr
 
 
 ### 1) Heat it up in a kitchen oven  
-(in theory you should smoke it just after the biscuit (first firing) is done, when it's just out of the kiln and still super super hot, but I do not have my own kiln so I can't);  
-When it's hot it takes the colour better, and maybe it works even if it's just 200°C / 400°F and not 1000°C / 1800°F. It's a bit hard to do tests since putting it in a fire does heat it up.  
+(in theory you should smoke it just after the biscuit (first firing) is done, when it's just out of the kiln and still super super hot, but I do not have my own kiln so I can't);\
+When it's hot it takes the colour better, and maybe it works even if it's just 200°C / 400°F and not 1000°C / 1800°F. It's a bit hard to do tests since putting it in a fire does heat it up.\
 I was fearing thermal shock might make thin pieces break if I didn't heat it up first but that does not seem to be an issue.  
 
 ### 2) put it somewhere that won't catch fire, surround it with scrunched up newspapers and ads, and lit them on fire  
@@ -55,11 +55,11 @@ The panther whose tail we see above is about 40 cm / 16 inches on the longest di
 I had some interesting effects in the first smoking (the same as the big panther), tiny white spots, like this (this hare is medium-sized, maybe 20cm / 8 inches long), but I have no clue why, or how to reproduce it (I use clay with grog (pre-cooked clay dust mixed into raw clay, that creates texture), so *maybe* it is linked to that? Who knows.):
 ![the back of a clay sculpture of a hare with lighter color in a splatter-like pattern](https://i.postimg.cc/7ZRKGQB5/DEFAULT-AVA2670-0-jpg-wmffcb548a-8dca-4043-9a52-8ce83235bac0.jpg)\
 \
-I added some water droplets to a recent smoking and it does seem to keep areas from darkening as much, which allows for some more pattern control (here on the flank/back under the arm). I did it on the tail too, and it did not break due to thermal shock, which was a concern I had; but the change in color is not quite as visible as I'd like. I should try some tests with wet bands of cloth, at least on the tail, that should give something interesting)
+I added some water droplets to a recent smoking and it does seem to keep areas from darkening as much, which allows for some more pattern control (here on the flank/back under the arm). I did it on the tail too, and it did not break due to thermal shock, which was a concern I had; but the change in color is not quite as visible as I'd like. I should try some tests with wet bands of cloth - or slip (wet/muddy clay)? pretty sure I can make patterns with slip if it doesn't fall off, should be interesting - at least on the tail, that should give something interesting)
 ![a clay panther with a droplet-like pattern on its side](https://i.postimg.cc/7YDDZt8B/DEFAULTIMG-0725-wmd7e6df2d-4293-4040-b734-6bf5cf53d2d1.jpg)\
 \
 And once a few years back I kept smoking something for a bit longer than usual and it got this very deep black-brown and shiny, caramelized sugar-like - which I very much liked; but I think it was a leftover product in the container I smoked in (it had contained paint before so maybe some kind of oil...?). I'd like to be able to reproduce it but I like my lungs in working order (so no burning unknown chemicals on purpose) and also I think all the chemicals burned away anyway so I'd have to find new ones (I could try sprinkling it with salt or sugar or something, I know you can glaze with salt (... at 1000+°C / 1800+°F) so it might give interesting results - or flop completely; that's what makes it interesting).
 
 
-### Conclusion
+## Conclusion
 So: I'll keep experimenting with smoking, and probably make a new post about it when I have more data.

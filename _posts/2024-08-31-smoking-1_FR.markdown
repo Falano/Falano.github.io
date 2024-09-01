@@ -8,14 +8,14 @@ description: tutoriel sur l'enfumage
 permalink: /portfolio/volume/2024-08-31_smoking_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
-
+\
 J'ai eu un certain nombre de questions et de commentaire sur la texture de mes sculptures enfumées (on m'a dit que ça ressemblait à du bois ou de la pierre), donc je me suis dit que j'en parlerais ici.
 
 ## Raku Officiel
 Vous avez peut-être déjà vu des pièces de raku, c'est assez populaire en ce moment. Ça donne des émaux craquelés avec des noirs très intenses.
 ![raku](https://upload.wikimedia.org/wikipedia/commons/e/e7/Raku_gestookte_bal.jpg)
 
-C'est le raku occidental. Apparemment c'est basé sur le raku japonais mais c'en est assez loin, parce que les artistes occidentaux se sont principalement intéressés à une partie spécifique et ont largement ignoré le reste.
+C'est le raku occidental. Apparemment c'est basé sur le raku japonais mais c'en est assez loin, parce que les artistes occidentaux se sont principalement intéressés à une partie spécifique et ont largement ignoré le reste.\
 On obtient ces craquelures en retirant la pièce du four encore brûlant et en la plongeant immédiatement dans un combustible, en général de la sciure de bois. La sciure s'enflamme, ce qui crée de la fumée. L'émail, à cause des changements brusques de température, se craquelle encore plus que d'habitude, et la fumée passe dans les fissures et les teint en noir. Les parties non-émaillées prennent aussi la fumée et s'assombrissent, en gardant une texture matte qui contraste avec l'émail, lisse comme du verre.\
 Et si on recouvre la combustion elle consomme l'oxygène de l'air et les émaux réagissent (parfois très fortement) au fait d'être cuits avec peu d'oxygène.
 
@@ -34,11 +34,11 @@ Au début, les sculptures sont blanches (plus ou moins; certaines terres sont co
 Tout d'abord, je sculpte, j'attends que ça sèche (de quelques semaines à quelques mois), et je l'envoie au four pour la première cuisson. Puis:
 
 ### 1) Je le chauffe dans un four (de cuisine)
-(en théorie il faudrait l'enfumer juste après la fin de la cuisson biscuit (première cuisson), en le sortant du four chaud, mais je n'ai pas mon propre four donc je n'y ai accès que quand il est froid et que personne ne risque de se brûler);
-Quand les pièces sont chaudes elles prennent mieux la couleur, et sans doute que le chauffer à 200°C au lieu de 1000°C est mieux que rien.
+(en théorie il faudrait l'enfumer juste après la fin de la cuisson biscuit (première cuisson), en le sortant du four chaud, mais je n'ai pas mon propre four donc je n'y ai accès que quand il est froid et que personne ne risque de se brûler);\
+Quand les pièces sont chaudes elles prennent mieux la couleur, et sans doute que le chauffer à 200°C au lieu de 1000°C est mieux que rien.\
 Je craignais que le choc thermique ne les casse si je ne pré-chauffais pas, mais on ne dirait pas que ce soit un problème.
 
-### 2) Je le mets à un endroit qui ne s'enflammera pas, et l'entoure de papier froissé que j'allume
+### 2) Je le mets à un endroit qui ne s'enflammera pas, et l'entoure de papier froissé que je fais brûler
 (en théorie on le fait avec de la sciure, des feuilles si on veut des motifs particuliers, du crin de cheval ou des plumes ou un autre matériau combustible original pour des motifs encore plus particuliers, mais ça ne marche que si l'argile est suffisamment chaude pour faire s'enflammer spontanément le combustible; quand je le fais, je dois allumer le feu moi-même, et les silhouettes précis ne se forment pas parce que la flamme se forme loin de l'argile, et non à son contact).  
 ![panther sculpture form the back](https://i.postimg.cc/28wJ6GRW/DEFAULT-AVA2605-0-jpg-wm650212d3-0f65-4048-8638-bb2167cc7a44.jpg)
 De temps en temps j'ai des motifs légèrement verts (comme à la base de la queue / les hanches de la panthère ci-dessus), je suppose à cause de produits chimiques dans l'encre. Du papier blanc ou imprimé en noir et blanc me permettrait sans doute d'éviter ça mais je n'ai pas vraiment fait de tests pour ça, parce que c'est un de mes effets préférés.\
@@ -55,11 +55,11 @@ La panthère dont on voit la queue plus haut fait environ 40cm sur la dimension 
 Pendant le premier enfumage, celui de la grande panthère, j'ai eu des effets intéressants: des petits points blancs, comme sur la photo ci-après (ce lièvre est de taille moyenne, environ 20 cm de long), mais je ne sais pas ce qui a produit ça, ni comment le reproduire (ma terre est chamottée (contient des fragments d'argile pré-cuits inclus dans de la terre crue, ce qui crée de la texture), donc ça pourrait être pour ça, potentiellement):
 ![the back of a clay sculpture of a hare with lighter color in a splatter-like pattern](https://i.postimg.cc/7ZRKGQB5/DEFAULT-AVA2670-0-jpg-wmffcb548a-8dca-4043-9a52-8ce83235bac0.jpg)\
 \
-J'ai ajouté des gouttes d'eau à un enfumage récent et ça a effectivement l'air de garder certaines parties plus claires, ce qui permet de contrôler certains motifs (visible ici sur le flanc / sous la patte avant). Je l'ai aussi fait sur la queue, et le choc thermique ne l'a pas cassé, contrairement à ce que je craignais; mais le motif est moins visible que je ne voudrais. Je devrais tester avec des bandes de tissu humide, au moins sur la queue, ça devrait être intéressant
+J'ai ajouté des gouttes d'eau à un enfumage récent et ça a effectivement l'air de garder certaines parties plus claires, ce qui permet de contrôler certains motifs (visible ici sur le flanc / sous la patte avant). Je l'ai aussi fait sur la queue, et le choc thermique ne l'a pas cassé, contrairement à ce que je craignais; mais le motif est moins visible que je ne voudrais. Je devrais tester avec des bandes de tissu humide (ou de la barbotine (argile semi-liquide)? Je pense que je pourrais faire des motifs avec de la barbotine, si ça ne se détache pas à l'enfumage), au moins sur la queue, ça devrait être intéressant
 ![a clay panther with a droplet-like pattern on its side](https://i.postimg.cc/7YDDZt8B/DEFAULTIMG-0725-wmd7e6df2d-4293-4040-b734-6bf5cf53d2d1.jpg)\
 \
-Il y a quelques années j'ai enfumé un objet pendant plus longtemps que d'habitude et j'ai obtenu un noir chaud très profond et brillant, comme si caramélisé, ce qui m'avait beaucoup plu. Mais je pense que c'était un reste de produit chimique de mon bidon d'enfumage (c'est un ancien bidon de peinture, donc c'était peut-être de l'huile...?). J'aimerais pouvoir le reproduire mais j'aime aussi avoir des poumons en bon état (donc je ne brûle pas exprès des produits chimiques inconnus), et je pense que maintenant il n'y a plus rien dans le bidon. Je pourrais essayer de le saupoudrer de sel, de sucre, ou d'autre chose: on fait des glaçures au sel (à 1000°C) donc ma version pourrait donner des résultats inhabituels - ou pas; c'est ce qui est intéressant.
+Il y a quelques années j'ai enfumé un objet pendant plus longtemps que d'habitude et j'ai obtenu un noir chaud très profond et brillant, comme si caramélisé, ce qui m'avait beaucoup plu. Mais je pense que c'était un reste de produit chimique de mon bidon d'enfumage (c'est un ancien bidon de peinture, donc c'était peut-être une sorte d'huile...?). J'aimerais pouvoir le reproduire mais j'aime aussi avoir des poumons qui fonctionnent (donc je ne brûle pas exprès des produits chimiques inconnus), et je pense que maintenant il n'y a plus rien dans le bidon. Je pourrais essayer de le saupoudrer de sel, de sucre, ou d'autre chose: on fait des glaçures au sel (à 1000°C) donc ma version pourrait donner des résultats inhabituels - ou pas; c'est ce qui le rend intéressant.
 
 
-### Conclusion
+## Conclusion
 Donc: je vais continuer à expérimenter avec les enfumages, et probablement écrire un nouvel article à ce sujet quand j'ai plus de données.

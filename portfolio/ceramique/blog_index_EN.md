@@ -7,6 +7,8 @@ redirect_from: /portfolio/volume/blog
 topnav: topnav_Portfolio_Volume_EN
 ---
 
+If you use RSS, [here's the feed with all the articles in english](https://falano.github.io/feed/ceramics.xml).
+
 <ul>
   {% for post in site.posts %}
     {% if post.tags contains "EN" %}
