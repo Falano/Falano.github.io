@@ -88,7 +88,7 @@ longest dimensions: about 10-20 cm / 4-8 inches, depending.
 ![red white B drake: head side](https://i.ibb.co/jg1Lm7d/DEFAULTIMG-0470-wm44354014-c0f9-42fd-acff-0c0c12f735a7.jpg)
 ![red white B drake: top](https://i.ibb.co/TWsBrc4/DEFAULTIMG-0469-wmbc7cb9ff-ffaa-4922-bc49-9b09caf63677.jpg)
 ### Drakes: black
-[](black and yellow)  
+![red and yellow drake suspended](https://i.ibb.co/7X6X7BW/IMG-0184-jpg-pt.jpg)  
 
 ## Clay colored
 ### Suffolk sheep
