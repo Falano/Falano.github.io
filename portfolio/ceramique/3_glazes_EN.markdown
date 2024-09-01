@@ -3,6 +3,7 @@ layout: page_cera_EN
 title:  "Glaze - Noémie Scherer"
 last_updated: August 30, 2024
 permalink: /portfolio/volume/glazes_EN.html
+redirect_from: /portfolio/volume/glazes
 topnav: topnav_Portfolio_Volume_EN
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title:  "Blog Index"
 last_updated: August 30, 2024
 permalink: /portfolio/volume/blog_EN.html
+redirect_from: /portfolio/volume/blog
 topnav: topnav_Portfolio_Volume_EN
 ---
 
