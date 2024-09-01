@@ -38,25 +38,30 @@ So I first sculpt, wait forever (a couple weeks to a couple months) for it to dr
 When it's hot it takes the colour better, and maybe it works even if it's just 200°C / 400°F and not 1000°C / 1800°F. It's a bit hard to do tests since putting it in a fire does heat it up.\
 I was fearing thermal shock might make thin pieces break if I didn't heat it up first but that does not seem to be an issue.  
 
-### 2) put it somewhere that won't catch fire, surround it with scrunched up newspapers and ads, and lit them on fire  
+### 2) surround it with scrunched up newspapers and ads, and lit them on fire  
+Be careful to do it somewhere that won't catch fire.
 (in theory you should do it with sawdust, leaves if you want fancy patterns, horsehair or feathers or whatever organic material you have at hand for even fancier patterns, but this all only works if the clay is hot enough to make it catch fire on its own; the way I do it I need to lit the fire myself, and so fancy patterns of this kind are out because the combustible starts burning away from the clay instead of catching fire on contact).  
 ![panther sculpture form the back](https://i.postimg.cc/28wJ6GRW/DEFAULT-AVA2605-0-jpg-wm650212d3-0f65-4048-8638-bb2167cc7a44.jpg)
 Every so often I get a couple of green-ish spots (like at the base of the tail / the haunches of the big panther above), I'm assuming because of chemicals in the ink burning. Using plain paper or just black-and-white would probably let me avoid it if I wanted to, but I haven't really tested it because I like this look an unreasonable amount.\
 \
 If your clay is kiln-hot you should put a cover on it so the smoke stays and tints it darker, but the way I do it I feel like that smothers the fire and doesn't help, at least for small sculptures (maybe because the container is about five times as high as the sculptures so the smoke stays trapped but too high to touch them) (more testing necessary).
 ![a white clay owl with burning paper on top](https://64.media.tumblr.com/7ec26c6194770133fb05fd2a59c15f14/2319444fff97d2db-9c/s1280x1920/ec905fda62f2b1f4e51b34982476177291a93f52.jpg)
-![a white clay owl with burning paper on top and a metal cover](https://64.media.tumblr.com/e271d2643c5c4f1f305e91c5bfa44f7f/2319444fff97d2db-3e/s1280x1920/7cb2369b93fd10559ae2f0859f8109ade603067c.jpg)\
-\
-### 3) sometimes a second or third pass is necessary if the smoke pattern is not dark enough
+![a white clay owl with burning paper on top and a metal cover](https://64.media.tumblr.com/e271d2643c5c4f1f305e91c5bfa44f7f/2319444fff97d2db-3e/s1280x1920/7cb2369b93fd10559ae2f0859f8109ade603067c.jpg)
 
-The panther whose tail we see above is about 40 cm / 16 inches on the longest dimension; I recently smoked another batch that's much smaller, more like 8-15cm / 3-6 inches on the longest dimension, and the patterns are closer to a plain gradient (maybe because if you put a big pattern on a tiny sculpture you don't see the whole pattern, just the border of it):
+
+### 3) sometimes do a second or third pass if the smoke pattern is not dark enough
+
+The panther whose tail we see above is about 40 cm / 16 inches on the longest dimension; I recently smoked another batch that's much smaller, more like 8-15cm / 3-6 inches on the longest dimension, and the patterns are closer to a plain gradient (maybe because if you put a big pattern on a tiny sculpture you don't see the whole pattern, just the border of it - or maybe that was when I was testing not pre-heating them, I don't recall):
 ![a clay panther with color in a gradient from dark to light](https://i.postimg.cc/sDBy8Sgq/DEFAULTIMG-0714-wmcb3866a0-eea7-41f4-aa00-83ef1438260f.jpg)\
+\
 \
 I had some interesting effects in the first smoking (the same as the big panther), tiny white spots, like this (this hare is medium-sized, maybe 20cm / 8 inches long), but I have no clue why, or how to reproduce it (I use clay with grog (pre-cooked clay dust mixed into raw clay, that creates texture), so *maybe* it is linked to that? Who knows.):
 ![the back of a clay sculpture of a hare with lighter color in a splatter-like pattern](https://i.postimg.cc/7ZRKGQB5/DEFAULT-AVA2670-0-jpg-wmffcb548a-8dca-4043-9a52-8ce83235bac0.jpg)\
 \
+\
 I added some water droplets to a recent smoking and it does seem to keep areas from darkening as much, which allows for some more pattern control (here on the flank/back under the arm). I did it on the tail too, and it did not break due to thermal shock, which was a concern I had; but the change in color is not quite as visible as I'd like. I should try some tests with wet bands of cloth - or slip (wet/muddy clay)? pretty sure I can make patterns with slip if it doesn't fall off, should be interesting - at least on the tail, that should give something interesting)
 ![a clay panther with a droplet-like pattern on its side](https://i.postimg.cc/7YDDZt8B/DEFAULTIMG-0725-wmd7e6df2d-4293-4040-b734-6bf5cf53d2d1.jpg)\
+\
 \
 And once a few years back I kept smoking something for a bit longer than usual and it got this very deep black-brown and shiny, caramelized sugar-like - which I very much liked; but I think it was a leftover product in the container I smoked in (it had contained paint before so maybe some kind of oil...?). I'd like to be able to reproduce it but I like my lungs in working order (so no burning unknown chemicals on purpose) and also I think all the chemicals burned away anyway so I'd have to find new ones (I could try sprinkling it with salt or sugar or something, I know you can glaze with salt (... at 1000+°C / 1800+°F) so it might give interesting results - or flop completely; that's what makes it interesting).
 
