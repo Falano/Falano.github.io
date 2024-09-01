@@ -34,6 +34,11 @@ search: false
 # documentation theme
 # doc theme sidebar configuration
 
+feed:
+  categories:
+    - ceramics
+    - ceramique
+
 defaults:
   -
     scope:
