@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Enfumage: 1"
-tags: FR smoking clay
+tags: FR smoking cera
 last_updated: August 31, 2024
+description: tutoriel sur l'enfumage
 permalink: /portfolio/volume/2024-08-31_smoking_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
