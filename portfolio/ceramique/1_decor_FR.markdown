@@ -17,11 +17,11 @@ La plupart ont un trou pour mettre un fil de collier ou les pendre à un clou à
 ## Insectes / Reptiles / Invertébrés
 ![critters medaillons: frog, trilobyte, lizard, snake, crocodile, spiderweb, snail, pillbugPerspective, pillbugLines, ladybug, centipedeLines](https://i.postimg.cc/QxWGS36r/DEFAULTIMG-0887-col-wm01e2524a-3cf7-4bb9-9252-648d47c92de2.jpg)  
 ## Chats & Chiens
-![pets medaillons: blackCatCafe, breadCat, catAngry, runningCat (one and one inverse colors), catHead](https://i.ibb.co/K9T10PD/IMG-0521.jpg)  
+![pets medaillons: blackCatCafe, breadCat, catAngry, runningCat (one and one inverse colors), catHead](https://i.postimg.cc/Zq78yvp5/IMG-0521.jpg)  
 ## Autres Mammifères
 ![other mammals medaillons: sheepCloud, boarTusks, wolfTeeth, sheepHorns, hippo, ermine, stagAntlers, monkeyTail, badgerFace](https://i.postimg.cc/3x5Mcc60/DEFAULTIMG-0895-col-wme8af0c68-49c4-4287-94c8-726a8e532b2c.jpg) 
 ## Astres et Symboles
-![sky medaillons and symbols ones: moon, sunAsia, fire, spiral, eye abstract](https://i.ibb.co/HrJHsF5/IMG-0515.jpg)  
+![sky medaillons and symbols ones: moon, sunAsia, fire, spiral, eye abstract](https://i.postimg.cc/wBT5vQtr/IMG-0515.jpg)  
 ## Plantes
 ## Paysages Urbains Et Objets Artificiels
-![artificial medaillons: cogwheel, skyline](https://i.ibb.co/522TcCH/IMG-0517.jpg)  
+![artificial medaillons: cogwheel, skyline](https://i.postimg.cc/B6jx5ZBc/IMG-0517.jpg)  
