@@ -8,16 +8,20 @@ topnav:
       url: menu_EN.html
       output: web
 
-    - title: Decor
-      url: decor_EN.html
+    - title: Sculpture Bare
+      url: sculpture-bare_EN.html
       output: web
-      
-    - title: Sculpture
-      url: sculpture_EN.html
+
+    - title: Colors
+      url: sculpture-colors_EN.html
       output: web
 
     - title: Glazes
-      url: glazes_EN.html
+      url: sculpture-glazes_EN.html
+      output: web
+
+    - title: Patterns
+      url: patterns_EN.html
       output: web
 
     - title: Fairs

@@ -8,16 +8,20 @@ topnav:
       url: menu_FR.html
       output: web
 
-    - title: Decor
-      url: decor_FR.html
-      output: web
-      
-    - title: Sculpture
-      url: sculpture_FR.html
+    - title: Sculpture Nue
+      url: sculpture-bare_FR.html
       output: web
 
-    - title: Emaux
-      url: glazes_FR.html
+    - title: Couleur
+      url: sculpture-colors_FR.html
+      output: web
+
+    - title: Émaux
+      url: sculpture-glazes_FR.html
+      output: web
+
+    - title: Motifs
+      url: patterns_EN.html
       output: web
 
     - title: Expositions
