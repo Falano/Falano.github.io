@@ -3,10 +3,8 @@ layout: page_cera_EN
 title:  "Ceramics - Noémie Scherer"
 last_updated: August 30, 2024
 permalink: /portfolio/volume/menu_EN.html
-redirect_from: portfolio/volume/menu.html Why does this not work????
-redirect_from: portfolio/volume/
-redirect_from: ceramics/
-redirect_from: ceramics
+redirect_from:
+  - ceramics/
 topnav: topnav_Portfolio_Volume_EN
 ---
 \

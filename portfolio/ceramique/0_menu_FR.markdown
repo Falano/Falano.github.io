@@ -3,9 +3,10 @@ layout: page_cera_FR
 title:  "Céramique - Noémie Scherer"
 last_updated: 30 Août 2024
 permalink: /portfolio/volume/menu_FR.html
-redirect_from: portfolio/volume
-redirect_from: ceramique/
-redirect_from: ceramique
+redirect_from:
+  - portfolio/volume/menu
+  - portfolio/volume
+  - ceramique
 topnav: topnav_Portfolio_Volume_FR
 ---
 \
