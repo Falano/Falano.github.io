@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cera_EN
 title: "Smoking: 1"
 tags: EN smoking cera
 categories: ceramics EN cera

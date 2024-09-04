@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cera_FR
 title: "Enfumage: 1"
 tags: FR smoking cera
 categories: ceramique FR cera
