@@ -2,8 +2,8 @@
 layout: page_cera_EN
 title:  "Fairs - Noémie Scherer"
 last_updated: August 30, 2024
-permalink: /portfolio/volume/fairs_EN.html
-redirect_from: /portfolio/volume/fairs
+permalink: /ceramics/fairs_EN.html
+redirect_from: /ceramics/fairs
 topnav: topnav_Portfolio_Volume_EN
 ---
 

@@ -2,7 +2,7 @@
 layout: page_cera_FR
 title:  "Émaux - Noémie Scherer"
 last_updated: 30 Août 2024
-permalink: /portfolio/volume/sculpture-glazes_FR.html
+permalink: /ceramics/sculpture-glazes_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
 

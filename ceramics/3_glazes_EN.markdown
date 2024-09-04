@@ -2,10 +2,10 @@
 layout: page_cera_EN
 title:  "Glaze - Noémie Scherer"
 last_updated: August 30, 2024
-permalink: /portfolio/volume/sculpture-glazes_EN.html
+permalink: /ceramics/sculpture-glazes_EN.html
 redirect_from: 
-  - /portfolio/volume/sculpture-glazes
-  - /portfolio/volume/glazes
+  - /ceramics/sculpture-glazes
+  - /ceramics/glazes
 topnav: topnav_Portfolio_Volume_EN
 ---
 

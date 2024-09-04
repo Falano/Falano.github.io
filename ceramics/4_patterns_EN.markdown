@@ -2,7 +2,7 @@
 layout: page_cera_EN
 title:  "Decor - Noémie Scherer"
 last_updated: August 30, 2024
-permalink: /portfolio/volume/patterns_EN.html
+permalink: /ceramics/patterns_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
 

@@ -21,7 +21,7 @@ topnav:
       output: web
 
     - title: Motifs
-      url: patterns_EN.html
+      url: patterns_FR.html
       output: web
 
     - title: Expositions

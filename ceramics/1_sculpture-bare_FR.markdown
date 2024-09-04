@@ -2,10 +2,10 @@
 layout: page_cera_FR
 title:  "Sculpture - Noémie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /portfolio/volume/sculpture-bare_FR.html
+permalink: /ceramics/sculpture-bare_FR.html
 redirect_from: 
-  - /portfolio/volume/sculpture-bare
-  - /portfolio/volume/sculpture
+  - /ceramics/sculpture-bare
+  - /ceramics/sculpture
 topnav: topnav_Portfolio_Volume_FR
 ---
 

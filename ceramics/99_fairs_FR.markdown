@@ -2,7 +2,7 @@
 layout: page_cera_FR
 title:  "Expositions et Marchés - Noémie Scherer"
 last_updated: 30 Août 2024
-permalink: /portfolio/volume/fairs_FR.html
+permalink: /ceramics/fairs_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
 

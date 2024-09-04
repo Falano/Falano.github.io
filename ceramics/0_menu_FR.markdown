@@ -2,8 +2,9 @@
 layout: page_cera_FR
 title:  "Céramique - Noémie Scherer"
 last_updated: 30 Août 2024
-permalink: /portfolio/volume/menu_FR.html
+permalink: /ceramics/menu_FR.html
 redirect_from:
+  - ceramics/menu
   - portfolio/volume/menu
   - portfolio/volume/
   - portfolio/volume
@@ -13,7 +14,7 @@ topnav: topnav_Portfolio_Volume_FR
 \
 [->To see this website in english click here<-](/ceramics)
 
-# Volume
+# Céramique
 ![stand](https://i.postimg.cc/dtqbJzsm/IMG-0414-clean.jpg)
 
 - Si vous ne voyez pas les images, essayez de désactiver votre bloqueur de publicités  

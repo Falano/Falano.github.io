@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: page_cera_FR
 title:  "Blog Index"
 last_updated: August 30, 2024
-permalink: /portfolio/volume/blog_FR.html
+permalink: /ceramics/blog_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
 
