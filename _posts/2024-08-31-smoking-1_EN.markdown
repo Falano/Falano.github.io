@@ -5,7 +5,9 @@ tags: EN smoking cera
 categories: ceramics EN cera
 last_updated: August 31, 2024
 decription: How I do my smoked sculptures
-permalink: /portfolio/volume/2024-08-31_smoking_EN.html
+permalink: /ceramics/2024-08-31_smoking_EN.html
+redirect_from:
+  - portfolio/volume/2024-08-31_smoking_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
 \
