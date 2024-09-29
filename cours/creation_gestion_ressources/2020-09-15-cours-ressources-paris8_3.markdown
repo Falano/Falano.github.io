@@ -10,11 +10,11 @@ topnav: topnav_P8_Ressources
 - doivent s'emboîter sans que ça se voie
 	- pour les décors naturels: avoir plusieurs variantes excentrées
 - perspective au choix
-    - vu de haut (jrpgs) (cf: chrono trigger, stardew valley, ff6)<details> - chrono trigger ![chrono trigger](/assets/501_chronoTrigger.png) <br> - stardew valley ![stardew valley](/assets/502_stardewValley.jpg) <br> - final fantasy 6 ![ff6](/assets/103_ff6.jpg)
-    - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid, celeste) <details> - braid ![braid](/assets/503_braid.jpg) <br> - super meat boy ![super meat boy](/assets/504_superMeatBoy.jpg) <br> - super metroid ![super metroid](/assets/505_superMetroid.png) <br> - celeste ![celeste](/assets/109_celeste.png)
-    - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor, freecol) <details> - transistor ![transistor](/assets/506_transistor.jpg) <br> - freecol ![freecol](/assets/507_freecol.jpg)
-    - vue de haut non-carrée (type jeu de plateau); supporté par Godot (cf Battle for Wesnoth) <details> - battle for wesnoth ![wesnoth](/assets/508_wesnoth.jpg)
-- exemples de tileset vu du haut avec explications <details> - tileset minimal; en bas le tilest en haut un exemple d'utilisation <br> ![topdown tileset minimal](/assets/mine/tiles-example-02_minimal_blank_4px.png) <br> - tileset minimal - avec légende <br> ![topdown tile minimal legend](/assets/mine/tiles-example-02_minimal_legende_4px.png) <br> - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales <br> ![topdown tileset medium basis](/assets/mine/tiles-example-02_median_A_basis_4px.png) <br> - tileset médian - détails <br> ![topdown tileset medium details](/assets/mine/tiles-example-02_median_B_details_4px.png) <br> - tileset médian - légende <br> ![topdown tileset medium legend](/assets/mine/tiles-example-02_median_C_legend_4px.png)
+    - vu de haut (jrpgs) (cf: chrono trigger, stardew valley, ff6)<details> - chrono trigger ![chrono trigger](/assets/cours/501_chronoTrigger.png) <br> - stardew valley ![stardew valley](/assets/cours/502_stardewValley.jpg) <br> - final fantasy 6 ![ff6](/assets/cours/103_ff6.jpg)
+    - vu de côté (platformers) (cf SuperMeatBoy, braid, super metroid, celeste) <details> - braid ![braid](/assets/cours/503_braid.jpg) <br> - super meat boy ![super meat boy](/assets/cours/504_superMeatBoy.jpg) <br> - super metroid ![super metroid](/assets/cours/505_superMetroid.png) <br> - celeste ![celeste](/assets/cours/109_celeste.png)
+    - vue isométrique (souvent stratégie ou rpg européen); supporté par Godot (cf transistor, freecol) <details> - transistor ![transistor](/assets/cours/506_transistor.jpg) <br> - freecol ![freecol](/assets/cours/507_freecol.jpg)
+    - vue de haut non-carrée (type jeu de plateau); supporté par Godot (cf Battle for Wesnoth) <details> - battle for wesnoth ![wesnoth](/assets/cours/508_wesnoth.jpg)
+- exemples de tileset vu du haut avec explications <details> - tileset minimal; en bas le tilest en haut un exemple d'utilisation <br> ![topdown tileset minimal](/assets/cours/mine/tiles-example-02_minimal_blank_4px.png) <br> - tileset minimal - avec légende <br> ![topdown tile minimal legend](/assets/cours/mine/tiles-example-02_minimal_legende_4px.png) <br> - tileset médian - base (pour être sûr que ça marche bien avant de mettre les détails); avec des variations pour plusieurs tiles et des diagonales <br> ![topdown tileset medium basis](/assets/cours/mine/tiles-example-02_median_A_basis_4px.png) <br> - tileset médian - détails <br> ![topdown tileset medium details](/assets/cours/mine/tiles-example-02_median_B_details_4px.png) <br> - tileset médian - légende <br> ![topdown tileset medium legend](/assets/cours/mine/tiles-example-02_median_C_legend_4px.png)
 
 **références**  
 Chrono Trigger, par Square  
@@ -75,10 +75,10 @@ Battle for Wesnoth, par Tout Un Tas De Gens Aussi C'est Open Source: <https://ww
         - difficulté artificielle créée par de faux signaux: le joueur n'est pas l'ennemi du game designer.
     - dead cells / celeste
         - plateformes qui se détachent bien
-        - arrière-plan dé-contrasté <details> - dead cells ![Dead Cells](/assets/111_Dead-Cells.jpg) <br> - Celeste ![Celeste](/assets/109_celeste.png)
+        - arrière-plan dé-contrasté <details> - dead cells ![Dead Cells](/assets/cours/111_Dead-Cells.jpg) <br> - Celeste ![Celeste](/assets/cours/109_celeste.png)
 - personnages entre eux: qu'ils soient facilement différenciables
 - personnages/ennemis: qu'ils soient différenciables en un coup d'oeil
-- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/301_fantasiaInfogrames_gd.png)
+- fond/fond: premier plan en illustration: ajoute de la profondeur; en level design: gaffe à la parallaxe qui peut cacher des éléments importants au gameplay) <details> - Horizon Zero Dawn ![horizon zero dawn](/assets/cours/300_horizonZeroDawn.jpg) <br> - fantasia ![fantasia](/assets/cours/301_fantasiaInfogrames_gd.png)
 
 **références**  
 Horizon Zero Dawn, par Guerilla Games: <https://www.guerrilla-games.com/play/horizon>  
@@ -91,9 +91,9 @@ Supertux, par Tout Un Tas De Gens C'est Open Source: <https://www.supertux.org/>
     - tout prend la teinte de l'air (en général: bleuté)
     - moins de contrastes
         - noirs moins noirs
-        - couleurs moins saturées <details> <br>![perspective atmospherique](/assets/601_persAtmo.jpg)
+        - couleurs moins saturées <details> <br>![perspective atmospherique](/assets/cours/601_persAtmo.jpg)
 - parallaxe
-    - plus c'est proche, plus ça va vite <details> <br>![parallaxe](/assets/602_Parallax_scroll.gif)
+    - plus c'est proche, plus ça va vite <details> <br>![parallaxe](/assets/cours/602_Parallax_scroll.gif)
 - lumière
 	- comme unificateur (une seule source de lumière)
 	- comme évidenciateur (les endroits importants et interactifs sont dans la lumière)

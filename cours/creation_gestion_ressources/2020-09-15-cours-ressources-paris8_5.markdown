@@ -145,7 +145,7 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
     - parce que FEEDBACK!!!
 - anim de marche (différence marche/course)
     - il *doit* y avoir une différence de hauteur de la tête (à cause de la hauteur des hanches, en fait) pendant la marche/course  
-    [marche](/assets/mine/upDownWalk.gif)  
+    [marche](/assets/cours/mine/upDownWalk.gif)  
     - jambe/bras opposés
     - inclinaison du torse: un torse plus incliné vers l'avant traduit souvent une vitesse plus grande - sauf pour les athlètes, qui courent avec le torse droit.
     - le centre de gravité doit être entre les points d'appuis ou la position cesse d'être stable et le personnage / l'objet tombe (ou saute, s'il a donné une impulsion)
@@ -184,7 +184,7 @@ Looney Tunes, par Warner Bros
 - Une autre où il accélère.
 - Une autre où il ralentit.
 - Une autre où il le traverse quasi instantanément.  
-[correction](/assets/exos/exo7_trait.ase)
+[correction](/assets/cours/exos/exo7_trait.ase)
 
 2) étude du timing 2 et des courbes
 - ouvrir une image de 64*64
@@ -195,18 +195,18 @@ Looney Tunes, par Warner Bros
 - sur l'image 13, faire un point en bas à droite
 - les images 14 et 15 peuvent soit être vides soit être des copies continues de l'image 13
 - remplir les images vides du milieu (si vous avez besoin de plus ou moins d'images vous pouvez en ajouter ou enlever)  
-[correction](/assets/exos/exo8_3balles.ase)  
+[correction](/assets/cours/exos/exo8_3balles.ase)  
 
 3) animation de marche/course  
 faire une animation de marche/course  
-- [exemple1: étapes](/assets/exos/decompositionAnim_marcheCourse.ase)
-- [exemple2: détails](/assets/exos/charaViolet_course.ase)
+- [exemple1: étapes](/assets/cours/exos/decompositionAnim_marcheCourse.ase)
+- [exemple2: détails](/assets/cours/exos/charaViolet_course.ase)
 - [tuto: marche vue du haut](https://www.patreon.com/posts/top-down-walk-21353953)
-- [stylisations persos](/assets/mine/stylisations_perso_marche.ase)
+- [stylisations persos](/assets/cours/mine/stylisations_perso_marche.ase)
 
 4) animation de saut  
 animer un saut (utilisable dans un jeu vidéo: différentes étapes, boucle)
-- [exemple](/assets/exos/decompositionAnim_saut.ase)
+- [exemple](/assets/cours/exos/decompositionAnim_saut.ase)
 
 2) courbes d'animation
 - dessiner un perso; qu'il soit en position de base de idle; copier cette frame à la frame 3O. Activer l'onionskin avec trois frames devant et trois frames derrière (ou d'une autre manière si c'est plus confortable pour vous). Utiliser une palette réduite pour que ce soit plus rapide à animer.

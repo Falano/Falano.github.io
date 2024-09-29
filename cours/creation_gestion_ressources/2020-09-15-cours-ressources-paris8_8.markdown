@@ -16,7 +16,7 @@ topnav: topnav_P8_Ressources
 - essayer d'avoir une unité graphique
     - et une unité entre le graphique, l'audio, l'histoire et le gameplay
     - ou au contraire qu'ils soient opposés, pour un effet de malaise bizarre
-        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
+        - cf Happy Tree Friends (attention: gore), [Limbo](/assets/cours/995_limbo.jpg) par Playdead: <https://playdead.com/games/limbo/>
 - à propos de la musique: pour chaque musique différente, penser à son utilisation
     - une musique de fond doit avoir un cycle long (ne se répéter qu'au bout d'un certain temps)
         - mais on peut avoir plusieurs variations sur le même thème
@@ -40,7 +40,7 @@ topnav: topnav_P8_Ressources
 ## 2) notions d'organisation pour la fabrication de jeu
 (ce sont principalement des conseils de game jam, mais ils s'appliquent à votre cas aussi)
 - vous serez en retard sur le planning
-    - prévoyez un temps conséquent pour résoudre les bugs <details> - ![le planning de A Short Hike](/assets/801_aShortHikesPlanning.jpg)
+    - prévoyez un temps conséquent pour résoudre les bugs <details> - ![le planning de A Short Hike](/assets/cours/801_aShortHikesPlanning.jpg)
         - pour trouver les bugs, **faites tester votre jeu** par des amis qui n'ont pas participé à sa création. On ne voit pas facilement ses propres bugs parce qu'on sait comment le jeu doit marcher alors on ne fait rien d'inattendu.
             - demandez aussi à vos testeurs si les tutos et le but du jeu sont clairs.
     - faites un jeu modulaire

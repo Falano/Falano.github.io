@@ -51,7 +51,7 @@ faire un personnage en 32*32 pixels (soit le perso de son projet de fin d'année
     - modes de calques
         - overlay et/ou multiply pour les ombres
         - overlay et/ou normal à faible opacité pour la lumière
-        - tester les autres pour voir ce qu'ils font<details>![modes de calques](/assets/400_modesCalques.png)
+        - tester les autres pour voir ce qu'ils font<details>![modes de calques](/assets/cours/400_modesCalques.png)
     - verrouiller un calque
     - utilisation
         - pour des éléments superposés séparés (pour la peau d'oignon)
@@ -92,7 +92,7 @@ faire des variantes d'ennemis ou de pnj avec des calques sur la même base (vêt
     - redimensionnement de l'image (*Sprite > Sprite Size*, *Method: nearest neighbour*, utiliser un multiple entier de la taille actuelle (200%, 300%, pas 212%))
     - redimensionnement du canevas (*Sprite > Canvas Size*)
     - Couper les bords de l'image (*Sprite > Trim*)
-- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2, 2,1,2,2,3 et non 3,1,2,1,3,2,3 <details>![courbes](/assets/mine/courbes.png)
+- les courbes doivent être régulières; le nombre de pixels doit faire par exemple 3,2, 2,1,2,2,3 et non 3,1,2,1,3,2,3 <details>![courbes](/assets/cours/mine/courbes.png)
 
 --  
 **EXERCICE 4**  
@@ -135,8 +135,8 @@ autres:
         -  les couleurs complémentaires sont celles qui sont opposées sur le cercle des teintes: rouge et vert, violet et jaune, bleu et orange
     - mais pour faire ressortir un détail (de petite taille) et attirer l'attention, on peut saturer davantage ses couleurs (sur un _petit_ espace)
         - ou utiliser une couleur complémentaire à celles généralement utilisées dans le niveau
-- pour info: notre perception des couleurs change en fonction de celles qui les entourent <details> ![colorDress](/assets/402_colorDress.jpg)[source](https://en.wikipedia.org/wiki/The_dress)
-- roues des couleurs <details>![rouesDesCouleurs](/assets/401_theorieCouleurs.jpg) [source](https://medium.com/learning-lab/how-i-learnt-about-color-theories-and-made-my-best-color-palettes-in-one-month-a461604ca669)
+- pour info: notre perception des couleurs change en fonction de celles qui les entourent <details> ![colorDress](/assets/cours/402_colorDress.jpg)[source](https://en.wikipedia.org/wiki/The_dress)
+- roues des couleurs <details>![rouesDesCouleurs](/assets/cours/401_theorieCouleurs.jpg) [source](https://medium.com/learning-lab/how-i-learnt-about-color-theories-and-made-my-best-color-palettes-in-one-month-a461604ca669)
 
 ## 8) Recap général
 - ombres et lumières de teintes différentes (typiquement un vert clair sera plus jaune, un bleu clair plus cyan, et un rouge clair ou un jaune foncé plus orange)
@@ -173,31 +173,31 @@ autres:
 - l'[aide officielle de asprite](https://www.aseprite.org/docs/)
 
 ## 100) quelques ressources en français
-- exemples de différents styles graphiques en pixel art <details> un tweet de [sy0sa](https://twitter.com/sy0sa/status/845932073181339648) ![stylisations1](/assets/116_pxartStyles.png)  
-![stylisations2](/assets/117_pxartStyles2.png)  
+- exemples de différents styles graphiques en pixel art <details> un tweet de [sy0sa](https://twitter.com/sy0sa/status/845932073181339648) ![stylisations1](/assets/cours/116_pxartStyles.png)  
+![stylisations2](/assets/cours/117_pxartStyles2.png)  
 - structure d'un crâne humain  
-![cranePixel](/assets/mine/teteProfil.png)  
-![cranePhoto](/assets/crane.jpg)  
+![cranePixel](/assets/cours/mine/teteProfil.png)  
+![cranePhoto](/assets/cours/crane.jpg)  
 - proportions du torse  
-![torse](/assets/mine/torse.png)  
+![torse](/assets/cours/mine/torse.png)  
 - une traduction d'extraits du tuto de Arne ([http://androidarts.com/pixtut/pixelart.htm](http://androidarts.com/pixtut/pixelart.htm)):
     - Palettes:
-![Palettes](/assets/arnesTuto/01_Skintone.gif)  
+![Palettes](/assets/cours/arnesTuto/01_Skintone.gif)  
 Sauf à travailler avec de très petites palettes (de 3 couleurs par exemple), on aura probablement besoin de mettre en place des rampes de couleurs (dégradés) à un moment. Quand on crée sa rampe je déconseille de mélanger du noir et du blanc à la couleur de base pour créer les deux bouts de la rampe. Dans la nature, la teinte d'une couleur change souvent avec la lumière, donc une rampe noir-rose-blanc peut sembler terne et artificielle. En plus, un objet, comme un visage par exemple, a souvent des teintes différentes selon les endroits. Pour de la peau, j'aime faire l'ombre un violet sombre un peu gris, garder le ton moyen orange, et la lumière presque jaune. Dans les scènes d'extérieur je mélange aussi des tons gris plus froids pour l'ombre (à cause de la lumière du ciel) et du jaune dans les couleurs claires (à cause de la lumière chaude du soleil)
     - Fluo:
-![Fluo](/assets/arnesTuto/02_Supergreen.gif)  
+![Fluo](/assets/cours/arnesTuto/02_Supergreen.gif)  
 Il existe de nombreuses couleurs, mais certaines sont plus facilement utilisables que d'autres, particulièrement quand on fait des trucs réalistes. J'éviterais de construire des ramples entières à partir de couleurs très saturées, sauf si on fait un travail sur le fluo ou expérimental. Ça ne veut pas dire que toutes les couleurs devraient être grises ou pastel; les couleurs très saturées peuvent être très efficaces pour ajouter une dimension supplémentaire à certains points, mais je pense que leur fréquence dans la palette devrait être proportionnelle à leur utilisation. Ici j'ai dessiné une petite créature fluo étrange parce que ça correspond à la palette. Pour des visages ou de la nature je devrais avoir une approche plus artistique.
     - Contours:
-![Contours](/assets/arnesTuto/03_Blacklining.gif)  
+![Contours](/assets/cours/arnesTuto/03_Blacklining.gif)  
 Un excès de contours noirs peut naître d'une sorte de compulsion à marquer et séparer chaque détail. Quand les couleurs sont entourées de noir elles ont l'air plus sombres et ternes. On perd aussi de l'espace et tout le personnage est aplati parce que les lignes poussent tous les détails au même plan (surtout si les rampes de couleur utilisées sont peu contrastées). Une autre manière de séparer les détails est d'utiliser le contraste et des lignes additives plus claires (les lignes noires sont soustractives). Le style que j'utilise a l'avantage d'un mélange de lignes soustractives, de lignes perdues (suggérées mais pas explicitement dessinées) et de lignes additives.
     - Contours au sol:
-![Contours au sol](/assets/arnesTuto/04_Bottomlines.gif)  
+![Contours au sol](/assets/cours/arnesTuto/04_Bottomlines.gif)  
 Une autre considération quand on travaille avec des contours noirs est que les lignes à la base de la forme ressemblent un peu à une ombre et peuvent donner l'impression que la figure entière flotte. Si on enlève les contours au contact avec le sol, la forme semble solidement posée.  
 Si on enlève tout le contour on gagne plus de place pour les détails internes, mais après il faut se reposer sur le contraste avec le fond pour la lisibilité de la silhouette.
     - Lignes:
-![Lignes](/assets/arnesTuto/05_Cleanlines.gif)  
+![Lignes](/assets/cours/arnesTuto/05_Cleanlines.gif)  
 Des lignes de pixels posées rapidement semblent irrégulières et désordonnées, un peu comme un croquis au crayon d'un débutant qui repasse plusieurs fois sur les lignes (lignes barbelées). Certains détails utilisent des lignes irrégulières, mais en général on voudra utiliser des courbes de type 1, 1, 2, 3, ou 2, 1, 2, ou quelque chose du genre. Dans l'ombre des objets je remplis parfois les diagonales, mais parfois ça peut ne pas sembler très propre.
     - Bruit:
-![Bruit](/assets/arnesTuto/06_Noise.gif)  
+![Bruit](/assets/cours/arnesTuto/06_Noise.gif)  
 Du bruit et des pixels inutilement orphelins (non reliés à d'autres pixels de la même couleur), c'est ce qu'on obtient quand on essaie d'incorporer trop de détails. Il est tentant d'en inclure autant que possible, mais il faut considérer l'échelle du pixel art et comment être clair, et aussi la facilité d'animation (des détails lisibles sur une image pourraient être difficiles à dupliquer sur l'image suivante, légèrement tournée). L'artiste connaît peut-être l'intention derrière chaque pixel, mais le joueur généralement pas, et les verra donc probablement comme du bruit (et l'artiste aussi en y retournant plus tard).  
 Cela dit, il est intéressant de conserver quelques endroits avec plus de bruit pour ajouter des variations dans la texture.
