@@ -6,7 +6,7 @@ permalink: /ceramics/blog_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
 
-Si vous utilisez RSS, [voici le feed avec tous les articles en français](https://falano.github.io/feed/ceramique.xml).
+Si vous utilisez RSS, [voici le flux avec tous les articles en français](https://falano.github.io/feed/ceramique.xml).
 
 <ul>
   {% for post in site.posts %}
