@@ -15,8 +15,8 @@ topnav:
       url: modelisation.html
       output: web
 
-    - title: Textures
-      url: Textures.html
+    - title: Materiaux
+      url: materiaux.html
       output: web
 
     - title: Rigging

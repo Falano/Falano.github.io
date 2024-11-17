@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  "Cours Paris 8: introduction à la 3D avec blender"
-last_updated: September 17, 2023
+last_updated: October 24, 2024
 permalink: /cours/introduction_3D/introduction.html
 topnav: topnav_P8_3D
 ---
 
-# 1. Introduction
+# I. Introduction
 
 
 ## 1) étapes de la 3D
