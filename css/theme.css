@@ -37,6 +37,8 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 /*page content - titles*/
 h1 {color: var(--main-bg-col) }
 h2 {color: var(--sec-bg-col) }
+h3 {color: var(--main-bg-col)}
+h4 {color: var(--sec-bg-col) }
 
 /*page content - links*/
 a:link {
