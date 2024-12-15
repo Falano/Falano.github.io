@@ -12,7 +12,7 @@ redirect_from:
 topnav: topnav_Portfolio_Volume_FR
 ---
 \
-[->To see this website in english click here<-](/ceramics)
+[->english version here<-](/ceramics)
 
 # Céramique
 ![stand](/assets/ceramics/IMG_0414-clean_glazed.jpg)
@@ -26,18 +26,21 @@ topnav: topnav_Portfolio_Volume_FR
 ![snow leopard B leaping: fullbody top](/assets/ceramics/AVA2590_wm_glazed.jpg)
 ![otter](/assets/ceramics/AVA2835_wm_glazed.jpg)
 ![owl flying](/assets/ceramics/AVA2624_wm_glazed.jpg)
+[plus](sculpture-bare_FR.html)
 ### Couleur
 ![white blue drakes planted](/assets/ceramics/IMG_0791_wm_glazed.jpg)
 ![micro drakes](/assets/ceramics/AVA2856_wm_glazed.jpg)
 ![micro sheep colored, glazed and unglazed, from above](/assets/ceramics/IMG_0864_wm_engobes-BOTZ_glazed.jpg)
+[plus](sculpture-colors_FR.html)
 ### Émaux
 ![three blue greenish gray snails](/assets/ceramics/IMG_0599_wm_glazed.jpg)
 ![emerald green islets closeup](/assets/ceramics/IMG_0622_wm_glazed.jpg)
-
+[plus](sculpture-glazes_FR.html)
 ## Motifs
 ![owl-medaillon](/assets/ceramics/P1000458_wm_glazed.jpg)
 ![eyes-medaillon](/assets/ceramics/P1000466_wm_glazed.jpg)
 ![pigeon-medaillon](/assets/ceramics/P1000472_wm_glazed.jpg)
+[plus](patterns_FR.html)
 \
 \
 \
