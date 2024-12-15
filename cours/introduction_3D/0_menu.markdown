@@ -3,18 +3,20 @@ layout: page
 title:  "Cours Paris 8: introduction à la 3D avec blender"
 last_updated: October 24, 2024
 permalink: /cours/introduction_3D/menu.html
-redirect_from: /cours/introduction_3D
+redirect_from:
+  - cours/introduction_3D
+  - blender
 topnav: topnav_P8_3D
 ---
 
 # 0. Menu
 
-L'adresse de ce cours: 
-<https://falano.github.io/cours/introduction_3D/menu.html>
+L'adresse de ce cours:\
+<https://falano.github.io/blender>
 
 Mon email: noemie. scherer (at) gmail. com
 
-Programmes utilisés pendant le cours:  
+Programmes utilisés pendant le cours:\
 Blender: <https://www.blender.org/> (logiciel de 3D)
 
 Matériel:

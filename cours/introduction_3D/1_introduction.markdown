@@ -10,12 +10,12 @@ topnav: topnav_P8_3D
 
 
 ## 1) étapes de la 3D
-les étapes de la 3D (https://www.youtube.com/watch?v=JFxzl-rnCPI, tangled: https://www.youtube.com/watch?v=l-S7wQx_hvs; spiderman: https://sketchfab.com/3d-models/the-amazing-spider-man-ebf89a7a598844ca85e29d3c07044e11; baleines animées: https://sketchfab.com/3d-models/gray-whale-9ac79a1407bd4b30b968690059aafd60):
+les étapes de la 3D (<https://www.youtube.com/watch?v=JFxzl-rnCPI>, tangled: <https://www.youtube.com/watch?v=l-S7wQx_hvs>; spiderman: <https://sketchfab.com/3d-models/the-amazing-spider-man-ebf89a7a598844ca85e29d3c07044e11>; baleines animées: <https://sketchfab.com/3d-models/gray-whale-9ac79a1407bd4b30b968690059aafd60>):
 - modélisation
 - texturing
 - pré-animation:
   - rigging
-  - skinning (check how skinning behaves once imported to unity)
+  - skinning (TODO: regarder comment ça s'exporte)
 - animation
 - éclairage
 - particules
@@ -30,7 +30,7 @@ logiciels de 3D:
 
 ## 3) exemples / utilisations de la 3D
 utilisations/exemples de 3D:
-- images, films, jeux vidéos (champignon: https://www.reddit.com/r/blender/comments/18hgm9r/keeping_some_little_friends_warm_blender_cycles/, spiderman, Iron Man, abzu: https://www.youtube.com/watch?v=P2G54w8H4oM, a short hike, Horizon Zero Dawn)
-- base pour un dessin 2D (https://www.artstation.com/challenges/medieval-back-and-forth/categories/170/submissions/73574)
-- fichier pour impression 3D (https://www.lib.uci.edu/3d-printing-examples)
+- images, films, jeux vidéos (champignon: <https://www.reddit.com/r/blender/comments/18hgm9r/keeping_some_little_friends_warm_blender_cycles/>, spiderman, Iron Man, abzu: <https://www.youtube.com/watch?v=P2G54w8H4oM>, a short hike, Horizon Zero Dawn)
+- base pour un dessin 2D (<https://www.artstation.com/challenges/medieval-back-and-forth/categories/170/submissions/73574>)
+- fichier pour impression 3D (<https://www.lib.uci.edu/3d-printing-examples>)
 - pour avoir un aperçu et des mesures précises pour l'architecture, la bijouterie, l'ingénierie, la conception de voitures/machines, etc.
