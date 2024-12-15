@@ -7,7 +7,8 @@ topnav: topnav_P8_3D
 ---
 
 # III. Matériaux
-## 0) Shading
+## 0) Shading et Rendus
+### a) Shading
 - *F3 > Shade Smooth* ou *Shade Flat* pour décider de si on veut que chaque face soit visible individuellement (par exemple pour un cube) ou que la limite des faces soit polie (comme pour une courbe)
 - en Edit Mode on peut assigner des angles visibles à certaines arêtes (Mark Sharp ou Clear Sharp)
 - Object Mode: *F3 > Shade Auto Smooth*; ou Edit Mode: *F3 > Set Sharpness by Angle*: on peut aussi dire qu'au-dessus d'un certain angle c'est Sharp, et en dessous c'est Smooth (ce qui est selon moi ce qui rend le mieux pour du low-poly mais testez)
@@ -16,7 +17,16 @@ topnav: topnav_P8_3D
 |-|-|-|
 |![flat shading](/assets/cours/blender/002a_blender_ShadingFlat.jpg)|![smooth shading](/assets/cours/blender/002b_blender_ShadingSmooth.jpg)|![autosmooth shading](/assets/cours/blender/002c_blender_ShadingAutoSmooth.jpg)|
 
-
+### b) Rendus
+- la plupart des matériaux peuvent être visibles dans la vue 3D
+- mais pas tous; certains, pour les voir correctement, vous avez besoin d'un rendu
+- un rendu c'est *F12* ou Render > Render Image dans le menu général de Blender tout en haut hors de la vue 3D (et *F11* (Render > View Render) pour réafficher la dernière image générée)
+- et vous avez besoin de lumière. Mon organisation de base pour des rendus rapide c'est de mettre trois soleils (Object Mode, *shift A* > Light > Sun) et de les tourner de manière à ce qu'ils couvrent tous les angles (leur position n'a pas d'influence sur le résultat). Personnellement j'aime bien qu'ils aient tous une intensité différente (Properties > Light > Strength), et aussi une couleur très légèrement différente, avec celui qui pointe vers le bas qui est le plus fort, mais faites des tests et voyez ce que vous préférez (on verra les lumières plus en détail plus tard, là ce n'est pas le sujet).
+- et positionnez bien l'objet caméra. *0* permet de voir la vue caméra dans la vue 3D, et *ctrl alt 0* ou View > Align View > Align Active Camera to View déplace et tourne la caméra pour qu'elle voie ce que vous voyiez avec votre point de vu actuel dans la vue 3D.
+- par ailleurs: par défaut les rendus sont très lent. Pour les rendre plus rapides:
+- Properties > Render > Sampling > Render > Samples: le mettre à entre 4 et 16 (faire des tests) (si la vue 3D en mode de visualisation Material Preview est trop lente, diminuer aussi les Samples du Viewport)
+- Properties > Output > Format > %: vous pouvez baisser cette valeur (la mettre à 75 ou 50%) si vous n'avez pas besoin d'une très grande résolution et que c'est juste une preview rapide
+- et dans l'Image Editor (la fenêtre dans laquelle s'affiche votre rendu), vous pouvez faire Image > Save As pour sauvegarder votre rendu
 
 ## 1) Assigner plusieurs matériaux simples
 ### a) Créer plusieurs matériaux
@@ -154,3 +164,13 @@ topnav: topnav_P8_3D
 - demander à tout le monde trois noms de matériaux (et un objet sur lequel il pourrait s'appliquer: "bois" n'est pas autorisé, mais "plancher vernis", "tronc d'arbre", "planche de contreplaqué", "meuble en érable non traité" l'est; certains animaux ont des motifs amusants);
 - mettre en commun les idées, en donner deux à chaque personne, pour en choisir un et le recréer (dans un fichier .blend, utiliser la fonction texte pour noter quel matériau c'est et qui l'a fait),
 - puis mettre en commun les résultats (appliqué chacun sur [les mêmes quatre ou cinq mesh partagés](https://drive.google.com/file/d/1ABZQr3HL10-uVAxsvdoDB5MgUixofp7Q)) et les redistribuer (vérifier que personne n'ait reçu son propre matériau de l'étape précédente) et demander à chaque personne de deviner ce qu'est le matériau reçu.
+
+## 4) effet contour
+- c'est un effet ajouté en post-production par blender: donc ça ne se voit pas dans la vue 3D, mais uniquement sur les rendus (si vos rendus sont trop lents, voir le début de ce chapitre, III. 0) b), sur comment les rendre plus rapides)
+- activer Properties > Render > Freestyle
+- dans Properties > View Layer > Freestyle, changer le Crease Angle (un peu comme l'autosmooth: choisit quels angles sont assez forts pour être pris en compte)
+- il y a plein d'options, je n'ai pas tout regardé; mais:
+- Freestyle Color change la couleur du contour (voir le Modifier Noise, sur cette option et toutes les autres, pour des effets intéressants)
+- Freestyle Alpha change la transparence/opacité du contour
+- Freestyle Thickness change l'épaisseur (voir le Modifier Calligraphy)
+- Freestyle Geometry change son trajet: ajouter de l'aléatoire (Perlin Noise 2D) ou le décale (2D Offset) par exemple
