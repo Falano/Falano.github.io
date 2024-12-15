@@ -59,6 +59,7 @@ longest dimension: about 20 cm / 8 inches
 ![hare B rising: top](/assets/ceramics/AVA2699_wm_glazed.jpg)
 ![hare B rising: right side](/assets/ceramics/AVA2708_wm_glazed.jpg)
 [](Hare C standing.)
+[](Muskoxen???)
 ### Smaller snow leopards
 longest dimensions: about 10-20 cm / 4-8 inches, depending
 ![smoked mini snoleo looking left](/assets/ceramics/IMG_0714_wm_glazed.jpg)
@@ -108,7 +109,7 @@ longest dimension: about 20 cm / 8 inches
 [](lycaons A, B et C.)
 [](przewalski jumping.)
 [](¿¿muscardin volant / orange painted bat ; also: indian flying fox??)
-[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope (nw), nyala (striped antelope), red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler (rn monkey), coconut octopus (rnw), giant Pacific octopus (rw), red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel (nwr), ribbon seal (nw), loggerhead sea turtle (rw), narwhal ??)
+[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope -nw, nyala -striped antelope, red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler -rn monkey, coconut octopus -rnw, giant Pacific octopus -rw, red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel -nwr, ribbon seal -nw, loggerhead sea turtle -rw, narwhal ??, red-throated loon -red throat and white speckles on black wings, monarch butterfly, carcajou?)
 
 ### Micro sheep
 longest dimension: about 5 cm / 2 inches
@@ -117,7 +118,7 @@ longest dimension: about 5 cm / 2 inches
 ![micro sheep red white black](/assets/ceramics/IMG_0996_wm.jpg)
 
 [](TODO: test sandwich clay-engobe-clay, with the bad ones and the new ones)
-[](TODO: tiny turtles)
+[](TODO: tiny turtles - with naked limbs and glazed top (glazed bottom?)
 [](TODO: dendrobates, micro-drakes-like)
 [](TODO: more medium sheep)
 
