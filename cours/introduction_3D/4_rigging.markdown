@@ -77,7 +77,10 @@ topnav: topnav_P8_3D
 (si vous n'avez pas de mesh de quadrupède simple, vous pouvez utiliser [ce dromadaire low-poly](https://drive.google.com/file/d/1EriBObu5o36lKhlBurb3BOEdSZXGNJNe))
 - ne pas oublier de changer de point de vue de temps en temps pour vérifier que l'armature n'est pas toute plate
 - *ctrl E* extruder des os, éventuellement changer leurs parents et s'ils sont connectés
-- Renommer ses os aussi, dans l'onglet Bone des Properties à droite. Une convention répandue est de les nommer "Bras.L", "Bras.R", etc. (et respecter cette convention sera utile pour que blender soit au courant de la symmétrie quand on animera)
+- Renommer ses os aussi, dans l'onglet Bone des Properties à droite.
+- pour pouvoir utiliser les outils de symmétrie, faire une jambe et un bras, les nommer en .L ou .R
+- les sélectionner, *clic droit > symmetrize* (si ça ne marche pas tourner l'armature en edit mode de 90°, et éventuellement changer le point de rotation) pour avoir les deuxièmes bras / jambe
+- *alt R* pour réintialiser la rotation des os avant de commencer à animer
 
 ### b) Contraintes d'animation (Bone Constraints)
 - Inverse Kinematics

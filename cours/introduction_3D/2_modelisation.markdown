@@ -37,7 +37,7 @@ Pour la plupart disponibles dans les icônes verticaux en haut à droite (sur l'
 - Changer de vue: les chiffres du clavier (*1*: face; *ctrl 1*: dos; *3*: côté gauche; *ctrl 3*: côté droit; *7*: vue du dessus; *ctrl 7*: vue du dessous; *9*: inverser la vue; *5*: dés/activer la vue perspective; *2*: tourner vers le bas; *8*: tourner vers le haut; *4*: tourner vers la gauche; *6*: tourner vers la droite; *0*: dés/activer la vue caméra) (sur l'image: 6, outils de navigation)
 
 ### b) EXERCICE 1: trouver toutes les balles magenta dans le projet
-[projet à télécharger et ouvrir dans blender](https://drive.google.com/file/d/1Xfb--nWN8O554KVzoWfwkGJ16izp3uGI/view?usp=drive_link)
+[projet à télécharger et ouvrir dans blender](https://drive.google.com/file/d/1Xfb--nWN8O554KVzoWfwkGJ16izp3uGI/view?usp=drive_link) (+- 20 minutes)
 
 ## 3) Bases de la modélisation
 - tout d'abord, augmenter le nombre d'annulations possibles. Par défaut c'est 32, passer à 64 et voir si ça suffit mais ne ralentit pas trop l'ordi (Edit > Preferences > System > Memory and Limits > Undo Steps: 64)
@@ -73,8 +73,8 @@ Utilisables pour les actions de base (déplacement notamment) mais aussi pour n'
 - Tout sélectionner: *A*
 - Tout désélectionner: *A A*
 - Sélection de sommets/arêtes/faces (menu en haut dans la vue 3D, à droite de Edit Mode - n'est pas disponible en Object Mode)
-- Sélectionner une boucle de sommets/arêtes/faces: *double clic*
-- Sélectionner une boucle transversale d'arêtes: *ctrl clic*
+- Sélectionner une boucle de sommets/arêtes/faces: *double clic* ou *alt clic* selon votre configuration
+- Pour les arêtes spécifiquement: la commande précédente crée une boucle dans la continuité de l'arête. Pour une boucle d'arêtes transversales (comme les poutres d'un chemin de fer), c'est: *ctrl double clic* (ou, j'imagine, *ctrl alt clic*)
 - Dupliquer un objet / des sommets: *Shift D*
 - Diviser la vue: tirer un des angles. Tirer vers l'intérieur d'une vue la divise, tirer en traversant la délimitation entre deux vues les fusionne.
 - plein écran: *ctrl espace*
