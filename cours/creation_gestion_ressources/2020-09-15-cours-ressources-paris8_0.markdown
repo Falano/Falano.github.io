@@ -149,9 +149,10 @@ Un [fil twitter](https://twitter.com/aseprite/status/1124442198651678720) avec d
 ## 4) game jams
 - une game jam c'est, en gros, faire un jeu en (souvent) 48h, seul ou en groupe, avec d'autres gens qui font la même chose en même temps (proche des jams d'improvisation musicale et des hackatons)
     - ludum dare: deux fois par an (avril et octobre), probablement la jam la plus connue: <https://ldjam.com/>
-    - global game jam: une fois par an (en janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
+    - global game jam: une fois par an (fin janvier), probablement la jam physique la plus connue: <https://globalgamejam.org/>
 	- un agenda des jams en cours et à venir, sur un site où on peut publier ses jeux: <https://itch.io/jams>
 	- une jam fondée en france qui a lieu trois fois par an: <https://alakajam.com/article/about/welcome>
+	- une jam mensuelle (qui dure 10 jours) spécifiquement sur godot: Godot Wild Jam <https://godotwildjam.com/>
 
 ## 5) jeux cool
 J'ai noté en italique les jeux de jam, donc faits dans un temps très limité et nécessairement plus simples et courts que les autres.  

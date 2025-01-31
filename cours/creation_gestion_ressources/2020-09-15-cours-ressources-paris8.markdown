@@ -14,7 +14,7 @@ topnav: topnav_P8_Ressources
 # 0. Menu
 
 L'adresse de ce cours: 
-<https://falano.github.io/cours/creation_gestion_ressources>
+<https://falano.github.io/ressources>
 
 Mon email: noemie. scherer (at) gmail. com
 
