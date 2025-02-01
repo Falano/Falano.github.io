@@ -15,10 +15,10 @@ topnav: topnav_Portfolio_Volume_FR
 [->english version here<-](/ceramics)
 
 # Céramique
-![stand](/assets/ceramics/IMG_0414-clean_glazed.jpg)
 
 - Pour acheter des pièces (ou juste regarder), rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) (ouverte par intermittence)
 - et inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) pour être au courant des marchés, expos, et de l'ouverture de la boutique en ligne!
+- pour me contacter directement, vous pouvez utiliser nolanfa. art (at) gmail. com
 
 ## Sculpture
 ### Nue

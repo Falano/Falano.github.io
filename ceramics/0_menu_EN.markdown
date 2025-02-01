@@ -15,6 +15,7 @@ topnav: topnav_Portfolio_Volume_EN
 
 - To buy ceramics (or just look), head on to [my shop](https://nolanfa-shop.fourthwall.com/) (not always open)
 - and subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) to know about fairs, exhibitions and sales drops!
+- to contact me, use nolanfa. art (at) gmail. com
 
 ## Sculpture 
 ### Bare

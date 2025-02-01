@@ -109,7 +109,7 @@ longest dimension: about 20 cm / 8 inches
 [](lycaons A, B et C.)
 [](przewalski jumping.)
 [](¿¿muscardin volant / orange painted bat ; also: indian flying fox??)
-[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope -nw, nyala -striped antelope, red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler -rn monkey, coconut octopus -rnw, giant Pacific octopus -rw, red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel -nwr, ribbon seal -nw, loggerhead sea turtle -rw, narwhal ??, red-throated loon -red throat and white speckles on black wings, monarch butterfly, carcajou?)
+[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope -nw, nyala -striped antelope, red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler -rn monkey, coconut octopus -rnw, giant Pacific octopus -rw, red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel -nwr, ribbon seal -nw, loggerhead sea turtle -rw, narwhal ??, red-throated loon -red throat and white speckles on black wings, monarch butterfly, carcajou?, ivory-billed woodpecker)
 
 ### Micro sheep
 longest dimension: about 5 cm / 2 inches
@@ -118,18 +118,18 @@ longest dimension: about 5 cm / 2 inches
 ![micro sheep red white black](/assets/art/ceramics/IMG_0996_wm.jpg)
 
 [](TODO: test sandwich clay-engobe-clay, with the bad ones and the new ones)
-[](TODO: tiny turtles - with naked limbs and glazed top (glazed bottom?)
+[](TODO: tiny turtles - with naked limbs and glazed top -glazed bottom?)
 [](TODO: dendrobates, micro-drakes-like)
 [](TODO: more medium sheep)
 
 [](## Biblical Accuracy:)
 [](### With Mouth: Owl, Possum, Raven, Croco (Tasm);)
-[](### With (Rump) Eyes: Panther, Deer, Genetta, Ball Python, Owl? Hyena? Spotted Ray?;)
-[](### With (Head) Eyes: Orca, Panda, Pygmy Owl, Sand Lizard;)
-[](### With Horns: Sheep, Rhino, Deer, Grand Duc (oreilles)?, grand koudou;)
+[](### With -Rump- Eyes: Panther, Deer, Genetta, Ball Python, Owl? Hyena? Spotted Ray?;)
+[](### With -Head- Eyes: Orca, Panda, Pygmy Owl, Sand Lizard;)
+[](### With Horns: Sheep, Rhino, Deer, Grand Duc -oreilles?, grand koudou;)
 [](### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?;)
-[](### With (Longbody) Many Legs: Stoat, Otarie, Lizard;)
-[](### With (Shortbody) Many Legs: Monkey, Horse? Owl (wings)?; Jacana (baby legs))
+[](### With -Longbody- Many Legs: Stoat, Otarie, Lizard;)
+[](### With -Shortbody- Many Legs: Monkey, Horse? Owl -wings?; Jacana -baby legs)
 [](### With Face: Owl, Fox, gattopardo, sloth, hare)
 
-[](TODOES GENERAL: closed loop body, bodies in contact, body parts, bodies w trans millipedes, wet river rock color with text (???), wet river rock color with only half hidden painting (chicken dinosaur, fossil snail nautilus ammonites, horse pegasus, were wolf, snake drake, horse unicorn for Jade, ooooh flags (dry: black and (dark and light), wet: (black and dark) and light)))
+[](TODOES GENERAL: closed loop body, bodies in contact, body parts, bodies w trans millipedes, wet river rock color with text - ???-, wet river rock color with only half hidden painting - chicken dinosaur, fossil snail nautilus ammonites, horse pegasus, were wolf, snake drake, horse unicorn for Jade, ooooh flags - dry: black and -dark and light-, wet: -black and dark- and light)

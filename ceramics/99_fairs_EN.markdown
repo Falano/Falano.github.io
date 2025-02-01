@@ -13,7 +13,8 @@ To get an email when I open sales, you can subscribe to [my newsletter](https://
 [instagram: nolanfa_art](https://www.instagram.com/nolanfa_art/)\
 [tumblr: nolanfa-clayworks](https://www.tumblr.com/blog/nolanfa-clayworks)\
 [shop](https://nolanfa-shop.fourthwall.com/)\
-[newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)
+[newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
+[RSS feed of this website's blog articles](https://falano.github.io/feed/ceramics.xml)\
 
 ## Fairs and exhibitions
 ### 2024

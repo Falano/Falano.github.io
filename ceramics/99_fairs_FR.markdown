@@ -12,7 +12,8 @@ Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, i
 [instagram: nolanfa_art](https://www.instagram.com/nolanfa_art/)\
 [tumblr: nolanfa-clayworks](https://www.tumblr.com/blog/nolanfa-clayworks)\
 [boutique](https://nolanfa-shop.fourthwall.com/)\
-[newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)
+[newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
+[flux RSS des articles de blog de ce site](https://falano.github.io/feed/ceramique.xml)\
 
 ## Marchés et expositions
 ### 2024
