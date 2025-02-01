@@ -24,17 +24,51 @@ topnav: topnav_P8_3D
 - si on n'aime pas le rythme d'une anim on peut sélectionner des keyframes dans la timeline et utiliser G pour les déplacer dans le temps ou S pour faire durer l'ensemble de la sélection plus ou moins longtemps (en gardant les rapports entre les clés)
 - on utilise principalement les keyframes pour sauvegarder les positions et rotations des os d'une armature, mais beaucoup de paramètres de blender peuvent être animés avec des keyframes, comme par exemple les paramètres des matériaux ou des contraintes (faites un *clic droit* et voyez s'il vous propose d'insérer une keyframe)
 
-### c) EXERCICE 1: animation simple
+### c) récapitulatif
+Processus d'animation:\
+En pose mode, dans la vue 3D:\
+1) bouger l'os avec G et/ou R
+2) sauvegarder sa position avec I
+3) répèter avec tous les os qu'on veut bouger, jusqu'à avoir une position qui convienne
+4) puis aller dans la timeline. Changer de frame.
+5) retourner à l'étape 1.\
+\
+Boucles d'animation:\
+1) avoir un bout d'animation, qu'on voudrait faire boucler.
+2) dans la vue 3D, sélectionner tous les os avec A
+3) dans la Timeline, sélectionner la keyframe (losange; jaune si sélectionné, blanc sinon) de la première frame de l'anim, et la copier (ctrl C, ou clic droit > Copy).
+4) aller à la dernière frame de l'anim, et la coller (ctrl V, ou clic droit > Paste)\
+\
+Lier le mesh et l'armature:\
+1) sélectionner le mesh
+2) sélectionnee l'armature
+3) en Object mode, les parenter avec ctrl P > With Automatic Weights
+4) au besoin changer les influences des os comme vu avec la grue au chapitre IV. 2) d)\
+\
+Divers:\
+- remettre l'armature en position de base en pose mode: *alt G* (avec tous les os sélectionnés)
+
+### d) EXERCICE 1: animation simple
 - faites une animation simple avec un des meshs que vous avez riggé jusque-là.
 - vous pouvez changer la longueur de l'anim (à quelle frame Blender considère que l'anim est finie et retourne au début) dans la Timeline, ce sont les valeurs (haut droite) Start et End.
 - je vous conseille d'aller dans les Préférences > Animation > Only Insert Needed et de tout décocher
+
+### e) Plusieurs actions (bien rangées)
+- Faire son animation dans la Timeline
+- Mettre une vue en vue Non Linear animation
+- Cliquer sur le bouton "Push Down Action" (si votre armature s'appelle Armature, le bouton se trouve à côté du texte: "ArmatureAction"; c'est à gauche, en orange/marron, le bouton représente un flèche et deux rectangles légèrement décalés).
+- la renommer (*F2*; si tout ne se renomme pas *double-clic* sur la partie qui ne s'est pas renommée pour la renommer aussi)
+- appuyer sur l'étoile pour voir une des anims (désactiver toutes les anims sauf celle-là)
+- appuyer sur la case cochée pour désactiver une anim
+- pour ajouter une autre anim, étoile sur une anim puis la décocher
+- pour retravailler une ancienne anim, *Tab* (penser à vérifier que l'anim est bien activée) puis vue Timeline
 
 ## 2) Méthodes d'animation additionnelles
 ### a) anim symmétrique
 - prérequis:
 - avoir bien nommé les os (main.L, main.R, etc.)
-- corps le long de l'axe Y, traversé par l'axe X
-- *alt R* pour réinitialiser les os avant de commencer à animer (ça détruit les anims déjà faites par contre)
+- corps le long de l'axe Y, traversé par l'axe X (changer ça en edit mode)
+- *alt R* (en edit mode) pour réinitialiser les os avant de commencer à animer (ça détruit les anims déjà faites par contre)
 - dans la chaîne IK, soit on enregistre (et inverse) la position de l'IK Target (et la chaîne IK suit toute seule), soit s'il n'y a pas d'IK Target il faut enregister (et inverser) la position de tous les os de la chaîne.
 - et quand on commence à animer: on crée la première pose, on sélectionne tous les os, et on sauve la position avec *I*. On va sur la frame de la pose inverse, on sélectionne tous les os, on sélectionne dans la Timeline les clés d'anim de la première position, *ctrl C*, puis *ctrl shift V* (pour: coller inversé) (faire un test avec une position simple avant de commencer, pour vérifier que ça marche)
 

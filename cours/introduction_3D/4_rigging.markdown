@@ -12,7 +12,7 @@ topnav: topnav_P8_3D
 - Squelette / Armature
 - Os / Bone
 
-## 1) Créer une armature simple
+## 2) Créer une armature simple
 
 ### a) Créer une forme de grue de chantier sommaire
 - avec plusieurs cubes étirés, faire une grue rudimentaire
@@ -71,7 +71,7 @@ topnav: topnav_P8_3D
 
 ### h) EXERCICE 2: un mouvement de la grue entre trois positions précises - avec de l'IK
 
-## 2) Créer une armature de quadrupède simple
+## 3) Créer une armature de quadrupède simple
 
 ### a) EXERCICE 3: créer l'armature
 (si vous n'avez pas de mesh de quadrupède simple, vous pouvez utiliser [ce dromadaire low-poly](https://drive.google.com/file/d/1EriBObu5o36lKhlBurb3BOEdSZXGNJNe))
@@ -109,4 +109,5 @@ topnav: topnav_P8_3D
 ### f) os non déformants
 - on peut faire des os qui n'ont pas d'influence directe sur le mesh
 - ils servent juste à bouger les autres os (par exemple les cibles de l'IK; d'ailleurs les os directement influencés par l'IK en général n'ont pas besoin d'être bougés; je conseille de nommer vos os cibles d'IK quelque chose comme "IK_bras.R" comme ça ils sont tous à côté les uns des autres dans la liste et facilement trouvables)
+- quand on parente un mesh à une armature avec création de groupes automatiques, les os non déformants ne créeront pas de groupe (ce qui est pratique)
 - quand je fais des mesh avec de l'IK, j'en ai un (que j'appelle ROOT, mais vous pouvez l'appeler autrement) qui est parent de l'os au sommet de la hiérarchie (le bassin, en général, chez un animal; on pourrait contrôler directement le bassin mais avoir un os qui dépasse et est très visible est pratique), et un autre (que j'appelle UBERROOT, mais pareil appelez-le comme vous voulez; ils sont tout en majuscules pour pouvoir les retrouver facilement), qui est parent de ROOT et des os cibles de l'IK (parce que les os cibles de l'IK ne peuvent pas être enfants de la chaîne d'os qu'ils dirigent). Ça permet d'avoir un perso humain qui se lève, les mains posées sur le bureau (on bouge ROOT), ou d'avoir un perso qui saute, et dont les bras et les jambes avancent plus ou moins au même rythme que leur corps (on bouge UBERROOT).

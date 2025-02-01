@@ -86,7 +86,7 @@ topnav: topnav_P8_3D
 - dans la vue 3D, sélectionner chaque face / groupe de faces (soit à la main avec *shift click gauche* ou *B* ou *C*, soit en les ayant séparées par des Seams et sélectionnés avec *L*)
 - se mettre en *Z* Material Preview pour voir ce qu'on fait
 - dans Properties (bas droite) assigner au cube un matériau avec une texture image, et assigner comme image le dégradé
-- dans l'UV Editor placer les faces comme il faut
+- dans l'UV Editor placer les faces comme il faut (en général en sélectionnant un groupe de faces, en allant dans la vue où il est le plus lisible, et en faisant U > Project from View)
 
 ### e) EXERCICE 3: UV-unwrapper son objet organique précédemment modélisé et l'appliquer sur une texture de dégradés
 
@@ -174,3 +174,7 @@ topnav: topnav_P8_3D
 - Freestyle Alpha change la transparence/opacité du contour
 - Freestyle Thickness change l'épaisseur (voir le Modifier Calligraphy)
 - Freestyle Geometry change son trajet: ajouter de l'aléatoire (Perlin Noise 2D) ou le décale (2D Offset) par exemple
+
+## 99) Tutoriels et Ressources
+Principalement en anglais mais ils suffit de regarder ce qu'ils font la langue importe peu
+- textures en dégradé avec l'UV mapping: <https://youtu.be/EIxwWGj28_s?t=148> (regardez jusqu'à 5:00; après c'est juste répéter ce qu'il a déjà expliqué pour appliquer le matériau aux autres objets de la scène)

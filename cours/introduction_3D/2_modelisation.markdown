@@ -96,7 +96,7 @@ Utilisables pour les actions de base (déplacement notamment) mais aussi pour n'
 - tester les différents modes de suppression des vertices/edges/faces (delete simple fait un trou, dissolve remplit ce trou, collapse crée un vertex au centre)
 
 ### g) Faire un terrain rapidement
-- pour info, dans les option des actions: pour Subdivide (*ctrl E*), si on augmente la valeur "fractal", on peut faire des terrains rapidement (ajouter un Modifier Subdivision Surface après, éventuellement, pour lisser)
+- pour info, dans les option des actions: pour Subdivide (*ctrl E*), si on augmente la valeur "fractal", on peut faire des terrains rapidement (ajouter un Modifier Subdivision Surface après, éventuellement, pour lisser) (penser à tout sélectionner avant, en edit mode)
 - de temps en temps quand vous utilisez une action pensez à regarder quelles sont ses options. Au cas où il y en aurait d'intéressantes.
 - sinon faites un plan, ajoutez-lui un Modifier Deform > Displace, et mettez une texture voronoi
 - sinon sélectionnez quelques vertices et bougez-les (plusieurs fois, avec plusieurs groupes de pixels différents) avec Proportional Editing (milieu haut de la vue 3D) activé et en changeant de temps en temps le type de Falloff
@@ -105,7 +105,7 @@ Utilisables pour les actions de base (déplacement notamment) mais aussi pour n'
 ### h) EXERCICE 4: faire un terrain
 
 ## 4) Modificateurs / Modifiers
-icône clé de bricolage dans la colonne d'outils à droite (pas dans la vue 3D, mais dans la vue des Propriétés / Properties)
+icône clé de bricolage dans la colonne d'outils à droite (pas dans la vue 3D, mais dans la vue des Propriétés / Properties), puis cliquer sur Add Modifier
 ### a) Miroir / Mirror
 - Pour n'avoir à modéliser que la moitié de l'objet.
 - Penser à supprimer la moitié en trop en edit mode.
