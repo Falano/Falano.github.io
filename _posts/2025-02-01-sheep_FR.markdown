@@ -1,0 +1,37 @@
+---
+layout: post_cera_FR
+title: "Moutons"
+tags: FR goodies cera
+categories: ceramique FR cera
+last_updated: February 1, 2025
+description: photos de moutons en argile et fonds d'écran
+permalink: /ceramics/2025-02-01_sheep_FR.html
+redirect_from:
+  - portfolio/volume/2025-02-01_sheep_FR.html
+topnav: topnav_Portfolio_Volume_FR
+---
+
+## Moutons
+Une des séries que je fabrique en ce moment est une série de petits moutons (environ 5 cm sur leur dimension la plus longue), émaillés ou non, colorés de manière réaliste ou non.
+
+|![mouton](/assets/art/ceramics/IMG_1209_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1210_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1211_wm_def_gla.jpg)|
+|![mouton](/assets/art/ceramics/IMG_1216_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1221_wm_med_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1223_wm_def_gla.jpg)|
+|![mouton](/assets/art/ceramics/IMG_1228_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1230_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1233_wm_def_gla.jpg)|
+
+## Avec Dialogue
+J'ai pris des photos de groupes de moutons pour faire des fonds d'écran, et le mouton rouge assis avait l'air tellement triste et pathétique et excessivement dramatique que je lui ai rajouté du dialogue, et que j'en ai fait des cartes postales / impressions A6.
+
+![lonely red sheep](/assets/art/ceramics/IMG_0996_tx_FR_B_def_gla_wm.jpg)
+![lonely red sheep](/assets/art/ceramics/IMG_0999_tx_FR_A_def_gla_wm.jpg)
+![lonely red sheep](/assets/art/ceramics/IMG_1005_tx_FR_A_def_gla_wm.jpg)
+
+## Fonds d'écran (à télécharger gratuitement)
+
+Voici les fonds d'écrans sans texte, que vous pouvez télécharger et utiliser pour vos appareils; il y a trois tailles: ordinateur, téléphone portable, et tablette.
+
+
+|lien de téléchargement|aperçus|
+|[ordinateur (1920x1080)](https://drive.google.com/file/d/1vYIPTD-n7HcHuG-shi_aJPd9B8HVy0Ei/view?usp=drive_link)| ![des moutons bleus, verts, et blancs](/assets/art/ceramics/1920x1080_blueSheep.JPG) | ![lonely red sheep 4](/assets/art/ceramics/1920x1080_redSheep4.JPG) | ![lonely red sheep 2](/assets/art/ceramics/1920x1080_redSheep2.JPG) | ![lonely red sheep 3](/assets/art/ceramics/1920x1080_redSheep3.JPG) |
+|[tablette (1024x1366)](https://drive.google.com/file/d/1Do-0JM-dhqdfSoWvLFaT3eIVhp08L1kT/view?usp=drive_link)| ![des moutons bleus, verts, et blancs](/assets/art/ceramics/1024x1366_blueSheep.JPG) | ![lonely red sheep](/assets/art/ceramics/1024x1366_redSheep.JPG) |
+|[telephone (1170x2532)](https://drive.google.com/file/d/1kYngj5WPy6zOCpVwPLIPhiy2gy46zmgm/view?usp=drive_link)| ![des moutons bleus, verts, et blancs](/assets/art/ceramics/1170x2532_blueSheep.JPG) | ![lonely red sheep](/assets/art/ceramics/1170x2532_redSheep.JPG) |
+

@@ -38,6 +38,7 @@ feed:
   categories:
     - ceramics
     - ceramique
+  posts_limit: 25
 
 defaults:
   -

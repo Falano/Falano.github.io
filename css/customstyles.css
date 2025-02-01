@@ -262,6 +262,8 @@ div#toc ul li ul li::before {
     content: "–  ";
 }
 
+/* remove "Table of Contents" text so it's never in the wrong language*/
+/*
 div#toc >ul::before {
     content: "Table of Contents";
     font-weight: 500;
@@ -274,6 +276,7 @@ div#toc >ul::before {
     padding-bottom:20px;
     padding-left:10px;
 }
+*/
 
 li.dropdownActive a {
     font-weight: bold;
@@ -509,7 +512,7 @@ table.profile thead tr th {
 }
 
 table.request thead tr th {
-    background-color: #ED1951;
+    background-color: #0D1951;
 }
 
 .audienceLabel {
