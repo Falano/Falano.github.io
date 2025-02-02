@@ -14,8 +14,8 @@ topnav: topnav_Portfolio_Volume_FR
 ## Pieds de Neige
 ### Panthère des Neiges B, Sautant
 plus grande dimension: environ 40-45 cm
-![snow leopard B leaping: fullbody three quarters](assets/art/ceramics/AVA2593_wm_glazed.jpg)
-![snow leopard B leaping: close-up torso out](assets/art/ceramics/AVA2592_wm_glazed.jpg)
+![snow leopard B leaping: fullbody three quarters](/assets/art/ceramics/AVA2593_wm_glazed.jpg)
+![snow leopard B leaping: close-up torso out](/assets/art/ceramics/AVA2592_wm_glazed.jpg)
 ![snow leopard B leaping: fullbody top](/assets/art/ceramics/AVA2590_wm_glazed.jpg)
 ![snow leopard B leaping: close-up torso in](/assets/art/ceramics/AVA2601_wm_glazed.jpg)
 ![snow leopard B leaping: close-up head in](/assets/art/ceramics/AVA2602_wm_glazed.jpg)
@@ -66,10 +66,10 @@ plus grande dimension: environ 20 cm
 ![hare B rising: top](/assets/art/ceramics/AVA2699_wm_glazed.jpg)
 ![hare B rising: right side](/assets/art/ceramics/AVA2708_wm_glazed.jpg)
 ### Lièvre C, Debout
-![hare C upright: fullbody three quarters](/assets/art/ceramics/IMG_1115_wm_def_gla.jpg)
-![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124_wm_def_gla.jpg)
-![hare C upright: head close up](/assets/art/ceramics/IMG_1119_wm_def_gla.jpg)
-![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114_wm_def_gla.jpg)
+![hare C upright: fullbody three quarters](/assets/art/ceramics/IMG_1115_wm_def_glazed.jpg)
+![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124_wm_def_glazed.jpg)
+![hare C upright: head close up](/assets/art/ceramics/IMG_1119_wm_def_glazed.jpg)
+![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114_wm_def_glazed.jpg)
 
 ### Petites panthères des neiges
 plus grande dimension: environ 10-20 cm
