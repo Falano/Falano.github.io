@@ -17,7 +17,7 @@ topnav: topnav_Portfolio_Volume_FR
 # Céramique
 
 - Pour acheter des pièces (ou juste regarder), rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) (ouverte par intermittence)
-- et inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) pour être au courant des marchés, expos, et de l'ouverture de la boutique en ligne!
+- et inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) pour être au courant des marchés, expos, et ouvertures de la boutique en ligne, et pour recevoir de temps en temps des images de ce sur quoi je travaille.
 - pour me contacter directement, vous pouvez utiliser nolanfa. art (at) gmail. com
 
 ## Sculpture
@@ -49,4 +49,4 @@ topnav: topnav_Portfolio_Volume_FR
 \
 \
 \
-[Inscrivez-vous à la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)
+Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml)
