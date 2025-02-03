@@ -7,7 +7,7 @@ redirect_from: /ceramics/fairs
 topnav: topnav_Portfolio_Volume_EN
 ---
 
-To get an email when I open sales, you can subscribe to [my newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) and/or check the [online shop](https://nolanfa-shop.fourthwall.com/) and hope you get there the right day
+To get an email when I open sales, you can subscribe to [my newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA), the [RSS feed](https://falano.github.io/feed/ceramics.xml) and/or check the [online shop](https://nolanfa-shop.fourthwall.com/) and hope you get there the right day
 
 ## Online places
 [instagram: nolanfa_art](https://www.instagram.com/nolanfa_art/)\

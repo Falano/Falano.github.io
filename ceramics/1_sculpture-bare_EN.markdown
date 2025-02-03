@@ -11,8 +11,8 @@ topnav: topnav_Portfolio_Volume_EN
 ## Snowwalker's feet
 ### Snow Leopard B leaping
 longest dimension: about 40-45 cm / 17 inches
-![snow leopard B leaping: fullbody three quarters](https://i.postimg.cc/7h1RSM5p/DEFAULT-AVA2593-0-jpg-wmb9bbdce7-b1a0-4a00-ac2b-b6d12c5d1e32.jpg)
-![snow leopard B leaping: close-up torso out](https://i.postimg.cc/HxyRkCdW/DEFAULT-AVA2592-0-jpg-wm166f9f3b-f711-427d-aa71-575f8a7230ee.jpg)
+![snow leopard B leaping: fullbody three quarters](/assets/art/ceramics/AVA2593_wm_glazed.jpg)
+![snow leopard B leaping: close-up torso out](/assets/art/ceramics/AVA2592_wm_glazed.jpg)
 ![snow leopard B leaping: fullbody top](/assets/art/ceramics/AVA2590_wm_glazed.jpg)
 ![snow leopard B leaping: close-up torso in](/assets/art/ceramics/AVA2601_wm_glazed.jpg)
 ![snow leopard B leaping: close-up head in](/assets/art/ceramics/AVA2602_wm_glazed.jpg)
@@ -24,8 +24,12 @@ longest dimension: about 20-30 cm / 10 inches
 ![snow leopard A sitting: top back](/assets/art/ceramics/AVA2739_wm_glazed.jpg)
 ![snow leopard A sitting: back](/assets/art/ceramics/AVA2763_wm_glazed.jpg)
 ![snow leopard A sitting: back left](/assets/art/ceramics/AVA2749_wm_glazed.jpg)
-[](SnowLeo C onBack.)
+### Snow Leopard C, On its Back
+![snow leopard C onBack: top](/assets/art/ceramics/IMG_1245_wm_def_gla.jpg)
+![snow leopard C onBack: three quarters fullbody](/assets/art/ceramics/IMG_1283_wm_def_gla.jpg)
+![snow leopard C onBack: head close up](/assets/art/ceramics/IMG_1296_wm_def_gla.jpg)
 [](Lynx A.)  
+
 ### Owl A standing 
 longest dimension: about 15 cm / 6 inches
 ![owl A standing: facing right](/assets/art/ceramics/IMG_0664_wm_glazed.jpg)
@@ -58,12 +62,16 @@ longest dimension: about 20 cm / 8 inches
 ![hare B rising: back](/assets/art/ceramics/AVA2685_wm_glazed.jpg)
 ![hare B rising: top](/assets/art/ceramics/AVA2699_wm_glazed.jpg)
 ![hare B rising: right side](/assets/art/ceramics/AVA2708_wm_glazed.jpg)
-[](Hare C standing.)
+### Hare C, Upright
+![hare C upright: fullbody three quarters](/assets/art/ceramics/IMG_1115_wm_def_glazed.jpg)
+![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124_wm_def_glazed.jpg)
+![hare C upright: head close up](/assets/art/ceramics/IMG_1119_wm_def_glazed.jpg)
+![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114_wm_def_glazed.jpg)
 [](Muskoxen???)
 ### Smaller snow leopards
 longest dimensions: about 10-20 cm / 4-8 inches, depending
-![smoked mini snoleo looking left](/assets/art/ceramics/IMG_0714_wm_glazed.jpg)
-![two smoked mini snoleo sculptures, playing, from a low angle](/assets/art/ceramics/IMG_0716_wm_glazed.jpg)
+![smoked mini snoleo sitting hunched over, with white pattern over dark](/assets/art/ceramics/IMG_1314_wm_def_gla.jpg)
+![smoked mini snoleo leaping, with white pattern over dark](/assets/art/ceramics/IMG_1309_wm_def_gla.jpg)
 ![one sculpture of two snoleos, playing, one bopping the other's nose](/assets/art/ceramics/IMG_0733_wm_glazed.jpg)
 
 ## Unsorted geometric animals
