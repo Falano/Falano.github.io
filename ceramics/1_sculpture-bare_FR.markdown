@@ -66,10 +66,10 @@ plus grande dimension: environ 20 cm
 ![hare B rising: top](/assets/art/ceramics/AVA2699_wm_glazed.jpg)
 ![hare B rising: right side](/assets/art/ceramics/AVA2708_wm_glazed.jpg)
 ### Lièvre C, Debout
-![hare C upright: fullbody three quarters](/assets/art/ceramics/IMG_1115_wm_def_glazed.jpg)
-![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124_wm_def_glazed.jpg)
-![hare C upright: head close up](/assets/art/ceramics/IMG_1119_wm_def_glazed.jpg)
-![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114_wm_def_glazed.jpg)
+![hare C upright: fullbody three quarters](/assets/art/ceramics/IMG_1115.JPG_wm_def_glazed.jpg)
+![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124.JPG_wm_def_glazed.jpg)
+![hare C upright: head close up](/assets/art/ceramics/IMG_1119.JPG_wm_def_glazed.jpg)
+![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114.JPG_wm_def_glazed.jpg)
 
 ### Petites panthères des neiges
 plus grande dimension: environ 10-20 cm
