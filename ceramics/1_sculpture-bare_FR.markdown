@@ -2,14 +2,15 @@
 layout: page_cera_FR
 title:  "Sculpture - Noémie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /ceramics/sculpture-bare_FR.html
+permalink: /ceramics/shape_FR.html
 redirect_from: 
+  - /ceramics/sculpture-bare_FR.html
   - /ceramics/sculpture-bare
   - /ceramics/sculpture
 topnav: topnav_Portfolio_Volume_FR
 ---
 
-# Sculpture - Nue
+# Forme
 
 ## Pieds de Neige
 ### Panthère des Neiges B, Sautant

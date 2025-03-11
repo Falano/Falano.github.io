@@ -8,16 +8,12 @@ topnav:
       url: menu_EN.html
       output: web
 
-    - title: Sculpture Bare
-      url: sculpture-bare_EN.html
+    - title: Shape
+      url: shape_EN.html
       output: web
 
-    - title: Colors
-      url: sculpture-colors_EN.html
-      output: web
-
-    - title: Glazes
-      url: sculpture-glazes_EN.html
+    - title: Color
+      url: color_EN.html
       output: web
 
     - title: Patterns

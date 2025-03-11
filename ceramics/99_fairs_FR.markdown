@@ -9,7 +9,7 @@ topnav: topnav_Portfolio_Volume_FR
 Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, inscrivez-vous à [ma newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA), au [flux RSS](https://falano.github.io/feed/ceramique.xml) et/ou rendez-vous sur la [boutique en ligne](https://nolanfa-shop.fourthwall.com/)
 
 ## Présence en ligne
-[instagram: nolanfa_art](https://www.instagram.com/nolanfa_art/)\
+[bluesky: nolanfa](https://bsky.app/profile/nolanfa.bsky.social)\
 [tumblr: nolanfa-clayworks](https://www.tumblr.com/blog/nolanfa-clayworks)\
 [boutique](https://nolanfa-shop.fourthwall.com/)\
 [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\

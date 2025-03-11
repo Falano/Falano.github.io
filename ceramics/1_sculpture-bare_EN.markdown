@@ -2,11 +2,13 @@
 layout: page_cera_EN
 title:  "Sculpture - Noémie Scherer"
 last_updated: September 1st, 2024
-permalink: /ceramics/sculpture-bare_EN.html
+permalink: /ceramics/shape_EN.html
+redirect_from:
+  - /ceramics/sculpture-bare_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
 
-# Sculpture - Bare
+# Shape
 
 ## Snowwalker's feet
 ### Snow Leopard B leaping
@@ -94,6 +96,7 @@ longest dimension: about 15-20 cm / 7 inches
 ![sheep A: body side](/assets/art/ceramics/AVA2776_wm-id_glazed.jpg)
 ![sheep B: body front](/assets/art/ceramics/AVA2768_wm-id_glazed.jpg)
 ![sheep B: top](/assets/art/ceramics/AVA2770_wm-id_glazed.jpg)
+[](a group photo of all five? six? of them)
 ### Mustelids
 longest dimension: about 30-40 cm / 15 inches
 ![Skunk: facing left](/assets/art/ceramics/IMG_0641_wm_glazed.jpg)\
@@ -128,7 +131,6 @@ longest dimension: about 5 cm / 2 inches
 [](TODO: test sandwich clay-engobe-clay, with the bad ones and the new ones)
 [](TODO: tiny turtles - with naked limbs and glazed top -glazed bottom?)
 [](TODO: dendrobates, micro-drakes-like)
-[](TODO: more medium sheep)
 
 [](## Biblical Accuracy:)
 [](### With Mouth: Owl, Possum, Raven, Croco (Tasm);)

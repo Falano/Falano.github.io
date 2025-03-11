@@ -2,13 +2,21 @@
 layout: page_cera_FR
 title:  "Sculpture - Noémie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /ceramics/sculpture-colors_FR.html
+permalink: /ceramics/color_FR.html
 redirect_from:
+  - /ceramics/sculpture-colors_FR.html
   - /ceramics/sculpture-colors
 topnav: topnav_Portfolio_Volume_FR
 ---
 
-# Sculpture - Couleur
+## Escargots
+![three greenish-blue snails, one on white and two on red clay](/assets/art/ceramics/IMG_0581_wm_glazed.jpg)
+![grey-glazed snail on red clay](/assets/art/ceramics/IMG_0599_wm_glazed.jpg)
+![old green snail on red clay](/assets/art/ceramics/IMG_0578_wm_glazed.jpg)
+![red-glazed snail on black clay](/assets/art/ceramics/IMG_1094_closeup.JPG_wm_def_glazed.jpg)
+
+## Godets-Iles
+![dark emerald green islets, close-up](/assets/art/ceramics/IMG_0622_wm_glazed.jpg)
 
 ## Dragons
 ![white blue planted](/assets/art/ceramics/IMG_0791_wm_glazed.jpg)
@@ -34,3 +42,8 @@ plus grande dimension: environ 5 cm
 ![micro drakes blue: with medium for size](/assets/art/ceramics/IMG_0491_wm_glazed.jpg)
 ### Micro moutons
 ![micro sheep colored, glazed and unglazed, from above](/assets/art/ceramics/IMG_0864_wm_engobes-BOTZ_glazed.jpg)
+
+|![mouton](/assets/art/ceramics/IMG_1209_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1210_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1211_wm_def_gla.jpg)|
+|![mouton](/assets/art/ceramics/IMG_1216_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1221_wm_med_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1223_wm_def_gla.jpg)|
+|![mouton](/assets/art/ceramics/IMG_1228_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1230_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1233_wm_def_gla.jpg)|
+

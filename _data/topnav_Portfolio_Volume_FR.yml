@@ -8,16 +8,12 @@ topnav:
       url: menu_FR.html
       output: web
 
-    - title: Sculpture Nue
-      url: sculpture-bare_FR.html
+    - title: Forme
+      url: shape_FR.html
       output: web
 
     - title: Couleur
-      url: sculpture-colors_FR.html
-      output: web
-
-    - title: Émaux
-      url: sculpture-glazes_FR.html
+      url: color_FR.html
       output: web
 
     - title: Motifs
