@@ -6,7 +6,7 @@ permalink: /ceramics/fairs_FR.html
 topnav: topnav_Portfolio_Volume_FR
 ---
 
-Pour recevoir un email quand j'ouvrirai les ventes sur un marché ou en ligne, inscrivez-vous à [ma newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA), au [flux RSS](https://falano.github.io/feed/ceramique.xml) et/ou rendez-vous sur la [boutique en ligne](https://nolanfa-shop.fourthwall.com/)
+Pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail ou votre lecteur de flux RSS, inscrivez-vous à [ma newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA), au [flux RSS](https://falano.github.io/feed/ceramique.xml). J’y annoncerai aussi les marchés, expos, et mises à jour de la [boutique en ligne](https://nolanfa-shop.fourthwall.com/)
 
 ## Présence en ligne
 [bluesky: nolanfa](https://bsky.app/profile/nolanfa.bsky.social)\
