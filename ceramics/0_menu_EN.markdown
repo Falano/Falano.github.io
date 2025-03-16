@@ -12,9 +12,9 @@ topnav: topnav_Portfolio_Volume_EN
 
 # Ceramics
 
+- to get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and sales drops
 - To buy ceramics (or just look), head on to [my shop](https://nolanfa-shop.fourthwall.com/) (not always open)
-- and subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml) to know about fairs, exhibitions and sales drops, and to get pictures of my ceramics every so often.
-- to contact me, use nolanfa. art (at) gmail. com
+- to contact me, you can use **nolanfa. art (at) gmail. com**
 
 ## Shape
 ![hare A running: right profile](/assets/art/ceramics/AVA2679_wm_glazed.jpg)
