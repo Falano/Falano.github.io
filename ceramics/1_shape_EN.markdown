@@ -9,6 +9,7 @@ topnav: topnav_Portfolio_Volume_EN
 ---
 
 # Shape
+Smoked or bare sculpture. Focused on the shape and feel of unglazed clay.
 
 ## Snowwalker's feet
 ### Snow Leopard B leaping

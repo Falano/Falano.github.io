@@ -9,6 +9,9 @@ redirect_from:
 topnav: topnav_Portfolio_Volume_EN
 ---
 
+# Color
+Glazed sculptures. The color and the texture of the glaze complements the shape.
+
 ## Snails
 ![three greenish-blue snails, one on white and two on red clay](/assets/art/ceramics/IMG_0581_wm_glazed.jpg)
 ![grey-glazed snail on red clay](/assets/art/ceramics/IMG_0599_wm_glazed.jpg)

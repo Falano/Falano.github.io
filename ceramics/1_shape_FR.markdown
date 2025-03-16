@@ -11,6 +11,7 @@ topnav: topnav_Portfolio_Volume_FR
 ---
 
 # Forme
+Sculpture enfumée ou nue. Centrée sur la forme et le toucher de la terre non émaillée.
 
 ## Pieds de Neige
 ### Panthère des Neiges B, Sautant

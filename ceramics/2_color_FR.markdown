@@ -8,6 +8,8 @@ redirect_from:
   - /ceramics/sculpture-colors
 topnav: topnav_Portfolio_Volume_FR
 ---
+# Couleur
+Sculptures émaillées. La couleur et la texture de l'émail sont aussi importants que la forme.
 
 ## Escargots
 ![three greenish-blue snails, one on white and two on red clay](/assets/art/ceramics/IMG_0581_wm_glazed.jpg)
