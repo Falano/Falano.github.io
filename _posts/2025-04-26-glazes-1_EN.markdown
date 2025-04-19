@@ -1,0 +1,68 @@
+---
+layout: post_cera_EN
+title: "Glazes - 1"
+tags: EN cera
+categories: ceramics EN cera
+last_updated: April 26, 2025
+description: pictures of clay snails used as samples to test glazes
+permalink: /ceramics/2025-04-26_glazes-1_EN.html
+redirect_from:
+  - portfolio/volume/2025-04-26_glazes-1_EN.html
+topnav: topnav_Portfolio_Volume_EN
+---
+
+## Snails
+I use snails as samples to test out the behaviour of new glazes. The unglazed leaf will catch any stray drops and keep it from damaging the kiln.\
+So: a review of the last couple batches:
+
+### BOTZ glazes
+My favorite BOTZ glaze is Graue Feder. It looks gorgeous wherever I put it, and it's kind of just. Grey. I like that. I absolutely did not expect to love it that much.
+![a grey-glazed snail on a red clay leaf](/assets/art/ceramics/samples/BOTZ-graueFeder_onRed.jpg)
+![a grey-glazed snail on a black clay leaf](/assets/art/ceramics/samples/BOTZ-graueFeder_onBlack.jpg)
+\
+\
+\
+My second favorite is Koralle. It looks absolutely spectacular on black clay.
+![an orangey-red-glazed snail on a black clay leaf](/assets/art/ceramics/samples/BOTZ-Koralle_onBlack.jpg)
+![an orangey-red-glazed snail on a white clay leaf](/assets/art/ceramics/samples/BOTZ-koralle_onWhite.jpg)
+\
+\
+\
+Sonnenfeuer is a bit disappointing. I expected a yellow Koralle, that is, a textured yellow (not textured as in the surface would be textured to the touch, but textured as in a color that is actually composed of several different ones). Instead it's a mostly flat fluorescent yellow. But! Overlaid on top of Koralle it's good.\
+Weirdly, over another yellow glaze it bubbled? My black clay has manganese and that has made several glaze samples bubble but this one test was over white clay.
+![a fluorescent yellow-glazed snail on a black clay leaf](/assets/art/ceramics/samples/BOTZ-Sonnengelb_onBlack.jpg)
+![two snails on white leaves: one red and yellow, the other one two different shades of yellow](/assets/art/ceramics/samples/Mix_BOTZ-Koralle_BOTZ-sonnengleb_BOTZ-maisGelb_onWhite.jpg)
+\
+\
+\
+and then there are the flat glazes. They're.... fine. Just flat. They'll be very good for the medaillons, but I don't think I'll use them as is for sculptures. It'd be boring. Maybe layered? Or patterned. The test tile on their website had very pretty patterns.
+![a blue-glazed snail on a black clay leaf](/assets/art/ceramics/samples/BOTZ-sommerblau_onBlack.jpg)
+![a yellow-glazed snail on a black clay leaf](/assets/art/ceramics/samples/BOTZ-MaisGelb_onBlack.jpg)
+
+### Peter Lavem
+Vert Antique, from Peter Lavem, is my other favorite glaze when on red clay. It makes me think of oxidized copper and old things lost deep at sea.\
+On white clay, though, it is deeply disappointing, and on black it is flat-out ugly.\
+(maybe it will turn out it is pretty on white if applied thicker, but those are my feelings about how the current batches turned out. I will do more tests and update my impressions if necessary)
+![a gorgeous old green snail on a red clay leaf](/assets/art/ceramics/samples/PeterLavem-VertAntique_onRed.jpg)
+![a distantly greenish snail on a black clay leaf](/assets/art/ceramics/samples/PeterLavem-VertAntique_onBlack.jpg)
+
+### Mayco
+I love when glazes have a different color depending on thickness. Not just the translucent ones that let the color of the clay through, but the opaque ones that actually change color when they pool in. Some of the glazes I bought from Mayco's Elements series do that.
+![three snails on leaves made from red and white clay; they're glazed a deep greyish blue](/assets/art/ceramics/samples/Mayco-EL118blue_onRed_onWhite.jpg)
+![three snails on leaves made from red and white clay; they're glazed a pale green that turns red when thin](/assets/art/ceramics/samples/Mayco-EL130green_onRed.jpg)
+\
+\
+\
+I also bought a transparent matte glaze. Turns out it's not transparent it's very milky and I hate it, but it gave me something very pretty over grey and blue glazes. I'll do some more tests to try to replicate it in a way that doesn't show the matte one around it (trying without the matte, was, sadly, a failure).
+![a milky snail on a red clay leaf](/assets/art/ceramics/samples/Mayco-transparentMatte_onRed.jpg)
+![a snail on a red clay leaf; it is milky but has a couple spots the color of the night sky](/assets/art/ceramics/samples/Mix_Mayco-transp_BOTZsommerBlau_BOTZGraueFeder_onRed.jpg)
+
+## Whatever weird thing is going on with the islets
+I also have translucent blue and green crackled glazes that look crazy good when applied thickly.\
+They sweat powdered glaze over time, though. I think I could fix that by firing them again, probably a bit higher.
+![three islets in white clay, glazed green](/assets/art/ceramics/samples/solargil-vertDEau_onWhite.jpg)
+![three islets in white clay, glazed tropical island blue](/assets/art/ceramics/samples/solargil-bleuAigueMarine_onWhite.jpg)
+
+## Okay that's all
+That was all!\
+You can ask me if you'd like the specific references of the glazes I used, if it's not legible on the picture itself. Or if you have ideas of glaze combinations you'd like me to try and post (using the glazes I already have). Or if you use a glaze you think I'd like (I'm only using low-fire glazes for now). Or if you have any questions. Or anything.

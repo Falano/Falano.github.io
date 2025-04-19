@@ -1,0 +1,67 @@
+---
+layout: post_cera_FR
+title: "Emaux - 1"
+tags: FR cera
+categories: ceramique FR cera
+last_updated: April 26, 2025
+description: Photos d'escargots en argile servant de tests pour des émaux
+permalink: /ceramics/2025-04-26_glazes-1_FR.html
+redirect_from:
+  - portfolio/volume/2025-04-26_glazes-1_FR.html
+topnav: topnav_Portfolio_Volume_FR
+---
+
+## Escargots
+J'utilise des escargots pour tester le comportement et l'aspect de nouveaux émaux. La feuille non émaillée sur laquelle l'escargot est posé sert à rattraper les gouttes d'émail qui pourraient couler, et les empêche d'abîmer le four.
+Donc: un retour sur les quelques dernières fournées:
+
+### Émaux BOTZ
+Mon émail BOTZ préféré est Graue Feder. Il est magnifique où que je le mette, et pourtant c'est juste. Du gris. Je trouve ça amusant. Je ne pensais pas du tout l'aimer autant.
+![escargot: émail gris terre rouge](/assets/art/ceramics/samples/BOTZ-graueFeder_onRed.jpg)
+![escargot: émail gris terre noire](/assets/art/ceramics/samples/BOTZ-graueFeder_onBlack.jpg)
+\
+\
+\
+Mon deuxième préféré est Koralle. Il est absolument superbe sur de la terre noire.
+![escargot: émail rouge orangé terre noire](/assets/art/ceramics/samples/BOTZ-Koralle_onBlack.jpg)
+![escargot: émail rouge orangé terre blanche](/assets/art/ceramics/samples/BOTZ-koralle_onWhite.jpg)
+\
+\
+\
+Sonnenfeuer est un peu décevant. Je m'attendais à un Koralle jaune, c'est-à-dire un jaune texturé (pas texturé dans le sens d'une surface texturée au toucher, mais texturé comme une couleur qui est en réalité composée de plusieurs différentes). Et en fait c'est un jaune fluo principalement uni. Mais! Appliqué sur du Koralle il est joli.
+Étrangement, par-dessus un autre émail jaune il a fait des bulles. Mon argile noire contient du manganese et a fait buller plusieurs tests d'émaux mais celui-ci était sur de l'argile blanche.
+![escargot: émail jaune fluo terre noire](/assets/art/ceramics/samples/BOTZ-Sonnengelb_onBlack.jpg)
+![escargot: émail rouge et jaune terre blanche, émail jaune foncé et clair terre blanche](/assets/art/ceramics/samples/Mix_BOTZ-Koralle_BOTZ-sonnengleb_BOTZ-maisGelb_onWhite.jpg)
+\
+\
+\
+Et puis il y a les émaux unis. Ils sont... ok. Juste unis. Ils seront très bien pour les médaillons, mais je ne pense pas les utiliser tel quels pour des sculptures. Ce serait ennuyeux. Peut-être superposés avec d'autres? Ou formant des motifs. L'échantillon sur leur site web avait des motifs très jolis.
+![escargot: émail bleu terre noire](/assets/art/ceramics/samples/BOTZ-sommerblau_onBlack.jpg)
+![escargot: émail jaune terre noire](/assets/art/ceramics/samples/BOTZ-MaisGelb_onBlack.jpg)
+
+### Peter Lavem
+Vert Antique, de Peter Lavem, est mon autre émail préféré sur de la terre rouge. Il m'évoque du cuivre oxidé et des choses perdues en mer.
+Sur de la terre blanche, par contre, il est profondément décevant, et sur du noir il est simplement laid.
+(il est possible que je me rende compte qu'il est joli sur du blanc si appliqué plus épais, mais ce que j'écris se rapporte aux tests actuels; je mettrai à jour mon opinion des émaux, si nécessaire, en fonction des tests suivants)
+![escargot: émail vert terre rouge](/assets/art/ceramics/samples/PeterLavem-VertAntique_onRed.jpg)
+![escargot: émail verdâtre terre noire](/assets/art/ceramics/samples/PeterLavem-VertAntique_onBlack.jpg)
+
+### Mayco
+J'aime beaucoup les émaux qui ont une couleur différente en fonction de leur épaisseur. Pas juste les émaux translucides qui laissent passer la couleur de l'argile, mais les émaux opaques qui changent réellement de couleur là où ils s'accumulent. Certains des émaux de la série Elements de Mayco font ça.
+![trois escargots: émail bleu-gris terre rouge ou blanche](/assets/art/ceramics/samples/Mayco-EL118blue_onRed_onWhite.jpg)
+![trois escargot: émail vert pâle, orange quand fin, terre rouge ou blanche](/assets/art/ceramics/samples/Mayco-EL130green_onRed.jpg)
+\
+\
+\
+J'ai aussi acheté un émail mat transparent. Il... n'est pas transparent, en fait. Il est très laiteux et je déteste son aspect, mais il m'a donné un très beau résultat par-dessus des émaux bleu et gris. Je ferai d'autres tests pour essayer de recréer ça d'une manière qui ne montre pas l'émail mat seul (essayer de retirer complètement l'émail mat n'a, malheureusement, pas marché).
+![escargot: émail laiteux terre rouge](/assets/art/ceramics/samples/Mayco-transparentMatte_onRed.jpg)
+![escargot: émail laiteux avec deux ronds couleur ciel nocturne, terre rouge](/assets/art/ceramics/samples/Mix_Mayco-transp_BOTZsommerBlau_BOTZGraueFeder_onRed.jpg)
+
+## Ce truc bizarre qui se passe avec les îlots
+J'ai aussi des émaux translucides craquelés bleu et verts qui sont vraiment très beaux quand ils sont épais. Mais ils suintent de la poudre d'émail au cours du temps. Je pense que je pourrais régler ça en les cuisant à nouveau, sans doute un peu plus chaud.
+![îlot: émail vert terre blanche](/assets/art/ceramics/samples/solargil-vertDEau_onWhite.jpg)
+![îlot: émail bleu île tropicale, terre blanche](/assets/art/ceramics/samples/solargil-bleuAigueMarine_onWhite.jpg)
+
+## Okay c'est tout
+C'est tout!\
+N'hésitez pas à me demander si les références précises des émaux que j'ai utilisés vous intéressent, si ce n'est pas lisible sur les photos. Ou si vous avez des idées de combinaisons d'émaux que vous voudriez que j'essaie et poste (utilisant les émaux que j'ai déjà). Ou si vous utilisez un émail que vous pensez que j'aimerais (je n'utilise que des émaux basse température pour l'instant). Ou si vous avez des questions. Ou quoi que ce soit d'autre.
