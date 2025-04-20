@@ -32,7 +32,7 @@ This is gratuitious smoked panther pics. They don't teach anything specific abou
 ![panther](/assets/art/ceramics/IMG_1198_wm_def_glazed.jpg)
 ![panther](/assets/art/ceramics/IMG_1204_wm_def_glazed.jpg)
 
-Also a couple turn arounds because volume reads better in movement (if you want it to loop, then right click the video and select "loop" and it will be seamless-ish):
+Also a couple turn arounds because volume reads better in movement (if you want it to loop, then right click the video and select "loop" and it will be seamless-ish; if the videos don't load just reload the page):
 <iframe width="451" height="376" src="https://www.youtube.com/embed/jneTpu_K4MQ?playlist=jneTpu_K4MQ&loop=1"></iframe>
 <iframe  width="451" height="376" src="https://www.youtube.com/embed/Etk8Ss8TFHA?playlist=Etk8Ss8TFHA&loop=1"></iframe>
 <iframe  width="451" height="376" src="https://www.youtube.com/embed/YZjZfna7X9o?playlist=YZjZfna7X9o&loop=1"></iframe>

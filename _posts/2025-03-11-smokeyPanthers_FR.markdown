@@ -32,7 +32,7 @@ Ce sont des photographies de panthères. Elles n'apprennent rien de spécifique 
 ![panther](/assets/art/ceramics/IMG_1198_wm_def_glazed.jpg)
 ![panther](/assets/art/ceramics/IMG_1204_wm_def_glazed.jpg)
 
-Et quelques vidéos parce que le volume se lit mieux en mouvement. Pour que ça boucle, cliquez droit sur chaque vidéo et sélectionnez "loop" ou "boucle" en fonction de la langue de votre interface, et ça bouclera de manière (plus ou moins) fluide:
+Et quelques vidéos parce que le volume se lit mieux en mouvement. Pour que ça boucle, cliquez droit sur chaque vidéo et sélectionnez "loop" ou "boucle" en fonction de la langue de votre interface, et ça bouclera de manière (plus ou moins) fluide, et si les vidéos ne chargent pas rechargez la page:
 <iframe width="451" height="376" src="https://www.youtube.com/embed/jneTpu_K4MQ?playlist=jneTpu_K4MQ&loop=1"></iframe>
 <iframe  width="451" height="376" src="https://www.youtube.com/embed/Etk8Ss8TFHA?playlist=Etk8Ss8TFHA&loop=1"></iframe>
 <iframe  width="451" height="376" src="https://www.youtube.com/embed/YZjZfna7X9o?playlist=YZjZfna7X9o&loop=1"></iframe>
