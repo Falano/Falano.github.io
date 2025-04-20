@@ -31,7 +31,6 @@ longest dimension: about 20-30 cm / 10 inches
 ![snow leopard C onBack: top](/assets/art/ceramics/IMG_1245_wm_def_gla.jpg)
 ![snow leopard C onBack: three quarters fullbody](/assets/art/ceramics/IMG_1283_wm_def_gla.jpg)
 ![snow leopard C onBack: head close up](/assets/art/ceramics/IMG_1296_wm_def_gla.jpg)
-[](Lynx A.)  
 
 ### Owl A standing 
 longest dimension: about 15 cm / 6 inches
@@ -47,7 +46,6 @@ longest dimension: about 40-45 cm / 17 inches
 ![owl B hunting: back](/assets/art/ceramics/AVA2628_wm_glazed.jpg)
 ![owl B hunting: back top right](/assets/art/ceramics/AVA2633_wm_glazed.jpg)
 ![owl B hunting: talons close-up](/assets/art/ceramics/AVA2626_wm_glazed.jpg)
-[](¿¿Owl C hunting better??)
 ### Hare A running  
 longest dimension: about 20 cm / 8 inches
 ![hare A running: profile right](/assets/art/ceramics/AVA2679_wm_glazed.jpg)
@@ -70,7 +68,6 @@ longest dimension: about 20 cm / 8 inches
 ![hare C upright: fullbody back](/assets/art/ceramics/IMG_1124.JPG_wm_def_glazed.jpg)
 ![hare C upright: head close up](/assets/art/ceramics/IMG_1119.JPG_wm_def_glazed.jpg)
 ![hare C upright: thigh texture close up](/assets/art/ceramics/IMG_1114.JPG_wm_def_glazed.jpg)
-[](Muskoxen???)
 ### Smaller snow leopards
 longest dimensions: about 10-20 cm / 4-8 inches, depending
 ![smoked mini snoleo sitting hunched over, with white pattern over dark](/assets/art/ceramics/IMG_1314_wm_def_gla.jpg)
@@ -117,30 +114,9 @@ longest dimension: about 20 cm / 8 inches
 ![cats and dog: 3-group, dog tongue out](/assets/art/ceramics/lulial02_glazed.jpg)
 ![cats and dog: 3-group, white cat belly up](/assets/art/ceramics/lulial01_glazed.jpg)
 ![white cat and red dog](/assets/art/ceramics/lual03_glazed.jpg)
-[](TODO: make another two three-part ones, for time)
-[](lycaons A, B et C.)
-[](przewalski jumping.)
-[](¿¿muscardin volant / orange painted bat ; also: indian flying fox??)
-[](¿¿gray horse, raccoon, mouflon, serpent coral, reindeer, mucca, sable antelope -nw, nyala -striped antelope, red panda, manchot empereur, macareux moine, red-crowned crane, fox, squirrel, chipmunk, purus red howler -rn monkey, coconut octopus -rnw, giant Pacific octopus -rw, red or fire salamander, tiger, tamarin lion, giraffe, orang-outan, prevost's squirrel -nwr, ribbon seal -nw, loggerhead sea turtle -rw, narwhal ??, red-throated loon -red throat and white speckles on black wings, monarch butterfly, carcajou?, ivory-billed woodpecker)
 
 ### Micro sheep
 longest dimension: about 5 cm / 2 inches
 ![all sheep white on black](/assets/art/ceramics/AVA2778_wm_glazed.jpg)
 ![micro sheep white on black](/assets/art/ceramics/AVA2788_wm_glazed.jpg)
 ![micro sheep red white black](/assets/art/ceramics/IMG_0996_wm.jpg)
-
-[](TODO: test sandwich clay-engobe-clay, with the bad ones and the new ones)
-[](TODO: tiny turtles - with naked limbs and glazed top -glazed bottom?)
-[](TODO: dendrobates, micro-drakes-like)
-
-[](## Biblical Accuracy:)
-[](### With Mouth: Owl, Possum, Raven, Croco (Tasm);)
-[](### With -Rump- Eyes: Panther, Deer, Genetta, Ball Python, Owl? Hyena? Spotted Ray?;)
-[](### With -Head- Eyes: Orca, Panda, Pygmy Owl, Sand Lizard;)
-[](### With Horns: Sheep, Rhino, Deer, Grand Duc -oreilles?, grand koudou;)
-[](### With Slices: Zebra, Tasm, Mongoose, Numbat, Owl?;)
-[](### With -Longbody- Many Legs: Stoat, Otarie, Lizard;)
-[](### With -Shortbody- Many Legs: Monkey, Horse? Owl -wings?; Jacana -baby legs)
-[](### With Face: Owl, Fox, gattopardo, sloth, hare)
-
-[](TODOES GENERAL: closed loop body, bodies in contact, body parts, bodies w trans millipedes, wet river rock color with text - ???-, wet river rock color with only half hidden painting - chicken dinosaur, fossil snail nautilus ammonites, horse pegasus, were wolf, snake drake, horse unicorn for Jade, ooooh flags - dry: black and -dark and light-, wet: -black and dark- and light)

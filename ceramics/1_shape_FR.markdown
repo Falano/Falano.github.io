@@ -33,7 +33,6 @@ plus grande dimension: environ 20-30 cm
 ![snow leopard C onBack: top](/assets/art/ceramics/IMG_1245_wm_def_gla.jpg)
 ![snow leopard C onBack: three quarters fullbody](/assets/art/ceramics/IMG_1283_wm_def_gla.jpg)
 ![snow leopard C onBack: head close up](/assets/art/ceramics/IMG_1296_wm_def_gla.jpg)
-[](Lynx A.)  
 
 ### Harfang A, Debout  
 plus grande dimension: environ 15 cm / 6 inches
