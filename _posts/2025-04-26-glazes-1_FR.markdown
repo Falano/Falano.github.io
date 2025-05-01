@@ -12,7 +12,7 @@ topnav: topnav_Portfolio_Volume_FR
 ---
 
 ## Escargots
-J'utilise des escargots pour tester le comportement et l'aspect de nouveaux émaux. La feuille non émaillée sur laquelle l'escargot est posé sert à rattraper les gouttes d'émail qui pourraient couler, et les empêche d'abîmer le four.
+J'utilise des escargots pour tester le comportement et l'aspect de nouveaux émaux. La feuille non émaillée sur laquelle l'escargot est posé sert à rattraper les gouttes d'émail qui pourraient couler, et les empêche d'abîmer le four.\
 Donc: un retour sur les quelques dernières fournées:
 
 ### Émaux BOTZ
@@ -28,7 +28,7 @@ Mon deuxième préféré est Koralle. Il est absolument superbe sur de la terre 
 \
 \
 \
-Sonnenfeuer est un peu décevant. Je m'attendais à un Koralle jaune, c'est-à-dire un jaune texturé (pas texturé dans le sens d'une surface texturée au toucher, mais texturé comme une couleur qui est en réalité composée de plusieurs différentes). Et en fait c'est un jaune fluo principalement uni. Mais! Appliqué sur du Koralle il est joli.
+Sonnenfeuer est un peu décevant. Je m'attendais à un Koralle jaune, c'est-à-dire un jaune texturé (pas texturé dans le sens d'une surface texturée au toucher, mais texturé comme une couleur qui est en réalité composée de plusieurs différentes). Et en fait c'est un jaune fluo principalement uni. Mais! Appliqué sur du Koralle il est joli.\
 Étrangement, par-dessus un autre émail jaune il a fait des bulles. Mon argile noire contient du manganese et a fait buller plusieurs tests d'émaux mais celui-ci était sur de l'argile blanche.
 ![escargot: émail jaune fluo terre noire](/assets/art/ceramics/samples/BOTZ-Sonnengelb_onBlack.jpg)
 ![escargot: émail rouge et jaune terre blanche, émail jaune foncé et clair terre blanche](/assets/art/ceramics/samples/Mix_BOTZ-Koralle_BOTZ-sonnengleb_BOTZ-maisGelb_onWhite.jpg)
@@ -40,8 +40,8 @@ Et puis il y a les émaux unis. Ils sont... ok. Juste unis. Ils seront très bie
 ![escargot: émail jaune terre noire](/assets/art/ceramics/samples/BOTZ-MaisGelb_onBlack.jpg)
 
 ### Peter Lavem
-Vert Antique, de Peter Lavem, est mon autre émail préféré sur de la terre rouge. Il m'évoque du cuivre oxidé et des choses perdues en mer.
-Sur de la terre blanche, par contre, il est profondément décevant, et sur du noir il est simplement laid.
+Vert Antique, de Peter Lavem, est mon autre émail préféré sur de la terre rouge. Il m'évoque du cuivre oxidé et des choses perdues en mer.\
+Sur de la terre blanche, par contre, il est profondément décevant, et sur du noir il est simplement laid.\
 (il est possible que je me rende compte qu'il est joli sur du blanc si appliqué plus épais, mais ce que j'écris se rapporte aux tests actuels; je mettrai à jour mon opinion des émaux, si nécessaire, en fonction des tests suivants)
 ![escargot: émail vert terre rouge](/assets/art/ceramics/samples/PeterLavem-VertAntique_onRed.jpg)
 ![escargot: émail verdâtre terre noire](/assets/art/ceramics/samples/PeterLavem-VertAntique_onBlack.jpg)
