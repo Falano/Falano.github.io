@@ -15,6 +15,7 @@ sidebar: shape_FR_sidebar
 Sculpture enfumée ou nue. Centrée sur la forme et le toucher de la terre non émaillée.
 
 ## Pieds de Neige
+Une série sur des animaux vivant dans des climats froids
 ### Panthère des Neiges B, Sautant
 plus grande dimension: environ 40-45 cm
 ![snow leopard B leaping: fullbody three quarters](/assets/art/ceramics/AVA2593_wm_glazed.jpg)
@@ -97,6 +98,7 @@ plus grande dimension: environ 15cm
 ![small smoked owl](/assets/art/ceramics/IMG_1540_wm_gla_def.jpg)
 
 ## Animaux Géométriques - Autres
+Animaux enfumés et stylisés ne faisant pas partie d'une série spécifique
 ### Loutre
 plus grande dimension: environ 20 cm
 ![otter: close-up neck](/assets/art/ceramics/AVA2835_wm_glazed.jpg)
@@ -110,6 +112,7 @@ plus grande dimension: environ 10 cm
 ![camel: side](/assets/art/ceramics/AVA2805_wm_glazed.jpg)
 
 ## Couleur Terre
+Animaux Noir, Blanc, Rouge
 ### Moutons Suffolk
 plus grande dimension: environ 15-20 cm
 ![sheep A: body front](/assets/art/ceramics/AVA2773_wm-id_glazed.jpg)

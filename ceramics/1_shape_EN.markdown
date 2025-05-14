@@ -12,6 +12,7 @@ topnav: topnav_Portfolio_Volume_EN
 Smoked or bare sculpture. Focused on the shape and feel of unglazed clay.
 
 ## Snowwalker's feet
+A series about animals living in cold climates
 ### Snow Leopard B leaping
 longest dimension: about 40-45 cm / 17 inches
 ![snow leopard B leaping: fullbody three quarters](/assets/art/ceramics/AVA2593_wm_glazed.jpg)
@@ -91,6 +92,7 @@ about 15cm / 4 inches on the longest dimension
 ![small smoked owl](/assets/art/ceramics/IMG_1540_wm_gla_def.jpg)
 
 ## Unsorted geometric animals
+Smoked and stylized animals not part of a specific series
 ### Otter
 longest dimension: about 20 cm / 8 inches
 ![otter: close-up neck](/assets/art/ceramics/AVA2835_wm_glazed.jpg)
@@ -104,6 +106,7 @@ longest dimension: about 10 cm / 4 inches
 ![camel: side](/assets/art/ceramics/AVA2805_wm_glazed.jpg)
 
 ## Clay colored
+Black, White, Red animals
 ### Suffolk sheep
 longest dimension: about 15-20 cm / 7 inches
 ![sheep A: body front](/assets/art/ceramics/AVA2773_wm-id_glazed.jpg)
