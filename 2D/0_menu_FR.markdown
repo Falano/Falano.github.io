@@ -6,10 +6,13 @@ permalink: /2D/menu_FR.html
 redirect_from:
   - 2D/menu
   - 2D
+  - ceramics/2D
+  - ceramique/2D
 topnav: topnav_Portfolio_2D_FR
 ---
-\
-[->english version here<-](/ceramics)
+
+
+english version will come later, sorry!
 
 # 2D
 
@@ -43,5 +46,8 @@ topnav: topnav_Portfolio_2D_FR
 \
 \
 Pour voir plus de photos d'un type spécifique cliquer le lien "plus" sous chaque groupe de photos ou utiliser le menu en haut de page.
+\
+Je fais aussi [de la céramique](ceramique)
+\
 \
 Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml)

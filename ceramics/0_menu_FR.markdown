@@ -5,6 +5,7 @@ last_updated: 30 Août 2024
 permalink: /ceramics/menu_FR.html
 redirect_from:
   - ceramics/menu
+  - 2D/ceramique
   - portfolio/volume/menu
   - portfolio/volume/
   - portfolio/volume
@@ -49,5 +50,8 @@ topnav: topnav_Portfolio_Volume_FR
 \
 \
 Pour voir plus de photos d'un type spécifique cliquer le lien "plus" sous chaque groupe de photos ou utiliser le menu en haut de page.
+\
+Je fais aussi [du dessin traditionnel et/ou numérique](2D)
+\
 \
 Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml)
