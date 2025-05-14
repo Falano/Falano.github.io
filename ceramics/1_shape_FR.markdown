@@ -8,6 +8,7 @@ redirect_from:
   - /ceramics/sculpture-bare
   - /ceramics/sculpture
 topnav: topnav_Portfolio_Volume_FR
+sidebar: shape_FR_sidebar
 ---
 
 # Forme

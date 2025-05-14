@@ -1,0 +1,37 @@
+entries:
+- title: sidebar
+  product: Couleur
+  version:
+  folders:
+  - title: Couleur
+    url: color_FR.html#couleur
+    output: web
+    folderitems:
+    - title: Escargots
+      url: color_FR.html#escargots
+      output: web
+
+    - title: Godets-iles
+      url: color_FR.html#godets-iles
+      output: web
+    
+    - title: Dragons
+      url: color_FR.html#dragons
+      output: web
+    
+    - title: Panthères
+      url: color_FR.html#panthères
+      output: web
+    
+    - title: Petits
+      url: color_FR.html#petits
+      output: web
+      folderitems:
+      - title: Micro dragons
+        url: color_FR.html#micro-dragons
+        output: web
+      - title: Micro sheep
+        url: color_FR.html#micro-sheep
+        output: web 
+
+# n'est visible que avec le layout "default"

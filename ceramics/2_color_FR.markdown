@@ -7,6 +7,7 @@ redirect_from:
   - /ceramics/sculpture-colors_FR.html
   - /ceramics/sculpture-colors
 topnav: topnav_Portfolio_Volume_FR
+sidebar: color_FR_sidebar
 ---
 # Couleur
 Sculptures émaillées. La couleur et la texture de l'émail sont aussi importants que la forme.

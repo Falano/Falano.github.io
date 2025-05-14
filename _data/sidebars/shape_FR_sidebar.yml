@@ -1,0 +1,84 @@
+entries:
+- title: sidebar
+  product: Forme
+  version:
+  folders:
+  - title: Pieds de Neige
+    url: shape_FR.html#pieds-de-neige
+    output: web
+    folderitems:
+
+    - title: Panthère B, Sautant
+      url: shape_FR.html#panthère-des-neiges-b-sautant
+      output: web
+    - title: Panthère A, Assise
+      url: shape_FR.html#panthère-des-neiges-a-assise
+      output: web
+    - title: Panthère C, Sur le dos
+      url: shape_FR.html#panthère-des-neiges-c-sur-le-dos
+      output: web
+
+    - title: Harfang A, debout
+      url: shape_FR.html#harfang-a-debout
+      output: web
+    - title: Harfang B, en Vol
+      url: shape_FR.html#harfang-b-en-vol
+      output: web
+      
+    - title: Lièvre A, Courant
+      url: shape_FR.html#lièvre-a-courant
+      output: web
+    - title: Lièvre B, Se Levant
+      url: shape_FR.html#lièvre-b-se-levant
+      output: web
+    - title: Lièvre C, Debout
+      url: shape_FR.html#lièvre-c-debout
+      output: web
+      
+    - title: Petites panthères des neiges
+      url: shape_FR.html#petites-panthères-des-neiges
+      output: web
+    - title: Petits lynx
+      url: shape_FR.html#petits-lynx
+      output: web
+    - title: Petits lièvres
+      url: shape_FR.html#petits-lièvres
+      output: web
+    - title: Petits harfangs
+      url: shape_FR.html#petits-harfangs
+      output: web
+
+  - title: Animaux Géométriques
+    url: shape_FR.html#animaux-géométriques---autres
+    output: web
+    folderitems:
+
+    - title: Loutre
+      url: shape_FR.html#loutre
+      output: web
+    - title: Chameau
+      url: shape_FR.html#chameau
+      output: web
+    
+  - title: Couleur Terre
+    url: shape_FR.html#couleur-terre
+    output: web
+    folderitems:
+
+    - title: Moutons
+      url: shape_FR.html#moutons-suffolk
+      output: web
+    - title: Mustélidés
+      url: shape_FR.html#mustélidés
+      output: web
+    - title: Chevaux
+      url: shape_FR.html#chevaux
+      output: web
+    - title: Chiens et Chats
+      url: shape_FR.html#chiens-et-chats
+      output: web
+    - title: Mini moutons
+      url: shape_FR.html#mini-moutons
+      output: web
+
+# n'est visible que avec le layout "default"
