@@ -77,6 +77,23 @@ plus grande dimension: environ 10-20 cm
 ![smoked mini snoleo sitting hunched over, with white pattern over dark](/assets/art/ceramics/IMG_1314_wm_def_gla.jpg)
 ![smoked mini snoleo leaping, with white pattern over dark](/assets/art/ceramics/IMG_1309_wm_def_gla.jpg)
 ![one sculpture of two snoleos, playing, one bopping the other's nose](/assets/art/ceramics/IMG_0733_wm_glazed.jpg)
+![a very dark leopard, on its back, playful](/assets/art/ceramics/IMG_1298_wm_def_gla.jpg)
+
+### Petits lynx
+plus grande dimension: environ 10-15 cm
+![small smoked lynx](/assets/art/ceramics/IMG_1483_wm_gla_def.jpg)
+![small smoked lynx](/assets/art/ceramics/IMG_1491_wm_gla_def.jpg)
+![small smoked lynx](/assets/art/ceramics/IMG_1492_wm_gla_def.jpg)
+### Petits lièvres
+plus grande dimension: environ 6-10 cm
+![small smoked hare](/assets/art/ceramics/IMG_1472_wm_gla_def.jpg)
+![small smoked hare](/assets/art/ceramics/IMG_1601_wm_gla_def.jpg)
+![small smoked hare](/assets/art/ceramics/IMG_1612_wm_gla_def.jpg)
+### Petits harfangs
+plus grande dimension: environ 15cm
+![small smoked owl](/assets/art/ceramics/IMG_1539_wm_gla_def.jpg)
+![small smoked owl](/assets/art/ceramics/IMG_1538_wm_gla_def.jpg)
+![small smoked owl](/assets/art/ceramics/IMG_1540_wm_gla_def.jpg)
 
 ## Animaux Géométriques - Autres
 ### Loutre
