@@ -17,6 +17,9 @@ To get pictures of what I make sent directly to your inbox or RSS feed reader, s
 [RSS feed of this website's blog articles](https://falano.github.io/feed/ceramics.xml)\
 
 ## Fairs and exhibitions
+### 2025
+**june 22, 2025**: exhibit-concert with atelier Fwells and Bruno Perrin, at Paris 75013.\
+**may 20 - june 13 2025**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
 ### 2024
 **august 17-18, 2024**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)  
 **may 13 - june 14, 2024**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)

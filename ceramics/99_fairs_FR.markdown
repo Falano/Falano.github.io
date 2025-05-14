@@ -16,6 +16,9 @@ Pour recevoir de temps en temps des photos de ce que je fais directement dans vo
 [flux RSS des articles de blog de ce site](https://falano.github.io/feed/ceramique.xml)\
 
 ## Marchés et expositions
+### 2025
+**22 juin 2025**: expo-concert avec l'atelier Fwells et Bruno Perrin, dans le 13eme arrondissement, à Paris.\
+**20 mai - 13 juin 2025**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
 ### 2024
 **17-18 août 2024**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)  
 **13 mai - 14 juin 2024**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
