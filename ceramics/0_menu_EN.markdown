@@ -22,6 +22,7 @@ topnav: topnav_Portfolio_Volume_EN
 ![panther](/assets/art/ceramics/IMG_1314_wm_def_gla.jpg)
 ![owl flying](/assets/art/ceramics/AVA2624_wm_glazed.jpg)
 ![medium sheep](/assets/art/ceramics/AVA2773_wm-id_glazed.jpg)
+
 [more](shape_EN.html)
 
 ## Color
@@ -33,6 +34,7 @@ topnav: topnav_Portfolio_Volume_EN
 |![micro sheep white on black](/assets/art/ceramics/IMG_1209_wm_def_gla.jpg)|![micro sheep blue on black](/assets/art/ceramics/IMG_1221_wm_med_gla.jpg)|![micro sheep dark green on black](/assets/art/ceramics/IMG_1226_wm_def_gla.jpg)|
 
 ![emerald green islets closeup](/assets/art/ceramics/IMG_0622_wm_glazed.jpg)
+
 [more](color_EN.html)
 
 ## Patterns
