@@ -13,7 +13,7 @@ topnav: topnav_Portfolio_Volume_EN
 
 # Ceramics
 
-- to get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and sales drops
+- to get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and sales drops
 - To buy ceramics (or just look), head on to [my shop](https://nolanfa-shop.fourthwall.com/) (not always open)
 - to contact me, you can use **nolanfa. art (at) gmail. com**
 
@@ -52,4 +52,4 @@ If you want to see more of each kind click the "more" link under each group of p
 I also do [computer or traditional drawings](2D) (only in french so far, my bad! Just look at the pictures for now. English version will come.) 
 \
 \
-Subscribe to [the newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml)
+Subscribe to [the newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml)

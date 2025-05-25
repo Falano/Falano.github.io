@@ -16,7 +16,7 @@ english version will come later, sorry!
 
 # 2D
 
-- Pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail ou votre lecteur de flux RSS, inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml). J'y annoncerai aussi les marchés, expos, et mises à jour de la boutique en ligne (comme pour l'instant je ne produis pas énormément, la newsletter et le flux RSS sont communs entre la céramique et la 2D)
+- Pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail ou votre lecteur de flux RSS, inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) des articles de blog. J'y annoncerai aussi les marchés, expos, et mises à jour de la boutique en ligne (comme pour l'instant je ne produis pas énormément, la newsletter et le flux RSS sont communs entre la céramique et la 2D)
 - Pour acheter des pièces (ou juste regarder), rendez-vous sur [ma boutique en ligne](https://nolanfa-shop.fourthwall.com/) (ouverte par intermittence)
 - pour me contacter directement, vous pouvez utiliser l'adresse: **nolanfa. art (at) gmail. com**
 
@@ -50,4 +50,4 @@ Pour voir plus de photos d'un type spécifique cliquer le lien "plus" sous chaqu
 Je fais aussi [de la céramique](ceramique)
 \
 \
-Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml)
+Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) des articles de blog.

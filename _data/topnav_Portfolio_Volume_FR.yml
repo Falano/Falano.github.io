@@ -8,6 +8,10 @@ topnav:
       url: menu_FR.html
       output: web
 
+    - title: " "
+      url:
+      output: web
+
     - title: Forme
       url: shape_FR.html
       output: web
@@ -20,12 +24,20 @@ topnav:
       url: patterns_FR.html
       output: web
 
-    - title: Expositions
+    - title: " "
+      url:
+      output: web
+
+    - title: Expos / Contact
       url: fairs_FR.html
       output: web
 
     - title: Blog
       url: blog_FR.html
+      output: web
+
+    - title: " "
+      url:
       output: web
 
     - title: EN
