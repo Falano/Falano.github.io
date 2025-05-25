@@ -1,0 +1,26 @@
+---
+layout: post_cera_FR
+title: "Nouvelles - 1"
+tags: FR cera
+categories: ceramique FR cera
+last_updated: May 25, 2025
+description: 
+permalink: /ceramics/2025-05-25_update-1_FR.html
+redirect_from:
+  - portfolio/volume/2025-05-25_update-1_FR.html
+topnav: topnav_Portfolio_Volume_FR
+---
+
+
+# Nouvelles
+Pas de photos de céramiques pour ce billet de blog, mais des nouvelles fraîches :)
+
+## Page 2D
+J'ai fait une page / catégorie / chapitre / partie du site web clairement séparée sur ce que je fais en 2D. J'hésite encore sur l'organisation; pour l'instant c'est séparé en "Sans Texte", "Avec Texte", et "Jeux Vidéos" (ou Vision, Narration et Interaction si je suis d'humeur poétique et obscure). J'avais envisagé de choisir comme catégories "Animaux", "Humains" et "Paysages", mais "Animaux" aurait été cinq fois plus grande que la somme des deux autres.\
+J'ai aussi des doutes quant au nom actuel ("2D"). Cette partie du site couvre actuellement des dessins 2D numériques (incluant ces choses créées pour des jeux vidéos, et excluant les fanarts qui auront probablement leur propre catégorie), les dessins traditionnels 2D scannés, et de la 3D numérique low-poly (je n'ai pas assez de 3D pour en faire une catégorie à part entière). J'appellerais ça "Dessins" (ou "Plat") mais ça ne couvrirait pas la 3D. J'appellerais ça "Digital" mais ça ne couvrirait pas la 2D traditionnelle. "Non-céramique" serait le nom le plus exact, mais le définir par ce que ce n'est pas est... non optimal.\
+Enfin. J'ai essayé plusieurs catégorisations pour la partie de céramique avant de trouver la mise en page actuelle, et j'en suis très satisfaite, donc je trouverai sans doute aussi la catégorisation idéale pour la 2D dans quelque temps.
+
+## Expositions
+Si vous vivez près de Paris, vous avez une occasion de voir en vrai des choses que j'ai faites! Et même deux occasions:
+- une exposition à l'Université Paris 8 Vincennes - Saint-Denis (Exposition des Personnels, dans le hall d'entrée à gauche; métro Saint-Denis Université), où vous pouvez voir mon installation des poissons (dessin numérique) jusqu'au 19 juin.
+- et une expo-concert le 22 juin à 16h, où je montrerai des céramiques et des impressions de dessins numériques, en même temps qu'une présentation de l'atelier de sérigraphie [Fwells](https://fwells.com/), et avant un concert de Bruno Perrin accompagné de Pierre Chérèze à la guitare à 18h. Ce sera juste devant l'Atelier Fwells, au 129 bis avenue de Choisy, 75013 Paris.

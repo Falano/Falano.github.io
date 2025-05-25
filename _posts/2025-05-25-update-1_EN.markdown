@@ -1,0 +1,26 @@
+---
+layout: post_cera_EN
+title: "Update - 1"
+tags: EN cera
+categories: ceramics EN cera
+last_updated: May 25, 2025
+description: 
+permalink: /ceramics/2025-05-25_update-1_EN.html
+redirect_from:
+  - portfolio/volume/2025-05-25_update-1_EN.html
+topnav: topnav_Portfolio_Volume_EN
+---
+
+
+# Update
+No ceramics pictures for that one, only news and musings.
+
+## 2D Page
+I made a page / category / chapter / clearly delineated part of the website about what I make in 2D. I'm still a bit unsure about how to sort it; so far it's separated in Without Text, With Text, and Video Games (aka Standalone, Narration, and Interaction if I'm feeling poetic and obscure). I thought about doing Animals, Humans, Landscapes, but Animals would have been five times bigger than the sum of the two others.\
+I'm also unsure about the current name ("2D"). It currently covers digital 2D (including some stuff I made for games and not including fanarts which probably will have their own category), traditional scanned 2D and actually digital low-poly 3D (I don't have enough 3D to make it a whole other category). I'd go with "drawings" or "flat" but it wouldn't cover 3D. I'd go with "digital" but it wouldn't cover traditional 2D. "Non-ceramics" would be the most accurate but defining it by what it is not is... not ideal.\
+Oh well. I went back and forth for the ceramics one too before settling on the current layout, and I'm very satisfied of it, so hopefully I'll find the optimal one for 2D too after a bit.
+
+## Exhibits
+If you live near Paris, France, you have a chance to real-life-see stuff I made! Two, even:
+- an exhibit at Université Paris 8 Vincennes - Saint-Denis (Subway station: Saint Denis Université; it's the Exposition des Personnels, in the entry hall on the left), where you can see my fish installation (digital art; I'll post pics here at some point) till June the 19th.
+- and a concert-exhibit in june on the 22nd, at 4:00 when I'll show clay stuff and printed goods, alongside a concert by Bruno Perrin and Pierre Chérèze at 6:00 and the serigraphy workshop [Atelier Fwells](https://fwells.com/). It'll happen at the location of Atelier Fwells, at 129 bis avenue de Choisy, 75013 Paris 
