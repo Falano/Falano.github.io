@@ -16,8 +16,14 @@ topnav: topnav_Portfolio_Volume_EN
 No ceramics pictures for that one, only news and musings.
 
 ## 2D Page
-I made a page / category / chapter / clearly delineated part of the website about what I make in 2D. I'm still a bit unsure about how to sort it; so far it's separated in Without Text, With Text, and Video Games (aka Standalone, Narration, and Interaction if I'm feeling poetic and obscure). I thought about doing Animals, Humans, Landscapes, but Animals would have been five times bigger than the sum of the two others.\
-I'm also unsure about the current name ("2D"). It currently covers digital 2D (including some stuff I made for games and not including fanarts which probably will have their own category), traditional scanned 2D and actually digital low-poly 3D (I don't have enough 3D to make it a whole other category). I'd go with "drawings" or "flat" but it wouldn't cover 3D. I'd go with "digital" but it wouldn't cover traditional 2D. "Non-ceramics" would be the most accurate but defining it by what it is not is... not ideal.\
+I made a page / category / chapter / clearly delineated part of the website about what I make in 2D. I'm still a bit unsure about how to sort it; so far it's separated in Without Text, With Text, and Video Games (aka Standalone, Narration, and Interaction if I'm feeling poetic and obscure). I thought about doing Animals, Humans, Landscapes, but Animals would have been five times bigger than the sum of the two others.
+
+|![wmuh: bird](/assets/art/2D/09_whatMakesUsHuman_09-10_Bird_wm_gla_def.jpg)|![biptyque: bugs](/assets/art/2D/bookmark_bugs_part-1_wm_medium.jpg)|
+
+I'm also unsure about the current name ("2D"). It currently covers digital 2D (including some stuff I made for games and not including fanarts which probably will have their own category), traditional scanned 2D and actually digital low-poly 3D (I don't have enough 3D to make it a whole other category). I'd go with "drawings" or "flat" but it wouldn't cover 3D. I'd go with "digital" but it wouldn't cover traditional 2D. "Non-ceramics" would be the most accurate but defining it by what it is not is... not ideal.
+
+|![mountain people: speleologue](/assets/art/2D/moutainPeeps_0200_wm_gla_def.jpg)|![new year's hare](/assets/art/2D/rabbits_indiv_brown_wm_glaz.jpg)|
+
 Oh well. I went back and forth for the ceramics one too before settling on the current layout, and I'm very satisfied of it, so hopefully I'll find the optimal one for 2D too after a bit.
 
 ## Exhibits

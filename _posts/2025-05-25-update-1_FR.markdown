@@ -16,8 +16,14 @@ topnav: topnav_Portfolio_Volume_FR
 Pas de photos de céramiques pour ce billet de blog, mais des nouvelles fraîches :)
 
 ## Page 2D
-J'ai fait une page / catégorie / chapitre / partie du site web clairement séparée sur ce que je fais en 2D. J'hésite encore sur l'organisation; pour l'instant c'est séparé en "Sans Texte", "Avec Texte", et "Jeux Vidéos" (ou Vision, Narration et Interaction si je suis d'humeur poétique et obscure). J'avais envisagé de choisir comme catégories "Animaux", "Humains" et "Paysages", mais "Animaux" aurait été cinq fois plus grande que la somme des deux autres.\
-J'ai aussi des doutes quant au nom actuel ("2D"). Cette partie du site couvre actuellement des dessins 2D numériques (incluant ces choses créées pour des jeux vidéos, et excluant les fanarts qui auront probablement leur propre catégorie), les dessins traditionnels 2D scannés, et de la 3D numérique low-poly (je n'ai pas assez de 3D pour en faire une catégorie à part entière). J'appellerais ça "Dessins" (ou "Plat") mais ça ne couvrirait pas la 3D. J'appellerais ça "Digital" mais ça ne couvrirait pas la 2D traditionnelle. "Non-céramique" serait le nom le plus exact, mais le définir par ce que ce n'est pas est... non optimal.\
+J'ai fait une page / catégorie / chapitre / partie du site web clairement séparée sur ce que je fais en 2D. J'hésite encore sur l'organisation; pour l'instant c'est séparé en "Sans Texte", "Avec Texte", et "Jeux Vidéos" (ou Vision, Narration et Interaction si je suis d'humeur poétique et obscure). J'avais envisagé de choisir comme catégories "Animaux", "Humains" et "Paysages", mais "Animaux" aurait été cinq fois plus grande que la somme des deux autres.
+
+|![wmuh: bird](/assets/art/2D/09_whatMakesUsHuman_09-10_Bird_wm_gla_def.jpg)|![biptyque: bugs](/assets/art/2D/bookmark_bugs_part-1_wm_medium.jpg)|
+
+J'ai aussi des doutes quant au nom actuel ("2D"). Cette partie du site couvre actuellement des dessins 2D numériques (incluant ces choses créées pour des jeux vidéos, et excluant les fanarts qui auront probablement leur propre catégorie), les dessins traditionnels 2D scannés, et de la 3D numérique low-poly (je n'ai pas assez de 3D pour en faire une catégorie à part entière). J'appellerais ça "Dessins" (ou "Plat") mais ça ne couvrirait pas la 3D. J'appellerais ça "Digital" mais ça ne couvrirait pas la 2D traditionnelle. "Non-céramique" serait le nom le plus exact, mais le définir par ce que ce n'est pas est... non optimal.
+
+|![mountain people: speleologue](/assets/art/2D/moutainPeeps_0200_wm_gla_def.jpg)|![new year's hare](/assets/art/2D/rabbits_indiv_brown_wm_glaz.jpg)|
+
 Enfin. J'ai essayé plusieurs catégorisations pour la partie de céramique avant de trouver la mise en page actuelle, et j'en suis très satisfaite, donc je trouverai sans doute aussi la catégorisation idéale pour la 2D dans quelque temps.
 
 ## Expositions
