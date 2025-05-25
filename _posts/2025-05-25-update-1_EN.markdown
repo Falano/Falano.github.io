@@ -4,7 +4,7 @@ title: "Update - 1"
 tags: EN cera
 categories: ceramics EN cera
 last_updated: May 25, 2025
-description: 
+description: New page for 2D works, and upcoming exhibitions
 permalink: /ceramics/2025-05-25_update-1_EN.html
 redirect_from:
   - portfolio/volume/2025-05-25_update-1_EN.html

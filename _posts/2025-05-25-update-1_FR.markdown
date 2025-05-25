@@ -4,7 +4,7 @@ title: "Nouvelles - 1"
 tags: FR cera
 categories: ceramique FR cera
 last_updated: May 25, 2025
-description: 
+description: Nouvelle page du site pour mes dessins, et expositions à venir
 permalink: /ceramics/2025-05-25_update-1_FR.html
 redirect_from:
   - portfolio/volume/2025-05-25_update-1_FR.html
