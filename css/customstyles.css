@@ -1,5 +1,6 @@
 body {
     font-size:15px;
+    padding-top:75px; /*so that the top of the page isn't hidden under the navbar*/
 }
 
 .bs-callout {
@@ -287,6 +288,13 @@ li.dropdownActive a {
     color: orange;
 }
 
+/* have the top navbar scroll down with screen*/
+.navbar{
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
 
 .navbar-inverse .navbar-nav > li > a {
     background-color: transparent;
@@ -375,6 +383,7 @@ background-color: #347DBE;
     background-color: #f1f1f1;
 }
 
+/* this is font size and padding around topnav entries */
 .nav > li > a {
     font-size: 14px;
     line-height: 20px;
@@ -1149,9 +1158,9 @@ h4.panel-title {
     margin-top: 0px;
 }
 
-/*set navbar breakpoint so that it converts to hamburger earlier
+/*set navbar breakpoint so that it converts to hamburger earlier (first line); min is 768 no matter the number of top menu items and I haven't found how to make it smaller, but you can set the top menu text to hide earlier by inputting a bigger value*/
 
-@media (max-width: 1200px) {
+@media (max-width: 400px) {
     .navbar-header {
         float: none;
     }
