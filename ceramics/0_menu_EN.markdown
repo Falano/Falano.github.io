@@ -49,7 +49,7 @@ topnav: topnav_Portfolio_Volume_EN
 \
 If you want to see more of each kind click the "more" link under each group of pictures or use the top hamburger menu.
 \
-I also do [computer or traditional drawings](2D) (only in french so far, my bad! Just look at the pictures for now. English version will come.) 
+I also do [computer or traditional drawings](2D).
 \
 \
 Subscribe to [the newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml)

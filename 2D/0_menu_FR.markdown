@@ -6,13 +6,12 @@ permalink: /2D/menu_FR.html
 redirect_from:
   - 2D/menu
   - 2D
-  - ceramics/2D
   - ceramique/2D
 topnav: topnav_Portfolio_2D_FR
 ---
 
 
-english version will come later, sorry!
+[->english version here<-](/2DEN)
 
 # 2D
 
@@ -27,7 +26,8 @@ english version will come later, sorry!
 ![snake orange](/assets/art/2D/snake_orange_wm_def_glazed.jpg)
 ![mountain peeps: spelunker](/assets/art/2D/moutainPeeps_0200_wm_gla_def.jpg)
 ![mountain peeps: hermit](/assets/art/2D/moutainPeeps_0160_wm_gla_def.jpg)\
-[plus](textless_FR.html)
+
+[-----> plus](textless_FR.html)
 
 ## Avec texte
 
@@ -36,12 +36,20 @@ english version will come later, sorry!
 
 ![poem illustration: bird](/assets/art/2D/09_whatMakesUsHuman_09-10_Bird_wm_gla_def.jpg)
 ![poem illustration: music and food](/assets/art/2D/09_whatMakesUsHuman_17-18_All1_wm_gla_def.jpg)\
-[à venir: chimères, posters animaux]
 
+![chimerae: octonkey painterly](/assets/art/2D/hybrides-09-poulpatele-painterly_wm_gla_def.jpg)
+![chimerae: octonkey painterly](/assets/art/2D/hybrides-09-poulpatele-sketchy_wm_gla_def.jpg)
+
+![butterfly](/assets/art/2D/motiv_butterfly_wm_gla_def.jpg)
+![dragonfly](/assets/art/2D/motiv_dragonfly_wm_gla_def.jpg)
+
+[-----> plus](textfull_FR.html)
 
 ## Jeu Vidéo
-[à venir]
+![M&L: Mark](/assets/art/2D/ml_mark_wm_gla_def.jpg)
+![M&L: Lara](/assets/art/2D/ml_lara_wm_gla_def.jpg)
 
+[-----> plus](gamey_FR.html)
 \
 \
 \

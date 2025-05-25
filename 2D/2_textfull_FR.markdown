@@ -17,7 +17,11 @@ Un conte sur la création du monde. Une trentaine de pages.
 
 ## Chimères
 Une série de douze animaux hybrides, dans le style d'un carnet de voyage naturaliste
-[à venir]
+![chimerae: centiray painterly](/assets/art/2D/hybrides-centiray-painterly_wm_gla_def.jpg)
+![chimerae: centiray sketchy](/assets/art/2D/hybrides-centiray-sketchy_wm_gla_def.jpg)
+![chimerae: slothurle painterly](/assets/art/2D/hybrides-10-slothurtle-painterly_wm_gla_def.jpg)
+![chimerae: octonkey painterly](/assets/art/2D/hybrides-09-poulpatele-painterly_wm_gla_def.jpg)
+![chimerae: octonkey painterly](/assets/art/2D/hybrides-09-poulpatele-sketchy_wm_gla_def.jpg)
 
 ## What Makes Us Human
 Une illustration du poème de mactiir: ["You're asexual? But..."](https://www.tumblr.com/mactiir/111248375052/youre-asexual-but) (une quinze-vingtaine de pages)
@@ -25,4 +29,9 @@ Une illustration du poème de mactiir: ["You're asexual? But..."](https://www.tu
 ![poem illustration: music and food](/assets/art/2D/09_whatMakesUsHuman_17-18_All1_wm_gla_def.jpg)
 
 ## Posters Animaux avec Texte
-[à venir]
+motivational quotes with paired animals (ten -five pairs- so far)
+
+|![alligator](/assets/art/2D/motiv_alligator_wm_gla_def.jpg)|![crocodile](/assets/art/2D/motiv_crocodile_wm_gla_def.jpg)|
+|![butterfly](/assets/art/2D/motiv_butterfly_wm_gla_def.jpg)|![dragonfly](/assets/art/2D/motiv_dragonfly_wm_gla_def.jpg)|
+|![narwhal](/assets/art/2D/motiv_narwhal_wm_gla_def.jpg)|![purpoise](/assets/art/2D/motiv_purpoise_wm_gla_def.jpg)|
+

@@ -90,7 +90,10 @@ Séries de douze personnages humains chacune, liées à un environnement spécif
 [à venir]
 
 ## Couleurs Limités
-[à venir]
+
+|![limited Palette: City](/assets/art/2D/limPal_city_wm_gla_def.jpg)|![limited Palette textured: Wind Turbines](/assets/art/2D/limPalTex_windthing_wm_gla_def.jpg)|
+|![limited Palette: Fish](/assets/art/2D/limPal_fish_wm_gla_def.jpg)|![limited Palette textured: Clouds](/assets/art/2D/limPalTex_clouds_wm_gla_def.jpg)|
+|![limited Palette: Mice](/assets/art/2D/limPal_mice_wm_gla_def.jpg)|![limited Palette textured: Mice](/assets/art/2D/limPalTex_mice_wm_gla_def.jpg)|
 
 ## Animaux sur le vif
 
