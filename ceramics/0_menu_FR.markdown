@@ -27,7 +27,7 @@ topnav: topnav_Portfolio_Volume_FR
 ![owl flying](/assets/art/ceramics/AVA2624_wm_glazed.jpg)
 ![medium sheep](/assets/art/ceramics/AVA2773_wm-id_glazed.jpg)
 
-[plus](shape_FR.html)
+[-----> plus](shape_FR.html)
 
 ## Couleur
 ![three blue greenish gray snails](/assets/art/ceramics/IMG_0581_wm_glazed.jpg)
@@ -39,7 +39,7 @@ topnav: topnav_Portfolio_Volume_FR
 
 ![emerald green islets closeup](/assets/art/ceramics/IMG_0622_wm_glazed.jpg)
 
-[plus](color_FR.html)
+[-----> plus](color_FR.html)
 
 ## Motifs
 
@@ -47,7 +47,7 @@ topnav: topnav_Portfolio_Volume_FR
 
 |![owl glazed green medaillon](/assets/art/ceramics/IMG_1262_wm_def_gla.jpg)|![top ray glazed blue medaillon](/assets/art/ceramics/IMG_1261_wm_def_gla.jpg)|![trilobite glazed grey medaillon](/assets/art/ceramics/IMG_1270_wm_def_gla.jpg)|
 
-[plus](patterns_FR.html)
+[-----> plus](patterns_FR.html)
 \
 \
 \
