@@ -105,4 +105,7 @@ Séries de douze personnages humains chacune, liées à un environnement spécif
 
 
 ## Installation Poissons
-Installation modulaire. Exposée pour la première fois le 20 mai 2025 au hall d'exposition de l'Université Paris 8 à Saint-Denis.
+Installation modulaire. Exposée pour la première fois le 20 mai 2025 au hall d'exposition de l'Université Paris 8 à Saint-Denis.\
+![wall Fishes](/assets/art/2D/wallFishes_90L_wm_gla_def.jpg)
+![wall Fishes](/assets/art/2D/wallFishes_1708_col_wm_gla_def.jpg)
+![wall Fishes](/assets/art/2D/wallFishes_1707_wm.jpg)

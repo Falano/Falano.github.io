@@ -82,10 +82,10 @@ Series of twelve human characters each, linked to a specific environment. Made i
 |![mountain peeps: 180](/assets/art/2D/moutainPeeps_0180_wm_gla_def.jpg)|![mountain peeps: 200](/assets/art/2D/moutainPeeps_0200_wm_gla_def.jpg)|
 
 ### People: sea
-[to come later]
+[to be added later]
 
 ## Patterns
-[to come later]
+[to be added later]
 
 ## Limited Palette
 
@@ -103,4 +103,7 @@ Series of twelve human characters each, linked to a specific environment. Made i
 
 
 ## Fish Installation
-Modular installation. Publicly shown for the first time on may 20th, 2025, at Université Paris 8 Vincennes - Saint-Denis' exhibition hall.
+Modular installation. Publicly shown for the first time on may 20th, 2025, at Université Paris 8 Vincennes - Saint-Denis' exhibition hall.\
+![wall Fishes](/assets/art/2D/wallFishes_90L_wm_gla_def.jpg)
+![wall Fishes](/assets/art/2D/wallFishes_1708_col_wm_gla_def.jpg)
+![wall Fishes](/assets/art/2D/wallFishes_1707_wm.jpg)
