@@ -1,0 +1,38 @@
+entries:
+- title: sidebar
+  product: Motifs
+  version:
+  folders:
+  - title: Medaillons
+    url: patterns_FR.html#medaillons
+    output: web
+    folderitems:
+    - title: Oiseaux
+      url: patterns_FR.html#oiseaux
+      output: web
+    - title: Profondeurs
+      url: patterns_FR.html#profondeurs
+      output: web
+    - title: Insectes / Reptiles / Invertébrés
+      url: patterns_FR.html#insectes--reptiles--invertébrés
+      output: web
+    - title: Chats & Chiens
+      url: patterns_FR.html#chats--chiens
+      output: web
+    - title: Autres Mammifères
+      url: patterns_FR.html#autres-mammifères
+      output: web
+    - title: Astres et Symboles
+      url: patterns_FR.html#astres-et-symboles
+      output: web
+    - title: Plantes
+      url: patterns_FR.html#plantes
+      output: web
+    - title: Paysages Urbains et Objets Artificiels
+      url: patterns_FR.html#paysages-urbains-et-objets-artificiels
+      output: web
+    - title: Émaillés
+      url: patterns_FR.html#emaillés
+      output: web
+
+# n'est visible que avec le layout "default"
