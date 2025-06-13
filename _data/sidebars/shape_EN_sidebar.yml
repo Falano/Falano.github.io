@@ -1,0 +1,87 @@
+entries:
+- title: sidebar
+  product: Shape
+  version:
+  folders:
+  - title: Snowwalkers's Feet
+    url: shape_EN.html#snowwalkers-feet
+    output: web
+    folderitems:
+
+    - title: Snow Leopard B, Leaping
+      url: shape_EN.html#snow-leopard-b-leaping
+      output: web
+    - title: Snow Leopard A, Sitting
+      url: shape_EN.html#snow-leopard-a-sitting
+      output: web
+    - title: Snow Leopard C, On its Back
+      url: shape_EN.html#snow-leopard-c-on-its-back
+      output: web
+
+    - title: Owl A, Standing
+      url: shape_EN.html#owl-a-standing
+      output: web
+    - title: Owl B, Hunting
+      url: shape_EN.html#owl-b-hunting
+      output: web
+      
+    - title: Hare A, Running
+      url: shape_EN.html#hare-a-running
+      output: web
+    - title: Hare B, Rising
+      url: shape_EN.html#hare-b-rising
+      output: web
+    - title: Hare C, Upright
+      url: shape_EN.html#hare-c-upright
+      output: web
+      
+    - title: Smaller snow leopards
+      url: shape_EN.html#smaller-snow-leopards
+      output: web
+    - title: Smaller lynx
+      url: shape_EN.html#smaller-lynx
+      output: web
+    - title: Smaller hares
+      url: shape_EN.html#smaller-hares
+      output: web
+    - title: Smaller owls
+      url: shape_EN.html#smaller-owls
+      output: web
+
+  - title: Geometric Animals
+    url: shape_EN.html#unsorted-geometric-animals
+    output: web
+    folderitems:
+
+    - title: Otter
+      url: shape_EN.html#otter
+      output: web
+    - title: Camel
+      url: shape_EN.html#camel
+      output: web
+    
+  - title: Clay colored
+    url: shape_EN.html#clay-colored
+    output: web
+    folderitems:
+
+    - title: Suffolk sheep
+      url: shape_EN.html#suffolk-sheep
+      output: web
+    - title: Mustelids
+      url: shape_EN.html#mustelids
+      output: web
+    - title: Horses
+      url: shape_EN.html#horses
+      output: web
+    - title: African Wild Dogs
+      url: shape_EN.html#african-wild-dogs
+      output: web
+    - title: Cats and Dogs
+      url: shape_EN.html#cats-and-dogs
+      output: web
+    - title: Micro sheep
+      url: shape_EN.html#micro-sheep
+      output: web
+
+# n'est visible que avec le layout "default"

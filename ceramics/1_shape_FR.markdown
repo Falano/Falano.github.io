@@ -111,6 +111,9 @@ plus grande dimension: environ 15cm
 |![small smoked owl](/assets/art/ceramics/IMG_1539_wm_gla_def.jpg)|![small smoked owl](/assets/art/ceramics/IMG_1537_wm_gla_def.jpg)|
 
 ![small smoked owl](/assets/art/ceramics/IMG_1540_wm_gla_def.jpg)
+![small smoked owl](/assets/art/ceramics/IMG_1866_wm_gla_def.jpg)
+![small smoked owl](/assets/art/ceramics/IMG_1830_wm_gla_def.jpg)
+![small smoked owl](/assets/art/ceramics/IMG_1838_wm_gla_def.jpg)
 
 ## Animaux Géométriques - Autres
 Animaux enfumés et stylisés ne faisant pas partie d'une série spécifique
@@ -146,7 +149,25 @@ plus grande dimension: environ 10 cm pour les grands et 5cm pour les petits
 
 ### Chevaux
 plus grande dimension: environ 20 cm
-![Horses Hugging A](/assets/art/ceramics/IMG_0652_wm_glazed.jpg)
+![Horses Hugging A](/assets/art/ceramics/IMG_0652_wm_glazed.jpg)\
+\
+plus grande dimension: environ 45-50 cm
+![Przewalski](/assets/art/ceramics/IMG_1788_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1789_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1794_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1796_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1800_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1807_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1813_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1814_wm_gla_def.jpg)
+![Przewalski](/assets/art/ceramics/IMG_1817_wm_gla_def.jpg)
+
+|![Przewalski: portrait](/assets/art/ceramics/IMG_1792_wm_gla_def.jpg)|![Przewalski: portrait](/assets/art/ceramics/IMG_1812_wm_gla_def.jpg)\
+
+### Lycaons
+![Lycaons](/assets/art/ceramics/IMG_1821_wm_gla_def.jpg)
+![Lycaons](/assets/art/ceramics/IMG_1822_wm_gla_def.jpg)
+![Lycaons](/assets/art/ceramics/IMG_1819_wm_gla_def.jpg)
 
 ### Chiens et Chats
 ![cats and dogs: all](/assets/art/ceramics/AVA2865_wm_glazed.jpg)

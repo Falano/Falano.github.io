@@ -74,6 +74,9 @@ entries:
     - title: Chevaux
       url: shape_FR.html#chevaux
       output: web
+    - title: Lycaons
+      url: shape_FR.html#lycaons
+      output: web
     - title: Chiens et Chats
       url: shape_FR.html#chiens-et-chats
       output: web
