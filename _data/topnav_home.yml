@@ -8,22 +8,16 @@ topnav_dropdowns:
       folderitems:
       - title: Ressources
         url: \/cours\/creation_gestion_ressources\/menu.html
-      - title: Moteurs Jeu
+      - title: Godot
         url: \/cours\/introduction_moteurs_jeu\/menu.html
       - title: Blender
         url: \/cours\/introduction_3D\/menu.html
     - title: Portfolio
       folderitems:
-      - title: 2D (2D, tradi, UI, gifs)
-        url: /cours/introduction_3D/menu.html
-      - title: 3D (lopo, sculpt???)
-        url: /cours/introduction_3D/menu.html
-      - title: Volume (sculpt, bijoux)
-        url: \/ceramics\/menu_FR.html
-      - title: Animation (animatics, stopmo, gifs)
-        url: /cours/introduction_3D/menu.html
-      - title: Games (jeux, UI)
-        url: /cours/introduction_3D/menu.html
+      - title: Numerique
+        url: \/2D
+      - title: Ceramique
+        url: \/ceramique
 
 topnav:
 - title: CV
