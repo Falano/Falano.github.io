@@ -7,6 +7,7 @@ redirect_from:
   - /ceramics/sculpture-colors_EN.html
   - /ceramics/sculpture-colors
 topnav: topnav_Portfolio_Volume_EN
+sidebar: color_EN_sidebar
 ---
 
 # Color
@@ -50,3 +51,8 @@ longest dimension: about 5 cm / 2 inches
 |![mouton](/assets/art/ceramics/IMG_1216_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1221_wm_med_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1223_wm_def_gla.jpg)|
 |![mouton](/assets/art/ceramics/IMG_1228_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1230_wm_def_gla.jpg)|![mouton](/assets/art/ceramics/IMG_1233_wm_def_gla.jpg)|
 
+### Micro Owls
+![owl](/assets/art/ceramics/IMG_1719_wm_gla_def.jpg)
+
+|![owl](/assets/art/ceramics/IMG_1744_wm_gla_def.jpg)|![owl](/assets/art/ceramics/IMG_1731_wm_gla_def.jpg)|
+|![owl](/assets/art/ceramics/IMG_1727_wm_gla_def.jpg)|![owl](/assets/art/ceramics/IMG_1749_wm_gla_def.jpg)|
