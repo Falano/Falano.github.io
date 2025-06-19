@@ -101,9 +101,10 @@ plus grande dimension: environ 6-10 cm
 |![small smoked hare](/assets/art/ceramics/IMG_1571_wm_gla_def.jpg)|![small smoked hare](/assets/art/ceramics/IMG_1572_wm_gla_def.jpg)|
 
 ![small smoked hare](/assets/art/ceramics/IMG_1557_wm_gla_def.jpg)
-![small smoked hare](/assets/art/ceramics/IMG_1472_wm_gla_def.jpg)
+![small smoked hare](/assets/art/ceramics/IMG_1630_wm_gla_def.jpg)
 ![small smoked hare](/assets/art/ceramics/IMG_1601_wm_gla_def.jpg)
 ![small smoked hare](/assets/art/ceramics/IMG_1612_wm_gla_def.jpg)
+![small smoked hare](/assets/art/ceramics/IMG_1899_wm_gla_def.jpg)
 
 ### Petits harfangs
 plus grande dimension: environ 15cm
