@@ -6,6 +6,7 @@ permalink: /ceramics/menu_EN.html
 redirect_from:
   - ceramics
   - 2D/ceramics
+  - illu/ceramics
 topnav: topnav_Portfolio_Volume_EN
 ---
 \

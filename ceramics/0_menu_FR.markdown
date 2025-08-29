@@ -6,6 +6,7 @@ permalink: /ceramics/menu_FR.html
 redirect_from:
   - ceramics/menu
   - 2D/ceramique
+  - illu/ceramique
   - portfolio/volume/menu
   - portfolio/volume/
   - portfolio/volume

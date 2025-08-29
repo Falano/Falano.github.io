@@ -2,11 +2,13 @@
 layout: page_cera_EN
 title:  "2D - Noémie Scherer"
 last_updated: 1 May 2025
-permalink: /2D/menu_EN.html
+permalink: /illu/menu_EN.html
 redirect_from:
   - ceramics/2D
-  - 2DEN
-topnav: topnav_Portfolio_2D_EN
+  - 2D
+  - illu
+  - /2D/menu_EN.html
+topnav: topnav_Portfolio_illu_EN
 ---
 
 
