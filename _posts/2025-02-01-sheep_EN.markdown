@@ -1,6 +1,6 @@
 ---
 layout: post_cera_EN
-title: "Sheep"
+title: "Sheep + goodies"
 tags: EN goodies cera
 categories: ceramics EN cera
 last_updated: February 1, 2025

@@ -1,6 +1,6 @@
 ---
 layout: post_cera_EN
-title: "Smoking: 1"
+title: "Smoking - 1"
 tags: EN smoking cera
 categories: ceramics EN cera
 last_updated: August 31, 2024

@@ -1,6 +1,6 @@
 ---
 layout: post_cera_FR
-title: "Moutons"
+title: "Moutons + goodies"
 tags: FR goodies cera
 categories: ceramique FR cera
 last_updated: February 1, 2025
