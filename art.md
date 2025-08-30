@@ -8,10 +8,10 @@ sidebar: none
 ---
 
 **EN**\
-I make [illustrations](/2D/menu_EN) (mostly digital) and [ceramics](/ceramics).
+I make [illustrations](/2D/menu_EN) (mostly digital) and [ceramics](/ceramics). I write a [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSedwS8JsWUfuZA-yHkGMzSA6AxQPGIW-3C9pQj_ziMbYS8pKQ/viewform) about it.
 
 **FR**\
-Je fais des [illustrations](/2D/menu_FR) (principalement numériques) et de la [céramique](ceramique).
+Je fais des [illustrations](/2D/menu_FR) (principalement numériques) et de la [céramique](ceramique). Je publie une [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSedwS8JsWUfuZA-yHkGMzSA6AxQPGIW-3C9pQj_ziMbYS8pKQ/viewform) là-dessus.
 
 |![red swamp](/assets/art/2D/study_red-grass_pt_probsgla.jpg)|![bugs](/assets/art/2D/bookmark_bugs_wm_default.jpg)|![red lynx](assets/art/2D/hA6_lynx_red_wm_def_glazed.jpg)|
 
