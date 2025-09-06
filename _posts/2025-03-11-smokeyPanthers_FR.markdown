@@ -2,7 +2,7 @@
 layout: post_cera_FR
 title: "Panthères enfumées"
 tags: FR cera
-categories: ceramics FR cera
+categories: ceramique FR cera
 last_updated: March 11, 2025
 description: photos de panthères en argile enfumée
 permalink: /ceramics/2025-03-11_smokeyPanthers_FR.html

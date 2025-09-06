@@ -2,7 +2,7 @@
 layout: post_cera_FR
 title: "Chouettes enfumées + goodies"
 tags: FR cera
-categories: ceramics FR cera
+categories: ceramique FR cera
 last_updated: August 29, 2025
 description: photos de chouettes en argile enfumée
 permalink: /ceramics/2025-08-29_smokeyOwls_FR.html
