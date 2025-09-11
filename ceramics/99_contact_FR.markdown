@@ -25,5 +25,5 @@ Pour recevoir de temps en temps des photos de ce que je fais directement dans vo
 **22 juin 2025**: expo-concert avec l'atelier Fwells (sérigraphie) et Bruno Perrin et Pierre Chévèze (chant et guitare) (129b avenue de Choisy, 75013 Paris)\
 **20 mai - 20 juin 2025**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
 ### 2024
-**17-18 août 2024**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)
+**17-18 août 2024**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)\
 **13 mai - 14 juin 2024**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
