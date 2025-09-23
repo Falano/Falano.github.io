@@ -2,10 +2,10 @@
 layout: page_cera_FR
 title:  "Sans Texte - Noémie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /2D/textless_FR.html
+permalink: /illu/textless_FR.html
 redirect_from: 
-  - /2D/textless
-topnav: topnav_Portfolio_2D_FR
+  - /illu/textless
+topnav: topnav_Portfolio_illu_FR
 ---
 
 # Sans texte

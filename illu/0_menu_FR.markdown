@@ -1,20 +1,16 @@
 ---
 layout: page_cera_FR
-title:  "2D - Noémie Scherer"
+title:  "Illustrations - Noémie Scherer"
 last_updated: 1 May 2025
 permalink: /illu/menu_FR.html
 redirect_from:
-  - 2D/menu
-  - 2D
-  - ceramique/2D
-  - 2D/menu_FR.html
   - illu
   - illu/menu
 topnav: topnav_Portfolio_illu_FR
 ---
 
 
-[->english version here<-](/2DEN)
+[->english version here<-](/illu/menu_EN.html)
 
 # 2D
 

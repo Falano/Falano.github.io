@@ -1,11 +1,10 @@
 ---
 layout: page_cera_EN
-title:  "Ceramics - Noémie Scherer"
+title:  "Ceramics - Noemie Scherer"
 last_updated: August 30, 2024
 permalink: /ceramics/menu_EN.html
 redirect_from:
   - ceramics
-  - 2D/ceramics
   - illu/ceramics
 topnav: topnav_Portfolio_Volume_EN
 ---
@@ -50,7 +49,7 @@ topnav: topnav_Portfolio_Volume_EN
 \
 If you want to see more of each kind click the "more" link under each group of pictures or use the top hamburger menu.
 \
-I also do [computer or traditional drawings](2D).
+I also make [computer or traditional drawings](/illu/menu_EN.html).
 \
 \
 Subscribe to [the newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml)

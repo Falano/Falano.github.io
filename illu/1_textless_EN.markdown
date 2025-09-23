@@ -1,9 +1,9 @@
 ---
 layout: page_cera_EN
-title:  "Textless - Noémie Scherer"
+title:  "Textless - Noemie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /2D/textless_EN.html
-topnav: topnav_Portfolio_2D_EN
+permalink: /illu/textless_EN.html
+topnav: topnav_Portfolio_illu_EN
 ---
 
 # Textless

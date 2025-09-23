@@ -1,9 +1,9 @@
 ---
 layout: page_cera_EN
-title:  "Textfull - Noémie Scherer"
+title:  "Textfull - Noemie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /2D/textfull_EN.html
-topnav: topnav_Portfolio_2D_EN
+permalink: /illu/textfull_EN.html
+topnav: topnav_Portfolio_illu_EN
 ---
 
 # Textfull

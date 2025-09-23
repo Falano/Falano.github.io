@@ -1,9 +1,9 @@
 ---
 layout: page_cera_EN
-title:  "Video Games - Noémie Scherer"
+title:  "Video Games - Noemie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /2D/gamey_EN.html
-topnav: topnav_Portfolio_2D_EN
+permalink: /illu/gamey_EN.html
+topnav: topnav_Portfolio_illu_EN
 ---
 
 # Video Games

@@ -2,10 +2,10 @@
 layout: page_cera_FR
 title:  "Avec Texte - Noémie Scherer"
 last_updated: 1er Septembre 2024
-permalink: /2D/textfull_FR.html
+permalink: /illu/textfull_FR.html
 redirect_from: 
-  - /2D/textfull
-topnav: topnav_Portfolio_2D_FR
+  - /illu/textfull
+topnav: topnav_Portfolio_illu_FR
 ---
 
 # Avec texte

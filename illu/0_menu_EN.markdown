@@ -1,18 +1,16 @@
 ---
 layout: page_cera_EN
-title:  "2D - Noémie Scherer"
+title:  "Illustrations - Noemie Scherer"
 last_updated: 1 May 2025
 permalink: /illu/menu_EN.html
 redirect_from:
-  - ceramics/2D
-  - 2D
+  - ceramics/illu
   - illu
-  - /2D/menu_EN.html
 topnav: topnav_Portfolio_illu_EN
 ---
 
 
-[->version française ici<-](/2D)
+[->version française ici<-](/illu/menu_FR.html)
 
 # 2D
 - to get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and sales drops. I'm not producing a lot for now, so they're shared between 2D and ceramics.

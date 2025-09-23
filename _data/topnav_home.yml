@@ -15,7 +15,7 @@ topnav_dropdowns:
     - title: Portfolio
       folderitems:
       - title: Numerique
-        url: \/2D
+        url: \/illu
       - title: Ceramique
         url: \/ceramique
 
