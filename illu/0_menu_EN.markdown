@@ -5,7 +5,6 @@ last_updated: 1 May 2025
 permalink: /illu/menu_EN.html
 redirect_from:
   - ceramics/illu
-  - illu
 topnav: topnav_Portfolio_illu_EN
 ---
 

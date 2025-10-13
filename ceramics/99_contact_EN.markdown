@@ -16,7 +16,7 @@ To get pictures of what I make sent directly to your inbox or RSS feed reader, s
 [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
 [RSS feed of this website's blog articles](https://falano.github.io/feed/ceramics.xml)
 ### others
-[non-ceramics portfolio: 2D digital drawings, traditional drawings, 3D](/2D)\
+[non-ceramics portfolio: 2D digital drawings, traditional drawings, 3D](/illu/menu_EN.html)\
 [animation short films (youtube)](https://www.youtube.com/watch?v=OwpmbUgyA0c&list=PLn9BLCWS4XThX29GyG5fDf6w7u_00Jajc)\
 [video games (itch.io)](https://fal.itch.io/)
 
