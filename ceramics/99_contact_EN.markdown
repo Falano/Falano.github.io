@@ -7,12 +7,12 @@ redirect_from: /ceramics/fairs
 topnav: topnav_Portfolio_Volume_EN
 ---
 
-To get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and updates to the [online shop](https://nolanfa-shop.fourthwall.com/)
+To get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and updates to the [online shop](https://nolanfa.sumupstore.com/)
 
 ## Online places
 [bluesky: nolanfa](https://bsky.app/profile/nolanfa.bsky.social)\
 [tumblr: nolanfa-clayworks](https://www.tumblr.com/blog/nolanfa-clayworks)\
-[shop](https://nolanfa-shop.fourthwall.com/)\
+[shop](https://nolanfa.sumupstore.com/)\
 [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
 [RSS feed of this website's blog articles](https://falano.github.io/feed/ceramics.xml)
 ### others

@@ -14,7 +14,7 @@ topnav: topnav_Portfolio_Volume_EN
 # Ceramics
 
 - to get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the blog articles' [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and sales drops
-- To buy ceramics (or just look), head on to [my shop](https://nolanfa-shop.fourthwall.com/) (not always open)
+- To buy ceramics (or just look), head on to [my shop](https://nolanfa.sumupstore.com/) (not always open)
 - to contact me, you can use **nolanfa. art (at) gmail. com**
 
 ## Shape
