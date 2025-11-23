@@ -22,6 +22,9 @@ Pour recevoir de temps en temps des photos de ce que je fais directement dans vo
 
 ## Marchés et expositions
 ### 2025
+**13-14 décembre**: Marché de Noël d'Ivry-sur-Seine, (Esplanade Georges Marrane, 94200 Ivry-sur-Seine, FRANCE; à l'intérieur de la Mairie)\
+**6-7 décembre**: Marché de Noël de Saulx les Chartreux, (gymnase pablo picasso, rue du pont neuf 91160 Saulx les Chartreux, FRANCE)\
+**29-30 novembre**: Marché de Noël de Chailly-en-Bière, (salle claude cottereau, avenue de fontainebleau, 77930 Chailly-en-Bière, FRANCE)\
 **22 juin 2025**: expo-concert avec l'atelier Fwells (sérigraphie) et Bruno Perrin et Pierre Chévèze (chant et guitare) (129b avenue de Choisy, 75013 Paris)\
 **20 mai - 20 juin 2025**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
 ### 2024
