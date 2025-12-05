@@ -15,6 +15,7 @@ To get pictures of what I make sent directly to your inbox or RSS feed reader, s
 [shop](https://nolanfa.sumupstore.com/)\
 [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
 [RSS feed of this website's blog articles](https://falano.github.io/feed/ceramics.xml)
+[instagram](https://www.instagram.com/nolanfa_art/)\
 ### others
 [non-ceramics portfolio: 2D digital drawings, traditional drawings, 3D](/illu/menu_EN.html)\
 [animation short films (youtube)](https://www.youtube.com/watch?v=OwpmbUgyA0c&list=PLn9BLCWS4XThX29GyG5fDf6w7u_00Jajc)\

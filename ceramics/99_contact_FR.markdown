@@ -15,6 +15,7 @@ Pour recevoir de temps en temps des photos de ce que je fais directement dans vo
 [boutique](https://nolanfa.sumupstore.com/)\
 [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA)\
 [flux RSS des articles de blog de ce site](https://falano.github.io/feed/ceramique.xml)
+[instagram](https://www.instagram.com/nolanfa_art/)\
 ### autres
 [portfolio non-céramique: dessin numérique, traditionnel, 3D](/illu)\
 [films d'animation (youtube)](https://www.youtube.com/watch?v=OwpmbUgyA0c&list=PLn9BLCWS4XThX29GyG5fDf6w7u_00Jajc)\
