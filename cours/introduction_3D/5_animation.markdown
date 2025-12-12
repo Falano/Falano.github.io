@@ -45,8 +45,15 @@ Lier le mesh et l'armature:\
 3) en Object mode, les parenter avec ctrl P > With Automatic Weights\
 4) au besoin changer les influences des os comme vu avec la grue au chapitre IV. 2) d)\
 \
-Divers:\
-- remettre l'armature en position de base en pose mode: *alt G* (avec tous les os sélectionnés)
+avoir plusieurs actions bien rangées: NLA (Nonlinear Animation):\
+1) faire son anim (pose mode, dopesheet editor, etc.)\
+2) dans le Nonlinear Animation, renommer bien son action (menu latéral à droite) et cliquer sur le bouton "Push Down Action" (dans la liste des actions et objets à gauche, juste à droite du nom de l'action, icone "flèche vers le bas sur deux rectangles")\
+3) modifier ses paramètres si besoin (dans le menu à droite (N), Frame Start et End pour changer quand commence et finit votre action, Repeat pour si vous voulez la répéter plusieurs fois).\
+4) l'icone carré coché (ou carré vide) définit si l'action est active ou non. Pour commencer à créer une nouvelle animation, décocher toutes les actions, retourner dans le DopeSheet Editor et animer.\
+5) pour modifier une action déjà mise dans le NLA, l'activer et appuyer sur Tab. Elle devient verte et modifiable.\
+
+Divers:
+- remettre l'armature en position de base en pose mode: *alt G* (avec tous les os sélectionnés) ou Pose > Clear Transform > All
 
 ### d) EXERCICE 1: animation simple
 - faites une animation simple avec un des meshs que vous avez riggé jusque-là.
