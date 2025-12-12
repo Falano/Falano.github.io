@@ -27,22 +27,22 @@ topnav: topnav_P8_3D
 ### c) récapitulatif
 Processus d'animation:\
 En pose mode, dans la vue 3D:\
-1) bouger l'os avec G et/ou R
-2) sauvegarder sa position avec I
-3) répèter avec tous les os qu'on veut bouger, jusqu'à avoir une position qui convienne
-4) puis aller dans la timeline. Changer de frame.
+1) bouger l'os avec G et/ou R\
+2) sauvegarder sa position avec I\
+3) répèter avec tous les os qu'on veut bouger, jusqu'à avoir une position qui convienne\
+4) puis aller dans la timeline. Changer de frame.\
 5) retourner à l'étape 1.\
 \
 Boucles d'animation:\
-1) avoir un bout d'animation, qu'on voudrait faire boucler.
-2) dans la vue 3D, sélectionner tous les os avec A
-3) dans la Timeline, sélectionner la keyframe (losange; jaune si sélectionné, blanc sinon) de la première frame de l'anim, et la copier (ctrl C, ou clic droit > Copy).
+1) avoir un bout d'animation, qu'on voudrait faire boucler.\
+2) dans la vue 3D, sélectionner tous les os avec A\
+3) dans la Timeline (ou le dopesheet editor), sélectionner la keyframe (losange; jaune si sélectionné, blanc sinon) de la première frame de l'anim, et la copier (ctrl C, ou clic droit > Copy).\
 4) aller à la dernière frame de l'anim, et la coller (ctrl V, ou clic droit > Paste)\
 \
 Lier le mesh et l'armature:\
-1) sélectionner le mesh
-2) sélectionnee l'armature
-3) en Object mode, les parenter avec ctrl P > With Automatic Weights
+1) sélectionner le mesh\
+2) sélectionner l'armature\
+3) en Object mode, les parenter avec ctrl P > With Automatic Weights\
 4) au besoin changer les influences des os comme vu avec la grue au chapitre IV. 2) d)\
 \
 Divers:\
