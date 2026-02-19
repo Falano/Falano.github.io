@@ -184,7 +184,7 @@ Looney Tunes, par Warner Bros
 - Une autre où il accélère.
 - Une autre où il ralentit.
 - Une autre où il le traverse quasi instantanément.  
-[correction](/assets/cours/exos/exo7_trait.ase)
+[correction](/assets/cours/exos/exo7_balle.ase)
 
 2) étude du timing 2 et des courbes
 - ouvrir une image de 64*64
@@ -199,10 +199,10 @@ Looney Tunes, par Warner Bros
 
 3) animation de marche/course  
 faire une animation de marche/course  
-- [exemple1: étapes](/assets/cours/exos/decompositionAnim_marcheCourse.ase)
+- [exemple1: étapes + détails](/assets/cours/exos/decompositionAnim_marcheCourse_eldorado.ase)
 - [exemple2: détails](/assets/cours/exos/charaViolet_course.ase)
 - [tuto: marche vue du haut](https://www.patreon.com/posts/top-down-walk-21353953)
-- [stylisations persos](/assets/cours/mine/stylisations_perso_marche.ase)
+- [différentes stylisations de personnages](/assets/cours/mine/stylisations_perso_marche.ase)
 
 4) animation de saut  
 animer un saut (utilisable dans un jeu vidéo: différentes étapes, boucle)
