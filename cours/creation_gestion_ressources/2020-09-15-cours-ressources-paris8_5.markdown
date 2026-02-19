@@ -198,7 +198,13 @@ Looney Tunes, par Warner Bros
 [correction](/assets/cours/exos/exo8_3balles.ase)  
 
 3) animation de marche/course  
-faire une animation de marche/course  
+faire une animation de marche/course.  
+Points importants:
+- commencer par l'image pieds écartés et l'image pied qui va vers l'avant, puis rajouter des détails / de la couleur, puis faire les étapes intermédiaires.
+- Les images de positions symmétriques (pieds écartés avec le pied droit devant, et pieds écartés avec le pied gauche devant, par exemple) doivent avoir la même silhouette, donc on peut n'animer qu'un pas puis le copier et changer les couleurs pour avoir les deux pas qui forment une boucle d'anim.
+- Un pied au sol va toujours vers l'arrière, un pied en l'air va toujours vers l'avant.
+- Mimer les actions pour voir comment ça marche, où est votre poids, quelle position a chacun de vos membres.
+- Quand on débugge une boucle d'animation, regarder l'aspect général, puis regarder en se concentrant sur chaque membre pour voir si leur mouvement a du sens.
 - [exemple1: étapes + détails](/assets/cours/exos/decompositionAnim_marcheCourse_eldorado.ase)
 - [exemple2: détails](/assets/cours/exos/charaViolet_course.ase)
 - [tuto: marche vue du haut](https://www.patreon.com/posts/top-down-walk-21353953)
