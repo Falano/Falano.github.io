@@ -157,7 +157,7 @@ faire traverser l'image à un trait suivant différents rythmes (taille de l'ima
         - transition
             - tenir
         - atterrissage
-- anim ondulation: vague/fumée/vent/queue/drapeau/etc.
+- anim ondulation: vague/fumée/vent/queue/drapeau/etc. ([exemple .ase](/assets/cours/exos/ondulation.ase))
 - animations standard d'un personnage d'un jeu de combat:
     - idle
     - marche et/ou course
