@@ -77,9 +77,12 @@ Fit together:
 Series of twelve human characters each, linked to a specific environment. Made in 3D (Blender and/or Maya, depending).
 ### People: mountains
 
-|![mountain peeps: 20](/assets/art/2D/moutainPeeps_0020_wm_gla_def.jpg)|![mountain peeps: 60](/assets/art/2D/moutainPeeps_0060_wm_gla_def.jpg)|
-|![mountain peeps: 100](/assets/art/2D/moutainPeeps_0100_wm_gla_def.jpg)|![mountain peeps: 160](/assets/art/2D/moutainPeeps_0160_wm_gla_def.jpg)|
-|![mountain peeps: 180](/assets/art/2D/moutainPeeps_0180_wm_gla_def.jpg)|![mountain peeps: 200](/assets/art/2D/moutainPeeps_0200_wm_gla_def.jpg)|
+|![mountain peeps: 20](/assets/art/2D/mountainPeeps_0020_wm.jpg)|![mountain peeps: 40](/assets/art/2D/mountainPeeps_0040_wm.jpg)|
+|![mountain peeps: 100](/assets/art/2D/mountainPeeps_0100_wm.jpg)|![mountain peeps: 160](/assets/art/2D/mountainPeeps_0160_wm.jpg)|
+|![mountain peeps: 140](/assets/art/2D/mountainPeeps_0140_wm.jpg)|![mountain peeps: 200](/assets/art/2D/mountainPeeps_0200_wm.jpg)|
+
+|![mountain peeps: 3D print farmer](/assets/art/2D/mountainPeeps_farmer_3Dprint_wm.jpg)|![mountain peeps: 3D print ranger](/assets/art/2D/mountainPeeps_ranger_3Dprint_wm.jpg)|
+|![mountain peeps: exhibit](/assets/art/2D/mountainPeeps_expo1_wm.jpg)|![mountain peeps: exhibit](/assets/art/2D/mountainPeeps_expo2_wm.jpg)|
 
 ### People: sea
 [to be added later]
