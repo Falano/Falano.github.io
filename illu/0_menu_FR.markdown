@@ -23,6 +23,7 @@ topnav: topnav_Portfolio_illu_FR
 ![bugs: all](/assets/art/2D/bookmark_bugs_wm_default.jpg)
 ![lynx red](/assets/art/2D/hA6_lynx_red_wm_def_glazed.jpg)
 ![snake orange](/assets/art/2D/snake_orange_wm_def_glazed.jpg)
+![tiger](/assets/art/2D/groundFree_tigre_wm.jpg)
 ![mountain peeps: spelunker](/assets/art/2D/mountainPeeps_0200_wm.jpg)
 ![mountain peeps: hermit](/assets/art/2D/mountainPeeps_0160_wm.jpg)\
 

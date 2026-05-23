@@ -96,6 +96,11 @@ Series of twelve human characters each, linked to a specific environment. Made i
 |![limited Palette: Fish](/assets/art/2D/limPal_fish_wm_gla_def.jpg)|![limited Palette textured: Clouds](/assets/art/2D/limPalTex_clouds_wm_gla_def.jpg)|
 |![limited Palette: Mice](/assets/art/2D/limPal_mice_wm_gla_def.jpg)|![limited Palette textured: Mice](/assets/art/2D/limPalTex_mice_wm_gla_def.jpg)|
 
+## Ground-free felines
+
+|![tiger](/assets/art/2D/groundFree_tigre_wm.jpg)|![puma](/assets/art/2D/groundFree_puma_wm.jpg)|
+![jaguar](/assets/art/2D/groundFree_jaguar_wm.jpg)
+
 ## Live sketches
 
 |![ara](/assets/art/2D/araBleu_postcard_wm_gla_def.jpg)|![wallaby](/assets/art/2D/wallaby_postcard_wm_gla_def.jpg)|
