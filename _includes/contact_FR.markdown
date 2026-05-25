@@ -21,20 +21,19 @@ Pour recevoir de temps en temps des photos de ce que je fais directement dans vo
 [films d'animation (youtube)](https://www.youtube.com/watch?v=OwpmbUgyA0c&list=PLn9BLCWS4XThX29GyG5fDf6w7u_00Jajc)\
 [jeux vidéo (itch.io)](https://fal.itch.io/)
 
-## Revendeurs
-VINCENNES (cartes postales animaux annuels)
+[](revendeurs:VINCENNES (cartes postales animaux annuels))
 
 ## Marchés et expositions
 ### 2026
-P8
-ARCUEIL
-CMCAS
-PAPER PUSHERS
+**18 mai - 11 juin**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition); lundi-vendredi 9h-19h\
+**29-30 mai**: marché de céramique d'arcueil; Allée Niki de Saint Phalle, près de la place de la Vache Noire, 94110 Arcueil; vendredi 29 et samedi 30 mai 2026: vendredi 12h-22h, samedi 10h-19h\
+**de mi-juin à mi-septembre ou mi-novembre:** Paper Pushers zine shop: 1200 5th Ave, Seattle, WA 98101, USA (dans le vieux bâtiment IBM); mercredi à vendredi: 11h - 18h, samedi et dimanche: 11h - 17h, fermé lundi et mardi. Aura quelques impressions (taille carte postale) et le zine de What Makes Us Human (en anglais)\
+**27 juin:** Fête de la CMCAS; complexe sportif Nelson Mandela, 93200 Saint-Denis; à partir de 10h
 ### 2025
 **6-7 décembre**: Marché de Noël de Saulx les Chartreux, (gymnase pablo picasso, rue du pont neuf 91160 Saulx les Chartreux, FRANCE)\
 **29-30 novembre**: Marché de Noël de Chailly-en-Bière, (salle claude cottereau, avenue de fontainebleau, 77930 Chailly-en-Bière, FRANCE)\
-**22 juin 2025**: expo-concert avec l'atelier Fwells (sérigraphie) et Bruno Perrin et Pierre Chévèze (chant et guitare) (129b avenue de Choisy, 75013 Paris)\
-**20 mai - 20 juin 2025**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
+**22 juin**: expo-concert avec l'atelier Fwells (sérigraphie) et Bruno Perrin et Pierre Chévèze (chant et guitare) (129b avenue de Choisy, 75013 Paris)\
+**20 mai - 20 juin**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
 ### 2024
-**17-18 août 2024**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)\
-**13 mai - 14 juin 2024**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
+**17-18 août**: marché de céramique de Soufflenheim (5 Grand Rue, 67620 Soufflenheim)\
+**13 mai - 14 juin**: Université Paris 8 Vincennes-Saint-Denis: Exposition des personnels (2 Rue de la Liberté, 93200 Saint-Denis; hall d'exposition)
