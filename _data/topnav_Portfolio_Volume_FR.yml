@@ -29,7 +29,7 @@ topnav:
       output: web
 
     - title: Expos / Contact
-      url: fairs_FR.html
+      url: contact_FR.html
       output: web
 
     - title: Blog

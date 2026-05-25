@@ -12,22 +12,42 @@ topnav:
       url:
       output: web
 
-    - title: Sans Texte
-      url: textless_FR.html
+    - title: Animaux
+      url: animals_FR.html
       output: web
 
-    - title: Avec Texte
-      url: textfull_FR.html
+    - title: Humains
+      url: humans_FR.html
+      output: web
+      
+    - title: Paysages
+      url: backgrounds_FR.html
       output: web
 
-    - title: Jeu Vidéo
-      url: gamey_FR.html
+    - title: Design
+      url: design_FR.html
+      output: web
+      
+    - title: Narratif
+      url: narrativey_FR.html
       output: web
 
     - title: " "
       url:
       output: web
 
+    - title: Contact
+      url: contact_FR.html
+      output: web
+
+    - title: Blog
+      url: blog_FR.html
+      output: web
+
+    - title: " "
+      url:
+      output: web
+      
     - title: EN
       url: menu_EN.html
       output: web
