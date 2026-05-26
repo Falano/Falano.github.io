@@ -4,7 +4,7 @@ title: "Owl: process"
 tags: EN cera
 categories: ceramics EN cera
 last_updated: 25 mai 2026
-description: processs pics of a big clay owl
+description: process pics of a big clay owl
 permalink: /ceramics/2026-05-25_owlProcess_EN.html
 topnav: topnav_Portfolio_Volume_EN
 ---
