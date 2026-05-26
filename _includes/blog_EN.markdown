@@ -12,8 +12,10 @@ And here are blog posts on specific things:
   {% for post in site.posts %}
     {% if post.tags contains "EN" %}
     <li>
-      <a href="{{ post.url }}">{{ post.date| date: "%Y-%m-%d" }} - {{ post.title }}</a>
+      <a href="{{ post.url }}"> {{ post.categories[0]}} - {{ post.date| date: "%Y-%m-%d" }} - {{ post.title }}</a>
     </li>
       {% endif %}
   {% endfor %}
 </ul>
+
+[](this: {{ post.content }} would display a post's contents, so it's not just their titles but the content too, so I can mix-and-match pages as lists of smaller components)

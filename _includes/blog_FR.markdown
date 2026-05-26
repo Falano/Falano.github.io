@@ -12,7 +12,7 @@ Et ci-dessous les billets de blog sur des sujets précis:
   {% for post in site.posts %}
       {% if post.tags contains "FR" %}
     <li>
-      <a href="{{ post.url }}">{{ post.date| date: "%-d-%m-%Y" }} - {{ post.title }}</a>
+      <a href="{{ post.url }}"> {{ post.categories[0]}} - {{ post.date| date: "%-d-%m-%Y" }} - {{ post.title }}</a>
     </li>
       {% endif %}
   {% endfor %}
