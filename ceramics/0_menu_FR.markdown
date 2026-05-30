@@ -17,9 +17,10 @@ topnav: topnav_Portfolio_Volume_FR
 
 # Céramique
 
-- Pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail ou votre lecteur de flux RSS, inscrivez-vous à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) des articles de blog. J'y annoncerai aussi les marchés, expos, et mises à jour de la boutique en ligne
+- NEWSLETTER: Vous pouvez vous inscrire à la [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail, ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) des articles de blog. J'annoncerai aussi dans la newsletter (et, dans une moindre mesure, le RSS) les marchés, expos, et mises à jour de la boutique en ligne. Vous pouvez consulter ce que qui a déjà été envoyé [ici](blog_FR.html)
 - Pour acheter des pièces (ou juste regarder), rendez-vous sur [ma boutique en ligne](https://nolanfa.sumupstore.com/) (ouverte par intermittence)
 - pour me contacter directement, vous pouvez utiliser l'adresse: **nolanfa. art (at) gmail. com**
+- Je fais aussi [du dessin traditionnel et/ou numérique](/illu/menu_FR.html).
 
 ## Forme
 ![hare A running: right profile](/assets/art/ceramics/AVA2679_wm_glazed.jpg)
@@ -51,8 +52,6 @@ topnav: topnav_Portfolio_Volume_FR
 \
 \
 Pour voir plus de photos d'un type spécifique cliquer le lien "plus" sous chaque groupe de photos ou utiliser le menu en haut de page.
-\
-Je fais aussi [du dessin traditionnel et/ou numérique](/illu/menu_FR.html).
 \
 \
 Inscrivez-vous à [la newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) ou au [flux RSS](https://falano.github.io/feed/ceramique.xml) des articles de blog.
