@@ -1,5 +1,5 @@
 ## Newsletter
-You can check out the past newsletters here: \
+You can subscribe to the newsletter [here](https://docs.google.com/forms/d/e/1FAIpQLSedwS8JsWUfuZA-yHkGMzSA6AxQPGIW-3C9pQj_ziMbYS8pKQ/viewform) and check out the past ones here below: \
 2026: [May, 2026](https://preview.mailerlite.io/preview/1104578/emails/188516538236536236) \
 2025: [April, 2025](https://preview.mailerlite.io/preview/1104578/emails/152064619987338362); [May, 2025](https://preview.mailerlite.io/preview/1104578/emails/155859734021277095); [September, 2025](https://preview.mailerlite.io/preview/1104578/emails/165188050595349609); [November, 2025](https://preview.mailerlite.io/preview/1104578/emails/172063314337072757); \
 2024: [September, 2024](https://preview.mailerlite.io/preview/1104578/emails/132651687770850853)
