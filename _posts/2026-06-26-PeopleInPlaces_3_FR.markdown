@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_3_FR.html
 topnav: topnav_Portfolio_illu_FR
 ---
 \
-[< partie précédente: textures <](/illu/2026-06-19_PeopleInPlaces_2_FR.html) | [> partie suivante: paramètres du slicer >](/illu/2026-06-19_PeopleInPlaces_4_FR.html)
+[< partie précédente: textures <](/illu/2026-06-26_PeopleInPlaces_2_FR.html) | [> partie suivante: paramètres du slicer >](/illu/2026-06-26_PeopleInPlaces_4_FR.html)
 
 # Personnes et Lieux: Montagnes
 
@@ -100,4 +100,4 @@ Le manche, collé: ça marche très bien (mais pour une version finale, il serai
 ![a print of mountain peeps: farmer](/assets/art/2D/mountainPeeps_farmer_3Dprint_wm.jpg)
 
 
-[> partie suivante: paramètres du slicer >](/illu/2026-06-19_PeopleInPlaces_4_FR.html)
+[> partie suivante: paramètres du slicer >](/illu/2026-06-26_PeopleInPlaces_4_FR.html)

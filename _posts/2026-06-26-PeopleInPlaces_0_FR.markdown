@@ -29,12 +29,12 @@ Les instructions spécifiques sont pour Blender et Bambu Studio mais il devrait 
 \
 \
 Chapitres:
-1. [modélisation et impression 2D](/illu/2026-06-19_PeopleInPlaces_1_FR.html)
-2. [textures procédurales](/illu/2026-06-19_PeopleInPlaces_2_FR.html)
-3. [impression 3D](/illu/2026-06-19_PeopleInPlaces_3_FR.html)
-4. [paramètres du slicer](/illu/2026-06-19_PeopleInPlaces_4_FR.html)
-5. [animation](/illu/2026-06-19_PeopleInPlaces_5_FR.html)
+1. [modélisation et impression 2D](/illu/2026-06-26_PeopleInPlaces_1_FR.html)
+2. [textures procédurales](/illu/2026-06-26_PeopleInPlaces_2_FR.html)
+3. [impression 3D](/illu/2026-06-26_PeopleInPlaces_3_FR.html)
+4. [paramètres du slicer](/illu/2026-06-26_PeopleInPlaces_4_FR.html)
+5. [animation](/illu/2026-06-26_PeopleInPlaces_5_FR.html)
 \
 \
 \
-[> partie  suivante: modélisation et impression 2D >](/illu/2026-06-19_PeopleInPlaces_1_FR.html)
+[> partie  suivante: modélisation et impression 2D >](/illu/2026-06-26_PeopleInPlaces_1_FR.html)

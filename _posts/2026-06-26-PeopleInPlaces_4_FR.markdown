@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_4_FR.html
 topnav: topnav_Portfolio_illu_FR
 ---
 \
-[< partie précédente: 3D pour impression <](/illu/2026-06-19_PeopleInPlaces_3_FR.html) | [> partie suivante: animation >](/illu/2026-06-19_PeopleInPlaces_5_FR.html)
+[< partie précédente: 3D pour impression <](/illu/2026-06-26_PeopleInPlaces_3_FR.html) | [> partie suivante: animation >](/illu/2026-06-26_PeopleInPlaces_5_FR.html)
 
 # Personnes et Lieux: Montagne
 
@@ -47,4 +47,4 @@ Un couteau de peintre:
 - On m'a dit que si j'érafle la surface, la chauffer doucement avec un sèche-cheveux enlèverait la marque (à ne pas utiliser si on a imprimé avec l'option "ironing"). Je n'ai pas testé.
 - Si vous faites des erreurs ou imprimez en plusieurs parties, la colle à bois blanche a l'air très solide sur du PLA (un fois sèche). La glue instantanée que j'ai essayée est restée molle et n'a pas bien marché.
 
-[> partie suivante: animation >](/illu/2026-06-19_PeopleInPlaces_5_FR.html)
+[> partie suivante: animation >](/illu/2026-06-26_PeopleInPlaces_5_FR.html)

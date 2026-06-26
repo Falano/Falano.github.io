@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_5_FR.html
 topnav: topnav_Portfolio_illu_FR
 ---
 \
-[< partie précédente: options du slicer <](/illu/2026-06-19_PeopleInPlaces_4_FR.html)
+[< partie précédente: options du slicer <](/illu/2026-06-26_PeopleInPlaces_4_FR.html)
 
 # Personnes et Lieux: Montagne
 

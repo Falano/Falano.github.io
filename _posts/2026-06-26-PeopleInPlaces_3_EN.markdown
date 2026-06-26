@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_3_EN.html
 topnav: topnav_Portfolio_illu_EN
 ---
 \
-[< previous part: procedural textures <](/illu/2026-06-19_PeopleInPlaces_2_EN.html) | [> next part: slicer settings>](/illu/2026-06-19_PeopleInPlaces_4_EN.html)
+[< previous part: procedural textures <](/illu/2026-06-26_PeopleInPlaces_2_EN.html) | [> next part: slicer settings>](/illu/2026-06-26_PeopleInPlaces_4_EN.html)
 
 # People in Places: Mountains
 
@@ -99,4 +99,4 @@ Handle glued on: it works fine (though for a final version it would be best to p
 ![a print of mountain peeps: farmer](/assets/art/2D/mountainPeeps_farmer_3Dprint_wm.jpg)
 
 
-[> next part: slicer settings>](/illu/2026-06-19_PeopleInPlaces_4_EN.html)
+[> next part: slicer settings>](/illu/2026-06-26_PeopleInPlaces_4_EN.html)

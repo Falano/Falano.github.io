@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_5_EN.html
 topnav: topnav_Portfolio_illu_EN
 ---
 \
-[< previous part: slicer settings<](/illu/2026-06-19_PeopleInPlaces_4_EN.html)
+[< previous part: slicer settings<](/illu/2026-06-26_PeopleInPlaces_4_EN.html)
 
 # People in Places: Mountains
 

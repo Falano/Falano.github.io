@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_2_FR.html
 topnav: topnav_Portfolio_illu_FR
 ---
 \
-[< partie précédente: impressions 2D <](/illu/2026-06-19_PeopleInPlaces_1_FR.html) | [> partie suivante: impressions 3D >](/illu/2026-06-19_PeopleInPlaces_3_FR.html)
+[< partie précédente: impressions 2D <](/illu/2026-06-26_PeopleInPlaces_1_FR.html) | [> partie suivante: impressions 3D >](/illu/2026-06-26_PeopleInPlaces_3_FR.html)
 
 # Personnes et Lieux: Montagnes
 
@@ -32,4 +32,4 @@ Une autre, simple aussi:
 ![nodes setup in compositor window](/assets/art/2D/mountainPeeps_06c_struct.jpg)
 ![nodes setup in process pics](/assets/art/2D/mountainPeeps_06c_texs.jpg)
 
-[> partie suivante: impressions 3D >](/illu/2026-06-19_PeopleInPlaces_3_FR.html)
+[> partie suivante: impressions 3D >](/illu/2026-06-26_PeopleInPlaces_3_FR.html)

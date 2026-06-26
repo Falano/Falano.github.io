@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_1_FR.html
 topnav: topnav_Portfolio_illu_FR
 ---
 \
-[< partie précédente: introduction <](/illu/2026-06-19_PeopleInPlaces_0_FR.html) | [> partie suivante: textures procédurales >](/illu/2026-06-19_PeopleInPlaces_2_FR.html)
+[< partie précédente: introduction <](/illu/2026-06-26_PeopleInPlaces_0_FR.html) | [> partie suivante: textures procédurales >](/illu/2026-06-26_PeopleInPlaces_2_FR.html)
 
 # Personnes et Lieux: Montagne
 
@@ -60,4 +60,4 @@ Toutes les étapes:
 Comparaison entre trois textures d'impressions 3D: à gauche, avec l'option fuzzy skin (les paramètres que j'ai utilisé pour toute la série), au milieu la texture bois des Geometry Nodes, à droite la texture par défaut.
 ![mountain peeps: comparison between three 3D prints with different textures](/assets/art/2D/mountainPeeps_04a_textures.jpg)
 
-[> partie suivante: textures procédurales >](/illu/2026-06-19_PeopleInPlaces_2_FR.html)
+[> partie suivante: textures procédurales >](/illu/2026-06-26_PeopleInPlaces_2_FR.html)

@@ -29,12 +29,12 @@ Specific instructions are for Blender and Bambu Studio but there should be equiv
 \
 \
 Chapters:
-1. [modeling and 2D prints](/illu/2026-06-19_PeopleInPlaces_1_EN.html)
-2. [procedural textures](/illu/2026-06-19_PeopleInPlaces_2_EN.html)
-3. [3D prints](/illu/2026-06-19_PeopleInPlaces_3_EN.html)
-4. [slicer options](/illu/2026-06-19_PeopleInPlaces_4_EN.html)
-5. [animation](/illu/2026-06-19_PeopleInPlaces_5_EN.html)
+1. [modeling and 2D prints](/illu/2026-06-26_PeopleInPlaces_1_EN.html)
+2. [procedural textures](/illu/2026-06-26_PeopleInPlaces_2_EN.html)
+3. [3D prints](/illu/2026-06-26_PeopleInPlaces_3_EN.html)
+4. [slicer options](/illu/2026-06-26_PeopleInPlaces_4_EN.html)
+5. [animation](/illu/2026-06-26_PeopleInPlaces_5_EN.html)
 \
 \
 \
-[> next part: modeling and 2D prints >](/illu/2026-06-19_PeopleInPlaces_1_EN.html)
+[> next part: modeling and 2D prints >](/illu/2026-06-26_PeopleInPlaces_1_EN.html)

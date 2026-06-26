@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_4_EN.html
 topnav: topnav_Portfolio_illu_EN
 ---
 \
-[< previous part: 3D prints in 3D software <](/illu/2026-06-19_PeopleInPlaces_3_EN.html) | [> next part: animation >](/illu/2026-06-19_PeopleInPlaces_5_EN.html)
+[< previous part: 3D prints in 3D software <](/illu/2026-06-26_PeopleInPlaces_3_EN.html) | [> next part: animation >](/illu/2026-06-26_PeopleInPlaces_5_EN.html)
 
 # People in Places: Mountains
 
@@ -47,4 +47,4 @@ Scrapper tool:
 - I have been told that if I accidentally scratch it, gently heating it with a hair drier or equivalent would remove the mark (unless you use the ironing option, in which case it would mess it up). I haven't tested it.
 - if you make mistakes or print in several parts, white wood glue is very sturdy on PLA when dry; the instant glue I tried stayed soft and didn't work well.
 
-[> next part: animation >](/illu/2026-06-19_PeopleInPlaces_5_EN.html)
+[> next part: animation >](/illu/2026-06-26_PeopleInPlaces_5_EN.html)

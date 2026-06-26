@@ -9,7 +9,7 @@ permalink: /illu/2026-06-26_PeopleInPlaces_1_EN.html
 topnav: topnav_Portfolio_illu_EN
 ---
 \
-[< previous part: introduction <](/illu/2026-06-19_PeopleInPlaces_0_EN.html) | [> next part: procedural textures >](/illu/2026-06-19_PeopleInPlaces_2_EN.html)
+[< previous part: introduction <](/illu/2026-06-26_PeopleInPlaces_0_EN.html) | [> next part: procedural textures >](/illu/2026-06-26_PeopleInPlaces_2_EN.html)
 
 # People in Places: Mountains
 
@@ -60,4 +60,4 @@ all the steps:
 Comparison between three 3D print textures: left is printed with fuzzy skin (the setting I ended up using for the whole series), middle has the procedural geometry nodes wood texture (and fuzzy skin), and right the default texture.
 ![mountain peeps: comparison between three 3D prints with different textures](/assets/art/2D/mountainPeeps_04a_textures.jpg)
 
-[> next part: procedural textures >](/illu/2026-06-19_PeopleInPlaces_2_EN.html)
+[> next part: procedural textures >](/illu/2026-06-26_PeopleInPlaces_2_EN.html)
