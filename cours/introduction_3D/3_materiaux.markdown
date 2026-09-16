@@ -55,7 +55,7 @@ topnav: topnav_P8_3D
 - peut être traduit comme "dépliage UV" ou parfois "découpage UV"
 - c'est comme le patron d'un habit
 - ou pour un quadrupède: comme un tapis de fourrure
-- il y a deux manières principales d'UV-unwrapper: soit on unwrappe puis on peint dedans (donc il faut que les faces aient plus ou moins la même taille/orientation relatives les unes aux autres que sur le mesh), soit on fait une image avec des dégradés et on unwrappe en positionnant les faces exprès sur les dégradés qu'on veut, sans se soucier de la forme/taille des faces.
+- il y a deux manières principales d'UV-unwrapper: soit on unwrappe puis on peint dedans (donc il faut que les faces aient plus ou moins la même taille/orientation relatives les unes aux autres que sur le mesh), soit on fait une image avec des dégradés et on unwrappe en positionnant les faces exprès sur les dégradés qu'on veut, sans se soucier de la forme/taille des faces (les déformer permet de contrôler la force des dégradés).
 
 ### b) unwrapper et peindre
 - Dans la vue 3D en Edit Mode, sélectionner les arêtes qui serviront de couture, puis U > Mark Seams
@@ -70,7 +70,7 @@ topnav: topnav_P8_3D
 - pour peindre dans la vue 3D, passer en mode Texture Paint
 - en haut milieu, cliquer sur Texture Slots > + > Base Color
 - et là on peut commencer à peindre dans la vue 3D et regarder ce que ça fait dans l'UV editor (juste à gauche de New (milieu haut), cliquer sur l'icône de montagne, et sélectionner le nom de la texture qu'on vient de créer)
-- si besoin créer une brush en blanc sur fond noir, puis dans Texture Mask (dans la vue 3D en Texture Paint) créer une texture (cocher "Random" pour l'angle) et dans les Properties (bas droite) > Textures sélectionner cette texture et lui assigner l'image; maintenant quand on peint ça ne fait pas un rond mais la forme de la brosse
+- si besoin créer une brush en blanc sur fond noir, puis dans Texture Mask (dans la vue 3D en Texture Paint) créer une texture (cocher "Random" pour l'angle si c'est juste une image, et 3D ou Tiled si c'est une texture procédurale) et dans les Properties (bas droite) > Textures sélectionner cette texture et lui assigner l'image; maintenant quand on peint ça ne fait pas un rond mais la forme de la brosse
 - peindre notre objet et observer les changements dans l'UV editor
 - pour sélectionner une couleur en mode pipette, dans l'UV editor clic droit, puis clic sur l'échantillon de couleur en haut à gauche du mini pop up
 
@@ -100,6 +100,28 @@ topnav: topnav_P8_3D
 - la node *Material Output* est le résultat final. Ne pas hésiter à avoir plusieurs nodes Material Output dans son shader pour tester rapidement les étapes intermédiaires sans avoir à lier/délier des trucs à chaque fois; une seule node Material Output peut être active à la fois. Une node Material Output dans un groupe ne marche pas: elle doit forcément être au niveau 0 de la texture
 - si le fil entre deux nodes est rouge c'est qu'on a essayé de lier un output et un input incompatibles
 - dans les explications de nodes ci-dessous, j'ai mis un "!" avant chacune des nodes que je trouve les plus utiles.
+
+### 0) export vers godot
+- pour pouvoir l'utiliser dans godot on aura besoin de l'exporter en .glb
+- le format .glb ne sait pas enregistrer les textures procédurales de blender
+- donc on l'exporte ("bake") en tant qu'image plaquée sur notre texture (comme pour les textures peintes ou dégradées)
+- on peut "bake" les canaux qu'on veut (couleur, roughness, metalness, alpha, etc.) (ici on ne va le voir que pour la couleur mais pour les autres canaux c'est assez similaire)
+- étapes:
+- créer son matériau procédural dans le *Shader Editor* et l'appliquer à son objet
+- unwrapper (par exemple avec *Smart UV project*) (penser à mettre une petite island margin pour éviter que les couleurs d'une face ne bavent sur une autre)
+- dans le Shader Editor, créer une node *Image Texture* et y créer une nouvelle image (et la mettre en fond dans l'onglet UV map pour voir ce qu'il se passe)
+- dans les *Properties*, onglet *Render*:
+- vérifier que le render engine est *Cycles* (et pas EEVEE)
+- dans Sampling > Render, mettre Samples à 10 (pour que le bake aille plus vite)
+- faire bien attention à ce que l'objet à baker (dans la vue 3D ou l'outliner) et la node Image (dans le shader editor) soient sélectionnés
+- dans Bake, mettre: Bake Type: Diffuse; Influence > Contributions: Pas Direct, Pas Indirect, Oui Color
+- puis cliquer sur Bake (vérifier dans l'onglet UV Map que ça a bien exporté comme il faut
+- retourner dans le Shader editor, et au lieu que ce soient nos nodes procédurales qui soient liées à l'entrée Base Color de la node du matériau, lui donner comme entrée la node image qu'on vient de baker
+- exporter en glb (File > Export > glTF 2.0 (.glb/.gltf)
+- options d'export:
+- Remember export settings (si on veut que par défaut il nous propose nos options d'export précédentes)
+- Include > Limit to: Selected Object (si on veut n'exporter que l'objet sélectionner)
+- Data > Mesh > Apply Modifiers (si on a un miroir par exemple)
 
 ### a) quelques exemples de matériaux simples
 - *Voronoi Texture*: Distance -> Material Output: Surface; éventuellement ajouter une ColorRamp au milieu (output: color)
