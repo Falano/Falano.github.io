@@ -41,6 +41,12 @@ topnav: topnav_Portfolio_illu_FR
 |![ca](/assets/art/2D/fanart_symbols_ca.jpg)|![f](/assets/art/2D/fanart_symbols_f.jpg)|
 |![h](/assets/art/2D/fanart_symbols_h.jpg)|![im](/assets/art/2D/fanart_symbols_im.jpg)|
 
+## BDs
+
+![bureau open space](/assets/art/2D/comics_cgt_openspace_hor.jpg)
+![retaite à points](/assets/art/2D/comics_cgt_points_hor.jpg)
+![age de départ](/assets/art/2D/comics_cgt_depart_hor.jpg)
+
 ## animal icons
 
 ![animal icons](https://cdna.artstation.com/p/assets/images/images/014/129/708/large/noemie-scherer-sdk-amx.jpg?1542632154)

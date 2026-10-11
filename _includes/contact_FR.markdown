@@ -1,6 +1,9 @@
 
 \
 \
+Vous pouvez m'envoyer un mail à **nolanfa. art (at) gmail. com**
+
+
 Pour recevoir de temps en temps des photos de ce que je fais directement dans votre boite mail ou votre lecteur de flux RSS, inscrivez-vous à [ma newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA), au [flux RSS](https://falano.github.io/feed/ceramique.xml). J’y annoncerai aussi les marchés, expos, et mises à jour de la [boutique en ligne](https://nolanfa.sumupstore.com/)
 
 ## Présence en ligne

@@ -1,6 +1,9 @@
 
 \
 \
+You can send me an email at **nolanfa. art (at) gmail. com**
+
+
 To get pictures of what I make sent directly to your inbox or RSS feed reader, subscribe to the [newsletter](https://forms.gle/sVFdmqG9m2JGmU4HA) or the [RSS feed](https://falano.github.io/feed/ceramics.xml); I'll also use it to announce fairs, exhibitions and updates to the [online shop](https://nolanfa.sumupstore.com/)
 
 ## Online places
