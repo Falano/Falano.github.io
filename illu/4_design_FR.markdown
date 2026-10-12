@@ -47,6 +47,11 @@ topnav: topnav_Portfolio_illu_FR
 ![retaite à points](/assets/art/2D/comics_cgt_points_hor.jpg)
 ![age de départ](/assets/art/2D/comics_cgt_depart_hor.jpg)
 
+## Badges
+
+![apai vue haut](/assets/art/2D/apai_03b.jpg)
+![apai logo](/assets/art/2D/apai_05.jpg)
+
 ## animal icons
 
 ![animal icons](https://cdna.artstation.com/p/assets/images/images/014/129/708/large/noemie-scherer-sdk-amx.jpg?1542632154)
